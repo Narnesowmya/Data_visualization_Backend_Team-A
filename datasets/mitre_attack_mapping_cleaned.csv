@@ -1,0 +1,873 @@
+mapped_event_type,mitre_id,technique_name,tactic
+File Access,T1005,Data from Local System,Collection
+File Access,T1025,Data from Removable Media,Collection
+File Access,T1039,Data from Network Shared Drive,Collection
+File Access,T1056,Input Capture,Collection
+File Access,T1056.001,Keylogging,Collection
+File Access,T1056.002,GUI Input Capture,Collection
+File Access,T1056.003,Web Portal Capture,Collection
+File Access,T1056.004,Credential API Hooking,Collection
+File Access,T1074,Data Staged,Collection
+File Access,T1074.001,Local Data Staging,Collection
+File Access,T1074.002,Remote Data Staging,Collection
+File Access,T1113,Screen Capture,Collection
+File Access,T1114,Email Collection,Collection
+File Access,T1114.001,Local Email Collection,Collection
+File Access,T1114.002,Remote Email Collection,Collection
+File Access,T1114.003,Email Forwarding Rule,Collection
+File Access,T1115,Clipboard Data,Collection
+File Access,T1119,Automated Collection,Collection
+File Access,T1123,Audio Capture,Collection
+File Access,T1125,Video Capture,Collection
+File Access,T1185,Browser Session Hijacking,Collection
+File Access,T1213,Data from Information Repositories,Collection
+File Access,T1213.001,Confluence,Collection
+File Access,T1213.002,Sharepoint,Collection
+File Access,T1213.003,Code Repositories,Collection
+File Access,T1213.004,Customer Relationship Management Software,Collection
+File Access,T1213.005,Messaging Applications,Collection
+File Access,T1213.006,Databases,Collection
+File Access,T1530,Data from Cloud Storage,Collection
+File Access,T1557,Adversary-in-the-Middle,Collection
+File Access,T1557.001,Name Resolution Poisoning and SMB Relay,Collection
+File Access,T1557.002,ARP Cache Poisoning,Collection
+File Access,T1557.003,DHCP Spoofing,Collection
+File Access,T1557.004,Evil Twin,Collection
+File Access,T1560,Archive Collected Data,Collection
+File Access,T1560.001,Archive via Utility,Collection
+File Access,T1560.002,Archive via Library,Collection
+File Access,T1560.003,Archive via Custom Method,Collection
+File Access,T1602,Data from Configuration Repository,Collection
+File Access,T1602.001,SNMP (MIB Dump),Collection
+File Access,T1602.002,Network Device Configuration Dump,Collection
+DNS Tunneling Detected,T1001,Data Obfuscation,Command And Control
+DNS Tunneling Detected,T1001.001,Junk Data,Command And Control
+DNS Tunneling Detected,T1001.002,Steganography,Command And Control
+DNS Tunneling Detected,T1001.003,Protocol or Service Impersonation,Command And Control
+DNS Tunneling Detected,T1008,Fallback Channels,Command And Control
+DNS Tunneling Detected,T1071,Application Layer Protocol,Command And Control
+DNS Tunneling Detected,T1071.001,Web Protocols,Command And Control
+DNS Tunneling Detected,T1071.002,File Transfer Protocols,Command And Control
+DNS Tunneling Detected,T1071.003,Mail Protocols,Command And Control
+DNS Tunneling Detected,T1071.004,DNS,Command And Control
+DNS Tunneling Detected,T1071.005,Publish/Subscribe Protocols,Command And Control
+DNS Tunneling Detected,T1090,Proxy,Command And Control
+DNS Tunneling Detected,T1090.001,Internal Proxy,Command And Control
+DNS Tunneling Detected,T1090.002,External Proxy,Command And Control
+DNS Tunneling Detected,T1090.003,Multi-hop Proxy,Command And Control
+DNS Tunneling Detected,T1090.004,Domain Fronting,Command And Control
+DNS Tunneling Detected,T1092,Communication Through Removable Media,Command And Control
+DNS Tunneling Detected,T1095,Non-Application Layer Protocol,Command And Control
+DNS Tunneling Detected,T1102,Web Service,Command And Control
+DNS Tunneling Detected,T1102.001,Dead Drop Resolver,Command And Control
+DNS Tunneling Detected,T1102.002,Bidirectional Communication,Command And Control
+DNS Tunneling Detected,T1102.003,One-Way Communication,Command And Control
+DNS Tunneling Detected,T1104,Multi-Stage Channels,Command And Control
+DNS Tunneling Detected,T1105,Ingress Tool Transfer,Command And Control
+DNS Tunneling Detected,T1132,Data Encoding,Command And Control
+DNS Tunneling Detected,T1132.001,Standard Encoding,Command And Control
+DNS Tunneling Detected,T1132.002,Non-Standard Encoding,Command And Control
+DNS Tunneling Detected,T1205,Traffic Signaling,Command And Control
+DNS Tunneling Detected,T1205.001,Port Knocking,Command And Control
+DNS Tunneling Detected,T1205.002,Socket Filters,Command And Control
+DNS Tunneling Detected,T1219,Remote Access Tools,Command And Control
+DNS Tunneling Detected,T1219.001,IDE Tunneling,Command And Control
+DNS Tunneling Detected,T1219.002,Remote Desktop Software,Command And Control
+DNS Tunneling Detected,T1219.003,Remote Access Hardware,Command And Control
+DNS Tunneling Detected,T1568,Dynamic Resolution,Command And Control
+DNS Tunneling Detected,T1568.001,Fast Flux DNS,Command And Control
+DNS Tunneling Detected,T1568.002,Domain Generation Algorithms,Command And Control
+DNS Tunneling Detected,T1568.003,DNS Calculation,Command And Control
+DNS Tunneling Detected,T1571,Non-Standard Port,Command And Control
+DNS Tunneling Detected,T1572,Protocol Tunneling,Command And Control
+DNS Tunneling Detected,T1573,Encrypted Channel,Command And Control
+DNS Tunneling Detected,T1573.001,Symmetric Cryptography,Command And Control
+DNS Tunneling Detected,T1573.002,Asymmetric Cryptography,Command And Control
+DNS Tunneling Detected,T1659,Content Injection,Command And Control
+DNS Tunneling Detected,T1665,Hide Infrastructure,Command And Control
+Brute Force,T1003,OS Credential Dumping,Credential Access
+Brute Force,T1003.001,LSASS Memory,Credential Access
+Brute Force,T1003.002,Security Account Manager,Credential Access
+Brute Force,T1003.003,NTDS,Credential Access
+Brute Force,T1003.004,LSA Secrets,Credential Access
+Brute Force,T1003.005,Cached Domain Credentials,Credential Access
+Brute Force,T1003.006,DCSync,Credential Access
+Brute Force,T1003.007,Proc Filesystem,Credential Access
+Brute Force,T1003.008,/etc/passwd and /etc/shadow,Credential Access
+Brute Force,T1040,Network Sniffing,Credential Access
+Brute Force,T1056,Input Capture,Credential Access
+Brute Force,T1056.001,Keylogging,Credential Access
+Brute Force,T1056.002,GUI Input Capture,Credential Access
+Brute Force,T1056.003,Web Portal Capture,Credential Access
+Brute Force,T1056.004,Credential API Hooking,Credential Access
+Brute Force,T1110,Brute Force,Credential Access
+Brute Force,T1110.001,Password Guessing,Credential Access
+Brute Force,T1110.002,Password Cracking,Credential Access
+Brute Force,T1110.003,Password Spraying,Credential Access
+Brute Force,T1110.004,Credential Stuffing,Credential Access
+Brute Force,T1111,Multi-Factor Authentication Interception,Credential Access
+Brute Force,T1187,Forced Authentication,Credential Access
+Brute Force,T1212,Exploitation for Credential Access,Credential Access
+Brute Force,T1528,Steal Application Access Token,Credential Access
+Brute Force,T1539,Steal Web Session Cookie,Credential Access
+Brute Force,T1552,Unsecured Credentials,Credential Access
+Brute Force,T1552.001,Credentials In Files,Credential Access
+Brute Force,T1552.002,Credentials in Registry,Credential Access
+Brute Force,T1552.003,Shell History,Credential Access
+Brute Force,T1552.004,Private Keys,Credential Access
+Brute Force,T1552.005,Cloud Instance Metadata API,Credential Access
+Brute Force,T1552.006,Group Policy Preferences,Credential Access
+Brute Force,T1552.007,Container API,Credential Access
+Brute Force,T1552.008,Chat Messages,Credential Access
+Brute Force,T1555,Credentials from Password Stores,Credential Access
+Brute Force,T1555.001,Keychain,Credential Access
+Brute Force,T1555.002,Securityd Memory,Credential Access
+Brute Force,T1555.003,Credentials from Web Browsers,Credential Access
+Brute Force,T1555.004,Windows Credential Manager,Credential Access
+Brute Force,T1555.005,Password Managers,Credential Access
+Brute Force,T1555.006,Cloud Secrets Management Stores,Credential Access
+Brute Force,T1556,Modify Authentication Process,Credential Access
+Brute Force,T1556.001,Domain Controller Authentication,Credential Access
+Brute Force,T1556.002,Password Filter DLL,Credential Access
+Brute Force,T1556.003,Pluggable Authentication Modules,Credential Access
+Brute Force,T1556.004,Network Device Authentication,Credential Access
+Brute Force,T1556.005,Reversible Encryption,Credential Access
+Brute Force,T1556.006,Multi-Factor Authentication,Credential Access
+Brute Force,T1556.007,Hybrid Identity,Credential Access
+Brute Force,T1556.008,Network Provider DLL,Credential Access
+Brute Force,T1556.009,Conditional Access Policies,Credential Access
+Brute Force,T1557,Adversary-in-the-Middle,Credential Access
+Brute Force,T1557.001,Name Resolution Poisoning and SMB Relay,Credential Access
+Brute Force,T1557.002,ARP Cache Poisoning,Credential Access
+Brute Force,T1557.003,DHCP Spoofing,Credential Access
+Brute Force,T1557.004,Evil Twin,Credential Access
+Brute Force,T1558,Steal or Forge Kerberos Tickets,Credential Access
+Brute Force,T1558.001,Golden Ticket,Credential Access
+Brute Force,T1558.002,Silver Ticket,Credential Access
+Brute Force,T1558.003,Kerberoasting,Credential Access
+Brute Force,T1558.004,AS-REP Roasting,Credential Access
+Brute Force,T1558.005,Ccache Files,Credential Access
+Brute Force,T1606,Forge Web Credentials,Credential Access
+Brute Force,T1606.001,Web Cookies,Credential Access
+Brute Force,T1606.002,SAML Tokens,Credential Access
+Brute Force,T1621,Multi-Factor Authentication Request Generation,Credential Access
+Brute Force,T1649,Steal or Forge Authentication Certificates,Credential Access
+Firewall Rule Change,T1112,Modify Registry,Defense Impairment
+Firewall Rule Change,T1207,Rogue Domain Controller,Defense Impairment
+Firewall Rule Change,T1222,File and Directory Permissions Modification,Defense Impairment
+Firewall Rule Change,T1222.001,Windows Permissions,Defense Impairment
+Firewall Rule Change,T1222.002,Linux and Mac Permissions,Defense Impairment
+Firewall Rule Change,T1484,Domain or Tenant Policy Modification,Defense Impairment
+Firewall Rule Change,T1484.001,Group Policy Modification,Defense Impairment
+Firewall Rule Change,T1484.002,Trust Modification,Defense Impairment
+Firewall Rule Change,T1553,Subvert Trust Controls,Defense Impairment
+Firewall Rule Change,T1553.001,Gatekeeper Bypass,Defense Impairment
+Firewall Rule Change,T1553.002,Code Signing,Defense Impairment
+Firewall Rule Change,T1553.003,SIP and Trust Provider Hijacking,Defense Impairment
+Firewall Rule Change,T1553.004,Install Root Certificate,Defense Impairment
+Firewall Rule Change,T1553.005,Mark-of-the-Web Bypass,Defense Impairment
+Firewall Rule Change,T1553.006,Code Signing Policy Modification,Defense Impairment
+Firewall Rule Change,T1556,Modify Authentication Process,Defense Impairment
+Firewall Rule Change,T1556.001,Domain Controller Authentication,Defense Impairment
+Firewall Rule Change,T1556.002,Password Filter DLL,Defense Impairment
+Firewall Rule Change,T1556.003,Pluggable Authentication Modules,Defense Impairment
+Firewall Rule Change,T1556.004,Network Device Authentication,Defense Impairment
+Firewall Rule Change,T1556.005,Reversible Encryption,Defense Impairment
+Firewall Rule Change,T1556.006,Multi-Factor Authentication,Defense Impairment
+Firewall Rule Change,T1556.007,Hybrid Identity,Defense Impairment
+Firewall Rule Change,T1556.008,Network Provider DLL,Defense Impairment
+Firewall Rule Change,T1556.009,Conditional Access Policies,Defense Impairment
+Firewall Rule Change,T1578,Modify Cloud Compute Infrastructure,Defense Impairment
+Firewall Rule Change,T1578.001,Create Snapshot,Defense Impairment
+Firewall Rule Change,T1578.002,Create Cloud Instance,Defense Impairment
+Firewall Rule Change,T1578.003,Delete Cloud Instance,Defense Impairment
+Firewall Rule Change,T1578.004,Revert Cloud Instance,Defense Impairment
+Firewall Rule Change,T1578.005,Modify Cloud Compute Configurations,Defense Impairment
+Firewall Rule Change,T1599,Network Boundary Bridging,Defense Impairment
+Firewall Rule Change,T1599.001,Network Address Translation Traversal,Defense Impairment
+Firewall Rule Change,T1600,Weaken Encryption,Defense Impairment
+Firewall Rule Change,T1600.001,Reduce Key Space,Defense Impairment
+Firewall Rule Change,T1600.002,Disable Crypto Hardware,Defense Impairment
+Firewall Rule Change,T1601,Modify System Image,Defense Impairment
+Firewall Rule Change,T1601.001,Patch System Image,Defense Impairment
+Firewall Rule Change,T1601.002,Downgrade System Image,Defense Impairment
+Firewall Rule Change,T1647,Plist File Modification,Defense Impairment
+Firewall Rule Change,T1666,Modify Cloud Resource Hierarchy,Defense Impairment
+Firewall Rule Change,T1685,Disable or Modify Tools,Defense Impairment
+Firewall Rule Change,T1685.001,Disable or Modify Windows Event Log,Defense Impairment
+Firewall Rule Change,T1685.002,Disable or Modify Cloud Log,Defense Impairment
+Firewall Rule Change,T1685.003,Modify or Spoof Tool UI,Defense Impairment
+Firewall Rule Change,T1685.004,Disable or Modify Linux Audit System Log,Defense Impairment
+Firewall Rule Change,T1685.005,Clear Windows Event Logs,Defense Impairment
+Firewall Rule Change,T1685.006,Clear Linux or Mac System Logs,Defense Impairment
+Firewall Rule Change,T1686,Disable or Modify System Firewall,Defense Impairment
+Firewall Rule Change,T1686.001,Cloud Firewall,Defense Impairment
+Firewall Rule Change,T1686.002,Network Device Firewall,Defense Impairment
+Firewall Rule Change,T1686.003,Windows Host Firewall,Defense Impairment
+Firewall Rule Change,T1687,Exploitation for Defense Impairment,Defense Impairment
+Firewall Rule Change,T1688,Safe Mode Boot,Defense Impairment
+Firewall Rule Change,T1689,Downgrade Attack,Defense Impairment
+Firewall Rule Change,T1690,Prevent Command History Logging,Defense Impairment
+Port Scan,T1007,System Service Discovery,Discovery
+Port Scan,T1010,Application Window Discovery,Discovery
+Port Scan,T1012,Query Registry,Discovery
+Port Scan,T1016,System Network Configuration Discovery,Discovery
+Port Scan,T1016.001,Internet Connection Discovery,Discovery
+Port Scan,T1016.002,Wi-Fi Discovery,Discovery
+Port Scan,T1018,Remote System Discovery,Discovery
+Port Scan,T1033,System Owner/User Discovery,Discovery
+Port Scan,T1040,Network Sniffing,Discovery
+Port Scan,T1046,Network Service Discovery,Discovery
+Port Scan,T1049,System Network Connections Discovery,Discovery
+Port Scan,T1057,Process Discovery,Discovery
+Port Scan,T1069,Permission Groups Discovery,Discovery
+Port Scan,T1069.001,Local Groups,Discovery
+Port Scan,T1069.002,Domain Groups,Discovery
+Port Scan,T1069.003,Cloud Groups,Discovery
+Port Scan,T1082,System Information Discovery,Discovery
+Port Scan,T1083,File and Directory Discovery,Discovery
+Port Scan,T1087,Account Discovery,Discovery
+Port Scan,T1087.001,Local Account,Discovery
+Port Scan,T1087.002,Domain Account,Discovery
+Port Scan,T1087.003,Email Account,Discovery
+Port Scan,T1087.004,Cloud Account,Discovery
+Port Scan,T1120,Peripheral Device Discovery,Discovery
+Port Scan,T1124,System Time Discovery,Discovery
+Port Scan,T1135,Network Share Discovery,Discovery
+Port Scan,T1201,Password Policy Discovery,Discovery
+Port Scan,T1217,Browser Information Discovery,Discovery
+Port Scan,T1482,Domain Trust Discovery,Discovery
+Port Scan,T1497,Virtualization/Sandbox Evasion,Discovery
+Port Scan,T1497.001,System Checks,Discovery
+Port Scan,T1497.002,User Activity Based Checks,Discovery
+Port Scan,T1497.003,Time Based Checks,Discovery
+Port Scan,T1518,Software Discovery,Discovery
+Port Scan,T1518.001,Security Software Discovery,Discovery
+Port Scan,T1518.002,Backup Software Discovery,Discovery
+Port Scan,T1526,Cloud Service Discovery,Discovery
+Port Scan,T1538,Cloud Service Dashboard,Discovery
+Port Scan,T1580,Cloud Infrastructure Discovery,Discovery
+Port Scan,T1613,Container and Resource Discovery,Discovery
+Port Scan,T1614,System Location Discovery,Discovery
+Port Scan,T1614.001,System Language Discovery,Discovery
+Port Scan,T1615,Group Policy Discovery,Discovery
+Port Scan,T1619,Cloud Storage Object Discovery,Discovery
+Port Scan,T1622,Debugger Evasion,Discovery
+Port Scan,T1652,Device Driver Discovery,Discovery
+Port Scan,T1654,Log Enumeration,Discovery
+Port Scan,T1673,Virtual Machine Discovery,Discovery
+Port Scan,T1680,Local Storage Discovery,Discovery
+Malware Detection,T1047,Windows Management Instrumentation,Execution
+Malware Detection,T1053,Scheduled Task/Job,Execution
+Malware Detection,T1053.002,At,Execution
+Malware Detection,T1053.003,Cron,Execution
+Malware Detection,T1053.005,Scheduled Task,Execution
+Malware Detection,T1053.006,Systemd Timers,Execution
+Malware Detection,T1053.007,Container Orchestration Job,Execution
+Malware Detection,T1059,Command and Scripting Interpreter,Execution
+Malware Detection,T1059.001,PowerShell,Execution
+Malware Detection,T1059.002,AppleScript,Execution
+Malware Detection,T1059.003,Windows Command Shell,Execution
+Malware Detection,T1059.004,Unix Shell,Execution
+Malware Detection,T1059.005,Visual Basic,Execution
+Malware Detection,T1059.006,Python,Execution
+Malware Detection,T1059.007,JavaScript,Execution
+Malware Detection,T1059.008,Network Device CLI,Execution
+Malware Detection,T1059.009,Cloud API,Execution
+Malware Detection,T1059.010,AutoHotKey & AutoIT,Execution
+Malware Detection,T1059.011,Lua,Execution
+Malware Detection,T1059.012,Hypervisor CLI,Execution
+Malware Detection,T1059.013,Container CLI/API,Execution
+Malware Detection,T1072,Software Deployment Tools,Execution
+Malware Detection,T1106,Native API,Execution
+Malware Detection,T1127,Trusted Developer Utilities Proxy Execution,Execution
+Malware Detection,T1127.001,MSBuild,Execution
+Malware Detection,T1127.002,ClickOnce,Execution
+Malware Detection,T1127.003,JamPlus,Execution
+Malware Detection,T1129,Shared Modules,Execution
+Malware Detection,T1197,BITS Jobs,Execution
+Malware Detection,T1203,Exploitation for Client Execution,Execution
+Malware Detection,T1204,User Execution,Execution
+Malware Detection,T1204.001,Malicious Link,Execution
+Malware Detection,T1204.002,Malicious File,Execution
+Malware Detection,T1204.003,Malicious Image,Execution
+Malware Detection,T1204.004,Malicious Copy and Paste,Execution
+Malware Detection,T1204.005,Malicious Library,Execution
+Malware Detection,T1559,Inter-Process Communication,Execution
+Malware Detection,T1559.001,Component Object Model,Execution
+Malware Detection,T1559.002,Dynamic Data Exchange,Execution
+Malware Detection,T1559.003,XPC Services,Execution
+Malware Detection,T1569,System Services,Execution
+Malware Detection,T1569.001,Launchctl,Execution
+Malware Detection,T1569.002,Service Execution,Execution
+Malware Detection,T1569.003,Systemctl,Execution
+Malware Detection,T1574,Hijack Execution Flow,Execution
+Malware Detection,T1574.001,DLL,Execution
+Malware Detection,T1574.004,Dylib Hijacking,Execution
+Malware Detection,T1574.005,Executable Installer File Permissions Weakness,Execution
+Malware Detection,T1574.006,Dynamic Linker Hijacking,Execution
+Malware Detection,T1574.007,Path Interception by PATH Environment Variable,Execution
+Malware Detection,T1574.008,Path Interception by Search Order Hijacking,Execution
+Malware Detection,T1574.009,Path Interception by Unquoted Path,Execution
+Malware Detection,T1574.010,Services File Permissions Weakness,Execution
+Malware Detection,T1574.011,Services Registry Permissions Weakness,Execution
+Malware Detection,T1574.012,COR_PROFILER,Execution
+Malware Detection,T1574.013,KernelCallbackTable,Execution
+Malware Detection,T1574.014,AppDomainManager,Execution
+Malware Detection,T1609,Container Administration Command,Execution
+Malware Detection,T1610,Deploy Container,Execution
+Malware Detection,T1648,Serverless Execution,Execution
+Malware Detection,T1651,Cloud Administration Command,Execution
+Malware Detection,T1674,Input Injection,Execution
+Malware Detection,T1675,ESXi Administration Command,Execution
+Malware Detection,T1677,Poisoned Pipeline Execution,Execution
+Data Exfiltration Attempt,T1011,Exfiltration Over Other Network Medium,Exfiltration
+Data Exfiltration Attempt,T1011.001,Exfiltration Over Bluetooth,Exfiltration
+Data Exfiltration Attempt,T1020,Automated Exfiltration,Exfiltration
+Data Exfiltration Attempt,T1020.001,Traffic Duplication,Exfiltration
+Data Exfiltration Attempt,T1029,Scheduled Transfer,Exfiltration
+Data Exfiltration Attempt,T1030,Data Transfer Size Limits,Exfiltration
+Data Exfiltration Attempt,T1041,Exfiltration Over C2 Channel,Exfiltration
+Data Exfiltration Attempt,T1048,Exfiltration Over Alternative Protocol,Exfiltration
+Data Exfiltration Attempt,T1048.001,Exfiltration Over Symmetric Encrypted Non-C2 Protocol,Exfiltration
+Data Exfiltration Attempt,T1048.002,Exfiltration Over Asymmetric Encrypted Non-C2 Protocol,Exfiltration
+Data Exfiltration Attempt,T1048.003,Exfiltration Over Unencrypted Non-C2 Protocol,Exfiltration
+Data Exfiltration Attempt,T1052,Exfiltration Over Physical Medium,Exfiltration
+Data Exfiltration Attempt,T1052.001,Exfiltration over USB,Exfiltration
+Data Exfiltration Attempt,T1537,Transfer Data to Cloud Account,Exfiltration
+Data Exfiltration Attempt,T1567,Exfiltration Over Web Service,Exfiltration
+Data Exfiltration Attempt,T1567.001,Exfiltration to Code Repository,Exfiltration
+Data Exfiltration Attempt,T1567.002,Exfiltration to Cloud Storage,Exfiltration
+Data Exfiltration Attempt,T1567.003,Exfiltration to Text Storage Sites,Exfiltration
+Data Exfiltration Attempt,T1567.004,Exfiltration Over Webhook,Exfiltration
+Ransomware Detected,T1485,Data Destruction,Impact
+Ransomware Detected,T1485.001,Lifecycle-Triggered Deletion,Impact
+Ransomware Detected,T1486,Data Encrypted for Impact,Impact
+Ransomware Detected,T1489,Service Stop,Impact
+Ransomware Detected,T1490,Inhibit System Recovery,Impact
+Ransomware Detected,T1491,Defacement,Impact
+Ransomware Detected,T1491.001,Internal Defacement,Impact
+Ransomware Detected,T1491.002,External Defacement,Impact
+Ransomware Detected,T1495,Firmware Corruption,Impact
+Ransomware Detected,T1496,Resource Hijacking,Impact
+Ransomware Detected,T1496.001,Compute Hijacking,Impact
+Ransomware Detected,T1496.002,Bandwidth Hijacking,Impact
+Ransomware Detected,T1496.003,SMS Pumping,Impact
+Ransomware Detected,T1496.004,Cloud Service Hijacking,Impact
+Ransomware Detected,T1498,Network Denial of Service,Impact
+Ransomware Detected,T1498.001,Direct Network Flood,Impact
+Ransomware Detected,T1498.002,Reflection Amplification,Impact
+Ransomware Detected,T1499,Endpoint Denial of Service,Impact
+Ransomware Detected,T1499.001,OS Exhaustion Flood,Impact
+Ransomware Detected,T1499.002,Service Exhaustion Flood,Impact
+Ransomware Detected,T1499.003,Application Exhaustion Flood,Impact
+Ransomware Detected,T1499.004,Application or System Exploitation,Impact
+Ransomware Detected,T1529,System Shutdown/Reboot,Impact
+Ransomware Detected,T1531,Account Access Removal,Impact
+Ransomware Detected,T1561,Disk Wipe,Impact
+Ransomware Detected,T1561.001,Disk Content Wipe,Impact
+Ransomware Detected,T1561.002,Disk Structure Wipe,Impact
+Ransomware Detected,T1565,Data Manipulation,Impact
+Ransomware Detected,T1565.001,Stored Data Manipulation,Impact
+Ransomware Detected,T1565.002,Transmitted Data Manipulation,Impact
+Ransomware Detected,T1565.003,Runtime Data Manipulation,Impact
+Ransomware Detected,T1657,Financial Theft,Impact
+Ransomware Detected,T1667,Email Bombing,Impact
+Phishing Email,T1078,Valid Accounts,Initial Access
+Phishing Email,T1078.001,Default Accounts,Initial Access
+Phishing Email,T1078.002,Domain Accounts,Initial Access
+Phishing Email,T1078.003,Local Accounts,Initial Access
+Phishing Email,T1078.004,Cloud Accounts,Initial Access
+Phishing Email,T1091,Replication Through Removable Media,Initial Access
+Phishing Email,T1133,External Remote Services,Initial Access
+Phishing Email,T1189,Drive-by Compromise,Initial Access
+Phishing Email,T1190,Exploit Public-Facing Application,Initial Access
+Phishing Email,T1195,Supply Chain Compromise,Initial Access
+Phishing Email,T1195.001,Compromise Software Dependencies and Development Tools,Initial Access
+Phishing Email,T1195.002,Compromise Software Supply Chain,Initial Access
+Phishing Email,T1195.003,Compromise Hardware Supply Chain,Initial Access
+Phishing Email,T1199,Trusted Relationship,Initial Access
+Phishing Email,T1200,Hardware Additions,Initial Access
+Phishing Email,T1566,Phishing,Initial Access
+Phishing Email,T1566.001,Spearphishing Attachment,Initial Access
+Phishing Email,T1566.002,Spearphishing Link,Initial Access
+Phishing Email,T1566.003,Spearphishing via Service,Initial Access
+Phishing Email,T1566.004,Spearphishing Voice,Initial Access
+Phishing Email,T1659,Content Injection,Initial Access
+Phishing Email,T1669,Wi-Fi Networks,Initial Access
+Lateral Movement Detected,T1021,Remote Services,Lateral Movement
+Lateral Movement Detected,T1021.001,Remote Desktop Protocol,Lateral Movement
+Lateral Movement Detected,T1021.002,SMB/Windows Admin Shares,Lateral Movement
+Lateral Movement Detected,T1021.003,Distributed Component Object Model,Lateral Movement
+Lateral Movement Detected,T1021.004,SSH,Lateral Movement
+Lateral Movement Detected,T1021.005,VNC,Lateral Movement
+Lateral Movement Detected,T1021.006,Windows Remote Management,Lateral Movement
+Lateral Movement Detected,T1021.007,Cloud Services,Lateral Movement
+Lateral Movement Detected,T1021.008,Direct Cloud VM Connections,Lateral Movement
+Lateral Movement Detected,T1072,Software Deployment Tools,Lateral Movement
+Lateral Movement Detected,T1080,Taint Shared Content,Lateral Movement
+Lateral Movement Detected,T1091,Replication Through Removable Media,Lateral Movement
+Lateral Movement Detected,T1210,Exploitation of Remote Services,Lateral Movement
+Lateral Movement Detected,T1534,Internal Spearphishing,Lateral Movement
+Lateral Movement Detected,T1550,Use Alternate Authentication Material,Lateral Movement
+Lateral Movement Detected,T1550.001,Application Access Token,Lateral Movement
+Lateral Movement Detected,T1550.002,Pass the Hash,Lateral Movement
+Lateral Movement Detected,T1550.003,Pass the Ticket,Lateral Movement
+Lateral Movement Detected,T1550.004,Web Session Cookie,Lateral Movement
+Lateral Movement Detected,T1563,Remote Service Session Hijacking,Lateral Movement
+Lateral Movement Detected,T1563.001,SSH Hijacking,Lateral Movement
+Lateral Movement Detected,T1563.002,RDP Hijacking,Lateral Movement
+Lateral Movement Detected,T1570,Lateral Tool Transfer,Lateral Movement
+Configuration Change,T1037,Boot or Logon Initialization Scripts,Persistence
+Configuration Change,T1037.001,Logon Script (Windows),Persistence
+Configuration Change,T1037.002,Login Hook,Persistence
+Configuration Change,T1037.003,Network Logon Script,Persistence
+Configuration Change,T1037.004,RC Scripts,Persistence
+Configuration Change,T1037.005,Startup Items,Persistence
+Configuration Change,T1053,Scheduled Task/Job,Persistence
+Configuration Change,T1053.002,At,Persistence
+Configuration Change,T1053.003,Cron,Persistence
+Configuration Change,T1053.005,Scheduled Task,Persistence
+Configuration Change,T1053.006,Systemd Timers,Persistence
+Configuration Change,T1053.007,Container Orchestration Job,Persistence
+Configuration Change,T1078,Valid Accounts,Persistence
+Configuration Change,T1078.001,Default Accounts,Persistence
+Configuration Change,T1078.002,Domain Accounts,Persistence
+Configuration Change,T1078.003,Local Accounts,Persistence
+Configuration Change,T1078.004,Cloud Accounts,Persistence
+Configuration Change,T1098,Account Manipulation,Persistence
+Configuration Change,T1098.001,Additional Cloud Credentials,Persistence
+Configuration Change,T1098.002,Additional Email Delegate Permissions,Persistence
+Configuration Change,T1098.003,Additional Cloud Roles,Persistence
+Configuration Change,T1098.004,SSH Authorized Keys,Persistence
+Configuration Change,T1098.005,Device Registration,Persistence
+Configuration Change,T1098.006,Additional Container Cluster Roles,Persistence
+Configuration Change,T1098.007,Additional Local or Domain Groups,Persistence
+Configuration Change,T1112,Modify Registry,Persistence
+Configuration Change,T1133,External Remote Services,Persistence
+Configuration Change,T1136,Create Account,Persistence
+Configuration Change,T1136.001,Local Account,Persistence
+Configuration Change,T1136.002,Domain Account,Persistence
+Configuration Change,T1136.003,Cloud Account,Persistence
+Configuration Change,T1137,Office Application Startup,Persistence
+Configuration Change,T1137.001,Office Template Macros,Persistence
+Configuration Change,T1137.002,Office Test,Persistence
+Configuration Change,T1137.003,Outlook Forms,Persistence
+Configuration Change,T1137.004,Outlook Home Page,Persistence
+Configuration Change,T1137.005,Outlook Rules,Persistence
+Configuration Change,T1137.006,Add-ins,Persistence
+Configuration Change,T1176,Software Extensions,Persistence
+Configuration Change,T1176.001,Browser Extensions,Persistence
+Configuration Change,T1176.002,IDE Extensions,Persistence
+Configuration Change,T1197,BITS Jobs,Persistence
+Configuration Change,T1205,Traffic Signaling,Persistence
+Configuration Change,T1205.001,Port Knocking,Persistence
+Configuration Change,T1205.002,Socket Filters,Persistence
+Configuration Change,T1505,Server Software Component,Persistence
+Configuration Change,T1505.001,SQL Stored Procedures,Persistence
+Configuration Change,T1505.002,Transport Agent,Persistence
+Configuration Change,T1505.003,Web Shell,Persistence
+Configuration Change,T1505.004,IIS Components,Persistence
+Configuration Change,T1505.005,Terminal Services DLL,Persistence
+Configuration Change,T1505.006,vSphere Installation Bundles,Persistence
+Configuration Change,T1525,Implant Internal Image,Persistence
+Configuration Change,T1542,Pre-OS Boot,Persistence
+Configuration Change,T1542.001,System Firmware,Persistence
+Configuration Change,T1542.002,Component Firmware,Persistence
+Configuration Change,T1542.003,Bootkit,Persistence
+Configuration Change,T1542.004,ROMMONkit,Persistence
+Configuration Change,T1542.005,TFTP Boot,Persistence
+Configuration Change,T1543,Create or Modify System Process,Persistence
+Configuration Change,T1543.001,Launch Agent,Persistence
+Configuration Change,T1543.002,Systemd Service,Persistence
+Configuration Change,T1543.003,Windows Service,Persistence
+Configuration Change,T1543.004,Launch Daemon,Persistence
+Configuration Change,T1543.005,Container Service,Persistence
+Configuration Change,T1546,Event Triggered Execution,Persistence
+Configuration Change,T1546.001,Change Default File Association,Persistence
+Configuration Change,T1546.002,Screensaver,Persistence
+Configuration Change,T1546.003,Windows Management Instrumentation Event Subscription,Persistence
+Configuration Change,T1546.004,Unix Shell Configuration Modification,Persistence
+Configuration Change,T1546.005,Trap,Persistence
+Configuration Change,T1546.006,LC_LOAD_DYLIB Addition,Persistence
+Configuration Change,T1546.007,Netsh Helper DLL,Persistence
+Configuration Change,T1546.008,Accessibility Features,Persistence
+Configuration Change,T1546.009,AppCert DLLs,Persistence
+Configuration Change,T1546.010,AppInit DLLs,Persistence
+Configuration Change,T1546.011,Application Shimming,Persistence
+Configuration Change,T1546.012,Image File Execution Options Injection,Persistence
+Configuration Change,T1546.013,PowerShell Profile,Persistence
+Configuration Change,T1546.014,Emond,Persistence
+Configuration Change,T1546.015,Component Object Model Hijacking,Persistence
+Configuration Change,T1546.016,Installer Packages,Persistence
+Configuration Change,T1546.017,Udev Rules,Persistence
+Configuration Change,T1546.018,Python Startup Hooks,Persistence
+Configuration Change,T1547,Boot or Logon Autostart Execution,Persistence
+Configuration Change,T1547.001,Registry Run Keys / Startup Folder,Persistence
+Configuration Change,T1547.002,Authentication Package,Persistence
+Configuration Change,T1547.003,Time Providers,Persistence
+Configuration Change,T1547.004,Winlogon Helper DLL,Persistence
+Configuration Change,T1547.005,Security Support Provider,Persistence
+Configuration Change,T1547.006,Kernel Modules and Extensions,Persistence
+Configuration Change,T1547.007,Re-opened Applications,Persistence
+Configuration Change,T1547.008,LSASS Driver,Persistence
+Configuration Change,T1547.009,Shortcut Modification,Persistence
+Configuration Change,T1547.010,Port Monitors,Persistence
+Configuration Change,T1547.012,Print Processors,Persistence
+Configuration Change,T1547.013,XDG Autostart Entries,Persistence
+Configuration Change,T1547.014,Active Setup,Persistence
+Configuration Change,T1547.015,Login Items,Persistence
+Configuration Change,T1554,Compromise Host Software Binary,Persistence
+Configuration Change,T1556,Modify Authentication Process,Persistence
+Configuration Change,T1556.001,Domain Controller Authentication,Persistence
+Configuration Change,T1556.002,Password Filter DLL,Persistence
+Configuration Change,T1556.003,Pluggable Authentication Modules,Persistence
+Configuration Change,T1556.004,Network Device Authentication,Persistence
+Configuration Change,T1556.005,Reversible Encryption,Persistence
+Configuration Change,T1556.006,Multi-Factor Authentication,Persistence
+Configuration Change,T1556.007,Hybrid Identity,Persistence
+Configuration Change,T1556.008,Network Provider DLL,Persistence
+Configuration Change,T1556.009,Conditional Access Policies,Persistence
+Configuration Change,T1653,Power Settings,Persistence
+Configuration Change,T1668,Exclusive Control,Persistence
+Configuration Change,T1671,Cloud Application Integration,Persistence
+Privilege Escalation,T1037,Boot or Logon Initialization Scripts,Privilege Escalation
+Privilege Escalation,T1037.001,Logon Script (Windows),Privilege Escalation
+Privilege Escalation,T1037.002,Login Hook,Privilege Escalation
+Privilege Escalation,T1037.003,Network Logon Script,Privilege Escalation
+Privilege Escalation,T1037.004,RC Scripts,Privilege Escalation
+Privilege Escalation,T1037.005,Startup Items,Privilege Escalation
+Privilege Escalation,T1053,Scheduled Task/Job,Privilege Escalation
+Privilege Escalation,T1053.002,At,Privilege Escalation
+Privilege Escalation,T1053.003,Cron,Privilege Escalation
+Privilege Escalation,T1053.005,Scheduled Task,Privilege Escalation
+Privilege Escalation,T1053.006,Systemd Timers,Privilege Escalation
+Privilege Escalation,T1053.007,Container Orchestration Job,Privilege Escalation
+Privilege Escalation,T1055,Process Injection,Privilege Escalation
+Privilege Escalation,T1055.001,Dynamic-link Library Injection,Privilege Escalation
+Privilege Escalation,T1055.002,Portable Executable Injection,Privilege Escalation
+Privilege Escalation,T1055.003,Thread Execution Hijacking,Privilege Escalation
+Privilege Escalation,T1055.004,Asynchronous Procedure Call,Privilege Escalation
+Privilege Escalation,T1055.005,Thread Local Storage,Privilege Escalation
+Privilege Escalation,T1055.008,Ptrace System Calls,Privilege Escalation
+Privilege Escalation,T1055.009,Proc Memory,Privilege Escalation
+Privilege Escalation,T1055.011,Extra Window Memory Injection,Privilege Escalation
+Privilege Escalation,T1055.012,Process Hollowing,Privilege Escalation
+Privilege Escalation,T1055.013,Process Doppelgänging,Privilege Escalation
+Privilege Escalation,T1055.014,VDSO Hijacking,Privilege Escalation
+Privilege Escalation,T1055.015,ListPlanting,Privilege Escalation
+Privilege Escalation,T1068,Exploitation for Privilege Escalation,Privilege Escalation
+Privilege Escalation,T1078,Valid Accounts,Privilege Escalation
+Privilege Escalation,T1078.001,Default Accounts,Privilege Escalation
+Privilege Escalation,T1078.002,Domain Accounts,Privilege Escalation
+Privilege Escalation,T1078.003,Local Accounts,Privilege Escalation
+Privilege Escalation,T1078.004,Cloud Accounts,Privilege Escalation
+Privilege Escalation,T1098,Account Manipulation,Privilege Escalation
+Privilege Escalation,T1098.001,Additional Cloud Credentials,Privilege Escalation
+Privilege Escalation,T1098.002,Additional Email Delegate Permissions,Privilege Escalation
+Privilege Escalation,T1098.003,Additional Cloud Roles,Privilege Escalation
+Privilege Escalation,T1098.004,SSH Authorized Keys,Privilege Escalation
+Privilege Escalation,T1098.005,Device Registration,Privilege Escalation
+Privilege Escalation,T1098.006,Additional Container Cluster Roles,Privilege Escalation
+Privilege Escalation,T1098.007,Additional Local or Domain Groups,Privilege Escalation
+Privilege Escalation,T1134,Access Token Manipulation,Privilege Escalation
+Privilege Escalation,T1134.001,Token Impersonation/Theft,Privilege Escalation
+Privilege Escalation,T1134.002,Create Process with Token,Privilege Escalation
+Privilege Escalation,T1134.003,Make and Impersonate Token,Privilege Escalation
+Privilege Escalation,T1134.004,Parent PID Spoofing,Privilege Escalation
+Privilege Escalation,T1134.005,SID-History Injection,Privilege Escalation
+Privilege Escalation,T1484,Domain or Tenant Policy Modification,Privilege Escalation
+Privilege Escalation,T1484.001,Group Policy Modification,Privilege Escalation
+Privilege Escalation,T1484.002,Trust Modification,Privilege Escalation
+Privilege Escalation,T1543,Create or Modify System Process,Privilege Escalation
+Privilege Escalation,T1543.001,Launch Agent,Privilege Escalation
+Privilege Escalation,T1543.002,Systemd Service,Privilege Escalation
+Privilege Escalation,T1543.003,Windows Service,Privilege Escalation
+Privilege Escalation,T1543.004,Launch Daemon,Privilege Escalation
+Privilege Escalation,T1543.005,Container Service,Privilege Escalation
+Privilege Escalation,T1546,Event Triggered Execution,Privilege Escalation
+Privilege Escalation,T1546.001,Change Default File Association,Privilege Escalation
+Privilege Escalation,T1546.002,Screensaver,Privilege Escalation
+Privilege Escalation,T1546.003,Windows Management Instrumentation Event Subscription,Privilege Escalation
+Privilege Escalation,T1546.004,Unix Shell Configuration Modification,Privilege Escalation
+Privilege Escalation,T1546.005,Trap,Privilege Escalation
+Privilege Escalation,T1546.006,LC_LOAD_DYLIB Addition,Privilege Escalation
+Privilege Escalation,T1546.007,Netsh Helper DLL,Privilege Escalation
+Privilege Escalation,T1546.008,Accessibility Features,Privilege Escalation
+Privilege Escalation,T1546.009,AppCert DLLs,Privilege Escalation
+Privilege Escalation,T1546.010,AppInit DLLs,Privilege Escalation
+Privilege Escalation,T1546.011,Application Shimming,Privilege Escalation
+Privilege Escalation,T1546.012,Image File Execution Options Injection,Privilege Escalation
+Privilege Escalation,T1546.013,PowerShell Profile,Privilege Escalation
+Privilege Escalation,T1546.014,Emond,Privilege Escalation
+Privilege Escalation,T1546.015,Component Object Model Hijacking,Privilege Escalation
+Privilege Escalation,T1546.016,Installer Packages,Privilege Escalation
+Privilege Escalation,T1546.017,Udev Rules,Privilege Escalation
+Privilege Escalation,T1546.018,Python Startup Hooks,Privilege Escalation
+Privilege Escalation,T1547,Boot or Logon Autostart Execution,Privilege Escalation
+Privilege Escalation,T1547.001,Registry Run Keys / Startup Folder,Privilege Escalation
+Privilege Escalation,T1547.002,Authentication Package,Privilege Escalation
+Privilege Escalation,T1547.003,Time Providers,Privilege Escalation
+Privilege Escalation,T1547.004,Winlogon Helper DLL,Privilege Escalation
+Privilege Escalation,T1547.005,Security Support Provider,Privilege Escalation
+Privilege Escalation,T1547.006,Kernel Modules and Extensions,Privilege Escalation
+Privilege Escalation,T1547.007,Re-opened Applications,Privilege Escalation
+Privilege Escalation,T1547.008,LSASS Driver,Privilege Escalation
+Privilege Escalation,T1547.009,Shortcut Modification,Privilege Escalation
+Privilege Escalation,T1547.010,Port Monitors,Privilege Escalation
+Privilege Escalation,T1547.012,Print Processors,Privilege Escalation
+Privilege Escalation,T1547.013,XDG Autostart Entries,Privilege Escalation
+Privilege Escalation,T1547.014,Active Setup,Privilege Escalation
+Privilege Escalation,T1547.015,Login Items,Privilege Escalation
+Privilege Escalation,T1548,Abuse Elevation Control Mechanism,Privilege Escalation
+Privilege Escalation,T1548.001,Setuid and Setgid,Privilege Escalation
+Privilege Escalation,T1548.002,Bypass User Account Control,Privilege Escalation
+Privilege Escalation,T1548.003,Sudo and Sudo Caching,Privilege Escalation
+Privilege Escalation,T1548.004,Elevated Execution with Prompt,Privilege Escalation
+Privilege Escalation,T1548.005,Temporary Elevated Cloud Access,Privilege Escalation
+Privilege Escalation,T1548.006,TCC Manipulation,Privilege Escalation
+Privilege Escalation,T1611,Escape to Host,Privilege Escalation
+Port Scan,T1589,Gather Victim Identity Information,Reconnaissance
+Port Scan,T1589.001,Credentials,Reconnaissance
+Port Scan,T1589.002,Email Addresses,Reconnaissance
+Port Scan,T1589.003,Employee Names,Reconnaissance
+Port Scan,T1590,Gather Victim Network Information,Reconnaissance
+Port Scan,T1590.001,Domain Properties,Reconnaissance
+Port Scan,T1590.002,DNS,Reconnaissance
+Port Scan,T1590.003,Network Trust Dependencies,Reconnaissance
+Port Scan,T1590.004,Network Topology,Reconnaissance
+Port Scan,T1590.005,IP Addresses,Reconnaissance
+Port Scan,T1590.006,Network Security Appliances,Reconnaissance
+Port Scan,T1591,Gather Victim Org Information,Reconnaissance
+Port Scan,T1591.001,Determine Physical Locations,Reconnaissance
+Port Scan,T1591.002,Business Relationships,Reconnaissance
+Port Scan,T1591.003,Identify Business Tempo,Reconnaissance
+Port Scan,T1591.004,Identify Roles,Reconnaissance
+Port Scan,T1592,Gather Victim Host Information,Reconnaissance
+Port Scan,T1592.001,Hardware,Reconnaissance
+Port Scan,T1592.002,Software,Reconnaissance
+Port Scan,T1592.003,Firmware,Reconnaissance
+Port Scan,T1592.004,Client Configurations,Reconnaissance
+Port Scan,T1593,Search Open Websites/Domains,Reconnaissance
+Port Scan,T1593.001,Social Media,Reconnaissance
+Port Scan,T1593.002,Search Engines,Reconnaissance
+Port Scan,T1593.003,Code Repositories,Reconnaissance
+Port Scan,T1594,Search Victim-Owned Websites,Reconnaissance
+Port Scan,T1595,Active Scanning,Reconnaissance
+Port Scan,T1595.001,Scanning IP Blocks,Reconnaissance
+Port Scan,T1595.002,Vulnerability Scanning,Reconnaissance
+Port Scan,T1595.003,Wordlist Scanning,Reconnaissance
+Port Scan,T1596,Search Open Technical Databases,Reconnaissance
+Port Scan,T1596.001,DNS/Passive DNS,Reconnaissance
+Port Scan,T1596.002,WHOIS,Reconnaissance
+Port Scan,T1596.003,Digital Certificates,Reconnaissance
+Port Scan,T1596.004,CDNs,Reconnaissance
+Port Scan,T1596.005,Scan Databases,Reconnaissance
+Port Scan,T1597,Search Closed Sources,Reconnaissance
+Port Scan,T1597.001,Threat Intel Vendors,Reconnaissance
+Port Scan,T1597.002,Purchase Technical Data,Reconnaissance
+Port Scan,T1598,Phishing for Information,Reconnaissance
+Port Scan,T1598.001,Spearphishing Service,Reconnaissance
+Port Scan,T1598.002,Spearphishing Attachment,Reconnaissance
+Port Scan,T1598.003,Spearphishing Link,Reconnaissance
+Port Scan,T1598.004,Spearphishing Voice,Reconnaissance
+Port Scan,T1681,Search Threat Vendor Data,Reconnaissance
+Port Scan,T1682,Query Public AI Services,Reconnaissance
+External / Not Directly Observed,T1583,Acquire Infrastructure,Resource Development
+External / Not Directly Observed,T1583.001,Domains,Resource Development
+External / Not Directly Observed,T1583.002,DNS Server,Resource Development
+External / Not Directly Observed,T1583.003,Virtual Private Server,Resource Development
+External / Not Directly Observed,T1583.004,Server,Resource Development
+External / Not Directly Observed,T1583.005,Botnet,Resource Development
+External / Not Directly Observed,T1583.006,Web Services,Resource Development
+External / Not Directly Observed,T1583.007,Serverless,Resource Development
+External / Not Directly Observed,T1583.008,Malvertising,Resource Development
+External / Not Directly Observed,T1584,Compromise Infrastructure,Resource Development
+External / Not Directly Observed,T1584.001,Domains,Resource Development
+External / Not Directly Observed,T1584.002,DNS Server,Resource Development
+External / Not Directly Observed,T1584.003,Virtual Private Server,Resource Development
+External / Not Directly Observed,T1584.004,Server,Resource Development
+External / Not Directly Observed,T1584.005,Botnet,Resource Development
+External / Not Directly Observed,T1584.006,Web Services,Resource Development
+External / Not Directly Observed,T1584.007,Serverless,Resource Development
+External / Not Directly Observed,T1584.008,Network Devices,Resource Development
+External / Not Directly Observed,T1585,Establish Accounts,Resource Development
+External / Not Directly Observed,T1585.001,Social Media Accounts,Resource Development
+External / Not Directly Observed,T1585.002,Email Accounts,Resource Development
+External / Not Directly Observed,T1585.003,Cloud Accounts,Resource Development
+External / Not Directly Observed,T1586,Compromise Accounts,Resource Development
+External / Not Directly Observed,T1586.001,Social Media Accounts,Resource Development
+External / Not Directly Observed,T1586.002,Email Accounts,Resource Development
+External / Not Directly Observed,T1586.003,Cloud Accounts,Resource Development
+External / Not Directly Observed,T1587,Develop Capabilities,Resource Development
+External / Not Directly Observed,T1587.001,Malware,Resource Development
+External / Not Directly Observed,T1587.002,Code Signing Certificates,Resource Development
+External / Not Directly Observed,T1587.003,Digital Certificates,Resource Development
+External / Not Directly Observed,T1587.004,Exploits,Resource Development
+External / Not Directly Observed,T1588,Obtain Capabilities,Resource Development
+External / Not Directly Observed,T1588.001,Malware,Resource Development
+External / Not Directly Observed,T1588.002,Tool,Resource Development
+External / Not Directly Observed,T1588.003,Code Signing Certificates,Resource Development
+External / Not Directly Observed,T1588.004,Digital Certificates,Resource Development
+External / Not Directly Observed,T1588.005,Exploits,Resource Development
+External / Not Directly Observed,T1588.006,Vulnerabilities,Resource Development
+External / Not Directly Observed,T1588.007,Artificial Intelligence,Resource Development
+External / Not Directly Observed,T1608,Stage Capabilities,Resource Development
+External / Not Directly Observed,T1608.001,Upload Malware,Resource Development
+External / Not Directly Observed,T1608.002,Upload Tool,Resource Development
+External / Not Directly Observed,T1608.003,Install Digital Certificate,Resource Development
+External / Not Directly Observed,T1608.004,Drive-by Target,Resource Development
+External / Not Directly Observed,T1608.005,Link Target,Resource Development
+External / Not Directly Observed,T1608.006,SEO Poisoning,Resource Development
+External / Not Directly Observed,T1650,Acquire Access,Resource Development
+External / Not Directly Observed,T1683,Generate Content,Resource Development
+External / Not Directly Observed,T1683.001,Written Content,Resource Development
+External / Not Directly Observed,T1683.002,Audio-Visual Content,Resource Development
+Suspicious Process Execution,T1006,Direct Volume Access,Stealth
+Suspicious Process Execution,T1014,Rootkit,Stealth
+Suspicious Process Execution,T1027,Obfuscated Files or Information,Stealth
+Suspicious Process Execution,T1027.001,Binary Padding,Stealth
+Suspicious Process Execution,T1027.002,Software Packing,Stealth
+Suspicious Process Execution,T1027.003,Steganography,Stealth
+Suspicious Process Execution,T1027.004,Compile After Delivery,Stealth
+Suspicious Process Execution,T1027.005,Indicator Removal from Tools,Stealth
+Suspicious Process Execution,T1027.006,HTML Smuggling,Stealth
+Suspicious Process Execution,T1027.007,Dynamic API Resolution,Stealth
+Suspicious Process Execution,T1027.008,Stripped Payloads,Stealth
+Suspicious Process Execution,T1027.009,Embedded Payloads,Stealth
+Suspicious Process Execution,T1027.010,Command Obfuscation,Stealth
+Suspicious Process Execution,T1027.011,Fileless Storage,Stealth
+Suspicious Process Execution,T1027.012,LNK Icon Smuggling,Stealth
+Suspicious Process Execution,T1027.013,Encrypted/Encoded File,Stealth
+Suspicious Process Execution,T1027.014,Polymorphic Code,Stealth
+Suspicious Process Execution,T1027.015,Compression,Stealth
+Suspicious Process Execution,T1027.016,Junk Code Insertion,Stealth
+Suspicious Process Execution,T1027.017,SVG Smuggling,Stealth
+Suspicious Process Execution,T1027.018,Invisible Unicode,Stealth
+Suspicious Process Execution,T1036,Masquerading,Stealth
+Suspicious Process Execution,T1036.001,Invalid Code Signature,Stealth
+Suspicious Process Execution,T1036.002,Right-to-Left Override,Stealth
+Suspicious Process Execution,T1036.003,Rename Legitimate Utilities,Stealth
+Suspicious Process Execution,T1036.004,Masquerade Task or Service,Stealth
+Suspicious Process Execution,T1036.005,Match Legitimate Resource Name or Location,Stealth
+Suspicious Process Execution,T1036.006,Space after Filename,Stealth
+Suspicious Process Execution,T1036.007,Double File Extension,Stealth
+Suspicious Process Execution,T1036.008,Masquerade File Type,Stealth
+Suspicious Process Execution,T1036.009,Break Process Trees,Stealth
+Suspicious Process Execution,T1036.010,Masquerade Account Name,Stealth
+Suspicious Process Execution,T1036.011,Overwrite Process Arguments,Stealth
+Suspicious Process Execution,T1036.012,Browser Fingerprint,Stealth
+Suspicious Process Execution,T1055,Process Injection,Stealth
+Suspicious Process Execution,T1055.001,Dynamic-link Library Injection,Stealth
+Suspicious Process Execution,T1055.002,Portable Executable Injection,Stealth
+Suspicious Process Execution,T1055.003,Thread Execution Hijacking,Stealth
+Suspicious Process Execution,T1055.004,Asynchronous Procedure Call,Stealth
+Suspicious Process Execution,T1055.005,Thread Local Storage,Stealth
+Suspicious Process Execution,T1055.008,Ptrace System Calls,Stealth
+Suspicious Process Execution,T1055.009,Proc Memory,Stealth
+Suspicious Process Execution,T1055.011,Extra Window Memory Injection,Stealth
+Suspicious Process Execution,T1055.012,Process Hollowing,Stealth
+Suspicious Process Execution,T1055.013,Process Doppelgänging,Stealth
+Suspicious Process Execution,T1055.014,VDSO Hijacking,Stealth
+Suspicious Process Execution,T1055.015,ListPlanting,Stealth
+Suspicious Process Execution,T1070,Indicator Removal,Stealth
+Suspicious Process Execution,T1070.003,Clear Command History,Stealth
+Suspicious Process Execution,T1070.004,File Deletion,Stealth
+Suspicious Process Execution,T1070.005,Network Share Connection Removal,Stealth
+Suspicious Process Execution,T1070.006,Timestomp,Stealth
+Suspicious Process Execution,T1070.007,Clear Network Connection History and Configurations,Stealth
+Suspicious Process Execution,T1070.008,Clear Mailbox Data,Stealth
+Suspicious Process Execution,T1070.009,Clear Persistence,Stealth
+Suspicious Process Execution,T1070.010,Relocate Malware,Stealth
+Suspicious Process Execution,T1078,Valid Accounts,Stealth
+Suspicious Process Execution,T1078.001,Default Accounts,Stealth
+Suspicious Process Execution,T1078.002,Domain Accounts,Stealth
+Suspicious Process Execution,T1078.003,Local Accounts,Stealth
+Suspicious Process Execution,T1078.004,Cloud Accounts,Stealth
+Suspicious Process Execution,T1127,Trusted Developer Utilities Proxy Execution,Stealth
+Suspicious Process Execution,T1127.001,MSBuild,Stealth
+Suspicious Process Execution,T1127.002,ClickOnce,Stealth
+Suspicious Process Execution,T1127.003,JamPlus,Stealth
+Suspicious Process Execution,T1134,Access Token Manipulation,Stealth
+Suspicious Process Execution,T1134.001,Token Impersonation/Theft,Stealth
+Suspicious Process Execution,T1134.002,Create Process with Token,Stealth
+Suspicious Process Execution,T1134.003,Make and Impersonate Token,Stealth
+Suspicious Process Execution,T1134.004,Parent PID Spoofing,Stealth
+Suspicious Process Execution,T1134.005,SID-History Injection,Stealth
+Suspicious Process Execution,T1140,Deobfuscate/Decode Files or Information,Stealth
+Suspicious Process Execution,T1197,BITS Jobs,Stealth
+Suspicious Process Execution,T1202,Indirect Command Execution,Stealth
+Suspicious Process Execution,T1205,Traffic Signaling,Stealth
+Suspicious Process Execution,T1205.001,Port Knocking,Stealth
+Suspicious Process Execution,T1205.002,Socket Filters,Stealth
+Suspicious Process Execution,T1211,Exploitation for Stealth,Stealth
+Suspicious Process Execution,T1216,System Script Proxy Execution,Stealth
+Suspicious Process Execution,T1216.001,PubPrn,Stealth
+Suspicious Process Execution,T1216.002,SyncAppvPublishingServer,Stealth
+Suspicious Process Execution,T1218,System Binary Proxy Execution,Stealth
+Suspicious Process Execution,T1218.001,Compiled HTML File,Stealth
+Suspicious Process Execution,T1218.002,Control Panel,Stealth
+Suspicious Process Execution,T1218.003,CMSTP,Stealth
+Suspicious Process Execution,T1218.004,InstallUtil,Stealth
+Suspicious Process Execution,T1218.005,Mshta,Stealth
+Suspicious Process Execution,T1218.007,Msiexec,Stealth
+Suspicious Process Execution,T1218.008,Odbcconf,Stealth
+Suspicious Process Execution,T1218.009,Regsvcs/Regasm,Stealth
+Suspicious Process Execution,T1218.010,Regsvr32,Stealth
+Suspicious Process Execution,T1218.011,Rundll32,Stealth
+Suspicious Process Execution,T1218.012,Verclsid,Stealth
+Suspicious Process Execution,T1218.013,Mavinject,Stealth
+Suspicious Process Execution,T1218.014,MMC,Stealth
+Suspicious Process Execution,T1218.015,Electron Applications,Stealth
+Suspicious Process Execution,T1220,XSL Script Processing,Stealth
+Suspicious Process Execution,T1221,Template Injection,Stealth
+Suspicious Process Execution,T1480,Execution Guardrails,Stealth
+Suspicious Process Execution,T1480.001,Environmental Keying,Stealth
+Suspicious Process Execution,T1480.002,Mutual Exclusion,Stealth
+Suspicious Process Execution,T1497,Virtualization/Sandbox Evasion,Stealth
+Suspicious Process Execution,T1497.001,System Checks,Stealth
+Suspicious Process Execution,T1497.002,User Activity Based Checks,Stealth
+Suspicious Process Execution,T1497.003,Time Based Checks,Stealth
+Suspicious Process Execution,T1535,Unused/Unsupported Cloud Regions,Stealth
+Suspicious Process Execution,T1542,Pre-OS Boot,Stealth
+Suspicious Process Execution,T1542.001,System Firmware,Stealth
+Suspicious Process Execution,T1542.002,Component Firmware,Stealth
+Suspicious Process Execution,T1542.003,Bootkit,Stealth
+Suspicious Process Execution,T1542.004,ROMMONkit,Stealth
+Suspicious Process Execution,T1542.005,TFTP Boot,Stealth
+Suspicious Process Execution,T1564,Hide Artifacts,Stealth
+Suspicious Process Execution,T1564.001,Hidden Files and Directories,Stealth
+Suspicious Process Execution,T1564.002,Hidden Users,Stealth
+Suspicious Process Execution,T1564.003,Hidden Window,Stealth
+Suspicious Process Execution,T1564.004,NTFS File Attributes,Stealth
+Suspicious Process Execution,T1564.005,Hidden File System,Stealth
+Suspicious Process Execution,T1564.006,Run Virtual Instance,Stealth
+Suspicious Process Execution,T1564.007,VBA Stomping,Stealth
+Suspicious Process Execution,T1564.008,Email Hiding Rules,Stealth
+Suspicious Process Execution,T1564.009,Resource Forking,Stealth
+Suspicious Process Execution,T1564.010,Process Argument Spoofing,Stealth
+Suspicious Process Execution,T1564.011,Ignore Process Interrupts,Stealth
+Suspicious Process Execution,T1564.012,File/Path Exclusions,Stealth
+Suspicious Process Execution,T1564.013,Bind Mounts,Stealth
+Suspicious Process Execution,T1564.014,Extended Attributes,Stealth
+Suspicious Process Execution,T1574,Hijack Execution Flow,Stealth
+Suspicious Process Execution,T1574.001,DLL,Stealth
+Suspicious Process Execution,T1574.004,Dylib Hijacking,Stealth
+Suspicious Process Execution,T1574.005,Executable Installer File Permissions Weakness,Stealth
+Suspicious Process Execution,T1574.006,Dynamic Linker Hijacking,Stealth
+Suspicious Process Execution,T1574.007,Path Interception by PATH Environment Variable,Stealth
+Suspicious Process Execution,T1574.008,Path Interception by Search Order Hijacking,Stealth
+Suspicious Process Execution,T1574.009,Path Interception by Unquoted Path,Stealth
+Suspicious Process Execution,T1574.010,Services File Permissions Weakness,Stealth
+Suspicious Process Execution,T1574.011,Services Registry Permissions Weakness,Stealth
+Suspicious Process Execution,T1574.012,COR_PROFILER,Stealth
+Suspicious Process Execution,T1574.013,KernelCallbackTable,Stealth
+Suspicious Process Execution,T1574.014,AppDomainManager,Stealth
+Suspicious Process Execution,T1612,Build Image on Host,Stealth
+Suspicious Process Execution,T1620,Reflective Code Loading,Stealth
+Suspicious Process Execution,T1622,Debugger Evasion,Stealth
+Suspicious Process Execution,T1678,Delay Execution,Stealth
+Suspicious Process Execution,T1679,Selective Exclusion,Stealth
+Suspicious Process Execution,T1684,Social Engineering,Stealth
+Suspicious Process Execution,T1684.001,Impersonation,Stealth
+Suspicious Process Execution,T1684.002,Email Spoofing,Stealth
