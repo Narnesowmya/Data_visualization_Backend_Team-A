@@ -5,9 +5,10 @@ collections = [
     "enriched_events",
     "threat_mappings",
     "severity_levels",
-    "risk_labels"
+    "risk_labels",
+    "assets",
+    "vulnerabilities"
 ]
-
 existing = db.list_collection_names()
 
 for collection in collections:
