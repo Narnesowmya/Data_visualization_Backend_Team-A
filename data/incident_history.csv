@@ -1,0 +1,1251 @@
+incident_id,event_id,incident_type,assigned_to,status,response_time,resolution
+INC00001,EVT00001,Failed Login,Mark Harris,Closed,46 min,Remediated
+INC00002,EVT00002,Suspicious Process Execution,Kyle Stephenson,Open,170 min,Under Investigation
+INC00003,EVT00003,Port Scan,Anthony Reynolds,In Progress,13 min,Under Investigation
+INC00004,EVT00004,Lateral Movement Detected,Crystal Costa,Escalated,3 min,Escalated to Management
+INC00005,EVT00005,VPN Connection,Christopher Garner,Closed,113 min,Remediated
+INC00006,EVT00006,Suspicious Process Execution,Cassandra Quinn,Closed,13 min,Blocked
+INC00007,EVT00007,Session Hijacking Attempt,Austin Parks,Open,95 min,Under Investigation
+INC00008,EVT00008,Account Lockout,Lisa Smith,Escalated,50 min,Escalated to Management
+INC00009,EVT00009,Credential Dumping,Christopher Garner,Open,167 min,Under Investigation
+INC00010,EVT00010,Login Success,Brian Banks,In Progress,45 min,Under Investigation
+INC00011,EVT00011,Login Success,Mark Harris,Closed,78 min,False Positive
+INC00012,EVT00012,Malware Detection,Ricky Blackwell,Escalated,2 min,Escalated to IT Security Lead
+INC00013,EVT00013,Web Shell Detected,Jaime Parsons,Closed,170 min,Remediated
+INC00014,EVT00014,Phishing Email,Mark Harris,Closed,108 min,False Positive
+INC00015,EVT00015,VPN Connection,Jacqueline Scott,In Progress,153 min,Under Investigation
+INC00016,EVT00016,SQL Injection Attempt,Sheila Morris,In Progress,43 min,Under Investigation
+INC00017,EVT00017,VPN Connection,Dakota Walsh,In Progress,107 min,Under Investigation
+INC00018,EVT00018,DDoS Attempt,Emily Jackson,Closed,13 min,Blocked
+INC00019,EVT00019,Login Success,Dr. Jacob Rowe DDS,Escalated,169 min,Escalated to Management
+INC00020,EVT00020,Credential Dumping,Anthony Reynolds,Closed,37 min,Blocked
+INC00021,EVT00021,Firewall Rule Change,Allen Wood,Escalated,46 min,Escalated to Management
+INC00022,EVT00022,Port Scan,Jaime Parsons,Closed,64 min,Blocked
+INC00023,EVT00023,Malware Detection,Christopher Garner,Closed,131 min,Blocked
+INC00024,EVT00024,Unauthorized Access,David Jones,Closed,137 min,Remediated
+INC00025,EVT00025,SQL Injection Attempt,Dakota Walsh,Closed,95 min,Blocked
+INC00026,EVT00026,Unauthorized Access,Dawn Walsh,Escalated,117 min,Escalated to IT Security Lead
+INC00027,EVT00027,Phishing Email,Mark Harris,Closed,153 min,Blocked
+INC00028,EVT00028,DNS Tunneling Detected,Brian Ford,Escalated,43 min,Escalated to IT Security Lead
+INC00029,EVT00029,Ransomware Detected,Crystal Costa,Closed,62 min,False Positive
+INC00030,EVT00030,Login Success,David Jones,Closed,144 min,Blocked
+INC00031,EVT00031,Login Success,Kyle Stephenson,Closed,40 min,Remediated
+INC00032,EVT00032,Ransomware Detected,Brian Ford,Closed,69 min,Remediated
+INC00033,EVT00033,Failed Login,Brian Banks,Closed,80 min,Blocked
+INC00034,EVT00034,Account Lockout,Jennifer Payne,Closed,126 min,Blocked
+INC00035,EVT00035,Data Exfiltration Attempt,Brian Ford,In Progress,171 min,Under Investigation
+INC00036,EVT00036,Phishing Email,David Jones,Closed,64 min,Blocked
+INC00037,EVT00037,Brute Force,Dakota Walsh,Closed,174 min,Blocked
+INC00038,EVT00038,Brute Force,Christopher Garner,Closed,112 min,Remediated
+INC00039,EVT00039,Privilege Escalation,Sheila Morris,In Progress,103 min,Under Investigation
+INC00040,EVT00040,Suspicious Process Execution,Mark Harris,Open,94 min,Under Investigation
+INC00041,EVT00041,Phishing Email,Derek Wagner,Closed,65 min,False Positive
+INC00042,EVT00042,Lateral Movement Detected,Cassandra Quinn,In Progress,104 min,Under Investigation
+INC00043,EVT00043,Configuration Change,Robert Frost,In Progress,38 min,Under Investigation
+INC00044,EVT00044,DDoS Attempt,Mark Harris,In Progress,173 min,Under Investigation
+INC00045,EVT00045,Login Success,Megan Pitts,Closed,168 min,Blocked
+INC00046,EVT00046,Suspicious Process Execution,Crystal Costa,Closed,76 min,Remediated
+INC00047,EVT00047,Failed Login,Crystal Costa,Escalated,70 min,Escalated to Management
+INC00048,EVT00048,Unauthorized Access,Sheila Morris,Closed,36 min,Blocked
+INC00049,EVT00049,SQL Injection Attempt,Jesus Nielsen,Closed,130 min,Blocked
+INC00050,EVT00050,Port Scan,Katelyn Harris,In Progress,102 min,Under Investigation
+INC00051,EVT00051,Data Exfiltration Attempt,Christina Hartman,In Progress,45 min,Under Investigation
+INC00052,EVT00052,Phishing Email,Jack Davis,Closed,115 min,Remediated
+INC00053,EVT00053,Login Success,Robert Frost,Closed,24 min,Remediated
+INC00054,EVT00054,Credential Dumping,Derek Wagner,Closed,142 min,Remediated
+INC00055,EVT00055,Port Scan,Lori Blevins,Closed,151 min,Remediated
+INC00056,EVT00056,Port Scan,Katherine Cook,Open,113 min,Pending Review
+INC00057,EVT00057,Firewall Rule Change,Darius Hernandez,Open,53 min,Pending Review
+INC00058,EVT00058,File Access,Christopher Garner,Closed,34 min,Blocked
+INC00059,EVT00059,SQL Injection Attempt,Kyle Stephenson,Escalated,44 min,Escalated to IT Security Lead
+INC00060,EVT00060,Malware Detection,David Gibson,Closed,145 min,Remediated
+INC00061,EVT00061,Suspicious Process Execution,Jack Davis,Closed,4 min,Remediated
+INC00062,EVT00062,Account Lockout,Mark Harris,Closed,18 min,Blocked
+INC00063,EVT00063,Account Lockout,Christina Hartman,Closed,137 min,Blocked
+INC00064,EVT00064,Privilege Escalation,Amy Coleman,In Progress,36 min,Under Investigation
+INC00065,EVT00065,Login Success,Derek Wagner,Closed,25 min,False Positive
+INC00066,EVT00066,Data Exfiltration Attempt,Jennifer Payne,Closed,138 min,Blocked
+INC00067,EVT00067,Unauthorized Access,Kyle Stephenson,Closed,69 min,Remediated
+INC00068,EVT00068,Account Lockout,Amy Coleman,In Progress,64 min,Under Investigation
+INC00069,EVT00069,File Access,Austin Parks,Escalated,154 min,Escalated to Management
+INC00070,EVT00070,Port Scan,Dawn Walsh,Closed,90 min,Blocked
+INC00071,EVT00071,Suspicious Process Execution,Darius Hernandez,In Progress,49 min,Under Investigation
+INC00072,EVT00072,Login Success,David Gibson,Open,130 min,Pending Review
+INC00073,EVT00073,Web Shell Detected,Patricia Ortiz,Closed,73 min,Blocked
+INC00074,EVT00074,SQL Injection Attempt,Jesus Nielsen,In Progress,85 min,Under Investigation
+INC00075,EVT00075,Privilege Escalation,Emily Jackson,Closed,23 min,Remediated
+INC00076,EVT00076,Unauthorized Access,Jaime Parsons,Closed,128 min,False Positive
+INC00077,EVT00077,Brute Force,Christina Hartman,In Progress,4 min,Under Investigation
+INC00078,EVT00078,Web Shell Detected,Robert Frost,In Progress,151 min,Under Investigation
+INC00079,EVT00079,File Access,David Gibson,Closed,12 min,False Positive
+INC00080,EVT00080,Malware Detection,Katherine Cook,Escalated,146 min,Escalated to Management
+INC00081,EVT00081,Account Lockout,Jack Davis,Escalated,128 min,Escalated to Management
+INC00082,EVT00082,Lateral Movement Detected,Emily Jackson,Closed,132 min,Remediated
+INC00083,EVT00083,Phishing Email,Crystal Costa,Closed,82 min,Remediated
+INC00084,EVT00084,VPN Connection,Robert Frost,Closed,140 min,Blocked
+INC00085,EVT00085,DNS Tunneling Detected,Amy Coleman,Closed,169 min,False Positive
+INC00086,EVT00086,Failed Login,Patricia Ortiz,Closed,76 min,False Positive
+INC00087,EVT00087,Configuration Change,Mark Harris,Closed,147 min,False Positive
+INC00088,EVT00088,Privilege Escalation,Christina Hartman,Closed,71 min,Remediated
+INC00089,EVT00089,Firewall Rule Change,Austin Parks,Closed,83 min,Remediated
+INC00090,EVT00090,VPN Connection,Derek Wagner,Closed,138 min,Blocked
+INC00091,EVT00091,Port Scan,Dawn Walsh,Closed,15 min,Remediated
+INC00092,EVT00092,Phishing Email,Brian Banks,Closed,145 min,False Positive
+INC00093,EVT00093,Suspicious Process Execution,Christopher Gill,Open,155 min,Pending Review
+INC00094,EVT00094,Ransomware Detected,Darius Hernandez,Closed,89 min,False Positive
+INC00095,EVT00095,Firewall Rule Change,Raymond Miller,Closed,148 min,False Positive
+INC00096,EVT00096,File Access,David Gibson,Escalated,5 min,Escalated to IT Security Lead
+INC00097,EVT00097,Credential Dumping,Evan Ortiz,Open,166 min,Pending Review
+INC00098,EVT00098,Login Success,Brian Banks,Closed,41 min,Blocked
+INC00099,EVT00099,DNS Tunneling Detected,Jaime Parsons,Closed,25 min,Blocked
+INC00100,EVT00100,Configuration Change,Jaime Parsons,Escalated,117 min,Escalated to Management
+INC00101,EVT00101,Session Hijacking Attempt,Austin Parks,Open,163 min,Under Investigation
+INC00102,EVT00102,Login Success,Lori Blevins,Open,138 min,Under Investigation
+INC00103,EVT00103,Lateral Movement Detected,Lisa Smith,Closed,107 min,False Positive
+INC00104,EVT00104,Firewall Rule Change,Christopher Gill,Closed,21 min,Remediated
+INC00105,EVT00105,Web Shell Detected,David Jones,Open,142 min,Under Investigation
+INC00106,EVT00106,Data Exfiltration Attempt,Jacqueline Scott,Open,44 min,Under Investigation
+INC00107,EVT00107,Malware Detection,Derek Wagner,Closed,24 min,False Positive
+INC00108,EVT00108,Port Scan,Derek Wagner,Closed,86 min,Blocked
+INC00109,EVT00109,VPN Connection,Robert Frost,In Progress,104 min,Under Investigation
+INC00110,EVT00110,Unauthorized Access,Jack Davis,In Progress,25 min,Under Investigation
+INC00111,EVT00111,Session Hijacking Attempt,Adam Martin,Closed,178 min,Blocked
+INC00112,EVT00112,Privilege Escalation,Adam Martin,In Progress,174 min,Under Investigation
+INC00113,EVT00113,Brute Force,Dakota Walsh,Closed,76 min,False Positive
+INC00114,EVT00114,Lateral Movement Detected,Amy Coleman,In Progress,79 min,Under Investigation
+INC00115,EVT00115,DNS Tunneling Detected,Ricky Blackwell,In Progress,154 min,Under Investigation
+INC00116,EVT00116,Login Success,Christopher Garner,Escalated,70 min,Escalated to Management
+INC00117,EVT00117,Ransomware Detected,Dakota Walsh,In Progress,50 min,Under Investigation
+INC00118,EVT00118,SQL Injection Attempt,Jaime Parsons,Closed,82 min,False Positive
+INC00119,EVT00119,SQL Injection Attempt,Jennifer Payne,Open,101 min,Under Investigation
+INC00120,EVT00120,File Access,Evan Ortiz,Escalated,47 min,Escalated to IT Security Lead
+INC00121,EVT00121,Ransomware Detected,Jack Davis,Closed,172 min,Remediated
+INC00122,EVT00122,Lateral Movement Detected,Lori Blevins,Escalated,19 min,Escalated to Management
+INC00123,EVT00123,Configuration Change,Katelyn Harris,In Progress,80 min,Under Investigation
+INC00124,EVT00124,Account Lockout,Lori Blevins,Closed,118 min,False Positive
+INC00125,EVT00125,Login Success,Austin Parks,Open,40 min,Pending Review
+INC00126,EVT00126,Suspicious Process Execution,Austin Parks,Closed,39 min,Remediated
+INC00127,EVT00127,Session Hijacking Attempt,Jennifer Payne,Closed,120 min,False Positive
+INC00128,EVT00128,Brute Force,Mark Harris,Closed,43 min,False Positive
+INC00129,EVT00129,Phishing Email,Dakota Walsh,In Progress,38 min,Under Investigation
+INC00130,EVT00130,Session Hijacking Attempt,David Jones,Closed,143 min,Remediated
+INC00131,EVT00131,Login Success,Katherine Cook,Open,37 min,Pending Review
+INC00132,EVT00132,Privilege Escalation,Shannon Montoya,Closed,83 min,Blocked
+INC00133,EVT00133,Ransomware Detected,Christopher Garner,Closed,173 min,Blocked
+INC00134,EVT00134,Data Exfiltration Attempt,Brian Banks,In Progress,118 min,Under Investigation
+INC00135,EVT00135,Port Scan,Anthony Reynolds,Closed,152 min,False Positive
+INC00136,EVT00136,DDoS Attempt,Dr. Jacob Rowe DDS,Closed,82 min,Remediated
+INC00137,EVT00137,Firewall Rule Change,Sheila Morris,In Progress,22 min,Under Investigation
+INC00138,EVT00138,Phishing Email,David Gibson,Open,172 min,Pending Review
+INC00139,EVT00139,Malware Detection,Sheila Morris,Escalated,179 min,Escalated to IT Security Lead
+INC00140,EVT00140,DNS Tunneling Detected,Brian Ford,Closed,172 min,False Positive
+INC00141,EVT00141,Brute Force,Darius Hernandez,Closed,12 min,False Positive
+INC00142,EVT00142,Suspicious Process Execution,Evan Ortiz,In Progress,34 min,Under Investigation
+INC00143,EVT00143,Port Scan,Amy Coleman,Closed,132 min,Blocked
+INC00144,EVT00144,Phishing Email,Dawn Walsh,Closed,106 min,Blocked
+INC00145,EVT00145,Account Lockout,Katherine Cook,Closed,113 min,Blocked
+INC00146,EVT00146,Credential Dumping,David Jones,Closed,120 min,False Positive
+INC00147,EVT00147,Suspicious Process Execution,Crystal Costa,Open,43 min,Under Investigation
+INC00148,EVT00148,DDoS Attempt,Jaime Parsons,Closed,22 min,False Positive
+INC00149,EVT00149,Login Success,Brian Banks,Closed,3 min,Remediated
+INC00150,EVT00150,Configuration Change,Amy Coleman,Closed,152 min,Remediated
+INC00151,EVT00151,Malware Detection,Jacqueline Scott,Closed,15 min,Blocked
+INC00152,EVT00152,Configuration Change,Shannon Montoya,Open,138 min,Under Investigation
+INC00153,EVT00153,USB Device Connected,Kyle Stephenson,Open,32 min,Under Investigation
+INC00154,EVT00154,Account Lockout,Jennifer Payne,In Progress,55 min,Under Investigation
+INC00155,EVT00155,Web Shell Detected,Jaime Parsons,Closed,143 min,False Positive
+INC00156,EVT00156,Session Hijacking Attempt,Jennifer Payne,In Progress,86 min,Under Investigation
+INC00157,EVT00157,Account Lockout,Patricia Ortiz,In Progress,148 min,Under Investigation
+INC00158,EVT00158,Account Lockout,Evan Ortiz,In Progress,14 min,Under Investigation
+INC00159,EVT00159,Malware Detection,Evan Ortiz,Escalated,65 min,Escalated to Management
+INC00160,EVT00160,Lateral Movement Detected,Cassandra Quinn,Closed,21 min,Blocked
+INC00161,EVT00161,Brute Force,Brian Ford,Closed,105 min,Remediated
+INC00162,EVT00162,VPN Connection,Dakota Walsh,Escalated,129 min,Escalated to Management
+INC00163,EVT00163,Failed Login,Raymond Miller,Closed,174 min,Blocked
+INC00164,EVT00164,Firewall Rule Change,Dawn Walsh,Closed,73 min,Blocked
+INC00165,EVT00165,SQL Injection Attempt,Adam Martin,Closed,167 min,Remediated
+INC00166,EVT00166,Port Scan,Shannon Montoya,Closed,30 min,False Positive
+INC00167,EVT00167,VPN Connection,Jesus Nielsen,In Progress,75 min,Under Investigation
+INC00168,EVT00168,Login Success,David Gibson,Closed,33 min,False Positive
+INC00169,EVT00169,Session Hijacking Attempt,Cassandra Quinn,Escalated,79 min,Escalated to Management
+INC00170,EVT00170,Failed Login,Michael Howell,Open,99 min,Pending Review
+INC00171,EVT00171,VPN Connection,Ricky Blackwell,Closed,6 min,Blocked
+INC00172,EVT00172,Login Success,Austin Parks,Closed,7 min,False Positive
+INC00173,EVT00173,Credential Dumping,Allen Wood,Open,57 min,Pending Review
+INC00174,EVT00174,Account Lockout,Jennifer Payne,In Progress,123 min,Under Investigation
+INC00175,EVT00175,File Access,Cassandra Quinn,Closed,36 min,Remediated
+INC00176,EVT00176,USB Device Connected,Lisa Smith,Closed,85 min,False Positive
+INC00177,EVT00177,Privilege Escalation,Derek Wagner,In Progress,78 min,Under Investigation
+INC00178,EVT00178,Suspicious Process Execution,Christopher Gill,Escalated,55 min,Escalated to IT Security Lead
+INC00179,EVT00179,VPN Connection,Dakota Walsh,Escalated,48 min,Escalated to Management
+INC00180,EVT00180,Configuration Change,Shannon Montoya,Closed,91 min,False Positive
+INC00181,EVT00181,Ransomware Detected,Christopher Gill,In Progress,89 min,Under Investigation
+INC00182,EVT00182,Ransomware Detected,David Gibson,Escalated,51 min,Escalated to Management
+INC00183,EVT00183,Privilege Escalation,David Gibson,Closed,162 min,Blocked
+INC00184,EVT00184,VPN Connection,Christopher Garner,Closed,11 min,Blocked
+INC00185,EVT00185,USB Device Connected,Katelyn Harris,Closed,42 min,Remediated
+INC00186,EVT00186,USB Device Connected,Dr. Jacob Rowe DDS,Closed,110 min,False Positive
+INC00187,EVT00187,Account Lockout,Megan Pitts,Closed,76 min,Remediated
+INC00188,EVT00188,Web Shell Detected,Michael Howell,Closed,109 min,Remediated
+INC00189,EVT00189,Data Exfiltration Attempt,Jennifer Payne,Escalated,179 min,Escalated to Management
+INC00190,EVT00190,Privilege Escalation,Cassandra Quinn,In Progress,99 min,Under Investigation
+INC00191,EVT00191,Privilege Escalation,Patricia Ortiz,Closed,100 min,Remediated
+INC00192,EVT00192,Account Lockout,Shannon Montoya,Open,154 min,Pending Review
+INC00193,EVT00193,Failed Login,Raymond Miller,Closed,2 min,Remediated
+INC00194,EVT00194,Port Scan,Dakota Walsh,Open,127 min,Pending Review
+INC00195,EVT00195,DDoS Attempt,Emily Jackson,Open,87 min,Under Investigation
+INC00196,EVT00196,DNS Tunneling Detected,Lori Blevins,Escalated,135 min,Escalated to IT Security Lead
+INC00197,EVT00197,USB Device Connected,Christopher Garner,Closed,48 min,Blocked
+INC00198,EVT00198,Brute Force,Austin Parks,Closed,81 min,Blocked
+INC00199,EVT00199,Account Lockout,Brian Banks,Closed,167 min,Remediated
+INC00200,EVT00200,Credential Dumping,Emily Jackson,Closed,61 min,False Positive
+INC00201,EVT00201,Unauthorized Access,Allen Wood,Closed,81 min,Blocked
+INC00202,EVT00202,Web Shell Detected,Sheila Morris,Closed,102 min,Remediated
+INC00203,EVT00203,Phishing Email,Derek Wagner,In Progress,180 min,Under Investigation
+INC00204,EVT00204,Session Hijacking Attempt,Christina Hartman,Closed,70 min,Blocked
+INC00205,EVT00205,DNS Tunneling Detected,Christopher Gill,Open,13 min,Pending Review
+INC00206,EVT00206,Privilege Escalation,Dakota Walsh,Closed,118 min,Remediated
+INC00207,EVT00207,SQL Injection Attempt,Mark Harris,Escalated,98 min,Escalated to IT Security Lead
+INC00208,EVT00208,USB Device Connected,Jacqueline Scott,Escalated,59 min,Escalated to Management
+INC00209,EVT00209,SQL Injection Attempt,Christopher Garner,Open,108 min,Under Investigation
+INC00210,EVT00210,Web Shell Detected,Michael Howell,Closed,157 min,Remediated
+INC00211,EVT00211,Login Success,Austin Parks,Closed,77 min,False Positive
+INC00212,EVT00212,Ransomware Detected,Jennifer Payne,Closed,93 min,Blocked
+INC00213,EVT00213,Ransomware Detected,Dakota Walsh,In Progress,69 min,Under Investigation
+INC00214,EVT00214,Firewall Rule Change,Jesus Nielsen,Escalated,72 min,Escalated to IT Security Lead
+INC00215,EVT00215,Malware Detection,Emily Jackson,In Progress,98 min,Under Investigation
+INC00216,EVT00216,Configuration Change,Crystal Costa,Open,90 min,Pending Review
+INC00217,EVT00217,Account Lockout,Katelyn Harris,Closed,154 min,False Positive
+INC00218,EVT00218,Configuration Change,Brian Banks,Open,11 min,Under Investigation
+INC00219,EVT00219,Privilege Escalation,Katherine Cook,Closed,91 min,Remediated
+INC00220,EVT00220,Unauthorized Access,Dakota Walsh,Closed,151 min,Remediated
+INC00221,EVT00221,Data Exfiltration Attempt,Jacqueline Scott,Closed,126 min,Blocked
+INC00222,EVT00222,Suspicious Process Execution,Dr. Jacob Rowe DDS,Closed,33 min,Blocked
+INC00223,EVT00223,Account Lockout,Anthony Reynolds,Closed,148 min,Blocked
+INC00224,EVT00224,Web Shell Detected,Ricky Blackwell,In Progress,59 min,Under Investigation
+INC00225,EVT00225,Data Exfiltration Attempt,Katelyn Harris,Closed,13 min,Remediated
+INC00226,EVT00226,SQL Injection Attempt,Anthony Reynolds,Open,40 min,Pending Review
+INC00227,EVT00227,Web Shell Detected,Adam Martin,In Progress,120 min,Under Investigation
+INC00228,EVT00228,Unauthorized Access,Jacqueline Scott,In Progress,59 min,Under Investigation
+INC00229,EVT00229,Credential Dumping,Katelyn Harris,Closed,19 min,False Positive
+INC00230,EVT00230,Privilege Escalation,Christina Hartman,Open,65 min,Under Investigation
+INC00231,EVT00231,Firewall Rule Change,David Jones,Escalated,128 min,Escalated to IT Security Lead
+INC00232,EVT00232,Port Scan,Lisa Smith,Closed,27 min,Remediated
+INC00233,EVT00233,Phishing Email,Adam Martin,Closed,30 min,False Positive
+INC00234,EVT00234,Configuration Change,Jack Davis,Closed,104 min,Blocked
+INC00235,EVT00235,Session Hijacking Attempt,Dakota Walsh,Closed,91 min,Remediated
+INC00236,EVT00236,Firewall Rule Change,Adam Martin,Closed,24 min,False Positive
+INC00237,EVT00237,Ransomware Detected,Allen Wood,Open,128 min,Pending Review
+INC00238,EVT00238,Malware Detection,Robert Frost,In Progress,33 min,Under Investigation
+INC00239,EVT00239,SQL Injection Attempt,David Gibson,Closed,21 min,False Positive
+INC00240,EVT00240,Phishing Email,Mark Harris,Closed,103 min,False Positive
+INC00241,EVT00241,Privilege Escalation,Derek Wagner,Closed,106 min,False Positive
+INC00242,EVT00242,Suspicious Process Execution,Jacqueline Scott,Closed,173 min,False Positive
+INC00243,EVT00243,Lateral Movement Detected,Michael Howell,Closed,97 min,False Positive
+INC00244,EVT00244,Data Exfiltration Attempt,Evan Ortiz,Closed,41 min,Blocked
+INC00245,EVT00245,Web Shell Detected,Dakota Walsh,Closed,39 min,False Positive
+INC00246,EVT00246,Session Hijacking Attempt,Megan Pitts,Open,31 min,Under Investigation
+INC00247,EVT00247,Login Success,Mark Harris,In Progress,63 min,Under Investigation
+INC00248,EVT00248,Brute Force,Jesus Nielsen,In Progress,63 min,Under Investigation
+INC00249,EVT00249,Ransomware Detected,David Gibson,In Progress,78 min,Under Investigation
+INC00250,EVT00250,Web Shell Detected,Lisa Smith,Closed,83 min,Blocked
+INC00251,EVT00251,Account Lockout,Adam Martin,In Progress,170 min,Under Investigation
+INC00252,EVT00252,USB Device Connected,Dawn Walsh,Escalated,170 min,Escalated to IT Security Lead
+INC00253,EVT00253,Web Shell Detected,Allen Wood,In Progress,71 min,Under Investigation
+INC00254,EVT00254,Brute Force,Megan Pitts,In Progress,24 min,Under Investigation
+INC00255,EVT00255,Ransomware Detected,Lisa Smith,Open,138 min,Under Investigation
+INC00256,EVT00256,Unauthorized Access,Crystal Costa,Closed,127 min,Blocked
+INC00257,EVT00257,File Access,David Jones,Closed,76 min,Remediated
+INC00258,EVT00258,Data Exfiltration Attempt,Mark Harris,Closed,86 min,False Positive
+INC00259,EVT00259,Privilege Escalation,Raymond Miller,In Progress,131 min,Under Investigation
+INC00260,EVT00260,Port Scan,Amy Coleman,Closed,67 min,Remediated
+INC00261,EVT00261,Suspicious Process Execution,Brian Ford,Closed,67 min,Remediated
+INC00262,EVT00262,DNS Tunneling Detected,Christopher Gill,Escalated,133 min,Escalated to IT Security Lead
+INC00263,EVT00263,Unauthorized Access,Jack Davis,In Progress,161 min,Under Investigation
+INC00264,EVT00264,Data Exfiltration Attempt,Megan Pitts,Escalated,16 min,Escalated to Management
+INC00265,EVT00265,SQL Injection Attempt,Jennifer Payne,In Progress,120 min,Under Investigation
+INC00266,EVT00266,Port Scan,Adam Martin,In Progress,32 min,Under Investigation
+INC00267,EVT00267,File Access,Adam Martin,Closed,99 min,Blocked
+INC00268,EVT00268,Session Hijacking Attempt,Brian Ford,Closed,172 min,Blocked
+INC00269,EVT00269,Credential Dumping,Crystal Costa,Open,165 min,Pending Review
+INC00270,EVT00270,VPN Connection,Amy Coleman,Closed,18 min,Remediated
+INC00271,EVT00271,Credential Dumping,Amy Coleman,Closed,120 min,False Positive
+INC00272,EVT00272,VPN Connection,Brian Ford,Closed,148 min,Blocked
+INC00273,EVT00273,Login Success,Allen Wood,In Progress,151 min,Under Investigation
+INC00274,EVT00274,Data Exfiltration Attempt,Lisa Smith,In Progress,135 min,Under Investigation
+INC00275,EVT00275,Suspicious Process Execution,Jacqueline Scott,Closed,9 min,Blocked
+INC00276,EVT00276,Unauthorized Access,David Jones,Closed,31 min,Blocked
+INC00277,EVT00277,Lateral Movement Detected,Cassandra Quinn,Closed,22 min,Remediated
+INC00278,EVT00278,File Access,Cassandra Quinn,In Progress,31 min,Under Investigation
+INC00279,EVT00279,USB Device Connected,Mark Harris,Closed,100 min,Remediated
+INC00280,EVT00280,DDoS Attempt,Kyle Stephenson,In Progress,4 min,Under Investigation
+INC00281,EVT00281,Suspicious Process Execution,David Gibson,Closed,65 min,Blocked
+INC00282,EVT00282,Credential Dumping,Raymond Miller,Closed,54 min,False Positive
+INC00283,EVT00283,Login Success,Katherine Cook,Closed,138 min,Blocked
+INC00284,EVT00284,Data Exfiltration Attempt,Katherine Cook,Closed,84 min,Remediated
+INC00285,EVT00285,VPN Connection,Shannon Montoya,Open,111 min,Under Investigation
+INC00286,EVT00286,VPN Connection,Christopher Gill,Open,156 min,Under Investigation
+INC00287,EVT00287,Ransomware Detected,David Gibson,Open,153 min,Under Investigation
+INC00288,EVT00288,USB Device Connected,Dr. Jacob Rowe DDS,Open,49 min,Under Investigation
+INC00289,EVT00289,Port Scan,Sheila Morris,In Progress,177 min,Under Investigation
+INC00290,EVT00290,USB Device Connected,Jaime Parsons,Closed,5 min,Remediated
+INC00291,EVT00291,Privilege Escalation,David Gibson,Closed,158 min,False Positive
+INC00292,EVT00292,File Access,Christopher Gill,Escalated,177 min,Escalated to IT Security Lead
+INC00293,EVT00293,Credential Dumping,Raymond Miller,Closed,140 min,Remediated
+INC00294,EVT00294,Configuration Change,Adam Martin,In Progress,2 min,Under Investigation
+INC00295,EVT00295,Unauthorized Access,Adam Martin,Closed,44 min,Remediated
+INC00296,EVT00296,Malware Detection,Patricia Ortiz,Open,115 min,Under Investigation
+INC00297,EVT00297,Session Hijacking Attempt,Patricia Ortiz,Closed,79 min,Blocked
+INC00298,EVT00298,SQL Injection Attempt,Robert Frost,Escalated,166 min,Escalated to IT Security Lead
+INC00299,EVT00299,File Access,Emily Jackson,Open,63 min,Under Investigation
+INC00300,EVT00300,Privilege Escalation,Crystal Costa,In Progress,96 min,Under Investigation
+INC00301,EVT00301,Malware Detection,Christopher Gill,Closed,13 min,False Positive
+INC00302,EVT00302,Account Lockout,Christina Hartman,Closed,32 min,False Positive
+INC00303,EVT00303,Credential Dumping,David Jones,Open,118 min,Under Investigation
+INC00304,EVT00304,SQL Injection Attempt,Adam Martin,Closed,88 min,Blocked
+INC00305,EVT00305,Firewall Rule Change,Jesus Nielsen,Closed,70 min,False Positive
+INC00306,EVT00306,Lateral Movement Detected,Derek Wagner,Closed,93 min,Blocked
+INC00307,EVT00307,Failed Login,Jaime Parsons,Closed,5 min,Remediated
+INC00308,EVT00308,Data Exfiltration Attempt,Sheila Morris,Closed,104 min,False Positive
+INC00309,EVT00309,Firewall Rule Change,David Jones,In Progress,117 min,Under Investigation
+INC00310,EVT00310,DDoS Attempt,Christopher Gill,Open,120 min,Under Investigation
+INC00311,EVT00311,Suspicious Process Execution,Megan Pitts,Closed,82 min,False Positive
+INC00312,EVT00312,DNS Tunneling Detected,Derek Wagner,Closed,68 min,False Positive
+INC00313,EVT00313,Login Success,Lisa Smith,Escalated,158 min,Escalated to IT Security Lead
+INC00314,EVT00314,USB Device Connected,Allen Wood,Closed,93 min,Remediated
+INC00315,EVT00315,Phishing Email,Katelyn Harris,In Progress,122 min,Under Investigation
+INC00316,EVT00316,Web Shell Detected,Jack Davis,In Progress,125 min,Under Investigation
+INC00317,EVT00317,Failed Login,Christina Hartman,Closed,176 min,False Positive
+INC00318,EVT00318,Login Success,Crystal Costa,In Progress,133 min,Under Investigation
+INC00319,EVT00319,Malware Detection,Adam Martin,Closed,105 min,Blocked
+INC00320,EVT00320,Configuration Change,Jack Davis,Closed,13 min,Remediated
+INC00321,EVT00321,Session Hijacking Attempt,Christopher Gill,Closed,45 min,Blocked
+INC00322,EVT00322,Firewall Rule Change,Derek Wagner,Open,157 min,Pending Review
+INC00323,EVT00323,Account Lockout,Adam Martin,Escalated,112 min,Escalated to Management
+INC00324,EVT00324,Port Scan,Anthony Reynolds,In Progress,71 min,Under Investigation
+INC00325,EVT00325,Session Hijacking Attempt,Megan Pitts,Open,40 min,Pending Review
+INC00326,EVT00326,Firewall Rule Change,Evan Ortiz,Closed,32 min,Blocked
+INC00327,EVT00327,Login Success,Jacqueline Scott,Closed,112 min,Blocked
+INC00328,EVT00328,Port Scan,Jack Davis,Closed,123 min,False Positive
+INC00329,EVT00329,File Access,Evan Ortiz,Closed,8 min,False Positive
+INC00330,EVT00330,Brute Force,Mark Harris,Escalated,4 min,Escalated to Management
+INC00331,EVT00331,Unauthorized Access,Amy Coleman,Closed,43 min,Blocked
+INC00332,EVT00332,VPN Connection,Jesus Nielsen,In Progress,112 min,Under Investigation
+INC00333,EVT00333,Failed Login,Dawn Walsh,Closed,97 min,False Positive
+INC00334,EVT00334,Port Scan,Lori Blevins,Closed,151 min,False Positive
+INC00335,EVT00335,DNS Tunneling Detected,Crystal Costa,Closed,84 min,Blocked
+INC00336,EVT00336,Privilege Escalation,Kyle Stephenson,Open,75 min,Under Investigation
+INC00337,EVT00337,Account Lockout,Amy Coleman,Closed,83 min,Remediated
+INC00338,EVT00338,VPN Connection,Lisa Smith,In Progress,161 min,Under Investigation
+INC00339,EVT00339,Firewall Rule Change,Jack Davis,Closed,40 min,Remediated
+INC00340,EVT00340,Suspicious Process Execution,David Jones,Escalated,145 min,Escalated to IT Security Lead
+INC00341,EVT00341,Web Shell Detected,David Jones,Closed,84 min,Remediated
+INC00342,EVT00342,Failed Login,Lori Blevins,In Progress,47 min,Under Investigation
+INC00343,EVT00343,USB Device Connected,Adam Martin,In Progress,86 min,Under Investigation
+INC00344,EVT00344,DNS Tunneling Detected,Allen Wood,Closed,164 min,Remediated
+INC00345,EVT00345,Data Exfiltration Attempt,Jesus Nielsen,Escalated,30 min,Escalated to IT Security Lead
+INC00346,EVT00346,VPN Connection,Dakota Walsh,In Progress,111 min,Under Investigation
+INC00347,EVT00347,Suspicious Process Execution,Katelyn Harris,Closed,67 min,Blocked
+INC00348,EVT00348,Web Shell Detected,Allen Wood,In Progress,128 min,Under Investigation
+INC00349,EVT00349,File Access,Patricia Ortiz,In Progress,75 min,Under Investigation
+INC00350,EVT00350,Suspicious Process Execution,Katherine Cook,In Progress,169 min,Under Investigation
+INC00351,EVT00351,DDoS Attempt,David Gibson,Closed,146 min,Blocked
+INC00352,EVT00352,Unauthorized Access,Dakota Walsh,Closed,95 min,Blocked
+INC00353,EVT00353,Ransomware Detected,Katherine Cook,Closed,168 min,False Positive
+INC00354,EVT00354,Web Shell Detected,Darius Hernandez,Closed,23 min,False Positive
+INC00355,EVT00355,Firewall Rule Change,Sheila Morris,Open,172 min,Under Investigation
+INC00356,EVT00356,DNS Tunneling Detected,Ricky Blackwell,In Progress,179 min,Under Investigation
+INC00357,EVT00357,Port Scan,Kyle Stephenson,Escalated,29 min,Escalated to Management
+INC00358,EVT00358,VPN Connection,Anthony Reynolds,Closed,44 min,False Positive
+INC00359,EVT00359,Suspicious Process Execution,Lori Blevins,Escalated,174 min,Escalated to IT Security Lead
+INC00360,EVT00360,DNS Tunneling Detected,Brian Ford,Closed,36 min,Remediated
+INC00361,EVT00361,Ransomware Detected,Derek Wagner,Closed,180 min,False Positive
+INC00362,EVT00362,Unauthorized Access,Lori Blevins,Closed,164 min,False Positive
+INC00363,EVT00363,DNS Tunneling Detected,Jaime Parsons,Open,175 min,Pending Review
+INC00364,EVT00364,Phishing Email,Emily Jackson,Escalated,78 min,Escalated to IT Security Lead
+INC00365,EVT00365,Account Lockout,Lori Blevins,Escalated,175 min,Escalated to IT Security Lead
+INC00366,EVT00366,Web Shell Detected,Dawn Walsh,In Progress,78 min,Under Investigation
+INC00367,EVT00367,Port Scan,Dakota Walsh,Closed,38 min,False Positive
+INC00368,EVT00368,SQL Injection Attempt,Crystal Costa,Closed,36 min,Remediated
+INC00369,EVT00369,Login Success,Cassandra Quinn,In Progress,55 min,Under Investigation
+INC00370,EVT00370,Suspicious Process Execution,Katherine Cook,Escalated,60 min,Escalated to Management
+INC00371,EVT00371,Account Lockout,Emily Jackson,In Progress,74 min,Under Investigation
+INC00372,EVT00372,File Access,David Gibson,Closed,123 min,False Positive
+INC00373,EVT00373,Account Lockout,Jacqueline Scott,In Progress,140 min,Under Investigation
+INC00374,EVT00374,Data Exfiltration Attempt,Evan Ortiz,Closed,153 min,Blocked
+INC00375,EVT00375,Suspicious Process Execution,Cassandra Quinn,Open,88 min,Under Investigation
+INC00376,EVT00376,Privilege Escalation,Brian Banks,Closed,172 min,Blocked
+INC00377,EVT00377,VPN Connection,Crystal Costa,Closed,74 min,False Positive
+INC00378,EVT00378,Lateral Movement Detected,Austin Parks,Escalated,102 min,Escalated to IT Security Lead
+INC00379,EVT00379,VPN Connection,Patricia Ortiz,Open,173 min,Under Investigation
+INC00380,EVT00380,Web Shell Detected,Jesus Nielsen,Closed,85 min,Blocked
+INC00381,EVT00381,Web Shell Detected,Crystal Costa,Closed,70 min,Remediated
+INC00382,EVT00382,Account Lockout,Allen Wood,Open,46 min,Pending Review
+INC00383,EVT00383,Data Exfiltration Attempt,Mark Harris,Open,104 min,Pending Review
+INC00384,EVT00384,Data Exfiltration Attempt,David Jones,Closed,37 min,Remediated
+INC00385,EVT00385,DDoS Attempt,Megan Pitts,Open,109 min,Under Investigation
+INC00386,EVT00386,Account Lockout,Kyle Stephenson,Open,96 min,Under Investigation
+INC00387,EVT00387,Port Scan,Raymond Miller,Open,19 min,Under Investigation
+INC00388,EVT00388,Brute Force,Jack Davis,Escalated,37 min,Escalated to IT Security Lead
+INC00389,EVT00389,Login Success,Brian Ford,In Progress,136 min,Under Investigation
+INC00390,EVT00390,USB Device Connected,Lori Blevins,Closed,164 min,False Positive
+INC00391,EVT00391,Firewall Rule Change,Dakota Walsh,In Progress,15 min,Under Investigation
+INC00392,EVT00392,Ransomware Detected,Christopher Garner,Closed,92 min,Blocked
+INC00393,EVT00393,Session Hijacking Attempt,David Gibson,Open,156 min,Pending Review
+INC00394,EVT00394,Phishing Email,Brian Ford,Closed,75 min,Blocked
+INC00395,EVT00395,Data Exfiltration Attempt,Darius Hernandez,Open,120 min,Under Investigation
+INC00396,EVT00396,Unauthorized Access,Lisa Smith,Closed,148 min,False Positive
+INC00397,EVT00397,Privilege Escalation,Anthony Reynolds,Closed,158 min,False Positive
+INC00398,EVT00398,USB Device Connected,Christopher Garner,Open,142 min,Pending Review
+INC00399,EVT00399,Port Scan,Patricia Ortiz,Closed,68 min,Blocked
+INC00400,EVT00400,VPN Connection,Jack Davis,Open,87 min,Under Investigation
+INC00401,EVT00401,Web Shell Detected,David Gibson,Closed,148 min,Remediated
+INC00402,EVT00402,Firewall Rule Change,Crystal Costa,Open,138 min,Under Investigation
+INC00403,EVT00403,Login Success,Katelyn Harris,Closed,19 min,Remediated
+INC00404,EVT00404,Lateral Movement Detected,Brian Banks,Closed,31 min,False Positive
+INC00405,EVT00405,Ransomware Detected,Christina Hartman,Open,88 min,Pending Review
+INC00406,EVT00406,Failed Login,Dr. Jacob Rowe DDS,In Progress,152 min,Under Investigation
+INC00407,EVT00407,Brute Force,Derek Wagner,Closed,127 min,Blocked
+INC00408,EVT00408,DDoS Attempt,Christopher Garner,In Progress,135 min,Under Investigation
+INC00409,EVT00409,SQL Injection Attempt,Darius Hernandez,Closed,82 min,Blocked
+INC00410,EVT00410,Data Exfiltration Attempt,Katherine Cook,Open,150 min,Pending Review
+INC00411,EVT00411,Phishing Email,David Jones,In Progress,4 min,Under Investigation
+INC00412,EVT00412,Web Shell Detected,Darius Hernandez,Closed,115 min,False Positive
+INC00413,EVT00413,Data Exfiltration Attempt,Christopher Gill,Closed,69 min,Remediated
+INC00414,EVT00414,File Access,Adam Martin,Closed,7 min,Remediated
+INC00415,EVT00415,Unauthorized Access,Mark Harris,In Progress,96 min,Under Investigation
+INC00416,EVT00416,Login Success,Dakota Walsh,Closed,169 min,False Positive
+INC00417,EVT00417,Unauthorized Access,Sheila Morris,Open,4 min,Pending Review
+INC00418,EVT00418,Login Success,Jesus Nielsen,In Progress,103 min,Under Investigation
+INC00419,EVT00419,Account Lockout,Allen Wood,Closed,124 min,Blocked
+INC00420,EVT00420,Web Shell Detected,Jack Davis,Closed,56 min,Blocked
+INC00421,EVT00421,Privilege Escalation,David Jones,In Progress,124 min,Under Investigation
+INC00422,EVT00422,Login Success,Sheila Morris,Closed,110 min,False Positive
+INC00423,EVT00423,SQL Injection Attempt,David Jones,Closed,74 min,Blocked
+INC00424,EVT00424,Firewall Rule Change,Jacqueline Scott,Closed,4 min,False Positive
+INC00425,EVT00425,Login Success,Emily Jackson,In Progress,45 min,Under Investigation
+INC00426,EVT00426,Login Success,Kyle Stephenson,Closed,60 min,Remediated
+INC00427,EVT00427,Credential Dumping,David Gibson,Closed,153 min,Remediated
+INC00428,EVT00428,DDoS Attempt,Patricia Ortiz,In Progress,85 min,Under Investigation
+INC00429,EVT00429,Suspicious Process Execution,Shannon Montoya,Closed,70 min,False Positive
+INC00430,EVT00430,Unauthorized Access,Kyle Stephenson,Closed,151 min,Blocked
+INC00431,EVT00431,Lateral Movement Detected,Raymond Miller,Closed,171 min,Remediated
+INC00432,EVT00432,SQL Injection Attempt,Crystal Costa,Open,40 min,Under Investigation
+INC00433,EVT00433,DNS Tunneling Detected,Jaime Parsons,Escalated,128 min,Escalated to Management
+INC00434,EVT00434,Credential Dumping,Jennifer Payne,Escalated,76 min,Escalated to Management
+INC00435,EVT00435,Malware Detection,Lori Blevins,Closed,50 min,Blocked
+INC00436,EVT00436,Port Scan,Kyle Stephenson,Closed,137 min,Blocked
+INC00437,EVT00437,Malware Detection,Kyle Stephenson,In Progress,7 min,Under Investigation
+INC00438,EVT00438,VPN Connection,Anthony Reynolds,Closed,126 min,False Positive
+INC00439,EVT00439,Session Hijacking Attempt,Mark Harris,Open,177 min,Pending Review
+INC00440,EVT00440,Account Lockout,Christopher Garner,Closed,137 min,Blocked
+INC00441,EVT00441,VPN Connection,Dakota Walsh,Closed,58 min,False Positive
+INC00442,EVT00442,VPN Connection,Jack Davis,In Progress,115 min,Under Investigation
+INC00443,EVT00443,Credential Dumping,Raymond Miller,Closed,81 min,Remediated
+INC00444,EVT00444,Port Scan,Shannon Montoya,Closed,169 min,False Positive
+INC00445,EVT00445,Login Success,Michael Howell,In Progress,3 min,Under Investigation
+INC00446,EVT00446,Ransomware Detected,Patricia Ortiz,Closed,58 min,False Positive
+INC00447,EVT00447,Configuration Change,Crystal Costa,Closed,50 min,Remediated
+INC00448,EVT00448,Account Lockout,Ricky Blackwell,Closed,66 min,Remediated
+INC00449,EVT00449,DNS Tunneling Detected,Katherine Cook,In Progress,167 min,Under Investigation
+INC00450,EVT00450,Login Success,Lori Blevins,Escalated,98 min,Escalated to Management
+INC00451,EVT00451,Suspicious Process Execution,Shannon Montoya,In Progress,139 min,Under Investigation
+INC00452,EVT00452,Privilege Escalation,Raymond Miller,Closed,68 min,Remediated
+INC00453,EVT00453,VPN Connection,Christopher Gill,Closed,124 min,Blocked
+INC00454,EVT00454,DDoS Attempt,Megan Pitts,Closed,151 min,False Positive
+INC00455,EVT00455,Lateral Movement Detected,Adam Martin,Escalated,42 min,Escalated to Management
+INC00456,EVT00456,Failed Login,Brian Banks,Closed,176 min,Remediated
+INC00457,EVT00457,DNS Tunneling Detected,Sheila Morris,Closed,151 min,Remediated
+INC00458,EVT00458,Privilege Escalation,Jacqueline Scott,In Progress,52 min,Under Investigation
+INC00459,EVT00459,File Access,Christopher Gill,In Progress,36 min,Under Investigation
+INC00460,EVT00460,Ransomware Detected,Adam Martin,Closed,116 min,Remediated
+INC00461,EVT00461,Web Shell Detected,Dr. Jacob Rowe DDS,Escalated,101 min,Escalated to IT Security Lead
+INC00462,EVT00462,Session Hijacking Attempt,Robert Frost,In Progress,21 min,Under Investigation
+INC00463,EVT00463,Account Lockout,Megan Pitts,Closed,171 min,False Positive
+INC00464,EVT00464,Data Exfiltration Attempt,Kyle Stephenson,Closed,132 min,False Positive
+INC00465,EVT00465,Login Success,David Gibson,In Progress,169 min,Under Investigation
+INC00466,EVT00466,Malware Detection,Dakota Walsh,In Progress,57 min,Under Investigation
+INC00467,EVT00467,Configuration Change,Jesus Nielsen,Closed,36 min,False Positive
+INC00468,EVT00468,Data Exfiltration Attempt,Mark Harris,Closed,180 min,Blocked
+INC00469,EVT00469,Session Hijacking Attempt,Sheila Morris,Closed,37 min,Remediated
+INC00470,EVT00470,Failed Login,Dakota Walsh,Closed,67 min,Remediated
+INC00471,EVT00471,DDoS Attempt,Brian Ford,Closed,133 min,False Positive
+INC00472,EVT00472,DDoS Attempt,Crystal Costa,Closed,170 min,Remediated
+INC00473,EVT00473,VPN Connection,David Gibson,Closed,4 min,False Positive
+INC00474,EVT00474,Port Scan,Ricky Blackwell,Closed,12 min,False Positive
+INC00475,EVT00475,Malware Detection,Lori Blevins,Closed,24 min,Remediated
+INC00476,EVT00476,Failed Login,Lori Blevins,Closed,39 min,Blocked
+INC00477,EVT00477,Credential Dumping,Raymond Miller,Closed,164 min,False Positive
+INC00478,EVT00478,Configuration Change,Christopher Gill,Closed,136 min,Remediated
+INC00479,EVT00479,VPN Connection,Darius Hernandez,Closed,7 min,Remediated
+INC00480,EVT00480,Phishing Email,Brian Banks,Closed,82 min,Blocked
+INC00481,EVT00481,Firewall Rule Change,Emily Jackson,Closed,103 min,Remediated
+INC00482,EVT00482,Lateral Movement Detected,Lori Blevins,Open,40 min,Under Investigation
+INC00483,EVT00483,Account Lockout,Dakota Walsh,Closed,128 min,Blocked
+INC00484,EVT00484,Suspicious Process Execution,Derek Wagner,Closed,35 min,Blocked
+INC00485,EVT00485,Credential Dumping,Cassandra Quinn,In Progress,6 min,Under Investigation
+INC00486,EVT00486,USB Device Connected,Brian Ford,Open,8 min,Pending Review
+INC00487,EVT00487,SQL Injection Attempt,Brian Ford,Escalated,53 min,Escalated to Management
+INC00488,EVT00488,Brute Force,Lisa Smith,Closed,45 min,Remediated
+INC00489,EVT00489,Failed Login,Jack Davis,Escalated,77 min,Escalated to Management
+INC00490,EVT00490,Configuration Change,Raymond Miller,In Progress,41 min,Under Investigation
+INC00491,EVT00491,Port Scan,Brian Ford,Closed,56 min,False Positive
+INC00492,EVT00492,Privilege Escalation,Jesus Nielsen,Escalated,88 min,Escalated to IT Security Lead
+INC00493,EVT00493,Malware Detection,Kyle Stephenson,Closed,134 min,Remediated
+INC00494,EVT00494,Lateral Movement Detected,Christina Hartman,Closed,32 min,Remediated
+INC00495,EVT00495,USB Device Connected,Dawn Walsh,Closed,117 min,Remediated
+INC00496,EVT00496,DNS Tunneling Detected,Dakota Walsh,Open,49 min,Pending Review
+INC00497,EVT00497,File Access,David Gibson,In Progress,113 min,Under Investigation
+INC00498,EVT00498,SQL Injection Attempt,Christopher Garner,Closed,68 min,False Positive
+INC00499,EVT00499,Brute Force,Anthony Reynolds,Escalated,31 min,Escalated to Management
+INC00500,EVT00500,USB Device Connected,Brian Ford,Closed,26 min,Blocked
+INC00501,EVT00501,Session Hijacking Attempt,Lori Blevins,Escalated,2 min,Escalated to IT Security Lead
+INC00502,EVT00502,Configuration Change,Megan Pitts,Escalated,68 min,Escalated to Management
+INC00503,EVT00503,File Access,Shannon Montoya,Closed,99 min,False Positive
+INC00504,EVT00504,DDoS Attempt,Jesus Nielsen,In Progress,26 min,Under Investigation
+INC00505,EVT00505,Privilege Escalation,Emily Jackson,Closed,101 min,False Positive
+INC00506,EVT00506,Malware Detection,Emily Jackson,In Progress,67 min,Under Investigation
+INC00507,EVT00507,Suspicious Process Execution,Jennifer Payne,In Progress,174 min,Under Investigation
+INC00508,EVT00508,Failed Login,Patricia Ortiz,Open,135 min,Under Investigation
+INC00509,EVT00509,Malware Detection,Raymond Miller,Closed,78 min,False Positive
+INC00510,EVT00510,Unauthorized Access,Darius Hernandez,Closed,61 min,Blocked
+INC00511,EVT00511,Phishing Email,David Gibson,Open,26 min,Under Investigation
+INC00512,EVT00512,Credential Dumping,Emily Jackson,Closed,134 min,Remediated
+INC00513,EVT00513,Account Lockout,Raymond Miller,Closed,169 min,False Positive
+INC00514,EVT00514,Login Success,Katelyn Harris,Closed,159 min,False Positive
+INC00515,EVT00515,Session Hijacking Attempt,Dakota Walsh,Escalated,74 min,Escalated to IT Security Lead
+INC00516,EVT00516,Ransomware Detected,Robert Frost,Closed,37 min,Blocked
+INC00517,EVT00517,File Access,Lisa Smith,In Progress,8 min,Under Investigation
+INC00518,EVT00518,Web Shell Detected,Dakota Walsh,In Progress,27 min,Under Investigation
+INC00519,EVT00519,Malware Detection,Dawn Walsh,Closed,113 min,Blocked
+INC00520,EVT00520,Login Success,Lisa Smith,In Progress,77 min,Under Investigation
+INC00521,EVT00521,Port Scan,Mark Harris,Closed,171 min,False Positive
+INC00522,EVT00522,DDoS Attempt,Anthony Reynolds,Closed,143 min,False Positive
+INC00523,EVT00523,Privilege Escalation,David Gibson,Open,12 min,Under Investigation
+INC00524,EVT00524,Ransomware Detected,Allen Wood,In Progress,50 min,Under Investigation
+INC00525,EVT00525,Login Success,Dr. Jacob Rowe DDS,Closed,146 min,Remediated
+INC00526,EVT00526,File Access,Katelyn Harris,Closed,176 min,Remediated
+INC00527,EVT00527,Suspicious Process Execution,Raymond Miller,In Progress,125 min,Under Investigation
+INC00528,EVT00528,Configuration Change,Allen Wood,Closed,162 min,Remediated
+INC00529,EVT00529,Lateral Movement Detected,Crystal Costa,Closed,169 min,Remediated
+INC00530,EVT00530,USB Device Connected,Megan Pitts,Closed,142 min,Blocked
+INC00531,EVT00531,File Access,Emily Jackson,Open,46 min,Pending Review
+INC00532,EVT00532,Data Exfiltration Attempt,Jacqueline Scott,Closed,140 min,Remediated
+INC00533,EVT00533,Lateral Movement Detected,Christopher Garner,In Progress,153 min,Under Investigation
+INC00534,EVT00534,Suspicious Process Execution,Emily Jackson,Escalated,9 min,Escalated to IT Security Lead
+INC00535,EVT00535,Failed Login,Cassandra Quinn,Closed,31 min,Blocked
+INC00536,EVT00536,SQL Injection Attempt,Megan Pitts,Closed,116 min,Blocked
+INC00537,EVT00537,DNS Tunneling Detected,Jaime Parsons,Open,151 min,Pending Review
+INC00538,EVT00538,Web Shell Detected,Allen Wood,Escalated,44 min,Escalated to Management
+INC00539,EVT00539,File Access,Amy Coleman,In Progress,138 min,Under Investigation
+INC00540,EVT00540,Data Exfiltration Attempt,Adam Martin,Closed,120 min,False Positive
+INC00541,EVT00541,Phishing Email,Lori Blevins,Closed,31 min,Remediated
+INC00542,EVT00542,Web Shell Detected,Megan Pitts,Closed,45 min,Blocked
+INC00543,EVT00543,Ransomware Detected,Emily Jackson,Closed,116 min,Blocked
+INC00544,EVT00544,Brute Force,Jack Davis,Closed,61 min,Blocked
+INC00545,EVT00545,Web Shell Detected,Sheila Morris,Open,142 min,Under Investigation
+INC00546,EVT00546,Failed Login,Sheila Morris,Closed,26 min,False Positive
+INC00547,EVT00547,Ransomware Detected,Evan Ortiz,Closed,130 min,Blocked
+INC00548,EVT00548,VPN Connection,Jack Davis,Open,103 min,Under Investigation
+INC00549,EVT00549,Ransomware Detected,Allen Wood,Closed,39 min,Blocked
+INC00550,EVT00550,USB Device Connected,Christopher Gill,In Progress,27 min,Under Investigation
+INC00551,EVT00551,Web Shell Detected,Anthony Reynolds,In Progress,86 min,Under Investigation
+INC00552,EVT00552,Firewall Rule Change,Raymond Miller,Escalated,115 min,Escalated to Management
+INC00553,EVT00553,DDoS Attempt,Crystal Costa,In Progress,103 min,Under Investigation
+INC00554,EVT00554,DNS Tunneling Detected,Robert Frost,Escalated,22 min,Escalated to Management
+INC00555,EVT00555,Configuration Change,Sheila Morris,Open,137 min,Pending Review
+INC00556,EVT00556,Suspicious Process Execution,David Jones,In Progress,82 min,Under Investigation
+INC00557,EVT00557,Ransomware Detected,Christopher Gill,Open,180 min,Under Investigation
+INC00558,EVT00558,DDoS Attempt,Jack Davis,Escalated,31 min,Escalated to Management
+INC00559,EVT00559,SQL Injection Attempt,Dakota Walsh,Closed,13 min,False Positive
+INC00560,EVT00560,Malware Detection,Emily Jackson,Escalated,26 min,Escalated to Management
+INC00561,EVT00561,Firewall Rule Change,Anthony Reynolds,Closed,24 min,Remediated
+INC00562,EVT00562,Unauthorized Access,Jacqueline Scott,Closed,83 min,Blocked
+INC00563,EVT00563,VPN Connection,Emily Jackson,In Progress,55 min,Under Investigation
+INC00564,EVT00564,File Access,Derek Wagner,Closed,66 min,Blocked
+INC00565,EVT00565,Data Exfiltration Attempt,Patricia Ortiz,Open,90 min,Pending Review
+INC00566,EVT00566,Port Scan,Allen Wood,In Progress,89 min,Under Investigation
+INC00567,EVT00567,DDoS Attempt,Michael Howell,Closed,27 min,Remediated
+INC00568,EVT00568,File Access,Adam Martin,Open,74 min,Pending Review
+INC00569,EVT00569,Privilege Escalation,Anthony Reynolds,Open,103 min,Pending Review
+INC00570,EVT00570,Lateral Movement Detected,Ricky Blackwell,Open,163 min,Under Investigation
+INC00571,EVT00571,Lateral Movement Detected,Evan Ortiz,Escalated,53 min,Escalated to IT Security Lead
+INC00572,EVT00572,DDoS Attempt,Dawn Walsh,Closed,39 min,Remediated
+INC00573,EVT00573,Malware Detection,Amy Coleman,In Progress,73 min,Under Investigation
+INC00574,EVT00574,Malware Detection,Darius Hernandez,Closed,59 min,False Positive
+INC00575,EVT00575,Login Success,Emily Jackson,Closed,164 min,False Positive
+INC00576,EVT00576,File Access,Dr. Jacob Rowe DDS,In Progress,151 min,Under Investigation
+INC00577,EVT00577,Data Exfiltration Attempt,Austin Parks,Closed,49 min,Remediated
+INC00578,EVT00578,DNS Tunneling Detected,Allen Wood,Closed,80 min,False Positive
+INC00579,EVT00579,Failed Login,Ricky Blackwell,In Progress,115 min,Under Investigation
+INC00580,EVT00580,File Access,Dr. Jacob Rowe DDS,Open,77 min,Under Investigation
+INC00581,EVT00581,VPN Connection,Derek Wagner,Closed,85 min,False Positive
+INC00582,EVT00582,Web Shell Detected,Jennifer Payne,Open,8 min,Pending Review
+INC00583,EVT00583,SQL Injection Attempt,Anthony Reynolds,In Progress,31 min,Under Investigation
+INC00584,EVT00584,VPN Connection,Brian Banks,Closed,106 min,Blocked
+INC00585,EVT00585,DDoS Attempt,Dakota Walsh,In Progress,116 min,Under Investigation
+INC00586,EVT00586,Session Hijacking Attempt,Darius Hernandez,Open,17 min,Under Investigation
+INC00587,EVT00587,SQL Injection Attempt,Derek Wagner,Escalated,176 min,Escalated to Management
+INC00588,EVT00588,SQL Injection Attempt,Dawn Walsh,In Progress,33 min,Under Investigation
+INC00589,EVT00589,Malware Detection,Amy Coleman,Open,57 min,Pending Review
+INC00590,EVT00590,Credential Dumping,Jennifer Payne,Closed,104 min,Blocked
+INC00591,EVT00591,DNS Tunneling Detected,Evan Ortiz,Open,103 min,Under Investigation
+INC00592,EVT00592,Data Exfiltration Attempt,Megan Pitts,Escalated,173 min,Escalated to Management
+INC00593,EVT00593,VPN Connection,Sheila Morris,In Progress,46 min,Under Investigation
+INC00594,EVT00594,Data Exfiltration Attempt,David Gibson,Closed,138 min,False Positive
+INC00595,EVT00595,Unauthorized Access,Jack Davis,Escalated,5 min,Escalated to IT Security Lead
+INC00596,EVT00596,Privilege Escalation,Shannon Montoya,In Progress,127 min,Under Investigation
+INC00597,EVT00597,Malware Detection,Emily Jackson,In Progress,36 min,Under Investigation
+INC00598,EVT00598,Brute Force,Christopher Garner,Closed,78 min,Remediated
+INC00599,EVT00599,Unauthorized Access,Megan Pitts,Escalated,124 min,Escalated to IT Security Lead
+INC00600,EVT00600,Credential Dumping,Lori Blevins,Closed,147 min,Remediated
+INC00601,EVT00601,Data Exfiltration Attempt,Robert Frost,Closed,114 min,Remediated
+INC00602,EVT00602,Port Scan,Anthony Reynolds,Closed,75 min,Remediated
+INC00603,EVT00603,Lateral Movement Detected,Robert Frost,Closed,28 min,Blocked
+INC00604,EVT00604,DDoS Attempt,Allen Wood,In Progress,86 min,Under Investigation
+INC00605,EVT00605,Malware Detection,Darius Hernandez,Closed,60 min,Blocked
+INC00606,EVT00606,Lateral Movement Detected,Jennifer Payne,Open,90 min,Pending Review
+INC00607,EVT00607,Suspicious Process Execution,Raymond Miller,Escalated,84 min,Escalated to Management
+INC00608,EVT00608,Malware Detection,Raymond Miller,Closed,115 min,Blocked
+INC00609,EVT00609,Configuration Change,Michael Howell,Closed,34 min,Blocked
+INC00610,EVT00610,Login Success,Katherine Cook,Escalated,92 min,Escalated to Management
+INC00611,EVT00611,Ransomware Detected,Lisa Smith,Escalated,19 min,Escalated to Management
+INC00612,EVT00612,Account Lockout,Patricia Ortiz,In Progress,110 min,Under Investigation
+INC00613,EVT00613,Phishing Email,Adam Martin,Closed,147 min,Blocked
+INC00614,EVT00614,Configuration Change,Sheila Morris,In Progress,38 min,Under Investigation
+INC00615,EVT00615,Ransomware Detected,Christopher Garner,Escalated,34 min,Escalated to IT Security Lead
+INC00616,EVT00616,File Access,Cassandra Quinn,In Progress,163 min,Under Investigation
+INC00617,EVT00617,USB Device Connected,Austin Parks,Open,101 min,Under Investigation
+INC00618,EVT00618,DNS Tunneling Detected,Ricky Blackwell,Open,79 min,Under Investigation
+INC00619,EVT00619,Firewall Rule Change,Raymond Miller,In Progress,148 min,Under Investigation
+INC00620,EVT00620,USB Device Connected,Amy Coleman,Open,75 min,Pending Review
+INC00621,EVT00621,Port Scan,Anthony Reynolds,Escalated,88 min,Escalated to Management
+INC00622,EVT00622,SQL Injection Attempt,Jesus Nielsen,Closed,81 min,Remediated
+INC00623,EVT00623,Data Exfiltration Attempt,Dakota Walsh,Closed,63 min,False Positive
+INC00624,EVT00624,DDoS Attempt,Jaime Parsons,Closed,91 min,Blocked
+INC00625,EVT00625,Ransomware Detected,Dr. Jacob Rowe DDS,Closed,68 min,Blocked
+INC00626,EVT00626,Phishing Email,Austin Parks,In Progress,17 min,Under Investigation
+INC00627,EVT00627,Web Shell Detected,Katherine Cook,Closed,118 min,False Positive
+INC00628,EVT00628,Suspicious Process Execution,Amy Coleman,Open,60 min,Under Investigation
+INC00629,EVT00629,USB Device Connected,Kyle Stephenson,Closed,136 min,False Positive
+INC00630,EVT00630,Phishing Email,Patricia Ortiz,In Progress,45 min,Under Investigation
+INC00631,EVT00631,DDoS Attempt,Crystal Costa,In Progress,107 min,Under Investigation
+INC00632,EVT00632,Web Shell Detected,Jennifer Payne,Closed,46 min,Blocked
+INC00633,EVT00633,Firewall Rule Change,Dr. Jacob Rowe DDS,Closed,119 min,Remediated
+INC00634,EVT00634,Malware Detection,Raymond Miller,Closed,70 min,False Positive
+INC00635,EVT00635,Account Lockout,Robert Frost,Escalated,36 min,Escalated to IT Security Lead
+INC00636,EVT00636,Privilege Escalation,Jaime Parsons,In Progress,152 min,Under Investigation
+INC00637,EVT00637,Port Scan,Megan Pitts,Escalated,4 min,Escalated to IT Security Lead
+INC00638,EVT00638,Ransomware Detected,Lori Blevins,In Progress,5 min,Under Investigation
+INC00639,EVT00639,Account Lockout,Jennifer Payne,Open,105 min,Pending Review
+INC00640,EVT00640,Brute Force,Cassandra Quinn,Closed,31 min,Blocked
+INC00641,EVT00641,Malware Detection,David Gibson,In Progress,109 min,Under Investigation
+INC00642,EVT00642,Malware Detection,Austin Parks,Closed,107 min,False Positive
+INC00643,EVT00643,Malware Detection,Crystal Costa,Closed,45 min,Remediated
+INC00644,EVT00644,Malware Detection,Dawn Walsh,Open,10 min,Under Investigation
+INC00645,EVT00645,Session Hijacking Attempt,Ricky Blackwell,Closed,85 min,Remediated
+INC00646,EVT00646,DDoS Attempt,Brian Ford,Closed,37 min,Blocked
+INC00647,EVT00647,VPN Connection,Jaime Parsons,In Progress,137 min,Under Investigation
+INC00648,EVT00648,DDoS Attempt,David Jones,Closed,103 min,False Positive
+INC00649,EVT00649,Firewall Rule Change,Allen Wood,Open,11 min,Pending Review
+INC00650,EVT00650,Failed Login,Sheila Morris,Open,80 min,Under Investigation
+INC00651,EVT00651,Account Lockout,Cassandra Quinn,In Progress,64 min,Under Investigation
+INC00652,EVT00652,Session Hijacking Attempt,Anthony Reynolds,Open,87 min,Under Investigation
+INC00653,EVT00653,USB Device Connected,Katherine Cook,Closed,150 min,Blocked
+INC00654,EVT00654,Unauthorized Access,Katelyn Harris,Closed,108 min,Blocked
+INC00655,EVT00655,Firewall Rule Change,Megan Pitts,Escalated,158 min,Escalated to IT Security Lead
+INC00656,EVT00656,File Access,Mark Harris,Closed,32 min,False Positive
+INC00657,EVT00657,Phishing Email,Crystal Costa,Escalated,6 min,Escalated to Management
+INC00658,EVT00658,Ransomware Detected,Dr. Jacob Rowe DDS,In Progress,41 min,Under Investigation
+INC00659,EVT00659,Unauthorized Access,David Jones,In Progress,60 min,Under Investigation
+INC00660,EVT00660,Unauthorized Access,David Jones,In Progress,65 min,Under Investigation
+INC00661,EVT00661,Configuration Change,Jennifer Payne,Closed,179 min,Blocked
+INC00662,EVT00662,Credential Dumping,David Jones,Closed,146 min,False Positive
+INC00663,EVT00663,SQL Injection Attempt,Dakota Walsh,Escalated,140 min,Escalated to Management
+INC00664,EVT00664,Unauthorized Access,Derek Wagner,Closed,86 min,False Positive
+INC00665,EVT00665,Account Lockout,Amy Coleman,Closed,145 min,False Positive
+INC00666,EVT00666,Failed Login,Jack Davis,Closed,5 min,Remediated
+INC00667,EVT00667,Failed Login,Christopher Garner,Closed,110 min,Remediated
+INC00668,EVT00668,Login Success,Anthony Reynolds,Closed,165 min,False Positive
+INC00669,EVT00669,Brute Force,Derek Wagner,Open,141 min,Under Investigation
+INC00670,EVT00670,Failed Login,Jack Davis,In Progress,137 min,Under Investigation
+INC00671,EVT00671,USB Device Connected,Raymond Miller,Closed,57 min,Blocked
+INC00672,EVT00672,Brute Force,Austin Parks,Open,29 min,Under Investigation
+INC00673,EVT00673,Account Lockout,Brian Ford,In Progress,50 min,Under Investigation
+INC00674,EVT00674,Lateral Movement Detected,Anthony Reynolds,Closed,108 min,Blocked
+INC00675,EVT00675,Session Hijacking Attempt,Lisa Smith,In Progress,20 min,Under Investigation
+INC00676,EVT00676,Session Hijacking Attempt,Austin Parks,In Progress,117 min,Under Investigation
+INC00677,EVT00677,Suspicious Process Execution,Allen Wood,Closed,2 min,Remediated
+INC00678,EVT00678,File Access,Amy Coleman,Escalated,42 min,Escalated to Management
+INC00679,EVT00679,Ransomware Detected,Darius Hernandez,In Progress,48 min,Under Investigation
+INC00680,EVT00680,Phishing Email,Megan Pitts,Closed,32 min,False Positive
+INC00681,EVT00681,Suspicious Process Execution,Sheila Morris,Open,50 min,Under Investigation
+INC00682,EVT00682,DNS Tunneling Detected,Evan Ortiz,Escalated,152 min,Escalated to Management
+INC00683,EVT00683,Data Exfiltration Attempt,Jennifer Payne,Closed,162 min,Remediated
+INC00684,EVT00684,Data Exfiltration Attempt,Patricia Ortiz,Closed,145 min,Remediated
+INC00685,EVT00685,Credential Dumping,Dakota Walsh,In Progress,171 min,Under Investigation
+INC00686,EVT00686,Lateral Movement Detected,Robert Frost,In Progress,24 min,Under Investigation
+INC00687,EVT00687,Suspicious Process Execution,Shannon Montoya,In Progress,103 min,Under Investigation
+INC00688,EVT00688,Credential Dumping,Robert Frost,In Progress,45 min,Under Investigation
+INC00689,EVT00689,Unauthorized Access,Darius Hernandez,Open,89 min,Pending Review
+INC00690,EVT00690,Port Scan,Michael Howell,Open,155 min,Pending Review
+INC00691,EVT00691,Phishing Email,Lisa Smith,Closed,117 min,False Positive
+INC00692,EVT00692,Failed Login,Jaime Parsons,Closed,142 min,False Positive
+INC00693,EVT00693,Web Shell Detected,Jacqueline Scott,Closed,95 min,Remediated
+INC00694,EVT00694,Failed Login,Jennifer Payne,Escalated,147 min,Escalated to Management
+INC00695,EVT00695,Malware Detection,Jennifer Payne,Open,178 min,Under Investigation
+INC00696,EVT00696,SQL Injection Attempt,Dakota Walsh,Closed,137 min,Remediated
+INC00697,EVT00697,VPN Connection,Derek Wagner,Closed,127 min,Blocked
+INC00698,EVT00698,Credential Dumping,Lisa Smith,Closed,55 min,Remediated
+INC00699,EVT00699,DNS Tunneling Detected,Dakota Walsh,In Progress,43 min,Under Investigation
+INC00700,EVT00700,Privilege Escalation,Sheila Morris,In Progress,113 min,Under Investigation
+INC00701,EVT00701,Port Scan,Mark Harris,Closed,167 min,Blocked
+INC00702,EVT00702,Credential Dumping,Michael Howell,Closed,81 min,Remediated
+INC00703,EVT00703,Malware Detection,Michael Howell,Closed,145 min,False Positive
+INC00704,EVT00704,Session Hijacking Attempt,Lori Blevins,Closed,94 min,Remediated
+INC00705,EVT00705,Malware Detection,David Gibson,Closed,24 min,False Positive
+INC00706,EVT00706,Lateral Movement Detected,Evan Ortiz,In Progress,25 min,Under Investigation
+INC00707,EVT00707,Web Shell Detected,Darius Hernandez,Closed,170 min,Blocked
+INC00708,EVT00708,Privilege Escalation,Dakota Walsh,In Progress,77 min,Under Investigation
+INC00709,EVT00709,Port Scan,Kyle Stephenson,Closed,133 min,Remediated
+INC00710,EVT00710,Login Success,Dr. Jacob Rowe DDS,In Progress,29 min,Under Investigation
+INC00711,EVT00711,Firewall Rule Change,Dawn Walsh,In Progress,65 min,Under Investigation
+INC00712,EVT00712,USB Device Connected,Anthony Reynolds,In Progress,138 min,Under Investigation
+INC00713,EVT00713,Brute Force,Patricia Ortiz,Closed,52 min,Remediated
+INC00714,EVT00714,Login Success,Jaime Parsons,In Progress,63 min,Under Investigation
+INC00715,EVT00715,Credential Dumping,Ricky Blackwell,Closed,79 min,Remediated
+INC00716,EVT00716,Firewall Rule Change,Derek Wagner,In Progress,111 min,Under Investigation
+INC00717,EVT00717,Phishing Email,Christina Hartman,Closed,34 min,False Positive
+INC00718,EVT00718,Brute Force,Megan Pitts,Escalated,70 min,Escalated to IT Security Lead
+INC00719,EVT00719,Unauthorized Access,Jacqueline Scott,In Progress,106 min,Under Investigation
+INC00720,EVT00720,USB Device Connected,Brian Ford,Closed,58 min,Remediated
+INC00721,EVT00721,Privilege Escalation,Brian Ford,Closed,59 min,False Positive
+INC00722,EVT00722,Session Hijacking Attempt,Lisa Smith,Escalated,61 min,Escalated to Management
+INC00723,EVT00723,DDoS Attempt,Jaime Parsons,Open,164 min,Under Investigation
+INC00724,EVT00724,DNS Tunneling Detected,Adam Martin,Open,103 min,Pending Review
+INC00725,EVT00725,USB Device Connected,Austin Parks,Closed,117 min,False Positive
+INC00726,EVT00726,Login Success,Robert Frost,In Progress,86 min,Under Investigation
+INC00727,EVT00727,VPN Connection,Jesus Nielsen,Closed,78 min,Remediated
+INC00728,EVT00728,Login Success,Robert Frost,Closed,179 min,Blocked
+INC00729,EVT00729,Credential Dumping,Raymond Miller,In Progress,79 min,Under Investigation
+INC00730,EVT00730,Data Exfiltration Attempt,Lisa Smith,Closed,61 min,False Positive
+INC00731,EVT00731,DNS Tunneling Detected,Katelyn Harris,In Progress,166 min,Under Investigation
+INC00732,EVT00732,Privilege Escalation,Darius Hernandez,In Progress,164 min,Under Investigation
+INC00733,EVT00733,DDoS Attempt,Christopher Garner,Closed,127 min,Remediated
+INC00734,EVT00734,SQL Injection Attempt,Jack Davis,In Progress,38 min,Under Investigation
+INC00735,EVT00735,Web Shell Detected,David Jones,In Progress,145 min,Under Investigation
+INC00736,EVT00736,Lateral Movement Detected,Emily Jackson,Closed,121 min,Remediated
+INC00737,EVT00737,SQL Injection Attempt,Allen Wood,Closed,27 min,Blocked
+INC00738,EVT00738,Credential Dumping,Raymond Miller,Open,113 min,Pending Review
+INC00739,EVT00739,Port Scan,David Gibson,Escalated,34 min,Escalated to Management
+INC00740,EVT00740,Data Exfiltration Attempt,Brian Banks,Closed,132 min,Remediated
+INC00741,EVT00741,DNS Tunneling Detected,Darius Hernandez,Open,96 min,Pending Review
+INC00742,EVT00742,Privilege Escalation,Jacqueline Scott,Open,29 min,Pending Review
+INC00743,EVT00743,Firewall Rule Change,Crystal Costa,Closed,121 min,False Positive
+INC00744,EVT00744,Account Lockout,Raymond Miller,In Progress,102 min,Under Investigation
+INC00745,EVT00745,File Access,Cassandra Quinn,Closed,34 min,Remediated
+INC00746,EVT00746,Configuration Change,Dakota Walsh,Closed,147 min,False Positive
+INC00747,EVT00747,Configuration Change,Christopher Gill,Closed,118 min,Blocked
+INC00748,EVT00748,Brute Force,Jennifer Payne,Escalated,8 min,Escalated to IT Security Lead
+INC00749,EVT00749,Firewall Rule Change,Robert Frost,Closed,17 min,Blocked
+INC00750,EVT00750,Login Success,Jesus Nielsen,Escalated,116 min,Escalated to IT Security Lead
+INC00751,EVT00751,Ransomware Detected,Emily Jackson,Escalated,168 min,Escalated to Management
+INC00752,EVT00752,Credential Dumping,Katherine Cook,Open,115 min,Under Investigation
+INC00753,EVT00753,Ransomware Detected,Katherine Cook,In Progress,69 min,Under Investigation
+INC00754,EVT00754,Unauthorized Access,Anthony Reynolds,Closed,109 min,False Positive
+INC00755,EVT00755,SQL Injection Attempt,Adam Martin,Closed,84 min,Remediated
+INC00756,EVT00756,Web Shell Detected,Dakota Walsh,Closed,108 min,False Positive
+INC00757,EVT00757,Account Lockout,Shannon Montoya,Closed,42 min,Blocked
+INC00758,EVT00758,Session Hijacking Attempt,Katelyn Harris,Escalated,161 min,Escalated to Management
+INC00759,EVT00759,Data Exfiltration Attempt,Katherine Cook,In Progress,88 min,Under Investigation
+INC00760,EVT00760,Malware Detection,Anthony Reynolds,In Progress,175 min,Under Investigation
+INC00761,EVT00761,Brute Force,Brian Ford,Escalated,86 min,Escalated to IT Security Lead
+INC00762,EVT00762,Credential Dumping,Mark Harris,Open,103 min,Pending Review
+INC00763,EVT00763,SQL Injection Attempt,Jacqueline Scott,Closed,12 min,Blocked
+INC00764,EVT00764,File Access,Evan Ortiz,Closed,70 min,Remediated
+INC00765,EVT00765,Web Shell Detected,Christopher Garner,Closed,10 min,Remediated
+INC00766,EVT00766,Data Exfiltration Attempt,Derek Wagner,In Progress,38 min,Under Investigation
+INC00767,EVT00767,Data Exfiltration Attempt,Patricia Ortiz,Open,125 min,Under Investigation
+INC00768,EVT00768,Lateral Movement Detected,Crystal Costa,Closed,110 min,Remediated
+INC00769,EVT00769,Failed Login,Evan Ortiz,Escalated,43 min,Escalated to Management
+INC00770,EVT00770,Account Lockout,Sheila Morris,Closed,133 min,Remediated
+INC00771,EVT00771,Brute Force,Amy Coleman,Closed,28 min,Blocked
+INC00772,EVT00772,DDoS Attempt,Robert Frost,Escalated,132 min,Escalated to Management
+INC00773,EVT00773,Credential Dumping,Emily Jackson,Closed,64 min,Remediated
+INC00774,EVT00774,Account Lockout,Brian Banks,Open,136 min,Under Investigation
+INC00775,EVT00775,Configuration Change,Dawn Walsh,Closed,66 min,Remediated
+INC00776,EVT00776,VPN Connection,Jack Davis,Closed,92 min,Remediated
+INC00777,EVT00777,Login Success,Adam Martin,Escalated,38 min,Escalated to IT Security Lead
+INC00778,EVT00778,Port Scan,Patricia Ortiz,Closed,33 min,False Positive
+INC00779,EVT00779,Failed Login,Ricky Blackwell,Closed,101 min,Blocked
+INC00780,EVT00780,Ransomware Detected,Dakota Walsh,Closed,41 min,False Positive
+INC00781,EVT00781,Ransomware Detected,Jennifer Payne,Open,128 min,Pending Review
+INC00782,EVT00782,USB Device Connected,Robert Frost,Closed,178 min,False Positive
+INC00783,EVT00783,Malware Detection,Patricia Ortiz,Closed,10 min,Remediated
+INC00784,EVT00784,DDoS Attempt,Derek Wagner,Closed,40 min,Blocked
+INC00785,EVT00785,Lateral Movement Detected,Sheila Morris,Closed,12 min,False Positive
+INC00786,EVT00786,DNS Tunneling Detected,Katherine Cook,Escalated,51 min,Escalated to Management
+INC00787,EVT00787,Ransomware Detected,Megan Pitts,Closed,77 min,Remediated
+INC00788,EVT00788,Lateral Movement Detected,Brian Banks,Open,8 min,Pending Review
+INC00789,EVT00789,USB Device Connected,Jaime Parsons,Closed,47 min,False Positive
+INC00790,EVT00790,Unauthorized Access,Amy Coleman,Escalated,164 min,Escalated to IT Security Lead
+INC00791,EVT00791,Port Scan,Anthony Reynolds,Closed,166 min,False Positive
+INC00792,EVT00792,Lateral Movement Detected,Adam Martin,In Progress,138 min,Under Investigation
+INC00793,EVT00793,Malware Detection,Mark Harris,Closed,97 min,Blocked
+INC00794,EVT00794,Data Exfiltration Attempt,Cassandra Quinn,Closed,32 min,Blocked
+INC00795,EVT00795,VPN Connection,Shannon Montoya,In Progress,77 min,Under Investigation
+INC00796,EVT00796,Privilege Escalation,Kyle Stephenson,Escalated,148 min,Escalated to IT Security Lead
+INC00797,EVT00797,VPN Connection,Kyle Stephenson,Closed,33 min,Blocked
+INC00798,EVT00798,File Access,Jaime Parsons,In Progress,124 min,Under Investigation
+INC00799,EVT00799,SQL Injection Attempt,Derek Wagner,Closed,63 min,Remediated
+INC00800,EVT00800,Configuration Change,Jesus Nielsen,Closed,12 min,Blocked
+INC00801,EVT00801,SQL Injection Attempt,Cassandra Quinn,Open,162 min,Under Investigation
+INC00802,EVT00802,Failed Login,Allen Wood,Closed,105 min,Remediated
+INC00803,EVT00803,Failed Login,Dawn Walsh,Closed,51 min,False Positive
+INC00804,EVT00804,Privilege Escalation,David Jones,Closed,100 min,Blocked
+INC00805,EVT00805,Web Shell Detected,Katherine Cook,Closed,174 min,Blocked
+INC00806,EVT00806,Lateral Movement Detected,Anthony Reynolds,Open,100 min,Under Investigation
+INC00807,EVT00807,Credential Dumping,Kyle Stephenson,Closed,28 min,False Positive
+INC00808,EVT00808,Phishing Email,Dawn Walsh,Closed,133 min,False Positive
+INC00809,EVT00809,Web Shell Detected,Dawn Walsh,In Progress,80 min,Under Investigation
+INC00810,EVT00810,DNS Tunneling Detected,Mark Harris,Closed,58 min,Blocked
+INC00811,EVT00811,Lateral Movement Detected,Christopher Gill,Open,171 min,Under Investigation
+INC00812,EVT00812,Lateral Movement Detected,Evan Ortiz,Closed,133 min,False Positive
+INC00813,EVT00813,DNS Tunneling Detected,Raymond Miller,Closed,17 min,False Positive
+INC00814,EVT00814,Malware Detection,Jaime Parsons,Closed,44 min,Blocked
+INC00815,EVT00815,DNS Tunneling Detected,Lori Blevins,Open,113 min,Pending Review
+INC00816,EVT00816,USB Device Connected,Brian Ford,Escalated,40 min,Escalated to IT Security Lead
+INC00817,EVT00817,File Access,Mark Harris,In Progress,168 min,Under Investigation
+INC00818,EVT00818,Account Lockout,Christopher Gill,Open,69 min,Pending Review
+INC00819,EVT00819,Privilege Escalation,Jaime Parsons,Closed,81 min,False Positive
+INC00820,EVT00820,Privilege Escalation,Dakota Walsh,Closed,143 min,False Positive
+INC00821,EVT00821,Account Lockout,Crystal Costa,Escalated,139 min,Escalated to Management
+INC00822,EVT00822,Credential Dumping,Crystal Costa,In Progress,174 min,Under Investigation
+INC00823,EVT00823,Account Lockout,Dawn Walsh,Closed,30 min,False Positive
+INC00824,EVT00824,Brute Force,Katelyn Harris,Closed,142 min,Remediated
+INC00825,EVT00825,Suspicious Process Execution,Christopher Gill,In Progress,136 min,Under Investigation
+INC00826,EVT00826,DNS Tunneling Detected,Christina Hartman,Closed,93 min,Blocked
+INC00827,EVT00827,SQL Injection Attempt,Shannon Montoya,Closed,6 min,Remediated
+INC00828,EVT00828,Credential Dumping,Cassandra Quinn,Closed,13 min,Blocked
+INC00829,EVT00829,SQL Injection Attempt,Christopher Garner,Open,88 min,Under Investigation
+INC00830,EVT00830,Web Shell Detected,Brian Banks,Closed,100 min,Blocked
+INC00831,EVT00831,Configuration Change,Katherine Cook,Closed,22 min,False Positive
+INC00832,EVT00832,Credential Dumping,David Gibson,Open,15 min,Under Investigation
+INC00833,EVT00833,Brute Force,Shannon Montoya,Closed,136 min,Blocked
+INC00834,EVT00834,Account Lockout,Lori Blevins,Closed,99 min,Remediated
+INC00835,EVT00835,Account Lockout,Adam Martin,Escalated,176 min,Escalated to IT Security Lead
+INC00836,EVT00836,Configuration Change,David Jones,Closed,130 min,False Positive
+INC00837,EVT00837,File Access,Amy Coleman,Open,36 min,Under Investigation
+INC00838,EVT00838,DDoS Attempt,Jacqueline Scott,Closed,150 min,False Positive
+INC00839,EVT00839,Configuration Change,Raymond Miller,In Progress,5 min,Under Investigation
+INC00840,EVT00840,Session Hijacking Attempt,Christina Hartman,Open,180 min,Pending Review
+INC00841,EVT00841,Privilege Escalation,Lisa Smith,Escalated,41 min,Escalated to Management
+INC00842,EVT00842,Session Hijacking Attempt,Cassandra Quinn,Closed,126 min,Remediated
+INC00843,EVT00843,Credential Dumping,Cassandra Quinn,Closed,13 min,Remediated
+INC00844,EVT00844,File Access,Kyle Stephenson,Closed,22 min,Remediated
+INC00845,EVT00845,Phishing Email,Emily Jackson,Closed,172 min,False Positive
+INC00846,EVT00846,File Access,Austin Parks,In Progress,63 min,Under Investigation
+INC00847,EVT00847,Session Hijacking Attempt,Darius Hernandez,Closed,35 min,Remediated
+INC00848,EVT00848,Unauthorized Access,Dr. Jacob Rowe DDS,Open,149 min,Under Investigation
+INC00849,EVT00849,Malware Detection,Michael Howell,In Progress,142 min,Under Investigation
+INC00850,EVT00850,Data Exfiltration Attempt,Evan Ortiz,Open,15 min,Under Investigation
+INC00851,EVT00851,Ransomware Detected,Jesus Nielsen,Closed,108 min,False Positive
+INC00852,EVT00852,Data Exfiltration Attempt,Crystal Costa,In Progress,179 min,Under Investigation
+INC00853,EVT00853,Login Success,Katelyn Harris,In Progress,143 min,Under Investigation
+INC00854,EVT00854,File Access,Katelyn Harris,Closed,59 min,False Positive
+INC00855,EVT00855,Configuration Change,Dakota Walsh,Escalated,3 min,Escalated to IT Security Lead
+INC00856,EVT00856,DDoS Attempt,Michael Howell,Escalated,109 min,Escalated to Management
+INC00857,EVT00857,Data Exfiltration Attempt,Christina Hartman,Escalated,66 min,Escalated to Management
+INC00858,EVT00858,SQL Injection Attempt,Dawn Walsh,In Progress,116 min,Under Investigation
+INC00859,EVT00859,Firewall Rule Change,Mark Harris,Open,89 min,Pending Review
+INC00860,EVT00860,Account Lockout,Megan Pitts,Closed,164 min,Blocked
+INC00861,EVT00861,Account Lockout,Evan Ortiz,Closed,73 min,Remediated
+INC00862,EVT00862,Phishing Email,Megan Pitts,Closed,158 min,Remediated
+INC00863,EVT00863,Suspicious Process Execution,Allen Wood,Open,61 min,Pending Review
+INC00864,EVT00864,File Access,Raymond Miller,Escalated,12 min,Escalated to IT Security Lead
+INC00865,EVT00865,Login Success,Crystal Costa,Closed,100 min,Remediated
+INC00866,EVT00866,Unauthorized Access,Allen Wood,Closed,4 min,Blocked
+INC00867,EVT00867,Data Exfiltration Attempt,Brian Banks,Open,54 min,Under Investigation
+INC00868,EVT00868,Firewall Rule Change,Katherine Cook,Closed,51 min,False Positive
+INC00869,EVT00869,File Access,Jaime Parsons,Open,105 min,Pending Review
+INC00870,EVT00870,Malware Detection,Jaime Parsons,Closed,111 min,False Positive
+INC00871,EVT00871,Ransomware Detected,Katherine Cook,Closed,8 min,Remediated
+INC00872,EVT00872,Configuration Change,Crystal Costa,Escalated,36 min,Escalated to Management
+INC00873,EVT00873,Credential Dumping,Christina Hartman,Escalated,158 min,Escalated to Management
+INC00874,EVT00874,Phishing Email,Patricia Ortiz,Open,75 min,Under Investigation
+INC00875,EVT00875,Lateral Movement Detected,Jesus Nielsen,In Progress,127 min,Under Investigation
+INC00876,EVT00876,Ransomware Detected,Ricky Blackwell,In Progress,128 min,Under Investigation
+INC00877,EVT00877,USB Device Connected,Brian Ford,Closed,5 min,Blocked
+INC00878,EVT00878,Malware Detection,Jennifer Payne,In Progress,105 min,Under Investigation
+INC00879,EVT00879,Brute Force,Dawn Walsh,Closed,64 min,False Positive
+INC00880,EVT00880,USB Device Connected,Evan Ortiz,Open,115 min,Under Investigation
+INC00881,EVT00881,DDoS Attempt,Derek Wagner,Closed,53 min,Blocked
+INC00882,EVT00882,Data Exfiltration Attempt,Jacqueline Scott,In Progress,99 min,Under Investigation
+INC00883,EVT00883,Configuration Change,Dr. Jacob Rowe DDS,In Progress,38 min,Under Investigation
+INC00884,EVT00884,Unauthorized Access,Dakota Walsh,Escalated,38 min,Escalated to Management
+INC00885,EVT00885,Session Hijacking Attempt,Ricky Blackwell,Open,86 min,Pending Review
+INC00886,EVT00886,Session Hijacking Attempt,Kyle Stephenson,Closed,152 min,False Positive
+INC00887,EVT00887,Privilege Escalation,Christopher Garner,In Progress,153 min,Under Investigation
+INC00888,EVT00888,USB Device Connected,Anthony Reynolds,In Progress,70 min,Under Investigation
+INC00889,EVT00889,Session Hijacking Attempt,Crystal Costa,Open,30 min,Under Investigation
+INC00890,EVT00890,Port Scan,Emily Jackson,Closed,95 min,Blocked
+INC00891,EVT00891,Suspicious Process Execution,Megan Pitts,Closed,46 min,False Positive
+INC00892,EVT00892,Failed Login,Adam Martin,Closed,148 min,False Positive
+INC00893,EVT00893,Phishing Email,Michael Howell,Closed,31 min,False Positive
+INC00894,EVT00894,Web Shell Detected,Sheila Morris,Closed,44 min,Blocked
+INC00895,EVT00895,Phishing Email,Sheila Morris,In Progress,120 min,Under Investigation
+INC00896,EVT00896,Data Exfiltration Attempt,Jesus Nielsen,Closed,48 min,Remediated
+INC00897,EVT00897,Lateral Movement Detected,Shannon Montoya,Open,70 min,Under Investigation
+INC00898,EVT00898,DNS Tunneling Detected,Jesus Nielsen,In Progress,132 min,Under Investigation
+INC00899,EVT00899,Account Lockout,Patricia Ortiz,Closed,84 min,Blocked
+INC00900,EVT00900,Suspicious Process Execution,Darius Hernandez,Closed,175 min,False Positive
+INC00901,EVT00901,Phishing Email,Shannon Montoya,Closed,43 min,False Positive
+INC00902,EVT00902,Port Scan,Mark Harris,Open,162 min,Under Investigation
+INC00903,EVT00903,Unauthorized Access,Amy Coleman,In Progress,64 min,Under Investigation
+INC00904,EVT00904,DNS Tunneling Detected,Kyle Stephenson,Escalated,96 min,Escalated to IT Security Lead
+INC00905,EVT00905,Login Success,Darius Hernandez,Open,151 min,Under Investigation
+INC00906,EVT00906,Unauthorized Access,Megan Pitts,Closed,165 min,False Positive
+INC00907,EVT00907,USB Device Connected,Kyle Stephenson,Closed,5 min,False Positive
+INC00908,EVT00908,Phishing Email,Dawn Walsh,Escalated,118 min,Escalated to IT Security Lead
+INC00909,EVT00909,Unauthorized Access,Evan Ortiz,In Progress,39 min,Under Investigation
+INC00910,EVT00910,Login Success,David Gibson,Closed,8 min,False Positive
+INC00911,EVT00911,Port Scan,Jack Davis,In Progress,16 min,Under Investigation
+INC00912,EVT00912,DDoS Attempt,Megan Pitts,In Progress,5 min,Under Investigation
+INC00913,EVT00913,Brute Force,Christina Hartman,Closed,74 min,Remediated
+INC00914,EVT00914,Suspicious Process Execution,Robert Frost,Closed,74 min,Remediated
+INC00915,EVT00915,Unauthorized Access,Raymond Miller,Closed,64 min,Blocked
+INC00916,EVT00916,Port Scan,Katelyn Harris,Closed,25 min,Blocked
+INC00917,EVT00917,VPN Connection,Allen Wood,Closed,54 min,Blocked
+INC00918,EVT00918,Suspicious Process Execution,Jaime Parsons,In Progress,142 min,Under Investigation
+INC00919,EVT00919,DDoS Attempt,Raymond Miller,In Progress,52 min,Under Investigation
+INC00920,EVT00920,Ransomware Detected,Shannon Montoya,Open,112 min,Under Investigation
+INC00921,EVT00921,Failed Login,Brian Ford,Closed,160 min,Blocked
+INC00922,EVT00922,Malware Detection,Brian Ford,In Progress,5 min,Under Investigation
+INC00923,EVT00923,File Access,Jaime Parsons,Closed,39 min,Blocked
+INC00924,EVT00924,File Access,Ricky Blackwell,Escalated,94 min,Escalated to Management
+INC00925,EVT00925,File Access,Brian Banks,Closed,153 min,Blocked
+INC00926,EVT00926,Account Lockout,Evan Ortiz,Closed,174 min,Blocked
+INC00927,EVT00927,Unauthorized Access,Austin Parks,Open,156 min,Pending Review
+INC00928,EVT00928,USB Device Connected,Christopher Gill,Closed,74 min,Remediated
+INC00929,EVT00929,Configuration Change,Christina Hartman,Escalated,75 min,Escalated to IT Security Lead
+INC00930,EVT00930,Unauthorized Access,Emily Jackson,Closed,124 min,Blocked
+INC00931,EVT00931,DNS Tunneling Detected,Adam Martin,Closed,98 min,Remediated
+INC00932,EVT00932,Unauthorized Access,Katelyn Harris,In Progress,179 min,Under Investigation
+INC00933,EVT00933,Failed Login,Derek Wagner,Closed,3 min,Remediated
+INC00934,EVT00934,Account Lockout,Darius Hernandez,Closed,172 min,False Positive
+INC00935,EVT00935,Configuration Change,Cassandra Quinn,Open,77 min,Under Investigation
+INC00936,EVT00936,Failed Login,Derek Wagner,In Progress,111 min,Under Investigation
+INC00937,EVT00937,Credential Dumping,Kyle Stephenson,Closed,80 min,Blocked
+INC00938,EVT00938,File Access,Crystal Costa,Closed,73 min,False Positive
+INC00939,EVT00939,Phishing Email,Dr. Jacob Rowe DDS,Closed,174 min,False Positive
+INC00940,EVT00940,Brute Force,Shannon Montoya,Closed,166 min,Remediated
+INC00941,EVT00941,Port Scan,Brian Ford,Escalated,17 min,Escalated to Management
+INC00942,EVT00942,Phishing Email,Dawn Walsh,Closed,122 min,False Positive
+INC00943,EVT00943,Data Exfiltration Attempt,Crystal Costa,In Progress,38 min,Under Investigation
+INC00944,EVT00944,Login Success,Christopher Gill,Closed,31 min,Blocked
+INC00945,EVT00945,Data Exfiltration Attempt,Patricia Ortiz,In Progress,133 min,Under Investigation
+INC00946,EVT00946,Malware Detection,Adam Martin,Closed,117 min,Remediated
+INC00947,EVT00947,DDoS Attempt,Raymond Miller,Open,15 min,Pending Review
+INC00948,EVT00948,Privilege Escalation,Raymond Miller,Open,162 min,Pending Review
+INC00949,EVT00949,Failed Login,Ricky Blackwell,In Progress,168 min,Under Investigation
+INC00950,EVT00950,Failed Login,Christina Hartman,Closed,157 min,False Positive
+INC00951,EVT00951,Unauthorized Access,Amy Coleman,Closed,142 min,Blocked
+INC00952,EVT00952,Ransomware Detected,Jesus Nielsen,Open,142 min,Under Investigation
+INC00953,EVT00953,Credential Dumping,Katherine Cook,Escalated,164 min,Escalated to Management
+INC00954,EVT00954,DNS Tunneling Detected,Lori Blevins,Closed,104 min,False Positive
+INC00955,EVT00955,Ransomware Detected,Christopher Garner,Closed,164 min,False Positive
+INC00956,EVT00956,Credential Dumping,Allen Wood,Closed,95 min,Blocked
+INC00957,EVT00957,Ransomware Detected,Amy Coleman,In Progress,167 min,Under Investigation
+INC00958,EVT00958,DDoS Attempt,Megan Pitts,Escalated,52 min,Escalated to IT Security Lead
+INC00959,EVT00959,Web Shell Detected,Katelyn Harris,Closed,166 min,Blocked
+INC00960,EVT00960,Account Lockout,Robert Frost,Closed,157 min,Remediated
+INC00961,EVT00961,Ransomware Detected,Anthony Reynolds,In Progress,92 min,Under Investigation
+INC00962,EVT00962,USB Device Connected,David Jones,Escalated,137 min,Escalated to Management
+INC00963,EVT00963,Session Hijacking Attempt,Crystal Costa,Closed,169 min,Blocked
+INC00964,EVT00964,Ransomware Detected,Jesus Nielsen,In Progress,82 min,Under Investigation
+INC00965,EVT00965,Unauthorized Access,Amy Coleman,Escalated,18 min,Escalated to Management
+INC00966,EVT00966,Login Success,Shannon Montoya,Closed,49 min,Remediated
+INC00967,EVT00967,VPN Connection,Derek Wagner,Closed,153 min,Remediated
+INC00968,EVT00968,Session Hijacking Attempt,Lisa Smith,Closed,38 min,Blocked
+INC00969,EVT00969,Login Success,Lisa Smith,Open,63 min,Under Investigation
+INC00970,EVT00970,Unauthorized Access,Megan Pitts,Closed,98 min,Blocked
+INC00971,EVT00971,Data Exfiltration Attempt,Cassandra Quinn,In Progress,9 min,Under Investigation
+INC00972,EVT00972,Session Hijacking Attempt,Ricky Blackwell,In Progress,172 min,Under Investigation
+INC00973,EVT00973,Lateral Movement Detected,Katherine Cook,In Progress,148 min,Under Investigation
+INC00974,EVT00974,Ransomware Detected,Amy Coleman,Closed,23 min,False Positive
+INC00975,EVT00975,VPN Connection,Jack Davis,Closed,94 min,Blocked
+INC00976,EVT00976,Credential Dumping,Brian Banks,Closed,57 min,Blocked
+INC00977,EVT00977,Session Hijacking Attempt,Amy Coleman,In Progress,112 min,Under Investigation
+INC00978,EVT00978,Configuration Change,Austin Parks,Closed,23 min,False Positive
+INC00979,EVT00979,Data Exfiltration Attempt,Shannon Montoya,Closed,15 min,Remediated
+INC00980,EVT00980,Session Hijacking Attempt,Christopher Garner,In Progress,66 min,Under Investigation
+INC00981,EVT00981,SQL Injection Attempt,David Gibson,Closed,112 min,Remediated
+INC00982,EVT00982,Lateral Movement Detected,Katelyn Harris,Open,173 min,Under Investigation
+INC00983,EVT00983,VPN Connection,David Gibson,Closed,85 min,Blocked
+INC00984,EVT00984,File Access,Allen Wood,In Progress,96 min,Under Investigation
+INC00985,EVT00985,Port Scan,Austin Parks,Closed,78 min,False Positive
+INC00986,EVT00986,Firewall Rule Change,Derek Wagner,In Progress,54 min,Under Investigation
+INC00987,EVT00987,DNS Tunneling Detected,Amy Coleman,Closed,4 min,False Positive
+INC00988,EVT00988,Data Exfiltration Attempt,Cassandra Quinn,Closed,158 min,Blocked
+INC00989,EVT00989,Suspicious Process Execution,Jack Davis,Open,132 min,Under Investigation
+INC00990,EVT00990,USB Device Connected,Allen Wood,In Progress,108 min,Under Investigation
+INC00991,EVT00991,Brute Force,Jack Davis,In Progress,73 min,Under Investigation
+INC00992,EVT00992,Port Scan,Jacqueline Scott,Escalated,8 min,Escalated to Management
+INC00993,EVT00993,Configuration Change,Cassandra Quinn,Closed,166 min,Blocked
+INC00994,EVT00994,DDoS Attempt,David Gibson,Open,25 min,Pending Review
+INC00995,EVT00995,Suspicious Process Execution,Emily Jackson,Closed,74 min,Blocked
+INC00996,EVT00996,Session Hijacking Attempt,Patricia Ortiz,Closed,144 min,False Positive
+INC00997,EVT00997,VPN Connection,Christopher Garner,Closed,78 min,False Positive
+INC00998,EVT00998,Port Scan,Katherine Cook,Closed,2 min,False Positive
+INC00999,EVT00999,Phishing Email,Lisa Smith,Closed,105 min,Blocked
+INC01000,EVT01000,Account Lockout,Austin Parks,Closed,55 min,Blocked
+INC01001,EVT01001,Web Shell Detected,Dawn Walsh,Open,154 min,Pending Review
+INC01002,EVT01002,Credential Dumping,David Jones,In Progress,180 min,Under Investigation
+INC01003,EVT01003,Failed Login,Jesus Nielsen,Closed,124 min,Blocked
+INC01004,EVT01004,Unauthorized Access,Jaime Parsons,Closed,56 min,False Positive
+INC01005,EVT01005,USB Device Connected,Emily Jackson,Open,126 min,Pending Review
+INC01006,EVT01006,Malware Detection,Emily Jackson,Closed,149 min,False Positive
+INC01007,EVT01007,VPN Connection,Adam Martin,Closed,111 min,Blocked
+INC01008,EVT01008,Port Scan,Mark Harris,Open,147 min,Under Investigation
+INC01009,EVT01009,Web Shell Detected,Katelyn Harris,Closed,36 min,False Positive
+INC01010,EVT01010,Privilege Escalation,Jack Davis,Closed,44 min,Remediated
+INC01011,EVT01011,Web Shell Detected,Dakota Walsh,Closed,153 min,Remediated
+INC01012,EVT01012,USB Device Connected,Amy Coleman,Closed,44 min,False Positive
+INC01013,EVT01013,Malware Detection,Raymond Miller,Closed,150 min,Blocked
+INC01014,EVT01014,Ransomware Detected,Anthony Reynolds,Escalated,95 min,Escalated to IT Security Lead
+INC01015,EVT01015,Ransomware Detected,Jack Davis,Closed,35 min,Blocked
+INC01016,EVT01016,Web Shell Detected,Emily Jackson,Open,90 min,Under Investigation
+INC01017,EVT01017,Credential Dumping,Christina Hartman,Closed,87 min,Blocked
+INC01018,EVT01018,Port Scan,Megan Pitts,In Progress,144 min,Under Investigation
+INC01019,EVT01019,Configuration Change,Jack Davis,Closed,62 min,False Positive
+INC01020,EVT01020,Credential Dumping,Dakota Walsh,Closed,77 min,False Positive
+INC01021,EVT01021,Login Success,Mark Harris,Closed,81 min,Blocked
+INC01022,EVT01022,Phishing Email,Katherine Cook,In Progress,95 min,Under Investigation
+INC01023,EVT01023,SQL Injection Attempt,Patricia Ortiz,Closed,142 min,Remediated
+INC01024,EVT01024,Firewall Rule Change,Dakota Walsh,Closed,65 min,Blocked
+INC01025,EVT01025,Suspicious Process Execution,Christina Hartman,In Progress,163 min,Under Investigation
+INC01026,EVT01026,SQL Injection Attempt,Kyle Stephenson,Open,175 min,Pending Review
+INC01027,EVT01027,Web Shell Detected,Katelyn Harris,Closed,131 min,Remediated
+INC01028,EVT01028,DNS Tunneling Detected,Christina Hartman,Open,110 min,Under Investigation
+INC01029,EVT01029,Account Lockout,Kyle Stephenson,In Progress,63 min,Under Investigation
+INC01030,EVT01030,Unauthorized Access,Allen Wood,Closed,115 min,Remediated
+INC01031,EVT01031,Web Shell Detected,Christopher Gill,Closed,115 min,Remediated
+INC01032,EVT01032,Brute Force,David Gibson,In Progress,110 min,Under Investigation
+INC01033,EVT01033,Credential Dumping,Robert Frost,Open,126 min,Under Investigation
+INC01034,EVT01034,Phishing Email,Mark Harris,Closed,87 min,Remediated
+INC01035,EVT01035,VPN Connection,Dr. Jacob Rowe DDS,Closed,171 min,Remediated
+INC01036,EVT01036,VPN Connection,Ricky Blackwell,Closed,98 min,Blocked
+INC01037,EVT01037,Session Hijacking Attempt,Jack Davis,Open,94 min,Under Investigation
+INC01038,EVT01038,Ransomware Detected,Jesus Nielsen,Closed,35 min,False Positive
+INC01039,EVT01039,DNS Tunneling Detected,Darius Hernandez,In Progress,21 min,Under Investigation
+INC01040,EVT01040,DNS Tunneling Detected,Kyle Stephenson,Closed,24 min,Blocked
+INC01041,EVT01041,Data Exfiltration Attempt,Brian Banks,In Progress,152 min,Under Investigation
+INC01042,EVT01042,Ransomware Detected,Lori Blevins,Open,108 min,Under Investigation
+INC01043,EVT01043,Privilege Escalation,Kyle Stephenson,Closed,177 min,False Positive
+INC01044,EVT01044,Ransomware Detected,Raymond Miller,Closed,22 min,Remediated
+INC01045,EVT01045,Unauthorized Access,Patricia Ortiz,Escalated,56 min,Escalated to Management
+INC01046,EVT01046,Login Success,Lisa Smith,Open,104 min,Pending Review
+INC01047,EVT01047,Data Exfiltration Attempt,Cassandra Quinn,Open,42 min,Under Investigation
+INC01048,EVT01048,Web Shell Detected,Christina Hartman,Closed,43 min,False Positive
+INC01049,EVT01049,Account Lockout,Jennifer Payne,Closed,80 min,False Positive
+INC01050,EVT01050,Unauthorized Access,Brian Banks,In Progress,108 min,Under Investigation
+INC01051,EVT01051,VPN Connection,David Jones,In Progress,79 min,Under Investigation
+INC01052,EVT01052,Credential Dumping,Jaime Parsons,Open,21 min,Pending Review
+INC01053,EVT01053,Brute Force,Lori Blevins,Escalated,112 min,Escalated to IT Security Lead
+INC01054,EVT01054,Malware Detection,Dr. Jacob Rowe DDS,Open,157 min,Pending Review
+INC01055,EVT01055,USB Device Connected,Katelyn Harris,Closed,147 min,Remediated
+INC01056,EVT01056,Firewall Rule Change,Katelyn Harris,Closed,158 min,Remediated
+INC01057,EVT01057,USB Device Connected,Cassandra Quinn,In Progress,65 min,Under Investigation
+INC01058,EVT01058,Account Lockout,Brian Banks,Closed,172 min,False Positive
+INC01059,EVT01059,USB Device Connected,Lori Blevins,Closed,120 min,Blocked
+INC01060,EVT01060,DDoS Attempt,Dawn Walsh,Closed,26 min,Blocked
+INC01061,EVT01061,Ransomware Detected,Darius Hernandez,Closed,177 min,Remediated
+INC01062,EVT01062,Account Lockout,Cassandra Quinn,Closed,47 min,False Positive
+INC01063,EVT01063,Login Success,David Gibson,Closed,64 min,Remediated
+INC01064,EVT01064,Malware Detection,David Jones,Open,6 min,Pending Review
+INC01065,EVT01065,DNS Tunneling Detected,Shannon Montoya,Open,116 min,Pending Review
+INC01066,EVT01066,DDoS Attempt,Christopher Gill,Closed,13 min,False Positive
+INC01067,EVT01067,Web Shell Detected,Cassandra Quinn,Closed,63 min,False Positive
+INC01068,EVT01068,Lateral Movement Detected,Amy Coleman,Closed,136 min,False Positive
+INC01069,EVT01069,Firewall Rule Change,Megan Pitts,Closed,35 min,Remediated
+INC01070,EVT01070,Suspicious Process Execution,Jennifer Payne,Open,18 min,Pending Review
+INC01071,EVT01071,Credential Dumping,Jesus Nielsen,Closed,159 min,False Positive
+INC01072,EVT01072,Unauthorized Access,Brian Ford,Open,95 min,Pending Review
+INC01073,EVT01073,Login Success,Christina Hartman,Open,44 min,Under Investigation
+INC01074,EVT01074,Ransomware Detected,Michael Howell,Closed,93 min,False Positive
+INC01075,EVT01075,Login Success,Dakota Walsh,In Progress,150 min,Under Investigation
+INC01076,EVT01076,File Access,Christopher Garner,Closed,4 min,False Positive
+INC01077,EVT01077,Ransomware Detected,Raymond Miller,Closed,6 min,False Positive
+INC01078,EVT01078,Unauthorized Access,Allen Wood,Closed,10 min,False Positive
+INC01079,EVT01079,SQL Injection Attempt,David Gibson,In Progress,50 min,Under Investigation
+INC01080,EVT01080,Ransomware Detected,Kyle Stephenson,Closed,158 min,Remediated
+INC01081,EVT01081,Failed Login,Sheila Morris,Escalated,39 min,Escalated to Management
+INC01082,EVT01082,Account Lockout,Mark Harris,Closed,112 min,Remediated
+INC01083,EVT01083,Account Lockout,Jack Davis,Closed,151 min,Remediated
+INC01084,EVT01084,Ransomware Detected,Brian Banks,In Progress,54 min,Under Investigation
+INC01085,EVT01085,Session Hijacking Attempt,Lori Blevins,Closed,99 min,False Positive
+INC01086,EVT01086,Port Scan,Jack Davis,Closed,143 min,False Positive
+INC01087,EVT01087,File Access,Katherine Cook,In Progress,55 min,Under Investigation
+INC01088,EVT01088,VPN Connection,Adam Martin,Closed,21 min,Remediated
+INC01089,EVT01089,SQL Injection Attempt,Darius Hernandez,Closed,57 min,Remediated
+INC01090,EVT01090,File Access,Sheila Morris,Closed,23 min,Remediated
+INC01091,EVT01091,Session Hijacking Attempt,Dakota Walsh,In Progress,133 min,Under Investigation
+INC01092,EVT01092,Lateral Movement Detected,Patricia Ortiz,In Progress,35 min,Under Investigation
+INC01093,EVT01093,Lateral Movement Detected,Jacqueline Scott,In Progress,93 min,Under Investigation
+INC01094,EVT01094,VPN Connection,Anthony Reynolds,Closed,138 min,Remediated
+INC01095,EVT01095,Lateral Movement Detected,Christopher Gill,Closed,95 min,Remediated
+INC01096,EVT01096,Malware Detection,Evan Ortiz,Closed,45 min,Remediated
+INC01097,EVT01097,Account Lockout,Shannon Montoya,Closed,142 min,Blocked
+INC01098,EVT01098,File Access,Amy Coleman,In Progress,142 min,Under Investigation
+INC01099,EVT01099,Configuration Change,Lisa Smith,Closed,154 min,Remediated
+INC01100,EVT01100,Account Lockout,Jack Davis,Closed,78 min,Remediated
+INC01101,EVT01101,SQL Injection Attempt,David Gibson,Closed,120 min,Blocked
+INC01102,EVT01102,Firewall Rule Change,Darius Hernandez,Escalated,116 min,Escalated to IT Security Lead
+INC01103,EVT01103,Web Shell Detected,Megan Pitts,Open,37 min,Under Investigation
+INC01104,EVT01104,DDoS Attempt,David Gibson,Closed,60 min,Remediated
+INC01105,EVT01105,Login Success,Emily Jackson,Closed,23 min,Blocked
+INC01106,EVT01106,SQL Injection Attempt,Emily Jackson,In Progress,11 min,Under Investigation
+INC01107,EVT01107,Configuration Change,Brian Banks,Closed,126 min,Blocked
+INC01108,EVT01108,Phishing Email,David Jones,Open,118 min,Under Investigation
+INC01109,EVT01109,DNS Tunneling Detected,Derek Wagner,In Progress,150 min,Under Investigation
+INC01110,EVT01110,Ransomware Detected,Christopher Gill,Closed,178 min,Remediated
+INC01111,EVT01111,Data Exfiltration Attempt,Mark Harris,Open,133 min,Under Investigation
+INC01112,EVT01112,Suspicious Process Execution,Dawn Walsh,In Progress,146 min,Under Investigation
+INC01113,EVT01113,Brute Force,Patricia Ortiz,Closed,136 min,Blocked
+INC01114,EVT01114,Firewall Rule Change,Patricia Ortiz,Closed,106 min,Blocked
+INC01115,EVT01115,USB Device Connected,David Jones,Open,129 min,Under Investigation
+INC01116,EVT01116,Login Success,Lisa Smith,In Progress,129 min,Under Investigation
+INC01117,EVT01117,Session Hijacking Attempt,Sheila Morris,Closed,87 min,Blocked
+INC01118,EVT01118,Unauthorized Access,Dakota Walsh,Closed,30 min,Remediated
+INC01119,EVT01119,Port Scan,Cassandra Quinn,Closed,87 min,Blocked
+INC01120,EVT01120,Phishing Email,Austin Parks,In Progress,86 min,Under Investigation
+INC01121,EVT01121,USB Device Connected,Cassandra Quinn,Closed,79 min,Remediated
+INC01122,EVT01122,Port Scan,Amy Coleman,Closed,121 min,False Positive
+INC01123,EVT01123,Failed Login,Lori Blevins,In Progress,126 min,Under Investigation
+INC01124,EVT01124,Brute Force,Katherine Cook,Closed,72 min,Blocked
+INC01125,EVT01125,Unauthorized Access,Christopher Gill,Closed,162 min,False Positive
+INC01126,EVT01126,Data Exfiltration Attempt,David Gibson,Open,63 min,Pending Review
+INC01127,EVT01127,Session Hijacking Attempt,Christopher Gill,Open,142 min,Pending Review
+INC01128,EVT01128,Malware Detection,David Gibson,Open,89 min,Pending Review
+INC01129,EVT01129,USB Device Connected,Jesus Nielsen,Closed,73 min,Remediated
+INC01130,EVT01130,DDoS Attempt,Shannon Montoya,Closed,123 min,False Positive
+INC01131,EVT01131,Session Hijacking Attempt,Amy Coleman,In Progress,120 min,Under Investigation
+INC01132,EVT01132,USB Device Connected,Adam Martin,Escalated,46 min,Escalated to Management
+INC01133,EVT01133,Credential Dumping,Lori Blevins,Closed,153 min,Blocked
+INC01134,EVT01134,Malware Detection,Jaime Parsons,Closed,13 min,Remediated
+INC01135,EVT01135,USB Device Connected,Evan Ortiz,Closed,131 min,Remediated
+INC01136,EVT01136,Web Shell Detected,Ricky Blackwell,Closed,56 min,Blocked
+INC01137,EVT01137,File Access,Amy Coleman,Closed,132 min,False Positive
+INC01138,EVT01138,File Access,Lori Blevins,In Progress,78 min,Under Investigation
+INC01139,EVT01139,Ransomware Detected,Brian Ford,Closed,174 min,False Positive
+INC01140,EVT01140,Web Shell Detected,Dr. Jacob Rowe DDS,Escalated,6 min,Escalated to IT Security Lead
+INC01141,EVT01141,Credential Dumping,Anthony Reynolds,In Progress,101 min,Under Investigation
+INC01142,EVT01142,DNS Tunneling Detected,Shannon Montoya,Closed,180 min,Blocked
+INC01143,EVT01143,Credential Dumping,Lori Blevins,Closed,67 min,Remediated
+INC01144,EVT01144,Lateral Movement Detected,Christina Hartman,Open,150 min,Pending Review
+INC01145,EVT01145,Brute Force,Cassandra Quinn,Closed,34 min,False Positive
+INC01146,EVT01146,Login Success,Katherine Cook,Escalated,157 min,Escalated to IT Security Lead
+INC01147,EVT01147,Unauthorized Access,Jack Davis,Closed,51 min,Blocked
+INC01148,EVT01148,SQL Injection Attempt,Megan Pitts,In Progress,166 min,Under Investigation
+INC01149,EVT01149,Firewall Rule Change,Patricia Ortiz,In Progress,76 min,Under Investigation
+INC01150,EVT01150,USB Device Connected,Evan Ortiz,Closed,163 min,Blocked
+INC01151,EVT01151,Port Scan,Dr. Jacob Rowe DDS,Closed,133 min,Remediated
+INC01152,EVT01152,Account Lockout,Evan Ortiz,In Progress,123 min,Under Investigation
+INC01153,EVT01153,Web Shell Detected,Jesus Nielsen,Closed,44 min,Blocked
+INC01154,EVT01154,DDoS Attempt,Jesus Nielsen,Closed,41 min,Remediated
+INC01155,EVT01155,SQL Injection Attempt,Jack Davis,In Progress,46 min,Under Investigation
+INC01156,EVT01156,Privilege Escalation,Emily Jackson,Closed,97 min,Remediated
+INC01157,EVT01157,Malware Detection,Raymond Miller,Open,118 min,Pending Review
+INC01158,EVT01158,Web Shell Detected,Christina Hartman,Closed,85 min,Remediated
+INC01159,EVT01159,Ransomware Detected,Dakota Walsh,In Progress,150 min,Under Investigation
+INC01160,EVT01160,SQL Injection Attempt,Jennifer Payne,Closed,2 min,Blocked
+INC01161,EVT01161,Data Exfiltration Attempt,Amy Coleman,Closed,173 min,False Positive
+INC01162,EVT01162,Failed Login,Megan Pitts,In Progress,66 min,Under Investigation
+INC01163,EVT01163,Suspicious Process Execution,Patricia Ortiz,Closed,167 min,Blocked
+INC01164,EVT01164,Account Lockout,Kyle Stephenson,Closed,45 min,Remediated
+INC01165,EVT01165,Phishing Email,Katherine Cook,Closed,62 min,Blocked
+INC01166,EVT01166,Suspicious Process Execution,Jesus Nielsen,In Progress,66 min,Under Investigation
+INC01167,EVT01167,Web Shell Detected,Derek Wagner,Closed,46 min,False Positive
+INC01168,EVT01168,Phishing Email,Patricia Ortiz,Open,54 min,Under Investigation
+INC01169,EVT01169,Phishing Email,Robert Frost,Closed,14 min,False Positive
+INC01170,EVT01170,Login Success,Amy Coleman,Closed,2 min,Blocked
+INC01171,EVT01171,Suspicious Process Execution,Amy Coleman,Closed,31 min,Remediated
+INC01172,EVT01172,Phishing Email,Brian Ford,Escalated,144 min,Escalated to Management
+INC01173,EVT01173,Account Lockout,Michael Howell,Closed,99 min,False Positive
+INC01174,EVT01174,Firewall Rule Change,David Gibson,Closed,36 min,Remediated
+INC01175,EVT01175,Malware Detection,Emily Jackson,Open,112 min,Under Investigation
+INC01176,EVT01176,Login Success,Amy Coleman,Closed,63 min,False Positive
+INC01177,EVT01177,Configuration Change,Christopher Garner,In Progress,126 min,Under Investigation
+INC01178,EVT01178,Account Lockout,Kyle Stephenson,Closed,54 min,False Positive
+INC01179,EVT01179,Session Hijacking Attempt,Megan Pitts,Escalated,2 min,Escalated to IT Security Lead
+INC01180,EVT01180,Brute Force,Jaime Parsons,Open,143 min,Pending Review
+INC01181,EVT01181,Data Exfiltration Attempt,Christopher Gill,In Progress,113 min,Under Investigation
+INC01182,EVT01182,Privilege Escalation,Lori Blevins,Closed,67 min,False Positive
+INC01183,EVT01183,Firewall Rule Change,Katelyn Harris,In Progress,138 min,Under Investigation
+INC01184,EVT01184,Privilege Escalation,Crystal Costa,Closed,15 min,Blocked
+INC01185,EVT01185,File Access,Shannon Montoya,In Progress,8 min,Under Investigation
+INC01186,EVT01186,DDoS Attempt,Lori Blevins,Closed,124 min,Blocked
+INC01187,EVT01187,Firewall Rule Change,Katherine Cook,Closed,49 min,Remediated
+INC01188,EVT01188,Port Scan,Lori Blevins,Closed,163 min,False Positive
+INC01189,EVT01189,Brute Force,Jack Davis,Closed,78 min,False Positive
+INC01190,EVT01190,Brute Force,Megan Pitts,Closed,147 min,Blocked
+INC01191,EVT01191,USB Device Connected,Christina Hartman,Escalated,145 min,Escalated to IT Security Lead
+INC01192,EVT01192,Malware Detection,Jesus Nielsen,Closed,36 min,Remediated
+INC01193,EVT01193,Session Hijacking Attempt,Patricia Ortiz,Open,138 min,Pending Review
+INC01194,EVT01194,Privilege Escalation,Anthony Reynolds,In Progress,13 min,Under Investigation
+INC01195,EVT01195,Suspicious Process Execution,Dr. Jacob Rowe DDS,Open,13 min,Under Investigation
+INC01196,EVT01196,DNS Tunneling Detected,Michael Howell,Closed,8 min,Remediated
+INC01197,EVT01197,Lateral Movement Detected,Lisa Smith,Open,88 min,Under Investigation
+INC01198,EVT01198,Configuration Change,Megan Pitts,Closed,143 min,Blocked
+INC01199,EVT01199,Ransomware Detected,Cassandra Quinn,In Progress,55 min,Under Investigation
+INC01200,EVT01200,USB Device Connected,Allen Wood,Escalated,36 min,Escalated to Management
+INC01201,EVT01201,Brute Force,Crystal Costa,In Progress,33 min,Under Investigation
+INC01202,EVT01202,Login Success,Darius Hernandez,Closed,123 min,False Positive
+INC01203,EVT01203,Phishing Email,Jesus Nielsen,Closed,75 min,Blocked
+INC01204,EVT01204,USB Device Connected,Robert Frost,Closed,97 min,Blocked
+INC01205,EVT01205,DNS Tunneling Detected,David Jones,Closed,126 min,Remediated
+INC01206,EVT01206,Web Shell Detected,Jennifer Payne,In Progress,175 min,Under Investigation
+INC01207,EVT01207,Failed Login,Lori Blevins,Closed,25 min,Blocked
+INC01208,EVT01208,VPN Connection,Michael Howell,Closed,111 min,False Positive
+INC01209,EVT01209,Ransomware Detected,Patricia Ortiz,Closed,99 min,Blocked
+INC01210,EVT01210,Privilege Escalation,Christopher Gill,Closed,54 min,False Positive
+INC01211,EVT01211,Privilege Escalation,Jaime Parsons,In Progress,74 min,Under Investigation
+INC01212,EVT01212,File Access,Michael Howell,Closed,147 min,False Positive
+INC01213,EVT01213,DNS Tunneling Detected,Jesus Nielsen,Closed,159 min,False Positive
+INC01214,EVT01214,Malware Detection,Jack Davis,Closed,174 min,Blocked
+INC01215,EVT01215,VPN Connection,Lori Blevins,Open,24 min,Pending Review
+INC01216,EVT01216,Login Success,Christopher Gill,In Progress,116 min,Under Investigation
+INC01217,EVT01217,SQL Injection Attempt,David Gibson,Open,144 min,Pending Review
+INC01218,EVT01218,Lateral Movement Detected,Evan Ortiz,In Progress,24 min,Under Investigation
+INC01219,EVT01219,Session Hijacking Attempt,Brian Ford,Closed,110 min,Remediated
+INC01220,EVT01220,Configuration Change,Amy Coleman,Closed,126 min,False Positive
+INC01221,EVT01221,Data Exfiltration Attempt,Katelyn Harris,Closed,177 min,False Positive
+INC01222,EVT01222,Suspicious Process Execution,Emily Jackson,Closed,22 min,False Positive
+INC01223,EVT01223,Firewall Rule Change,Emily Jackson,Closed,21 min,Blocked
+INC01224,EVT01224,File Access,Lisa Smith,Closed,51 min,Blocked
+INC01225,EVT01225,File Access,Katherine Cook,Open,95 min,Pending Review
+INC01226,EVT01226,File Access,Anthony Reynolds,Escalated,76 min,Escalated to Management
+INC01227,EVT01227,Privilege Escalation,Anthony Reynolds,Closed,80 min,Blocked
+INC01228,EVT01228,Account Lockout,Jacqueline Scott,Open,29 min,Under Investigation
+INC01229,EVT01229,DDoS Attempt,Dakota Walsh,Open,10 min,Under Investigation
+INC01230,EVT01230,Credential Dumping,Katherine Cook,Closed,47 min,Remediated
+INC01231,EVT01231,Data Exfiltration Attempt,Christina Hartman,Closed,49 min,False Positive
+INC01232,EVT01232,Phishing Email,Anthony Reynolds,Open,17 min,Pending Review
+INC01233,EVT01233,Privilege Escalation,Christina Hartman,Closed,51 min,Remediated
+INC01234,EVT01234,Login Success,Dawn Walsh,Closed,28 min,Blocked
+INC01235,EVT01235,Unauthorized Access,Austin Parks,In Progress,47 min,Under Investigation
+INC01236,EVT01236,Data Exfiltration Attempt,Austin Parks,Closed,83 min,Blocked
+INC01237,EVT01237,Brute Force,Sheila Morris,In Progress,3 min,Under Investigation
+INC01238,EVT01238,Privilege Escalation,Sheila Morris,Closed,118 min,False Positive
+INC01239,EVT01239,Brute Force,Darius Hernandez,Open,15 min,Pending Review
+INC01240,EVT01240,USB Device Connected,Brian Ford,Escalated,32 min,Escalated to IT Security Lead
+INC01241,EVT01241,Malware Detection,Katelyn Harris,In Progress,107 min,Under Investigation
+INC01242,EVT01242,Login Success,Dr. Jacob Rowe DDS,Closed,76 min,False Positive
+INC01243,EVT01243,Ransomware Detected,Katelyn Harris,Escalated,135 min,Escalated to Management
+INC01244,EVT01244,Firewall Rule Change,Raymond Miller,Closed,135 min,Blocked
+INC01245,EVT01245,Credential Dumping,Cassandra Quinn,Closed,4 min,Remediated
+INC01246,EVT01246,Phishing Email,Jaime Parsons,Closed,84 min,Blocked
+INC01247,EVT01247,Lateral Movement Detected,David Gibson,In Progress,113 min,Under Investigation
+INC01248,EVT01248,DNS Tunneling Detected,Katelyn Harris,In Progress,116 min,Under Investigation
+INC01249,EVT01249,Failed Login,Patricia Ortiz,Escalated,5 min,Escalated to Management
+INC01250,EVT01250,Account Lockout,Christopher Garner,Closed,106 min,Remediated

@@ -1,0 +1,651 @@
+indicator_id,indicator_type,indicator_value,threat_name,threat_actor,confidence,severity
+IOC00001,URL,http://www.harris.info/appprivacy.html,Ransomware,Anonymous Group,Low,High
+IOC00002,URL,http://www.harris-williamson.com/categories/blogabout.html,Backdoor,Nation-State Actor (Unattributed),High,Medium
+IOC00003,Email Address,tatkinson@example.com,Botnet,Organized Crime Syndicate,Low,High
+IOC00004,URL,https://www.perkins.org/tag/list/appindex.html,Keylogger,Unknown,Medium,Medium
+IOC00005,Domain,hoffman.info,Adware,Threat Group Alpha,High,High
+IOC00006,File Hash (SHA256),68c59e6a0831b2702e51273c04be7366182d3c4db5a42d15369764e4801cbab3,Backdoor,Nation-State Actor (Unattributed),Medium,Medium
+IOC00007,Email Address,davismichael@example.com,DDoS,Insider Threat,High,Critical
+IOC00008,IP Address,143.6.3.87,Phishing,Threat Group Bravo,High,High
+IOC00009,Email Address,castanedabrandon@example.org,Ransomware,Insider Threat,Medium,Medium
+IOC00010,Domain,osborn-foster.info,Trojan,Threat Group Bravo,Low,High
+IOC00011,Domain,mack.com,Spyware,Threat Group Alpha,High,Low
+IOC00012,Domain,davidson.com,Keylogger,Nation-State Actor (Unattributed),Medium,High
+IOC00013,URL,https://www.henry.com/explore/wp-content/tagprivacy.htm,Ransomware,Threat Group Alpha,Medium,High
+IOC00014,URL,https://www.fritz-vazquez.com/bloglogin.html,Spyware,Unknown,Low,Medium
+IOC00015,URL,https://diaz.info/explorepost.php,DDoS,Organized Crime Syndicate,Medium,Medium
+IOC00016,Domain,miller-jones.info,Ransomware,Threat Group Bravo,Medium,High
+IOC00017,URL,https://www.simmons.com/explorecategory.asp,DDoS,Insider Threat,Low,Low
+IOC00018,File Hash (SHA256),c517f4ea6e7c4199039f659de8a479fc74b23ac553086c7d54fc502d4f9f236f,Trojan,Organized Crime Syndicate,Medium,Medium
+IOC00019,Email Address,zmiller@example.org,DDoS,Organized Crime Syndicate,High,Medium
+IOC00020,File Hash (SHA256),2d9ca731fd082f9de602bccdc3cf407a4b87e5a5d0447f5136ac3ca9b872a3af,Keylogger,Threat Group Charlie,Low,High
+IOC00021,URL,https://www.silva.biz/wp-contentauthor.html,DDoS,Insider Threat,Medium,Medium
+IOC00022,Email Address,stevencasey@example.net,SQL Injection Campaign,Hacktivist Collective,Low,Low
+IOC00023,File Hash (SHA256),ad9f0d60a63f94d3511a87e31db16526343d5cb17f3471fdce0c14cbbef271a2,Phishing,Script Kiddie,High,Medium
+IOC00024,URL,https://www.boyer.com/main/categoryprivacy.asp,Adware,Script Kiddie,Low,Low
+IOC00025,URL,http://www.williams.com/app/listfaq.php,Trojan,Hacktivist Collective,Low,Low
+IOC00026,Email Address,pmurray@example.com,Keylogger,Threat Group Charlie,High,High
+IOC00027,Domain,valencia-wells.com,Phishing,Anonymous Group,High,High
+IOC00028,Email Address,austin73@example.net,Brute Force,Unknown,Low,Low
+IOC00029,Domain,evans-johnson.org,DDoS,Threat Group Charlie,High,Medium
+IOC00030,Email Address,benjaminberg@example.org,Phishing,Organized Crime Syndicate,Medium,Medium
+IOC00031,URL,https://www.ware-kelley.com/blogcategory.jsp,Brute Force,Script Kiddie,Low,Critical
+IOC00032,Email Address,efreeman@example.com,Spyware,Script Kiddie,Low,Medium
+IOC00033,Domain,diaz.net,Trojan,Anonymous Group,High,Medium
+IOC00034,Domain,jackson.info,Ransomware,Insider Threat,Medium,High
+IOC00035,IP Address,32.54.249.195,Trojan,Insider Threat,Medium,High
+IOC00036,URL,http://thompson.com/main/blogsearch.htm,Adware,Threat Group Alpha,Medium,High
+IOC00037,IP Address,92.16.7.99,Botnet,Anonymous Group,Medium,Medium
+IOC00038,URL,http://www.pruitt.net/tags/tagsindex.html,Botnet,Nation-State Actor (Unattributed),High,Medium
+IOC00039,File Hash (SHA256),9111723852543ca1bc27e8c4faf1b4b84032b1c521d5079e62ef21ce22a5afdf,Malware,Script Kiddie,Low,High
+IOC00040,IP Address,64.242.47.30,DDoS,Threat Group Bravo,High,Medium
+IOC00041,Domain,holloway-torres.com,Brute Force,Unknown,Low,Medium
+IOC00042,Email Address,charlene61@example.org,Worm,Threat Group Alpha,High,Low
+IOC00043,URL,http://www.ramos.com/category/tagfaq.html,Ransomware,Anonymous Group,High,Low
+IOC00044,File Hash (SHA256),3918448bb124b8e34f6fe9c5dc20cf5c92ab4755dc725cfa4d62eeab64e2535e,Botnet,Anonymous Group,Low,Medium
+IOC00045,IP Address,113.104.57.140,Ransomware,Anonymous Group,Medium,Critical
+IOC00046,Email Address,reynoldschristina@example.net,Keylogger,Threat Group Bravo,High,Medium
+IOC00047,IP Address,201.126.151.118,Malware,Hacktivist Collective,Low,Medium
+IOC00048,File Hash (SHA256),1c935db638ea202779e02ee9a831c55be01ef0063604d53ed87f6fd74bea0c3f,SQL Injection Campaign,Threat Group Bravo,High,Medium
+IOC00049,File Hash (SHA256),9ebf3875776132967a786762494f8733e6028ccab637213371f3894dea871ac8,Spyware,Anonymous Group,Medium,Critical
+IOC00050,Email Address,alyssa17@example.net,Phishing,Threat Group Alpha,Medium,Medium
+IOC00051,Email Address,denise88@example.org,Botnet,Threat Group Bravo,High,Critical
+IOC00052,File Hash (SHA256),4c1550b58a779e5b8f92f546d1768180c8f689b2d5d8aa7fd2531db16eb4b424,SQL Injection Campaign,Insider Threat,Low,Low
+IOC00053,File Hash (SHA256),3e81fed4193d29a480e94c7d38836e529fd21bd7dedc22f4b4382b57c0bbce30,Worm,Nation-State Actor (Unattributed),Low,High
+IOC00054,Domain,cunningham.net,Botnet,Threat Group Alpha,Medium,Medium
+IOC00055,Domain,aguilar.com,Worm,Threat Group Charlie,High,High
+IOC00056,Email Address,gaillin@example.net,Worm,Script Kiddie,Low,High
+IOC00057,Domain,jordan.com,Rootkit,Anonymous Group,High,Low
+IOC00058,Domain,williams-jackson.com,Backdoor,Insider Threat,Medium,Medium
+IOC00059,Email Address,javier12@example.net,Phishing,Insider Threat,High,Critical
+IOC00060,IP Address,160.35.43.124,Adware,Unknown,Medium,Medium
+IOC00061,URL,https://gardner.biz/posts/mainlogin.jsp,Spyware,Threat Group Bravo,Medium,Low
+IOC00062,IP Address,83.8.214.131,Phishing,Threat Group Bravo,High,Critical
+IOC00063,File Hash (SHA256),c704269801e0421e7bf171fdc94617124a823007ec08b2b60eca5dcb67b6395a,Trojan,Anonymous Group,High,Medium
+IOC00064,Domain,jackson-miller.biz,Brute Force,Unknown,Low,Medium
+IOC00065,IP Address,26.217.29.175,Trojan,Threat Group Charlie,Medium,Medium
+IOC00066,URL,https://peterson.com/main/searchmain.php,Cryptojacking,Organized Crime Syndicate,Low,Critical
+IOC00067,File Hash (SHA256),c175ef0fd3831ac6a6b0d87501658e2f1217681bb0bd7be64f62a65aca49828d,Trojan,Threat Group Charlie,Low,Low
+IOC00068,File Hash (SHA256),5a788ef8c3f9b512fa1c60bf77516bf7e83e2c209a5a8f1f17471cc3c5e811ae,Rootkit,Script Kiddie,High,High
+IOC00069,Domain,martin-murphy.com,SQL Injection Campaign,Hacktivist Collective,Low,Medium
+IOC00070,File Hash (SHA256),1bc0c96b1541d297ef4a67f010c5b3f349789da8da3e2d8a98ebafa51307ca3f,Keylogger,Insider Threat,High,Medium
+IOC00071,Domain,arnold-cooper.info,Spyware,Threat Group Charlie,Low,High
+IOC00072,IP Address,139.241.88.10,Brute Force,Insider Threat,Medium,High
+IOC00073,File Hash (SHA256),5c0d59c720b1a862bcc2eb1a4ecbfd91822a9faa5d29866215bb6d84972a5bc4,Backdoor,Hacktivist Collective,Medium,Medium
+IOC00074,Domain,fry-johnson.com,Ransomware,Organized Crime Syndicate,Low,Low
+IOC00075,URL,https://www.wilson.net/blog/categoriesabout.htm,Malware,Nation-State Actor (Unattributed),Medium,Medium
+IOC00076,URL,http://smith-james.com/tag/tagspost.htm,Adware,Organized Crime Syndicate,High,Medium
+IOC00077,IP Address,192.53.21.82,Ransomware,Threat Group Bravo,High,Medium
+IOC00078,Email Address,dwatson@example.org,Spyware,Hacktivist Collective,Medium,High
+IOC00079,IP Address,32.177.197.248,Keylogger,Insider Threat,Medium,High
+IOC00080,Email Address,tsmith@example.com,Cryptojacking,Nation-State Actor (Unattributed),High,Medium
+IOC00081,Email Address,wschneider@example.com,Botnet,Script Kiddie,High,Critical
+IOC00082,File Hash (SHA256),c2ce9b836ba6022b3224d0bb3b9c67b3645a734b45a3e249ad8edd9d85878883,Malware,Threat Group Alpha,Low,High
+IOC00083,Domain,harris-benson.info,DDoS,Script Kiddie,Medium,High
+IOC00084,File Hash (SHA256),11667c59dc494a2c9a593ff4046a3810baa45c97c53a3392a1ee408a88cf41ea,Rootkit,Threat Group Bravo,High,Medium
+IOC00085,Email Address,millerpaul@example.com,Adware,Threat Group Bravo,Low,High
+IOC00086,Email Address,nicholasthompson@example.com,Brute Force,Threat Group Bravo,Medium,Medium
+IOC00087,File Hash (SHA256),3518564eacb7c2f1389eed938a3758e8bd2c0d0c8c3a91f379ed4d8552086191,Adware,Threat Group Alpha,Medium,Medium
+IOC00088,Domain,smith-sanchez.org,Cryptojacking,Nation-State Actor (Unattributed),High,Medium
+IOC00089,IP Address,200.3.35.207,Adware,Threat Group Charlie,High,High
+IOC00090,URL,https://www.schwartz.com/blog/blog/apppost.asp,Worm,Threat Group Bravo,Medium,Medium
+IOC00091,File Hash (SHA256),bc0d95bfb17e43089112b7c409d8233d25c16adfa87d2cc9898e56e3113a5b43,Rootkit,Threat Group Charlie,High,Low
+IOC00092,File Hash (SHA256),2c2d652909f39f44c09345f89f0c01b69c3b7319e621bd1e3efa70e1a2e9514c,SQL Injection Campaign,Threat Group Alpha,Medium,Low
+IOC00093,IP Address,185.113.180.186,Keylogger,Organized Crime Syndicate,Medium,Medium
+IOC00094,File Hash (SHA256),8bb34e65be30f694ec348b21eb19b7a84c091cc1ac3e9ee8ad8fb5ff8d6ec55d,Ransomware,Hacktivist Collective,Medium,Medium
+IOC00095,File Hash (SHA256),e1a19d4756b444cd6b0d514b6d44c5ca479fc92557a3a918b6d472b19c31c3ff,DDoS,Insider Threat,Medium,Critical
+IOC00096,URL,http://mccarthy.org/wp-contentterms.htm,Keylogger,Hacktivist Collective,Medium,Medium
+IOC00097,URL,https://castro.org/category/blogsearch.html,Adware,Nation-State Actor (Unattributed),Medium,Medium
+IOC00098,IP Address,111.72.169.16,Phishing,Threat Group Bravo,Low,High
+IOC00099,File Hash (SHA256),814d3102d3b1a7dc67d3984d89fc2780632e45bbc5f491e03c07acbf72538553,Ransomware,Threat Group Alpha,Low,High
+IOC00100,File Hash (SHA256),36a0962353fc13db8a195fce259f6cc7e5169c4ebba164c0f30adb05ba1432c8,SQL Injection Campaign,Organized Crime Syndicate,Low,Medium
+IOC00101,Email Address,zjohnson@example.net,Malware,Nation-State Actor (Unattributed),High,Critical
+IOC00102,Domain,adkins.com,Ransomware,Nation-State Actor (Unattributed),Low,Low
+IOC00103,URL,https://thomas.com/list/tagslogin.html,Brute Force,Threat Group Charlie,High,Low
+IOC00104,Domain,freeman-stevens.com,Rootkit,Unknown,High,Medium
+IOC00105,URL,http://buchanan.com/mainsearch.php,Phishing,Script Kiddie,High,High
+IOC00106,IP Address,19.57.231.134,Adware,Threat Group Alpha,Medium,Low
+IOC00107,URL,https://www.lee.biz/list/mainindex.php,Trojan,Unknown,Medium,Medium
+IOC00108,URL,https://www.floyd.com/categories/blogmain.jsp,DDoS,Organized Crime Syndicate,Medium,Low
+IOC00109,IP Address,180.174.36.112,Botnet,Organized Crime Syndicate,High,Medium
+IOC00110,IP Address,4.188.128.173,Adware,Organized Crime Syndicate,Low,High
+IOC00111,Email Address,zcarr@example.org,Botnet,Script Kiddie,Medium,High
+IOC00112,URL,http://allison.com/app/wp-contentterms.html,DDoS,Threat Group Charlie,Medium,Medium
+IOC00113,File Hash (SHA256),d0b2313c445a647d4635adbaa2bb15080d8ee3002c86dcdae82616225a44b475,Ransomware,Anonymous Group,Medium,Medium
+IOC00114,IP Address,123.109.104.158,Malware,Hacktivist Collective,Medium,Medium
+IOC00115,Domain,williams-cole.com,Trojan,Nation-State Actor (Unattributed),High,Low
+IOC00116,File Hash (SHA256),f09e8f5d69a0d8322f02391fb3ce3e9f5268649c967b32bcd824365500e71334,Phishing,Script Kiddie,High,High
+IOC00117,File Hash (SHA256),1f0442e90c0af4b8647052399f4df675ca73337196a26202afd3c082e413ee1f,Malware,Nation-State Actor (Unattributed),High,Low
+IOC00118,Domain,leblanc.org,Ransomware,Organized Crime Syndicate,High,High
+IOC00119,File Hash (SHA256),1353388103e7aa2f46c97efd9f065b651269d4faac73bc247ef25d643d1133c6,Botnet,Nation-State Actor (Unattributed),High,Low
+IOC00120,File Hash (SHA256),28877274a8c126d9b6dd26237e6fa6edee8eb5ba7131334cb3381d546f904a36,Cryptojacking,Threat Group Charlie,Medium,High
+IOC00121,Email Address,riverastephen@example.com,Malware,Threat Group Charlie,Medium,Medium
+IOC00122,IP Address,172.51.112.191,Ransomware,Organized Crime Syndicate,High,Critical
+IOC00123,IP Address,171.5.177.9,Spyware,Insider Threat,Low,Medium
+IOC00124,IP Address,125.200.202.253,SQL Injection Campaign,Threat Group Alpha,High,High
+IOC00125,URL,http://douglas-brown.info/list/main/mainabout.php,Rootkit,Unknown,Low,Medium
+IOC00126,IP Address,72.148.22.221,Worm,Unknown,High,Low
+IOC00127,Domain,stone.com,Cryptojacking,Insider Threat,High,Low
+IOC00128,URL,http://krause-nelson.com/categories/exploremain.html,Keylogger,Threat Group Alpha,Low,Low
+IOC00129,File Hash (SHA256),43ea581aa6046b736217898e73d7b2e9c34ae3e68d42a71eabe507382c8da07e,Rootkit,Insider Threat,High,High
+IOC00130,IP Address,23.161.145.88,Backdoor,Organized Crime Syndicate,Medium,High
+IOC00131,IP Address,158.50.148.183,Backdoor,Hacktivist Collective,High,Medium
+IOC00132,IP Address,193.6.71.173,Ransomware,Hacktivist Collective,High,Medium
+IOC00133,IP Address,223.175.84.208,Backdoor,Threat Group Bravo,Medium,Medium
+IOC00134,Email Address,kevin40@example.com,Brute Force,Insider Threat,Medium,Medium
+IOC00135,IP Address,220.221.229.168,Backdoor,Anonymous Group,High,Low
+IOC00136,Email Address,sarahhall@example.org,SQL Injection Campaign,Organized Crime Syndicate,Low,Medium
+IOC00137,File Hash (SHA256),2fac37f1d78fc6496f08c30e832f37689e0a5857122d881dbfcc703750d18913,Brute Force,Script Kiddie,Low,Low
+IOC00138,File Hash (SHA256),a343bf249d080ecb89e0de3eadb4acf896329a1db8506441178d3a796b37376a,Ransomware,Hacktivist Collective,Medium,Medium
+IOC00139,IP Address,57.95.233.54,Brute Force,Nation-State Actor (Unattributed),Medium,Medium
+IOC00140,Domain,davis-frank.com,SQL Injection Campaign,Threat Group Bravo,Low,Low
+IOC00141,URL,https://www.maxwell.com/searchcategory.html,Rootkit,Hacktivist Collective,High,High
+IOC00142,File Hash (SHA256),d1deaa01b06bde1f67cd00233f985848c4593681af51ead8bd938537ae69409a,Rootkit,Insider Threat,Medium,High
+IOC00143,File Hash (SHA256),409d9378a57e6af45a379fe2bc2ff17e6fa37e9134456f872833b2131ef8ac5a,Phishing,Script Kiddie,High,Medium
+IOC00144,URL,https://www.james.net/blog/mainterms.html,SQL Injection Campaign,Anonymous Group,Medium,High
+IOC00145,Domain,heath.com,Cryptojacking,Threat Group Charlie,High,Low
+IOC00146,URL,https://www.sanders-james.biz/searchfaq.html,Cryptojacking,Organized Crime Syndicate,Low,Low
+IOC00147,IP Address,193.82.240.162,Rootkit,Hacktivist Collective,Low,Medium
+IOC00148,URL,http://www.doyle-curry.biz/categories/category/tagindex.php,Backdoor,Nation-State Actor (Unattributed),Medium,Low
+IOC00149,Domain,schroeder.biz,Cryptojacking,Threat Group Bravo,Medium,High
+IOC00150,Domain,reeves-martin.org,Rootkit,Threat Group Bravo,Low,Medium
+IOC00151,Email Address,vmorales@example.org,Ransomware,Threat Group Bravo,Medium,High
+IOC00152,URL,http://www.fitzgerald-garcia.com/wp-contentauthor.asp,SQL Injection Campaign,Anonymous Group,Low,Medium
+IOC00153,URL,http://anderson.com/mainauthor.html,Adware,Threat Group Charlie,Low,High
+IOC00154,File Hash (SHA256),d68694d23e7ce0d1ceb16e0b1052e943be34c601c83a13d087bef62d8e39e770,Cryptojacking,Script Kiddie,Low,High
+IOC00155,Domain,harris.org,SQL Injection Campaign,Unknown,Medium,Medium
+IOC00156,File Hash (SHA256),942daa5e0e6c67978b317cce3b790960e445c5cb71ef81ab764c0b9afe474f42,Ransomware,Threat Group Bravo,Medium,Low
+IOC00157,File Hash (SHA256),1627b390cb35f731c231f3b45793094f5497dc348ef786c8c789906876f9519c,DDoS,Threat Group Charlie,Medium,Medium
+IOC00158,IP Address,185.115.24.56,Phishing,Script Kiddie,Medium,Medium
+IOC00159,Email Address,ulee@example.org,DDoS,Unknown,Low,High
+IOC00160,Domain,whitney.com,DDoS,Organized Crime Syndicate,Medium,Medium
+IOC00161,URL,https://www.lloyd-king.com/app/categories/categoriesmain.php,Spyware,Script Kiddie,Low,High
+IOC00162,IP Address,130.60.155.134,Spyware,Organized Crime Syndicate,Medium,High
+IOC00163,URL,https://www.ellison-duncan.com/tag/search/tagsprivacy.html,Worm,Unknown,Low,Critical
+IOC00164,File Hash (SHA256),82310f32846da9c77b5104d870c5d2d2b3cf94f96b8b5ac66616629600df7eba,Phishing,Anonymous Group,High,Low
+IOC00165,File Hash (SHA256),0e232e9cb8e15a9136eae27f58e15f2f0d2cda3cf5497cc7ab1d6fe859930b8d,Phishing,Threat Group Charlie,Medium,Medium
+IOC00166,URL,https://fisher.com/tagpost.htm,SQL Injection Campaign,Hacktivist Collective,High,High
+IOC00167,Email Address,byrdmatthew@example.org,Spyware,Threat Group Charlie,Low,Medium
+IOC00168,URL,http://www.lara.org/category/tags/exploreauthor.htm,Spyware,Nation-State Actor (Unattributed),High,Low
+IOC00169,Email Address,henryrodriguez@example.net,Spyware,Hacktivist Collective,High,Critical
+IOC00170,IP Address,70.173.134.147,Botnet,Threat Group Charlie,High,Critical
+IOC00171,Domain,wagner.com,SQL Injection Campaign,Threat Group Alpha,Low,Medium
+IOC00172,File Hash (SHA256),243b5eaf7790c59b5ae648bb74826a9e15e7b5f1234c632cb2eee96cbcc68a09,Phishing,Threat Group Alpha,Low,Medium
+IOC00173,Email Address,banderson@example.net,Ransomware,Threat Group Bravo,High,Critical
+IOC00174,Email Address,atkinsonkayla@example.org,Botnet,Organized Crime Syndicate,Medium,High
+IOC00175,Domain,williams-schwartz.com,Trojan,Hacktivist Collective,Medium,Medium
+IOC00176,File Hash (SHA256),f5ed4e60f9f65529fafa3afb7e371501c8f98e1802877b37592c62b4e136fe07,Spyware,Script Kiddie,Medium,High
+IOC00177,Domain,simpson.com,Cryptojacking,Threat Group Alpha,Low,High
+IOC00178,Domain,martinez-daniel.com,Keylogger,Nation-State Actor (Unattributed),Low,High
+IOC00179,IP Address,206.69.187.87,Phishing,Threat Group Bravo,Medium,Low
+IOC00180,IP Address,193.87.218.94,Malware,Organized Crime Syndicate,High,Low
+IOC00181,URL,http://marshall.com/app/explore/tagcategory.php,Backdoor,Hacktivist Collective,High,High
+IOC00182,Email Address,vlopez@example.org,Malware,Threat Group Alpha,High,High
+IOC00183,IP Address,196.128.240.243,Brute Force,Threat Group Charlie,High,Low
+IOC00184,Email Address,parksashley@example.org,SQL Injection Campaign,Organized Crime Syndicate,Medium,Medium
+IOC00185,File Hash (SHA256),be2b29b35e2197972a8e130292c7d215fa25755a2c951b322d13e9cccfa33cdf,Cryptojacking,Nation-State Actor (Unattributed),Low,Medium
+IOC00186,File Hash (SHA256),0d3a2d56fe7db36b9e553dc0bb063595973ae848d6c9b61d49ca3e662e0126cd,Brute Force,Insider Threat,Low,High
+IOC00187,Domain,duran-morris.com,Spyware,Threat Group Alpha,Medium,Medium
+IOC00188,Domain,gill-flores.biz,Backdoor,Nation-State Actor (Unattributed),Low,Low
+IOC00189,Email Address,tara49@example.net,Adware,Anonymous Group,Medium,Medium
+IOC00190,URL,http://www.sandoval-robertson.biz/search/tagsindex.php,Ransomware,Anonymous Group,Low,Low
+IOC00191,IP Address,184.27.17.2,SQL Injection Campaign,Insider Threat,High,Low
+IOC00192,URL,https://www.christensen.com/explorelogin.jsp,Brute Force,Threat Group Alpha,Medium,Low
+IOC00193,IP Address,215.84.163.5,SQL Injection Campaign,Nation-State Actor (Unattributed),Medium,High
+IOC00194,Email Address,thomastaylor@example.com,Rootkit,Organized Crime Syndicate,Medium,High
+IOC00195,IP Address,203.186.165.44,Malware,Organized Crime Syndicate,Low,Medium
+IOC00196,IP Address,27.192.114.69,SQL Injection Campaign,Nation-State Actor (Unattributed),High,Medium
+IOC00197,File Hash (SHA256),2d289dbf6db5091ddd0d14475e8bf06002e5f42645257e8c8aab4f8727016ba1,Ransomware,Insider Threat,High,Medium
+IOC00198,File Hash (SHA256),6b843b36d3b3fdb3c80cb8f83bcf006ba511d82a0e2f9016242dfe704f4f3f3e,Spyware,Script Kiddie,High,High
+IOC00199,File Hash (SHA256),be83761da906f598a3e921584970032258cb1484918a02e895815eb7137c1434,Cryptojacking,Organized Crime Syndicate,High,Critical
+IOC00200,Domain,franklin.com,Malware,Threat Group Alpha,Medium,Medium
+IOC00201,File Hash (SHA256),ea85f995a65f3525b855d24310c697af7257c083e15244fc92679097cbd3473c,Botnet,Unknown,Low,Low
+IOC00202,Email Address,carl28@example.com,Cryptojacking,Nation-State Actor (Unattributed),Low,High
+IOC00203,Email Address,bsuarez@example.net,SQL Injection Campaign,Threat Group Alpha,Medium,Medium
+IOC00204,URL,http://www.watson.biz/app/tagcategory.php,Trojan,Threat Group Charlie,Low,Medium
+IOC00205,IP Address,147.229.253.155,Cryptojacking,Nation-State Actor (Unattributed),High,Medium
+IOC00206,URL,http://www.shields-gomez.com/searchsearch.htm,Spyware,Threat Group Charlie,High,Low
+IOC00207,IP Address,180.195.135.61,Malware,Insider Threat,Medium,High
+IOC00208,Domain,stevenson.com,Botnet,Nation-State Actor (Unattributed),High,Medium
+IOC00209,Email Address,ufrench@example.com,Spyware,Threat Group Charlie,High,Medium
+IOC00210,File Hash (SHA256),6bb812e44b58e151378ce5920483846433eaf2e987b270cccafafd490ca1d64b,Adware,Anonymous Group,Medium,Low
+IOC00211,File Hash (SHA256),c00d1442bdae280fce33526143dbf63fad3c2f0abc72a566fb9800c0ba803b25,Cryptojacking,Unknown,Medium,Low
+IOC00212,File Hash (SHA256),9ea65ea4693ecbd3371ea09db187a5edaa720d290528e34d479f84a3d2f8aa03,Brute Force,Threat Group Bravo,High,High
+IOC00213,Email Address,fordanthony@example.net,Adware,Threat Group Bravo,Low,High
+IOC00214,Email Address,joshuarobinson@example.net,Malware,Threat Group Alpha,High,Medium
+IOC00215,IP Address,193.197.204.211,Trojan,Threat Group Charlie,High,Low
+IOC00216,IP Address,216.28.181.2,Spyware,Threat Group Alpha,Low,Medium
+IOC00217,URL,https://www.martin-webb.com/explore/searchcategory.html,Adware,Insider Threat,High,High
+IOC00218,Email Address,mary12@example.net,Trojan,Hacktivist Collective,Medium,Low
+IOC00219,URL,https://hendricks.org/wp-content/appindex.html,Phishing,Anonymous Group,Low,Critical
+IOC00220,URL,https://www.mcfarland-barnes.com/list/blog/apphomepage.php,Rootkit,Nation-State Actor (Unattributed),Medium,Medium
+IOC00221,File Hash (SHA256),087ca12699dd911711af0a4b29196d7c242c447e70ad410a7e1ea1784330881b,Malware,Threat Group Bravo,Low,Medium
+IOC00222,Email Address,jeffreyglenn@example.org,Cryptojacking,Threat Group Bravo,Medium,High
+IOC00223,File Hash (SHA256),26b7a7be2cfa0c6e2293ac5ae40026ac91457f78a89e3feeb76f3d2dd4b1d2be,Botnet,Threat Group Alpha,Medium,High
+IOC00224,Email Address,joseph70@example.net,Keylogger,Script Kiddie,Low,Critical
+IOC00225,File Hash (SHA256),c9f2b132f462eaf0f434350507a64bc92ed7e3d18b1ed114b295031d42c39127,Spyware,Unknown,Low,Low
+IOC00226,URL,https://www.mullins.com/applogin.asp,Ransomware,Threat Group Bravo,Medium,Medium
+IOC00227,Email Address,michaelcarpenter@example.net,Brute Force,Script Kiddie,Medium,High
+IOC00228,URL,https://austin-white.info/explore/wp-contentterms.jsp,Adware,Nation-State Actor (Unattributed),Medium,Low
+IOC00229,IP Address,98.200.136.57,SQL Injection Campaign,Threat Group Alpha,Medium,Low
+IOC00230,File Hash (SHA256),4a7cc85f739343302c41072a109a1d823dea63a151416489ebe420a9f20eeb12,DDoS,Threat Group Charlie,Low,Critical
+IOC00231,Domain,cox-gonzales.net,Backdoor,Threat Group Bravo,Low,Medium
+IOC00232,File Hash (SHA256),1c691a228759ab40d3df4c47d582e3c159c0d5efac352d7e13312e5fecef0bd1,SQL Injection Campaign,Script Kiddie,High,Critical
+IOC00233,Domain,fuentes.com,Backdoor,Threat Group Charlie,Medium,High
+IOC00234,URL,http://www.smith.com/postshome.htm,Cryptojacking,Unknown,Medium,Medium
+IOC00235,Domain,chavez-stokes.net,Phishing,Script Kiddie,Medium,Medium
+IOC00236,URL,https://bullock.com/search/wp-contentabout.asp,Trojan,Unknown,Low,High
+IOC00237,File Hash (SHA256),cc934ba15fcd05e0fa1e81dfca3fe8903eb4de731c1ccf7a7163e58e9fbfffc2,Trojan,Threat Group Alpha,Low,Low
+IOC00238,IP Address,220.195.180.39,Ransomware,Anonymous Group,Low,Low
+IOC00239,URL,http://walter.biz/blog/tagsterms.html,Malware,Script Kiddie,Medium,High
+IOC00240,Domain,rice-bailey.com,Rootkit,Organized Crime Syndicate,High,Medium
+IOC00241,Email Address,kylehansen@example.com,Rootkit,Anonymous Group,Medium,Medium
+IOC00242,Email Address,markvargas@example.com,Phishing,Threat Group Alpha,Medium,Low
+IOC00243,Email Address,websterelizabeth@example.com,Backdoor,Script Kiddie,Medium,High
+IOC00244,Email Address,virginia72@example.net,Ransomware,Threat Group Alpha,High,High
+IOC00245,IP Address,186.134.111.249,SQL Injection Campaign,Hacktivist Collective,Low,Low
+IOC00246,Domain,robinson.org,Spyware,Script Kiddie,Medium,High
+IOC00247,IP Address,32.101.170.252,Rootkit,Threat Group Bravo,Medium,Medium
+IOC00248,File Hash (SHA256),a5caf33a0572d8a9d06734e3107ab775a9c67780085e37c725aa5dbf3b911fa5,Rootkit,Script Kiddie,High,High
+IOC00249,File Hash (SHA256),497c7463fb413a1ffc10e4d3975cc9978c8b20fed40a48890b62eac01e584f82,Keylogger,Anonymous Group,High,Medium
+IOC00250,URL,https://smith.com/search/categorylogin.html,Trojan,Script Kiddie,Medium,High
+IOC00251,IP Address,223.136.26.250,Backdoor,Insider Threat,High,Medium
+IOC00252,Domain,rice.info,DDoS,Organized Crime Syndicate,High,Critical
+IOC00253,Domain,medina.biz,Spyware,Unknown,High,Low
+IOC00254,URL,http://www.arellano-romero.com/tags/wp-content/postsauthor.asp,Cryptojacking,Unknown,Medium,Medium
+IOC00255,Email Address,patricia97@example.net,Ransomware,Hacktivist Collective,Low,Medium
+IOC00256,Email Address,ocox@example.net,Botnet,Hacktivist Collective,Medium,Medium
+IOC00257,URL,https://www.chambers.com/category/list/tagsregister.asp,DDoS,Unknown,Medium,High
+IOC00258,IP Address,144.80.187.121,Phishing,Nation-State Actor (Unattributed),Medium,Low
+IOC00259,URL,https://beck.com/list/mainmain.htm,Spyware,Threat Group Charlie,Medium,High
+IOC00260,File Hash (SHA256),9f7224a48d995d17f2b0d420c7a385561c8cf7927eee86004e8d9669a737d6be,Keylogger,Threat Group Alpha,High,Medium
+IOC00261,Domain,lawson.com,Trojan,Threat Group Bravo,Low,Low
+IOC00262,File Hash (SHA256),ca9075385300ab1a4e5c6758449a394a9a2b4f12f3084aaaf9b6ec73e5eabfe5,DDoS,Organized Crime Syndicate,High,Medium
+IOC00263,URL,https://www.jones.com/tag/postspost.asp,Botnet,Threat Group Bravo,High,High
+IOC00264,File Hash (SHA256),36295fceaea65e8e6c73a398a36bb2e3bd5f729b56ff65fca18202f82b243c87,SQL Injection Campaign,Nation-State Actor (Unattributed),Low,High
+IOC00265,URL,https://white.com/posts/tagspost.html,Keylogger,Unknown,Low,Critical
+IOC00266,Domain,roberts.com,Cryptojacking,Threat Group Bravo,High,Medium
+IOC00267,IP Address,70.15.183.184,Cryptojacking,Threat Group Charlie,Low,Low
+IOC00268,Domain,gonzalez.org,SQL Injection Campaign,Anonymous Group,Low,Low
+IOC00269,Domain,hamilton-patel.com,Adware,Anonymous Group,Low,Critical
+IOC00270,Email Address,sparkscasey@example.net,Ransomware,Anonymous Group,Medium,High
+IOC00271,File Hash (SHA256),1426b96c9871076c2238ff556a4ecabaf03c601710df15555e53f27f5019a037,SQL Injection Campaign,Threat Group Charlie,Low,Medium
+IOC00272,Domain,church-alexander.biz,Malware,Threat Group Charlie,Low,Medium
+IOC00273,URL,https://www.butler.com/appterms.html,Spyware,Threat Group Bravo,High,Medium
+IOC00274,Email Address,imay@example.com,Backdoor,Unknown,Medium,Low
+IOC00275,File Hash (SHA256),43aea52ea783f3eff676960439661cc6d0a366c939d69ccbcb1d8f9bf97b933e,Brute Force,Threat Group Bravo,Low,Medium
+IOC00276,Domain,meyer-huffman.com,Adware,Script Kiddie,Medium,Medium
+IOC00277,Domain,vazquez.org,Ransomware,Nation-State Actor (Unattributed),Medium,High
+IOC00278,Email Address,jaclynmendoza@example.net,Rootkit,Unknown,High,Medium
+IOC00279,URL,https://www.jacobson.info/list/search/categoriesregister.htm,Keylogger,Threat Group Alpha,Low,High
+IOC00280,Email Address,nguyenryan@example.com,Worm,Organized Crime Syndicate,Low,Medium
+IOC00281,IP Address,201.8.241.204,DDoS,Organized Crime Syndicate,Medium,Medium
+IOC00282,Email Address,mortonbrittany@example.net,Adware,Threat Group Alpha,High,High
+IOC00283,Domain,bonilla-higgins.info,Botnet,Threat Group Alpha,Low,Medium
+IOC00284,IP Address,181.11.211.8,Brute Force,Threat Group Bravo,High,High
+IOC00285,Domain,donaldson.org,Keylogger,Insider Threat,Low,High
+IOC00286,IP Address,159.118.203.88,Worm,Threat Group Charlie,Medium,High
+IOC00287,IP Address,102.58.252.182,Malware,Anonymous Group,Medium,Low
+IOC00288,IP Address,95.105.96.174,Phishing,Threat Group Charlie,High,High
+IOC00289,File Hash (SHA256),88460427ba80229d348d93430743d6c91aecc9e137c47232953a98dad0757b86,Spyware,Threat Group Alpha,Medium,Medium
+IOC00290,URL,https://www.gibson.com/list/category/searchfaq.html,Keylogger,Threat Group Charlie,High,Low
+IOC00291,Domain,kelly.net,Keylogger,Unknown,Medium,Low
+IOC00292,IP Address,192.156.65.40,Malware,Script Kiddie,High,Medium
+IOC00293,IP Address,222.62.251.252,Worm,Threat Group Alpha,Low,Medium
+IOC00294,IP Address,122.146.21.92,Keylogger,Threat Group Charlie,Low,Medium
+IOC00295,IP Address,179.151.29.186,Cryptojacking,Threat Group Bravo,Medium,High
+IOC00296,Domain,lawrence-perry.info,Spyware,Organized Crime Syndicate,Medium,Low
+IOC00297,Email Address,austinjarvis@example.net,DDoS,Nation-State Actor (Unattributed),Low,High
+IOC00298,Domain,watts-soto.net,Brute Force,Threat Group Alpha,Low,Low
+IOC00299,Domain,woods-craig.net,SQL Injection Campaign,Threat Group Bravo,High,Medium
+IOC00300,URL,https://dillon.org/tags/tagspost.jsp,DDoS,Script Kiddie,Medium,Critical
+IOC00301,Email Address,rhoffman@example.org,DDoS,Threat Group Bravo,Medium,Medium
+IOC00302,Domain,barnes.com,Ransomware,Hacktivist Collective,High,Critical
+IOC00303,Domain,brown-mccall.net,Rootkit,Threat Group Charlie,Low,Medium
+IOC00304,Email Address,alisonharris@example.org,Spyware,Insider Threat,Medium,High
+IOC00305,URL,http://www.williams.net/search/categoryregister.php,Trojan,Hacktivist Collective,High,High
+IOC00306,Domain,benjamin.com,Backdoor,Threat Group Alpha,Medium,High
+IOC00307,Domain,stuart.com,Malware,Nation-State Actor (Unattributed),High,Medium
+IOC00308,IP Address,99.202.180.93,DDoS,Script Kiddie,Low,Low
+IOC00309,IP Address,147.44.169.207,Phishing,Threat Group Bravo,High,Medium
+IOC00310,Domain,vargas-young.com,Phishing,Nation-State Actor (Unattributed),Medium,High
+IOC00311,IP Address,187.139.176.171,Rootkit,Script Kiddie,Medium,Low
+IOC00312,IP Address,157.92.11.73,Backdoor,Threat Group Alpha,High,Medium
+IOC00313,Email Address,ruizsteven@example.org,Rootkit,Threat Group Alpha,High,Medium
+IOC00314,IP Address,206.201.101.195,Trojan,Nation-State Actor (Unattributed),High,Critical
+IOC00315,URL,http://martin-roberts.com/categorieshomepage.asp,Rootkit,Anonymous Group,Medium,Medium
+IOC00316,URL,http://lynch-newman.biz/list/wp-content/mainregister.asp,Brute Force,Organized Crime Syndicate,Medium,Critical
+IOC00317,URL,http://www.chan.biz/posts/posts/wp-contentpost.asp,Rootkit,Insider Threat,Low,Medium
+IOC00318,Domain,evans-thompson.com,Trojan,Anonymous Group,High,Critical
+IOC00319,IP Address,168.146.232.146,Backdoor,Organized Crime Syndicate,Low,High
+IOC00320,Domain,thomas.biz,Spyware,Anonymous Group,Medium,High
+IOC00321,File Hash (SHA256),52e83f73269e751e722c0b92d868572ad5fed988317bb813d9210b12e300c53d,Adware,Nation-State Actor (Unattributed),Low,Medium
+IOC00322,URL,http://www.rogers.com/mainhomepage.htm,Malware,Hacktivist Collective,High,Critical
+IOC00323,IP Address,204.243.22.143,Keylogger,Threat Group Bravo,Low,Low
+IOC00324,URL,http://www.boyd.com/listfaq.html,Trojan,Unknown,Low,Low
+IOC00325,Email Address,ericahodge@example.com,Cryptojacking,Anonymous Group,Low,Medium
+IOC00326,IP Address,214.120.129.226,Cryptojacking,Nation-State Actor (Unattributed),Medium,Low
+IOC00327,Email Address,alanguzman@example.net,Ransomware,Hacktivist Collective,Medium,Medium
+IOC00328,IP Address,93.211.203.169,Botnet,Threat Group Alpha,Low,Critical
+IOC00329,File Hash (SHA256),ddb085fa5126a8e83cb40fac0b202ae39f3601d1524c6ab8012b572bbf7eabf2,Malware,Insider Threat,Low,Critical
+IOC00330,Email Address,craigkathryn@example.net,Ransomware,Script Kiddie,Medium,Low
+IOC00331,File Hash (SHA256),801464a462143f2a854dd814b32b3f6e8151bd3e3190845f7bafbdc1d5a7e40a,Phishing,Script Kiddie,High,Critical
+IOC00332,URL,https://www.mcclain.com/appregister.html,Backdoor,Script Kiddie,High,Medium
+IOC00333,Email Address,amandafrederick@example.org,Keylogger,Threat Group Charlie,Medium,High
+IOC00334,Email Address,thomastiffany@example.com,Ransomware,Organized Crime Syndicate,Medium,High
+IOC00335,File Hash (SHA256),597c860d0f248752833f71a4fe1a97ce2c0a78fbe2869039544aa75549e32f7a,Backdoor,Unknown,Medium,Medium
+IOC00336,File Hash (SHA256),3d5fac4395cac8802296d02ccaae200dd20a8f6498754061d8fc67f74a73856a,Phishing,Threat Group Alpha,High,Medium
+IOC00337,File Hash (SHA256),7bee778b630ac95a1e292d00cb3ba641ed702ad5da0410e9c2df014bf478f9cf,Trojan,Threat Group Bravo,High,Low
+IOC00338,IP Address,34.70.150.70,Ransomware,Unknown,Medium,Low
+IOC00339,File Hash (SHA256),a0869c9900eb1397e84105e36f01c304ed8c3a8c907dfcb028fb071894249612,Cryptojacking,Organized Crime Syndicate,Low,Low
+IOC00340,Email Address,brandy37@example.com,DDoS,Unknown,High,Low
+IOC00341,IP Address,199.82.59.202,Backdoor,Nation-State Actor (Unattributed),Low,Critical
+IOC00342,File Hash (SHA256),902e6c28d2e0b5dd61951e8b9774f32295647c6310d70d36f05b4c1078c79c5b,Brute Force,Hacktivist Collective,Medium,High
+IOC00343,IP Address,211.135.106.135,Brute Force,Nation-State Actor (Unattributed),High,Low
+IOC00344,URL,https://murphy.com/blog/wp-content/mainauthor.htm,Rootkit,Anonymous Group,Low,Low
+IOC00345,Email Address,edwinanderson@example.com,SQL Injection Campaign,Script Kiddie,Low,Medium
+IOC00346,File Hash (SHA256),96afb558fe3a79839db4046aa83efd465b15a517f4b88f69e2c1678b1c725a58,SQL Injection Campaign,Anonymous Group,High,High
+IOC00347,Domain,glover-dixon.com,Botnet,Insider Threat,Low,Medium
+IOC00348,Email Address,angela80@example.org,Ransomware,Nation-State Actor (Unattributed),High,Medium
+IOC00349,Domain,knight.net,Brute Force,Threat Group Bravo,High,Medium
+IOC00350,IP Address,206.127.120.37,Trojan,Threat Group Charlie,High,Low
+IOC00351,URL,https://www.ward-jenkins.biz/category/explore/blogpost.htm,Worm,Threat Group Bravo,Medium,Medium
+IOC00352,Email Address,fruiz@example.org,Rootkit,Hacktivist Collective,High,High
+IOC00353,Email Address,jason44@example.org,SQL Injection Campaign,Threat Group Bravo,Low,Medium
+IOC00354,Domain,bauer.info,Adware,Hacktivist Collective,Low,High
+IOC00355,Email Address,courtneyramirez@example.com,Keylogger,Threat Group Charlie,Low,Medium
+IOC00356,Email Address,jpetersen@example.net,Cryptojacking,Nation-State Actor (Unattributed),Medium,High
+IOC00357,Domain,vazquez.com,DDoS,Threat Group Charlie,Medium,Low
+IOC00358,Domain,carter-gallegos.com,Botnet,Insider Threat,Medium,Medium
+IOC00359,URL,http://orozco.com/tags/tagssearch.asp,Spyware,Organized Crime Syndicate,Medium,Low
+IOC00360,URL,http://www.gillespie.com/search/categoriespost.htm,Spyware,Threat Group Bravo,High,High
+IOC00361,URL,https://www.colon.biz/list/exploremain.htm,Worm,Threat Group Charlie,High,Medium
+IOC00362,Domain,brennan.com,Ransomware,Insider Threat,Low,High
+IOC00363,URL,http://day.com/tag/wp-contentauthor.html,Keylogger,Organized Crime Syndicate,High,Low
+IOC00364,URL,https://www.thompson.com/categories/postspost.asp,Worm,Unknown,Low,Medium
+IOC00365,Domain,martinez-johnson.com,Phishing,Organized Crime Syndicate,Low,High
+IOC00366,File Hash (SHA256),ba5be9b9e5fc2238bdcfdeb4d22f98c2988d29b8486e27c5fee702dc610e5b66,Malware,Threat Group Bravo,High,Low
+IOC00367,File Hash (SHA256),444dd48e2716cee79c83b83220f67f10b40812c41b94ee0e30bb233579275028,Botnet,Hacktivist Collective,Medium,Low
+IOC00368,Domain,howard.biz,DDoS,Unknown,High,Critical
+IOC00369,Domain,spencer-clark.info,Keylogger,Insider Threat,High,Medium
+IOC00370,Domain,trevino-tate.net,SQL Injection Campaign,Nation-State Actor (Unattributed),Medium,Low
+IOC00371,Email Address,avelazquez@example.org,Ransomware,Threat Group Bravo,Low,Medium
+IOC00372,File Hash (SHA256),3c5e34ad012e86c72a6084bbdf2a724d7408d82ba702e243858999ebf9e72ecb,Adware,Organized Crime Syndicate,High,High
+IOC00373,Email Address,mendozajoseph@example.net,Trojan,Anonymous Group,High,Medium
+IOC00374,Email Address,marc12@example.org,Malware,Anonymous Group,High,Critical
+IOC00375,Email Address,acevedokim@example.net,Spyware,Unknown,Low,Medium
+IOC00376,Email Address,ibarrett@example.com,DDoS,Organized Crime Syndicate,Low,Medium
+IOC00377,IP Address,216.56.121.157,SQL Injection Campaign,Nation-State Actor (Unattributed),Medium,Medium
+IOC00378,URL,https://ramos.com/postsabout.asp,Cryptojacking,Threat Group Charlie,High,Medium
+IOC00379,Domain,malone.com,Trojan,Script Kiddie,Medium,Low
+IOC00380,Email Address,brittney93@example.org,Brute Force,Threat Group Bravo,High,Medium
+IOC00381,Email Address,williamsraymond@example.org,Spyware,Insider Threat,Medium,Low
+IOC00382,File Hash (SHA256),4257981883f19f0f75465dd4a452f9744062cf3d331ea95f8124448478abae7b,Keylogger,Script Kiddie,Low,Low
+IOC00383,Domain,barr.com,Phishing,Script Kiddie,High,Low
+IOC00384,Domain,newton-willis.com,Phishing,Insider Threat,Medium,Low
+IOC00385,IP Address,69.183.8.177,Cryptojacking,Anonymous Group,Medium,High
+IOC00386,IP Address,203.232.8.247,SQL Injection Campaign,Insider Threat,Low,Medium
+IOC00387,Email Address,vvalentine@example.com,Ransomware,Nation-State Actor (Unattributed),High,High
+IOC00388,IP Address,181.63.123.246,Trojan,Organized Crime Syndicate,Medium,Medium
+IOC00389,File Hash (SHA256),89eff579ebd8b8bf3d7cb7f7bdc15eb7fb246f8e338562328b26e82e67a04838,Rootkit,Organized Crime Syndicate,High,Medium
+IOC00390,File Hash (SHA256),fec4932f2261758f51c302a9adf4b3b625d739dd93c62ec1747d21856d2a449c,Worm,Threat Group Charlie,High,High
+IOC00391,IP Address,194.129.50.190,Adware,Unknown,High,Medium
+IOC00392,URL,https://arias-ward.biz/posts/explorecategory.php,Spyware,Threat Group Charlie,Medium,Medium
+IOC00393,Domain,cooke.biz,Spyware,Nation-State Actor (Unattributed),Medium,High
+IOC00394,Email Address,markperez@example.net,Botnet,Threat Group Charlie,Medium,High
+IOC00395,URL,https://payne.com/tag/main/tagsterms.html,Rootkit,Insider Threat,High,High
+IOC00396,IP Address,76.20.105.61,Brute Force,Threat Group Alpha,Low,Critical
+IOC00397,File Hash (SHA256),30cc25e7472a25e75787b69992daf25de8275166144105e0911b4ae5aa9f9e20,Keylogger,Threat Group Alpha,High,Critical
+IOC00398,URL,https://www.jones.com/appcategory.asp,Phishing,Anonymous Group,Medium,Medium
+IOC00399,URL,https://www.jordan.com/tag/tagregister.html,Trojan,Nation-State Actor (Unattributed),High,High
+IOC00400,Domain,perez-johnson.net,Malware,Script Kiddie,High,Medium
+IOC00401,URL,http://martinez.com/categoryauthor.html,Cryptojacking,Insider Threat,High,Low
+IOC00402,Email Address,uodom@example.com,Adware,Anonymous Group,Low,High
+IOC00403,File Hash (SHA256),ddb5420015b0067fa1b4d9ae79a5fc638971578621c8c2c20779fb7d55944bda,SQL Injection Campaign,Insider Threat,Low,Medium
+IOC00404,URL,https://www.nixon-johnson.com/listfaq.htm,Botnet,Script Kiddie,High,High
+IOC00405,File Hash (SHA256),5926260249c357155853676069adcb27b5365f9d19fb201846f436a65ee67bb9,Phishing,Organized Crime Syndicate,Low,High
+IOC00406,File Hash (SHA256),05d51a75b4fa0ba2105ff4762dd97926c03635dce10c5d9963554f723a6b07c2,Spyware,Insider Threat,Medium,Critical
+IOC00407,IP Address,221.95.248.166,Ransomware,Threat Group Alpha,High,High
+IOC00408,URL,http://carr.net/postslogin.htm,Backdoor,Threat Group Charlie,Low,High
+IOC00409,Domain,valenzuela.net,Cryptojacking,Unknown,Low,Medium
+IOC00410,URL,http://jackson.com/categoriesprivacy.htm,Cryptojacking,Script Kiddie,Medium,High
+IOC00411,File Hash (SHA256),db39f59eb366ca338f6fc0895b94d5f4f478f5ef5efccd13e6101a9b35572c60,Malware,Insider Threat,Medium,Medium
+IOC00412,File Hash (SHA256),c0839602e44e72adda05c8d0a6aff55b8e17c99ee9350a7e2546286da0f8c3f7,Cryptojacking,Nation-State Actor (Unattributed),High,Low
+IOC00413,Domain,rowe-beck.com,Adware,Threat Group Alpha,Low,Medium
+IOC00414,URL,https://www.allen.com/postsauthor.htm,Keylogger,Hacktivist Collective,High,Medium
+IOC00415,Email Address,paulawheeler@example.org,Adware,Insider Threat,Medium,Medium
+IOC00416,Email Address,mcdowelljacqueline@example.com,Keylogger,Hacktivist Collective,Low,Medium
+IOC00417,Domain,gardner.com,Backdoor,Threat Group Bravo,Low,Low
+IOC00418,File Hash (SHA256),97852e9a964687f474013587860ae8ab84d71a7e22465064b7cdf1e8f4c71611,Trojan,Organized Crime Syndicate,Low,High
+IOC00419,File Hash (SHA256),d641b28c0e1679184a8de04a5eedd0ad0497139fd2b76338387e0d3bff159b03,Keylogger,Organized Crime Syndicate,High,High
+IOC00420,Email Address,jodymerritt@example.net,Rootkit,Insider Threat,High,Critical
+IOC00421,IP Address,168.93.32.14,Backdoor,Anonymous Group,Medium,High
+IOC00422,Domain,tran.com,Trojan,Anonymous Group,Medium,High
+IOC00423,URL,http://www.heath-foster.net/tags/blogprivacy.php,Spyware,Threat Group Alpha,Low,High
+IOC00424,IP Address,192.234.146.240,SQL Injection Campaign,Nation-State Actor (Unattributed),Medium,Low
+IOC00425,Email Address,wlarsen@example.net,Keylogger,Unknown,Medium,Critical
+IOC00426,Email Address,xroberts@example.net,Adware,Unknown,High,Low
+IOC00427,URL,http://www.wall.com/tagspost.php,Trojan,Threat Group Charlie,High,Medium
+IOC00428,URL,https://clayton.biz/main/explore/searchauthor.php,Cryptojacking,Hacktivist Collective,Medium,Low
+IOC00429,Domain,martin-jackson.info,Brute Force,Insider Threat,Low,Medium
+IOC00430,URL,http://compton.com/tags/app/searchauthor.html,Adware,Insider Threat,High,Medium
+IOC00431,Email Address,hillmarcus@example.net,Malware,Threat Group Bravo,Medium,Medium
+IOC00432,URL,http://doyle.com/categoriesfaq.html,SQL Injection Campaign,Threat Group Bravo,Low,High
+IOC00433,File Hash (SHA256),a46eb6fd95c4e90e1c67c689af503ca170b4b5c3bdcf209fd814147c0f24c293,Phishing,Hacktivist Collective,Low,Low
+IOC00434,URL,https://www.olson-brock.org/categories/tagsprivacy.asp,Adware,Threat Group Charlie,Low,Medium
+IOC00435,Domain,bennett-zimmerman.com,Rootkit,Hacktivist Collective,Low,Critical
+IOC00436,IP Address,197.23.202.121,Spyware,Organized Crime Syndicate,Low,Medium
+IOC00437,IP Address,96.215.113.235,Phishing,Nation-State Actor (Unattributed),High,High
+IOC00438,Email Address,joshua51@example.org,Ransomware,Script Kiddie,High,Low
+IOC00439,Email Address,david85@example.net,Keylogger,Script Kiddie,Medium,Medium
+IOC00440,Domain,hudson-gibbs.info,Spyware,Insider Threat,Medium,Medium
+IOC00441,URL,http://www.perez.net/tag/postscategory.html,Backdoor,Anonymous Group,High,Critical
+IOC00442,File Hash (SHA256),914f5b6a70e37cc2971f9d664fb4b5d5cc19d0296e8dc17dc814f1fd2967a725,Botnet,Nation-State Actor (Unattributed),High,Medium
+IOC00443,URL,http://www.bell.info/tags/categories/appauthor.htm,Malware,Threat Group Charlie,High,High
+IOC00444,File Hash (SHA256),728e556c403aef4644b9df54d0ad746b65cdb203bfa748c90f9d586b5ed74e3f,SQL Injection Campaign,Insider Threat,High,High
+IOC00445,Email Address,gary82@example.org,Malware,Threat Group Charlie,Medium,Medium
+IOC00446,IP Address,32.106.86.167,Ransomware,Anonymous Group,Low,Medium
+IOC00447,IP Address,211.115.41.215,Malware,Threat Group Bravo,High,Medium
+IOC00448,Email Address,cindyschneider@example.net,Worm,Script Kiddie,Medium,Medium
+IOC00449,File Hash (SHA256),c7582e630e0920925b9e48aa4a3546f665b453b6b0789c7b7a92fca2ab29caab,Botnet,Organized Crime Syndicate,Low,Low
+IOC00450,URL,http://roberts.biz/posts/category/blogabout.htm,Cryptojacking,Threat Group Alpha,Medium,High
+IOC00451,Domain,rodgers.com,Backdoor,Threat Group Alpha,Low,Medium
+IOC00452,File Hash (SHA256),7f8a3c28dee82aff94afdbe166e43f0bd2c1779c67215e0f15a367869693c7a1,SQL Injection Campaign,Threat Group Alpha,High,Medium
+IOC00453,URL,http://www.hunt.com/main/posts/postscategory.php,Spyware,Insider Threat,High,High
+IOC00454,File Hash (SHA256),f4cf20575a28886b6c59d282929f794d43dd8e6510ef1e7c2c51d4ad3832ded3,DDoS,Organized Crime Syndicate,Medium,High
+IOC00455,IP Address,113.223.31.187,Worm,Insider Threat,Low,High
+IOC00456,Domain,smith-jones.com,Rootkit,Threat Group Alpha,Medium,Medium
+IOC00457,Email Address,hollowayjoshua@example.net,Brute Force,Threat Group Alpha,Medium,High
+IOC00458,Email Address,colleen42@example.com,Ransomware,Organized Crime Syndicate,Low,High
+IOC00459,Domain,barnes.net,SQL Injection Campaign,Threat Group Alpha,Medium,High
+IOC00460,IP Address,198.230.134.209,Backdoor,Insider Threat,Medium,Medium
+IOC00461,URL,https://www.evans.com/blog/explore/searchfaq.php,Botnet,Threat Group Alpha,High,Medium
+IOC00462,Email Address,kyle77@example.net,Backdoor,Threat Group Charlie,Medium,Low
+IOC00463,File Hash (SHA256),72465d6b42bcf884cebd55f85d6bfa5b5dca8d2f54417e62c6da1856377477cd,SQL Injection Campaign,Hacktivist Collective,High,Low
+IOC00464,URL,http://www.henson-aguilar.com/list/category/categoriesprivacy.htm,Spyware,Threat Group Charlie,Low,Low
+IOC00465,URL,http://www.barker.com/tagauthor.html,Keylogger,Anonymous Group,Medium,Low
+IOC00466,Domain,ford-li.net,SQL Injection Campaign,Anonymous Group,Low,Critical
+IOC00467,Domain,miranda.info,Rootkit,Nation-State Actor (Unattributed),High,Medium
+IOC00468,URL,https://www.kelly-aguilar.org/categories/postsindex.html,Cryptojacking,Threat Group Bravo,Medium,Medium
+IOC00469,Email Address,gmartin@example.net,Ransomware,Nation-State Actor (Unattributed),High,Medium
+IOC00470,IP Address,215.253.127.45,Rootkit,Hacktivist Collective,Medium,High
+IOC00471,Email Address,kford@example.org,Worm,Threat Group Bravo,Medium,Low
+IOC00472,File Hash (SHA256),2c2f796cd505edc847133a020fd6fd34a6bc191da613ea6de62502d9e7b59add,Ransomware,Threat Group Alpha,Medium,High
+IOC00473,Domain,george-gomez.com,Rootkit,Threat Group Charlie,Medium,Medium
+IOC00474,Domain,johnson-mcclain.com,Ransomware,Script Kiddie,Medium,Medium
+IOC00475,URL,http://porter-sanchez.com/postslogin.php,Rootkit,Unknown,Low,High
+IOC00476,Email Address,crystal00@example.com,Trojan,Threat Group Bravo,Medium,Low
+IOC00477,URL,https://black.com/postsregister.html,Botnet,Anonymous Group,Low,High
+IOC00478,Email Address,christophertownsend@example.com,Spyware,Organized Crime Syndicate,High,High
+IOC00479,File Hash (SHA256),d7e3dc5bffd5c785456f51dcd3cd068d111dd2f711901aeb9244c7f51ccdd1b9,Botnet,Threat Group Charlie,Low,Medium
+IOC00480,Email Address,jessicabarrett@example.org,Phishing,Insider Threat,High,High
+IOC00481,Domain,james.org,Ransomware,Hacktivist Collective,High,Medium
+IOC00482,Domain,hall.org,SQL Injection Campaign,Script Kiddie,High,Low
+IOC00483,IP Address,192.176.118.40,Ransomware,Threat Group Alpha,Medium,High
+IOC00484,File Hash (SHA256),0f9780c60d246d7ed0e2f851f63223a0bf6e50def6525bd6624840c6fd56a826,Cryptojacking,Hacktivist Collective,Medium,High
+IOC00485,File Hash (SHA256),49259ed0e0461c04145ee6937aac73c381797c27d5b583041b595e6e213a4cf9,Spyware,Organized Crime Syndicate,Low,Low
+IOC00486,Domain,evans.com,Ransomware,Threat Group Alpha,High,Low
+IOC00487,File Hash (SHA256),a6cf01268ebbe6f8f6f94a245ddbc0856eb7dde15de55ad1577fba5ecf7cd685,SQL Injection Campaign,Hacktivist Collective,Low,Critical
+IOC00488,File Hash (SHA256),90c66721515095b7e262c6e78a57d0e7cc871c3a3e263526cb147077701b39f3,Worm,Threat Group Charlie,Medium,Medium
+IOC00489,URL,https://gilbert.biz/posts/wp-content/tagabout.html,Cryptojacking,Threat Group Charlie,High,High
+IOC00490,URL,https://www.smith.com/search/categories/bloghome.htm,Ransomware,Threat Group Alpha,Low,Medium
+IOC00491,File Hash (SHA256),52ae762aff483aa88fe5dc1a7218b6d335887cd02678d484cb149c8a213c0fcb,Phishing,Threat Group Bravo,High,Low
+IOC00492,Email Address,chapmanwendy@example.org,Adware,Unknown,High,Medium
+IOC00493,File Hash (SHA256),84cfe9f0780e7a241c0655596a0413c20ccfdf7c0099d18c0ea3c22e007e606e,Cryptojacking,Threat Group Alpha,High,Medium
+IOC00494,Email Address,christopherlee@example.net,Rootkit,Unknown,Low,High
+IOC00495,IP Address,218.170.97.138,SQL Injection Campaign,Nation-State Actor (Unattributed),Low,Medium
+IOC00496,URL,http://www.bond-simon.com/wp-content/mainprivacy.html,SQL Injection Campaign,Threat Group Alpha,High,High
+IOC00497,URL,http://cox-gallegos.com/explore/category/categorylogin.php,Brute Force,Insider Threat,Low,Medium
+IOC00498,Domain,guerrero.biz,Botnet,Nation-State Actor (Unattributed),High,Low
+IOC00499,IP Address,148.62.100.234,Spyware,Threat Group Charlie,Low,Medium
+IOC00500,Email Address,angela33@example.org,SQL Injection Campaign,Threat Group Alpha,Medium,High
+IOC00501,Domain,harmon-gutierrez.com,Cryptojacking,Nation-State Actor (Unattributed),High,High
+IOC00502,File Hash (SHA256),7356d288208d268129e38b823bd6046e3491a06c3c6b5f26e4c4aaa76d0f4f5b,Trojan,Threat Group Bravo,Medium,Medium
+IOC00503,IP Address,11.201.75.163,Cryptojacking,Threat Group Alpha,Medium,Medium
+IOC00504,IP Address,41.168.59.64,Backdoor,Threat Group Alpha,Low,High
+IOC00505,URL,http://www.dougherty-roberts.com/main/exploreregister.jsp,Keylogger,Anonymous Group,Low,High
+IOC00506,File Hash (SHA256),ffb91004e7a949ae8a43661fb02e2b620e2a5ede34909af2ed0cf63388a9a1d0,Rootkit,Hacktivist Collective,Low,Medium
+IOC00507,File Hash (SHA256),8fb945fc1a833645948939937cffacac66fbba7f0c6908c53b546a82734fca6d,Cryptojacking,Script Kiddie,High,Critical
+IOC00508,Domain,knight-warren.com,Backdoor,Nation-State Actor (Unattributed),High,Medium
+IOC00509,Domain,johnson-moore.net,Cryptojacking,Hacktivist Collective,Low,High
+IOC00510,URL,http://www.harris-bryant.org/search/categoriesprivacy.jsp,Spyware,Organized Crime Syndicate,Medium,High
+IOC00511,IP Address,27.27.209.180,Rootkit,Anonymous Group,Medium,Medium
+IOC00512,Email Address,xfrost@example.net,Adware,Nation-State Actor (Unattributed),Low,High
+IOC00513,URL,https://anderson-taylor.com/listindex.htm,Backdoor,Hacktivist Collective,High,Low
+IOC00514,IP Address,65.9.236.133,Spyware,Organized Crime Syndicate,High,Critical
+IOC00515,Email Address,longerin@example.org,Trojan,Threat Group Bravo,Medium,Medium
+IOC00516,IP Address,185.113.110.224,Brute Force,Insider Threat,Low,Medium
+IOC00517,File Hash (SHA256),b3fe63a359b4fcf37f9ae6631497613075f79598f89006a1f299e633ca0785fc,Backdoor,Threat Group Charlie,High,High
+IOC00518,File Hash (SHA256),68212eb329d477c1eb79e8c3ecc0983950a53956656abb2d459d9b6de24c59ac,DDoS,Threat Group Charlie,Medium,Critical
+IOC00519,File Hash (SHA256),92b216747ea9494fbb874a77ae1c3ec3060fca33cd5159fab8cfe236c8c57fbc,Spyware,Hacktivist Collective,Low,High
+IOC00520,File Hash (SHA256),413391512005eb83bb77ad2fc5478ad7633832db875768a3def4690322641d51,Keylogger,Script Kiddie,Low,Medium
+IOC00521,URL,https://ferguson-young.com/posts/tagmain.html,Botnet,Threat Group Alpha,Low,Medium
+IOC00522,URL,http://hunter.com/listprivacy.html,Malware,Script Kiddie,Low,Low
+IOC00523,Email Address,megan20@example.com,Malware,Script Kiddie,Low,Medium
+IOC00524,Domain,escobar.com,Backdoor,Organized Crime Syndicate,Low,High
+IOC00525,File Hash (SHA256),4003628a3877b1d76d9a263a739d12b3578f2a58cd88233364ee3d7fed6dda1a,Phishing,Insider Threat,High,Critical
+IOC00526,URL,https://www.montgomery.com/blog/categories/tagabout.php,Trojan,Nation-State Actor (Unattributed),Low,Low
+IOC00527,Domain,rose-willis.com,Malware,Anonymous Group,Medium,Low
+IOC00528,Domain,rasmussen.com,Spyware,Insider Threat,High,Medium
+IOC00529,IP Address,220.161.228.185,Trojan,Unknown,Low,Critical
+IOC00530,Email Address,kjones@example.com,Cryptojacking,Threat Group Alpha,High,Medium
+IOC00531,URL,https://www.haynes-brown.net/mainabout.html,Brute Force,Threat Group Charlie,High,High
+IOC00532,Domain,newton-white.com,Ransomware,Threat Group Alpha,Medium,High
+IOC00533,Email Address,joliver@example.com,DDoS,Threat Group Charlie,Low,Medium
+IOC00534,URL,https://www.wright-pratt.com/main/main/searchprivacy.html,Adware,Insider Threat,Medium,High
+IOC00535,IP Address,89.243.109.41,Adware,Hacktivist Collective,High,High
+IOC00536,Email Address,vanessa54@example.net,Cryptojacking,Hacktivist Collective,High,High
+IOC00537,URL,https://www.hammond-miller.net/blog/mainfaq.htm,DDoS,Hacktivist Collective,Medium,Low
+IOC00538,Email Address,nsmith@example.org,Cryptojacking,Threat Group Bravo,Medium,Critical
+IOC00539,Domain,garcia.biz,Phishing,Threat Group Bravo,High,Medium
+IOC00540,Domain,vargas-smith.com,Phishing,Anonymous Group,Low,High
+IOC00541,Domain,banks.org,DDoS,Hacktivist Collective,High,Low
+IOC00542,URL,https://www.davis-allen.com/search/searchcategory.jsp,Brute Force,Nation-State Actor (Unattributed),High,High
+IOC00543,Domain,contreras.com,Brute Force,Organized Crime Syndicate,Low,Critical
+IOC00544,Domain,cooper-evans.com,Trojan,Hacktivist Collective,Low,Low
+IOC00545,Email Address,mmorales@example.org,Rootkit,Hacktivist Collective,Low,Medium
+IOC00546,URL,https://glenn-gallagher.com/categories/tags/categoriesabout.htm,Botnet,Threat Group Charlie,Medium,Low
+IOC00547,IP Address,59.200.31.73,Adware,Anonymous Group,Low,Medium
+IOC00548,Domain,briggs.com,SQL Injection Campaign,Insider Threat,High,Medium
+IOC00549,URL,https://www.rodriguez.com/categoriesmain.htm,Malware,Insider Threat,Medium,Low
+IOC00550,IP Address,217.172.92.110,Backdoor,Organized Crime Syndicate,Medium,High
+IOC00551,Email Address,baileyware@example.org,Phishing,Anonymous Group,High,Low
+IOC00552,File Hash (SHA256),01ffa23c7effc6eef525f430960d386b65db83bd18974577b19dd668b3939e1b,Brute Force,Anonymous Group,Low,Medium
+IOC00553,Email Address,wilsonandrea@example.org,SQL Injection Campaign,Anonymous Group,Medium,Low
+IOC00554,Email Address,kendrajackson@example.com,Backdoor,Insider Threat,Low,High
+IOC00555,Domain,villarreal-hoffman.info,Botnet,Organized Crime Syndicate,Low,Low
+IOC00556,File Hash (SHA256),9d8dd2b76de635ef098fa5712fd7d76968a9dff500e9363cb91eaaf2ce1d7f1c,Trojan,Organized Crime Syndicate,High,Low
+IOC00557,Domain,wong.com,Brute Force,Threat Group Alpha,Low,Critical
+IOC00558,URL,http://www.roy-ramos.org/categories/listabout.html,Brute Force,Hacktivist Collective,Medium,Low
+IOC00559,URL,http://davis.org/blog/mainauthor.html,Adware,Insider Threat,Low,Medium
+IOC00560,IP Address,60.45.70.31,Adware,Threat Group Alpha,High,Critical
+IOC00561,URL,https://www.mercado-martin.com/blog/blog/categorycategory.htm,Ransomware,Unknown,Medium,Critical
+IOC00562,Email Address,uwebb@example.com,Ransomware,Script Kiddie,Low,High
+IOC00563,Domain,benson.com,SQL Injection Campaign,Organized Crime Syndicate,Low,High
+IOC00564,IP Address,213.114.222.21,Botnet,Hacktivist Collective,Low,High
+IOC00565,URL,https://manning.net/searchprivacy.asp,Malware,Organized Crime Syndicate,High,Medium
+IOC00566,Domain,williams-cross.net,Malware,Script Kiddie,Low,High
+IOC00567,Domain,brown-smith.com,Rootkit,Hacktivist Collective,Low,Medium
+IOC00568,Email Address,michelemartinez@example.com,Adware,Nation-State Actor (Unattributed),Medium,Medium
+IOC00569,IP Address,181.23.206.139,Worm,Anonymous Group,Low,High
+IOC00570,File Hash (SHA256),553916fa2d52e3fb061b7805f3aef6ed817e0a9a3678ed04bc1a8b7cd1f5309f,Trojan,Threat Group Bravo,Medium,Critical
+IOC00571,Domain,brown.info,Backdoor,Script Kiddie,Medium,High
+IOC00572,File Hash (SHA256),61d2a011b772e8c632693db638eff19d85a8805a02d8134f342134737443fdc8,Spyware,Threat Group Alpha,Low,Critical
+IOC00573,IP Address,211.139.59.48,Spyware,Threat Group Alpha,Low,High
+IOC00574,Email Address,omoreno@example.com,Worm,Organized Crime Syndicate,Medium,Low
+IOC00575,URL,http://www.olsen.biz/tag/searchhomepage.htm,Keylogger,Organized Crime Syndicate,Low,Low
+IOC00576,Email Address,wrightmaria@example.com,Trojan,Threat Group Alpha,Low,High
+IOC00577,URL,http://www.proctor.com/list/tags/categoriesauthor.jsp,Worm,Hacktivist Collective,High,High
+IOC00578,Domain,sharp-ayala.com,DDoS,Nation-State Actor (Unattributed),High,High
+IOC00579,IP Address,205.42.253.211,Backdoor,Threat Group Alpha,High,Low
+IOC00580,Domain,taylor.info,Trojan,Anonymous Group,Low,Low
+IOC00581,Domain,carpenter.biz,Backdoor,Unknown,Low,Medium
+IOC00582,Email Address,brandy46@example.org,Worm,Hacktivist Collective,Low,Medium
+IOC00583,Domain,vang.com,Trojan,Nation-State Actor (Unattributed),Low,Low
+IOC00584,Domain,price.net,Ransomware,Nation-State Actor (Unattributed),Medium,High
+IOC00585,Domain,walsh-krause.com,Cryptojacking,Anonymous Group,High,High
+IOC00586,IP Address,216.148.166.207,Malware,Hacktivist Collective,Low,Low
+IOC00587,Email Address,claytonsmith@example.com,Trojan,Threat Group Alpha,High,High
+IOC00588,Email Address,whitejoe@example.net,SQL Injection Campaign,Hacktivist Collective,High,Medium
+IOC00589,Email Address,lori16@example.org,Brute Force,Threat Group Alpha,Medium,Medium
+IOC00590,File Hash (SHA256),4bad8889fdfc36649413f5d4564a871b3046ba2f288ab7c67097ef00b0f0f243,Backdoor,Threat Group Bravo,Low,Low
+IOC00591,Domain,parker.com,Spyware,Hacktivist Collective,Medium,Low
+IOC00592,IP Address,44.122.249.76,Spyware,Anonymous Group,Medium,Medium
+IOC00593,URL,http://www.duffy.com/blogfaq.php,Backdoor,Threat Group Charlie,Medium,Medium
+IOC00594,IP Address,206.223.144.48,Ransomware,Threat Group Alpha,Low,Medium
+IOC00595,Domain,smith-bates.com,Cryptojacking,Unknown,Low,Medium
+IOC00596,Domain,cooper-turner.com,Malware,Threat Group Alpha,High,Medium
+IOC00597,Domain,stanley-orozco.com,Rootkit,Threat Group Alpha,Medium,High
+IOC00598,Email Address,richard45@example.net,Ransomware,Nation-State Actor (Unattributed),Medium,Medium
+IOC00599,File Hash (SHA256),5add000c1f35e2fab5941f80c611ca0955916f5df0abce84725c3a67035a2484,Spyware,Insider Threat,Low,High
+IOC00600,File Hash (SHA256),b8615ca7a3ea38c60f8f8a52584108becf360782282113c7c4a21236d33addc6,Adware,Organized Crime Syndicate,Medium,Low
+IOC00601,URL,http://www.bernard.com/exploreterms.asp,Rootkit,Threat Group Alpha,Low,Medium
+IOC00602,File Hash (SHA256),b74e8b924c43dce01a63356dc30f34b6867ebca45adb7133ced16985aea5e876,Adware,Threat Group Alpha,Medium,Low
+IOC00603,URL,http://george.com/tagscategory.php,Adware,Threat Group Charlie,High,Medium
+IOC00604,File Hash (SHA256),e3aa43ce30126336929221aa5b3c44efe7b76fda5ece6d536a8055de994c4648,Phishing,Script Kiddie,Low,Low
+IOC00605,IP Address,6.162.247.249,Botnet,Threat Group Alpha,Medium,Low
+IOC00606,File Hash (SHA256),535af96d786a0e312c91ff6a39a8b04286b5cfe72e76baa0f5d49ef02e7310b7,Worm,Threat Group Charlie,High,Critical
+IOC00607,Domain,ford.com,Spyware,Unknown,Low,Medium
+IOC00608,URL,http://www.griffith-klein.com/main/search/postspost.html,Backdoor,Threat Group Charlie,High,Critical
+IOC00609,Email Address,jesseturner@example.org,Phishing,Anonymous Group,Low,Medium
+IOC00610,File Hash (SHA256),d2e3001575b18395dc506ab8a198ab377c6d2a02fd4f6130bb006243a73a382d,Cryptojacking,Insider Threat,Medium,Low
+IOC00611,File Hash (SHA256),4e0325c8c046e9d540abade7af4576e6a18f8abd048e0a143f64cd2e9928c139,Botnet,Organized Crime Syndicate,Low,Medium
+IOC00612,Email Address,gonzalesisabel@example.org,Phishing,Nation-State Actor (Unattributed),High,Low
+IOC00613,URL,https://campbell.info/posts/posts/categorieshome.htm,Brute Force,Hacktivist Collective,Medium,Medium
+IOC00614,IP Address,91.201.248.108,Rootkit,Threat Group Alpha,Low,Medium
+IOC00615,IP Address,108.46.241.123,Phishing,Threat Group Bravo,Medium,High
+IOC00616,IP Address,40.115.9.233,Cryptojacking,Script Kiddie,Low,Low
+IOC00617,File Hash (SHA256),6448f4552266946630ce3f77c1b21e962ff4fb33343e3299d1fc095186637768,Adware,Threat Group Bravo,High,Low
+IOC00618,File Hash (SHA256),ecc79c897dbc57dcba4384cc75e5146e6d0ea39a513ef04c7f34b8a36c9e9f39,Phishing,Threat Group Charlie,Medium,Medium
+IOC00619,Domain,daugherty.com,Keylogger,Threat Group Charlie,Medium,Medium
+IOC00620,File Hash (SHA256),a01545e906ea8065c3d5e88b334398c66c70447ce62a5b3e70542b71a14250c6,Keylogger,Organized Crime Syndicate,Low,Medium
+IOC00621,IP Address,216.134.12.86,Backdoor,Insider Threat,Low,Low
+IOC00622,Email Address,tmendoza@example.com,Keylogger,Organized Crime Syndicate,Medium,Medium
+IOC00623,File Hash (SHA256),184be7aa03f68380bb8cc9ae963e11efc665fd7407889bd9d7367da535dfedaf,Brute Force,Unknown,Medium,High
+IOC00624,Domain,pearson-carpenter.net,Spyware,Threat Group Bravo,Low,Critical
+IOC00625,Email Address,sharonrodriguez@example.com,Phishing,Threat Group Bravo,Medium,Critical
+IOC00626,IP Address,217.236.215.175,Backdoor,Script Kiddie,Low,Critical
+IOC00627,Domain,strickland.com,Ransomware,Hacktivist Collective,Medium,High
+IOC00628,URL,https://meyer.com/listpost.html,Phishing,Anonymous Group,Low,Low
+IOC00629,Domain,fernandez.biz,Cryptojacking,Threat Group Alpha,High,Medium
+IOC00630,IP Address,152.197.62.135,Malware,Insider Threat,Medium,Medium
+IOC00631,File Hash (SHA256),d0e6e449bab778e264644b68e3db536506b9fa983bd88f9dd9aeccb2a1e3b9ab,Phishing,Organized Crime Syndicate,Medium,Low
+IOC00632,Email Address,kimberly62@example.org,Cryptojacking,Nation-State Actor (Unattributed),Low,Critical
+IOC00633,Domain,vargas.com,Spyware,Threat Group Bravo,Low,Critical
+IOC00634,Email Address,bswanson@example.net,Trojan,Hacktivist Collective,Medium,High
+IOC00635,File Hash (SHA256),45864f52b0f5376d9752d963dbdb415a40e088accea459f17c31ed2a9b35d03e,Keylogger,Hacktivist Collective,Low,Medium
+IOC00636,IP Address,208.105.128.229,Backdoor,Script Kiddie,High,Low
+IOC00637,Email Address,rebeccaevans@example.com,DDoS,Unknown,Low,Low
+IOC00638,File Hash (SHA256),8e545488636a3936c164a26ca62418ffbf5c5d180be9bbdf15fd9a96d90b02b6,Rootkit,Unknown,High,Critical
+IOC00639,URL,https://www.atkins-reed.com/tags/appfaq.jsp,Worm,Threat Group Alpha,High,Low
+IOC00640,File Hash (SHA256),e6cabe741a2a536e21e9adcac6a7d0eda8158c5ec4aa5eab5330132148e3ff6f,Worm,Script Kiddie,High,Critical
+IOC00641,File Hash (SHA256),dec737d43f2c6ce0f1d8471be4f71c733683678eb219e257d1776b49c2f31e30,Rootkit,Hacktivist Collective,Low,Low
+IOC00642,Email Address,florestamara@example.com,Brute Force,Hacktivist Collective,Low,Low
+IOC00643,Domain,rangel.com,Phishing,Script Kiddie,Medium,Low
+IOC00644,URL,https://little.com/apphome.jsp,Keylogger,Anonymous Group,Medium,High
+IOC00645,Email Address,christopher43@example.net,Cryptojacking,Anonymous Group,Low,Low
+IOC00646,Domain,blake.com,Botnet,Threat Group Alpha,High,Medium
+IOC00647,Email Address,dylan45@example.net,SQL Injection Campaign,Threat Group Alpha,Low,Critical
+IOC00648,IP Address,110.8.1.92,Worm,Threat Group Bravo,Medium,High
+IOC00649,Email Address,vanessamurphy@example.com,Rootkit,Unknown,High,Critical
+IOC00650,Domain,gutierrez.biz,Backdoor,Organized Crime Syndicate,Medium,High
