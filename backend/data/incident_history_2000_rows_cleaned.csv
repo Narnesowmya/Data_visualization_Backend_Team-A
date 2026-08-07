@@ -1,0 +1,2001 @@
+incident_id,event_id,incident_type,assigned_to,status,response_time,resolution
+INC00001,EVT00001,SQL Injection,Analyst-1,Closed,60,Blocked
+INC00002,EVT00002,SQL Injection,Analyst-2,Open,10,Blocked
+INC00003,EVT00003,Brute Force,Charlie,Closed,30,Blocked
+INC00004,EVT00004,Unauthorized Access,Analyst-1,Open,10,Blocked
+INC00005,EVT00005,Phishing,Charlie,Open,20,Blocked
+INC00006,EVT00006,DDoS,Analyst-2,Closed,15,Investigating
+INC00007,EVT00007,DDoS,Bob,In Progress,15,Escalated
+INC00008,EVT00008,Malware,Analyst-2,In Progress,15,Mitigated
+INC00009,EVT00009,Brute Force,Analyst-2,Open,60,Blocked
+INC00010,EVT00010,Unauthorized Access,SOC Team,In Progress,10,Escalated
+INC00011,EVT00011,Brute Force,Eve,Open,5,Escalated
+INC00012,EVT00012,Unauthorized Access,SOC Team,Closed,15,Escalated
+INC00013,EVT00013,SQL Injection,Eve,Closed,10,Resolved
+INC00014,EVT00014,Brute Force,David,Open,5,Mitigated
+INC00015,EVT00015,SQL Injection,Charlie,In Progress,5,Mitigated
+INC00016,EVT00016,Brute Force,Analyst-2,Closed,10,Mitigated
+INC00017,EVT00017,Malware,David,Closed,5,Investigating
+INC00018,EVT00018,SQL Injection,SOC Team,In Progress,10,Blocked
+INC00019,EVT00019,Malware,David,Closed,30,Investigating
+INC00020,EVT00020,Brute Force,David,Open,30,Blocked
+INC00021,EVT00021,SQL Injection,Bob,Closed,30,Resolved
+INC00022,EVT00022,DDoS,Bob,Open,5,Blocked
+INC00023,EVT00023,Port Scan,David,Open,5,Resolved
+INC00024,EVT00024,DDoS,Charlie,Open,10,Mitigated
+INC00025,EVT00025,Ransomware,Bob,In Progress,30,Escalated
+INC00026,EVT00026,Brute Force,Eve,Open,20,Mitigated
+INC00027,EVT00027,Phishing,Bob,Open,5,Blocked
+INC00028,EVT00028,SQL Injection,Eve,Closed,45,Escalated
+INC00029,EVT00029,SQL Injection,Analyst-2,Open,10,Mitigated
+INC00030,EVT00030,Unauthorized Access,Analyst-2,Open,30,Escalated
+INC00031,EVT00031,DDoS,Analyst-2,Open,30,Mitigated
+INC00032,EVT00032,Port Scan,Analyst-1,In Progress,15,Mitigated
+INC00033,EVT00033,Port Scan,David,In Progress,60,Mitigated
+INC00034,EVT00034,Brute Force,Alice,In Progress,20,Blocked
+INC00035,EVT00035,Port Scan,Analyst-1,Closed,60,Resolved
+INC00036,EVT00036,Port Scan,Charlie,In Progress,10,Blocked
+INC00037,EVT00037,SQL Injection,Alice,Closed,45,Escalated
+INC00038,EVT00038,Port Scan,Analyst-1,Closed,20,Blocked
+INC00039,EVT00039,Unauthorized Access,Analyst-2,In Progress,5,Investigating
+INC00040,EVT00040,Unauthorized Access,Bob,Closed,10,Escalated
+INC00041,EVT00041,DDoS,Analyst-2,Closed,60,Mitigated
+INC00042,EVT00042,Ransomware,Bob,In Progress,60,Resolved
+INC00043,EVT00043,Malware,Eve,Closed,5,Blocked
+INC00044,EVT00044,Brute Force,Analyst-1,Closed,15,Mitigated
+INC00045,EVT00045,Brute Force,Alice,Closed,60,Mitigated
+INC00046,EVT00046,Ransomware,Eve,Closed,10,Mitigated
+INC00047,EVT00047,DDoS,Charlie,Open,10,Blocked
+INC00048,EVT00048,Port Scan,Alice,Closed,45,Investigating
+INC00049,EVT00049,Phishing,Alice,In Progress,30,Escalated
+INC00050,EVT00050,Port Scan,Bob,In Progress,5,Escalated
+INC00051,EVT00051,Ransomware,David,In Progress,45,Investigating
+INC00052,EVT00052,Ransomware,Charlie,Closed,45,Mitigated
+INC00053,EVT00053,SQL Injection,SOC Team,Closed,10,Escalated
+INC00054,EVT00054,Ransomware,Alice,Open,30,Escalated
+INC00055,EVT00055,Port Scan,Analyst-2,In Progress,5,Resolved
+INC00056,EVT00056,DDoS,David,Closed,60,Mitigated
+INC00057,EVT00057,DDoS,Analyst-1,Closed,60,Investigating
+INC00058,EVT00058,SQL Injection,David,Closed,10,Escalated
+INC00059,EVT00059,Ransomware,Analyst-2,Closed,30,Mitigated
+INC00060,EVT00060,Phishing,SOC Team,In Progress,45,Escalated
+INC00061,EVT00061,Unauthorized Access,Analyst-2,Closed,5,Blocked
+INC00062,EVT00062,SQL Injection,Bob,In Progress,10,Investigating
+INC00063,EVT00063,Brute Force,Analyst-2,In Progress,30,Resolved
+INC00064,EVT00064,Brute Force,Analyst-2,In Progress,45,Escalated
+INC00065,EVT00065,SQL Injection,Alice,Open,60,Resolved
+INC00066,EVT00066,Phishing,SOC Team,In Progress,45,Resolved
+INC00067,EVT00067,Unauthorized Access,David,Closed,15,Blocked
+INC00068,EVT00068,Malware,Bob,Closed,60,Investigating
+INC00069,EVT00069,Malware,Alice,Closed,60,Mitigated
+INC00070,EVT00070,DDoS,Alice,Closed,20,Resolved
+INC00071,EVT00071,SQL Injection,SOC Team,Open,30,Investigating
+INC00072,EVT00072,Unauthorized Access,Eve,Closed,45,Escalated
+INC00073,EVT00073,SQL Injection,David,Open,60,Resolved
+INC00074,EVT00074,SQL Injection,Eve,Closed,5,Investigating
+INC00075,EVT00075,Ransomware,SOC Team,Closed,30,Blocked
+INC00076,EVT00076,Brute Force,SOC Team,In Progress,10,Investigating
+INC00077,EVT00077,SQL Injection,Eve,Closed,45,Mitigated
+INC00078,EVT00078,SQL Injection,Analyst-2,Open,15,Mitigated
+INC00079,EVT00079,Ransomware,Bob,Open,5,Escalated
+INC00080,EVT00080,Brute Force,Charlie,In Progress,60,Escalated
+INC00081,EVT00081,Ransomware,SOC Team,Open,15,Mitigated
+INC00082,EVT00082,SQL Injection,Charlie,Open,15,Mitigated
+INC00083,EVT00083,Unauthorized Access,Bob,Open,60,Investigating
+INC00084,EVT00084,Port Scan,Charlie,Closed,45,Escalated
+INC00085,EVT00085,Phishing,Alice,Open,20,Investigating
+INC00086,EVT00086,Phishing,David,Open,45,Escalated
+INC00087,EVT00087,Port Scan,Charlie,Closed,10,Mitigated
+INC00088,EVT00088,Unauthorized Access,SOC Team,In Progress,30,Escalated
+INC00089,EVT00089,Phishing,Alice,Open,15,Blocked
+INC00090,EVT00090,Unauthorized Access,Alice,Closed,45,Investigating
+INC00091,EVT00091,Phishing,David,In Progress,5,Resolved
+INC00092,EVT00092,Malware,Analyst-1,Open,20,Escalated
+INC00093,EVT00093,Malware,Analyst-2,In Progress,45,Escalated
+INC00094,EVT00094,SQL Injection,Analyst-2,In Progress,5,Investigating
+INC00095,EVT00095,Malware,Analyst-2,In Progress,15,Investigating
+INC00096,EVT00096,Ransomware,David,Closed,60,Blocked
+INC00097,EVT00097,Ransomware,David,Closed,30,Mitigated
+INC00098,EVT00098,Malware,Analyst-1,In Progress,60,Escalated
+INC00099,EVT00099,Port Scan,David,In Progress,20,Resolved
+INC00100,EVT00100,Brute Force,Alice,Closed,15,Escalated
+INC00101,EVT00101,Malware,Eve,In Progress,60,Mitigated
+INC00102,EVT00102,Port Scan,Alice,In Progress,60,Investigating
+INC00103,EVT00103,Unauthorized Access,Analyst-1,Closed,20,Investigating
+INC00104,EVT00104,SQL Injection,Eve,Closed,20,Mitigated
+INC00105,EVT00105,Port Scan,SOC Team,In Progress,15,Resolved
+INC00106,EVT00106,SQL Injection,Analyst-2,Closed,20,Escalated
+INC00107,EVT00107,Ransomware,Bob,Open,45,Mitigated
+INC00108,EVT00108,Brute Force,Alice,Open,45,Mitigated
+INC00109,EVT00109,Unauthorized Access,Alice,Open,30,Blocked
+INC00110,EVT00110,Port Scan,Bob,Open,30,Blocked
+INC00111,EVT00111,DDoS,Analyst-2,In Progress,5,Mitigated
+INC00112,EVT00112,Phishing,SOC Team,Closed,10,Blocked
+INC00113,EVT00113,SQL Injection,Bob,Closed,20,Resolved
+INC00114,EVT00114,Malware,David,Open,15,Resolved
+INC00115,EVT00115,SQL Injection,Alice,Closed,5,Blocked
+INC00116,EVT00116,Unauthorized Access,Alice,Open,10,Blocked
+INC00117,EVT00117,Ransomware,David,Open,20,Mitigated
+INC00118,EVT00118,Brute Force,Alice,Closed,20,Mitigated
+INC00119,EVT00119,Unauthorized Access,Bob,Closed,45,Escalated
+INC00120,EVT00120,Ransomware,Analyst-1,In Progress,60,Resolved
+INC00121,EVT00121,DDoS,Eve,In Progress,5,Investigating
+INC00122,EVT00122,Phishing,Eve,Closed,15,Mitigated
+INC00123,EVT00123,Ransomware,Analyst-1,Closed,15,Mitigated
+INC00124,EVT00124,Ransomware,Alice,In Progress,5,Escalated
+INC00125,EVT00125,Malware,Analyst-1,Closed,30,Escalated
+INC00126,EVT00126,DDoS,Charlie,Open,10,Blocked
+INC00127,EVT00127,DDoS,Charlie,In Progress,30,Blocked
+INC00128,EVT00128,Unauthorized Access,Bob,In Progress,5,Mitigated
+INC00129,EVT00129,Phishing,Analyst-1,Closed,15,Mitigated
+INC00130,EVT00130,DDoS,David,Closed,60,Blocked
+INC00131,EVT00131,Brute Force,Charlie,Open,45,Escalated
+INC00132,EVT00132,Malware,Analyst-1,Open,10,Escalated
+INC00133,EVT00133,Ransomware,Bob,Open,20,Escalated
+INC00134,EVT00134,Brute Force,Eve,In Progress,20,Escalated
+INC00135,EVT00135,Ransomware,Analyst-1,Open,45,Mitigated
+INC00136,EVT00136,Port Scan,Analyst-1,Open,10,Escalated
+INC00137,EVT00137,DDoS,Analyst-2,Closed,60,Mitigated
+INC00138,EVT00138,Brute Force,Analyst-1,In Progress,30,Blocked
+INC00139,EVT00139,DDoS,Eve,In Progress,30,Resolved
+INC00140,EVT00140,Brute Force,Analyst-2,Closed,60,Escalated
+INC00141,EVT00141,Port Scan,Analyst-2,Open,20,Resolved
+INC00142,EVT00142,Phishing,Analyst-2,Open,60,Resolved
+INC00143,EVT00143,Port Scan,Eve,In Progress,45,Blocked
+INC00144,EVT00144,SQL Injection,Analyst-1,Open,20,Escalated
+INC00145,EVT00145,DDoS,David,In Progress,30,Resolved
+INC00146,EVT00146,Phishing,Eve,Open,10,Resolved
+INC00147,EVT00147,Port Scan,Alice,In Progress,5,Escalated
+INC00148,EVT00148,Malware,David,Closed,60,Escalated
+INC00149,EVT00149,Malware,David,Open,20,Escalated
+INC00150,EVT00150,Brute Force,Charlie,In Progress,60,Resolved
+INC00151,EVT00151,Malware,SOC Team,Open,5,Blocked
+INC00152,EVT00152,Ransomware,Charlie,Open,15,Escalated
+INC00153,EVT00153,Phishing,Bob,In Progress,10,Resolved
+INC00154,EVT00154,Phishing,Alice,In Progress,60,Blocked
+INC00155,EVT00155,Port Scan,Analyst-1,Open,20,Resolved
+INC00156,EVT00156,DDoS,Bob,Closed,5,Mitigated
+INC00157,EVT00157,Unauthorized Access,Charlie,Closed,10,Blocked
+INC00158,EVT00158,Port Scan,Charlie,In Progress,15,Escalated
+INC00159,EVT00159,Brute Force,David,In Progress,15,Investigating
+INC00160,EVT00160,SQL Injection,David,Open,45,Escalated
+INC00161,EVT00161,Port Scan,David,Open,45,Resolved
+INC00162,EVT00162,Unauthorized Access,Bob,Closed,20,Investigating
+INC00163,EVT00163,Brute Force,Analyst-1,Open,60,Resolved
+INC00164,EVT00164,Phishing,Charlie,Closed,5,Escalated
+INC00165,EVT00165,Phishing,Analyst-2,Closed,30,Resolved
+INC00166,EVT00166,Port Scan,SOC Team,Closed,20,Escalated
+INC00167,EVT00167,Ransomware,SOC Team,In Progress,20,Mitigated
+INC00168,EVT00168,SQL Injection,David,In Progress,10,Mitigated
+INC00169,EVT00169,Ransomware,Analyst-1,In Progress,20,Blocked
+INC00170,EVT00170,Port Scan,Alice,Closed,15,Investigating
+INC00171,EVT00171,Port Scan,David,Open,10,Investigating
+INC00172,EVT00172,Port Scan,Analyst-2,Open,5,Resolved
+INC00173,EVT00173,DDoS,Alice,Closed,15,Escalated
+INC00174,EVT00174,Malware,Charlie,Open,5,Mitigated
+INC00175,EVT00175,Brute Force,Eve,In Progress,10,Blocked
+INC00176,EVT00176,Phishing,David,In Progress,60,Escalated
+INC00177,EVT00177,Port Scan,Bob,Open,20,Resolved
+INC00178,EVT00178,DDoS,Alice,Closed,15,Investigating
+INC00179,EVT00179,Unauthorized Access,Alice,Open,45,Escalated
+INC00180,EVT00180,Phishing,Eve,Open,15,Mitigated
+INC00181,EVT00181,Phishing,Alice,In Progress,15,Escalated
+INC00182,EVT00182,Ransomware,Alice,Open,15,Escalated
+INC00183,EVT00183,DDoS,Analyst-2,Open,15,Escalated
+INC00184,EVT00184,Malware,David,In Progress,10,Resolved
+INC00185,EVT00185,Unauthorized Access,David,In Progress,30,Escalated
+INC00186,EVT00186,Unauthorized Access,David,In Progress,15,Investigating
+INC00187,EVT00187,Unauthorized Access,Analyst-2,Open,60,Investigating
+INC00188,EVT00188,DDoS,SOC Team,In Progress,60,Escalated
+INC00189,EVT00189,Ransomware,David,Open,15,Mitigated
+INC00190,EVT00190,Phishing,Analyst-2,Closed,15,Blocked
+INC00191,EVT00191,Unauthorized Access,Analyst-1,Open,60,Blocked
+INC00192,EVT00192,Brute Force,Eve,Open,30,Blocked
+INC00193,EVT00193,Unauthorized Access,SOC Team,Closed,45,Escalated
+INC00194,EVT00194,Port Scan,Alice,Closed,15,Escalated
+INC00195,EVT00195,Phishing,David,Open,20,Escalated
+INC00196,EVT00196,SQL Injection,Eve,Open,15,Blocked
+INC00197,EVT00197,Phishing,Analyst-1,In Progress,45,Mitigated
+INC00198,EVT00198,Brute Force,Charlie,Open,5,Investigating
+INC00199,EVT00199,SQL Injection,Alice,In Progress,45,Resolved
+INC00200,EVT00200,Unauthorized Access,Analyst-1,Open,60,Mitigated
+INC00201,EVT00201,SQL Injection,Eve,In Progress,45,Investigating
+INC00202,EVT00202,SQL Injection,Bob,Closed,60,Investigating
+INC00203,EVT00203,Malware,Analyst-1,Closed,15,Resolved
+INC00204,EVT00204,Ransomware,Charlie,Open,60,Resolved
+INC00205,EVT00205,Port Scan,David,Closed,15,Investigating
+INC00206,EVT00206,Port Scan,Eve,Closed,15,Escalated
+INC00207,EVT00207,DDoS,Eve,Open,15,Blocked
+INC00208,EVT00208,Phishing,Analyst-1,Closed,20,Escalated
+INC00209,EVT00209,Port Scan,SOC Team,Closed,5,Mitigated
+INC00210,EVT00210,Phishing,Analyst-2,Closed,45,Investigating
+INC00211,EVT00211,Unauthorized Access,Alice,Open,20,Escalated
+INC00212,EVT00212,Ransomware,Analyst-2,Open,30,Mitigated
+INC00213,EVT00213,Unauthorized Access,Analyst-1,Closed,15,Resolved
+INC00214,EVT00214,Unauthorized Access,Analyst-2,In Progress,10,Investigating
+INC00215,EVT00215,Port Scan,Charlie,Open,30,Mitigated
+INC00216,EVT00216,SQL Injection,Eve,Closed,45,Resolved
+INC00217,EVT00217,SQL Injection,Alice,In Progress,20,Investigating
+INC00218,EVT00218,DDoS,Analyst-1,In Progress,20,Resolved
+INC00219,EVT00219,Unauthorized Access,Charlie,Open,10,Blocked
+INC00220,EVT00220,Ransomware,Analyst-2,Open,30,Escalated
+INC00221,EVT00221,Brute Force,Analyst-1,In Progress,15,Blocked
+INC00222,EVT00222,Ransomware,Alice,In Progress,5,Mitigated
+INC00223,EVT00223,Malware,Analyst-1,Open,30,Investigating
+INC00224,EVT00224,DDoS,Eve,Open,20,Escalated
+INC00225,EVT00225,DDoS,Analyst-2,Open,30,Blocked
+INC00226,EVT00226,Phishing,David,Open,15,Blocked
+INC00227,EVT00227,Phishing,Alice,In Progress,20,Mitigated
+INC00228,EVT00228,Port Scan,Alice,Closed,10,Blocked
+INC00229,EVT00229,Phishing,SOC Team,Closed,45,Investigating
+INC00230,EVT00230,SQL Injection,SOC Team,Open,20,Resolved
+INC00231,EVT00231,Malware,SOC Team,Open,20,Mitigated
+INC00232,EVT00232,Phishing,Charlie,Closed,45,Blocked
+INC00233,EVT00233,Port Scan,David,Closed,45,Blocked
+INC00234,EVT00234,SQL Injection,Analyst-2,Closed,5,Mitigated
+INC00235,EVT00235,Port Scan,Eve,Open,60,Resolved
+INC00236,EVT00236,Malware,Analyst-1,Closed,20,Investigating
+INC00237,EVT00237,Ransomware,Alice,In Progress,30,Mitigated
+INC00238,EVT00238,Malware,Bob,In Progress,15,Escalated
+INC00239,EVT00239,Phishing,Analyst-2,Closed,20,Investigating
+INC00240,EVT00240,Unauthorized Access,SOC Team,Closed,30,Blocked
+INC00241,EVT00241,Ransomware,Analyst-2,Closed,60,Blocked
+INC00242,EVT00242,SQL Injection,Bob,In Progress,15,Resolved
+INC00243,EVT00243,Port Scan,Analyst-2,Closed,60,Escalated
+INC00244,EVT00244,Ransomware,Eve,In Progress,45,Mitigated
+INC00245,EVT00245,Port Scan,Charlie,Open,5,Blocked
+INC00246,EVT00246,DDoS,Analyst-2,In Progress,15,Resolved
+INC00247,EVT00247,Brute Force,Analyst-1,Closed,30,Mitigated
+INC00248,EVT00248,DDoS,Analyst-1,Closed,15,Investigating
+INC00249,EVT00249,Phishing,SOC Team,Closed,45,Resolved
+INC00250,EVT00250,Ransomware,Analyst-2,Open,45,Investigating
+INC00251,EVT00251,Malware,Bob,In Progress,60,Investigating
+INC00252,EVT00252,Malware,Eve,Closed,20,Investigating
+INC00253,EVT00253,Phishing,David,Closed,45,Mitigated
+INC00254,EVT00254,SQL Injection,Bob,In Progress,30,Investigating
+INC00255,EVT00255,SQL Injection,Charlie,Closed,5,Investigating
+INC00256,EVT00256,SQL Injection,Analyst-2,Open,5,Blocked
+INC00257,EVT00257,SQL Injection,Eve,Open,15,Blocked
+INC00258,EVT00258,Brute Force,Eve,In Progress,15,Escalated
+INC00259,EVT00259,SQL Injection,Bob,Open,45,Escalated
+INC00260,EVT00260,Unauthorized Access,SOC Team,Closed,10,Resolved
+INC00261,EVT00261,Ransomware,Analyst-2,Closed,30,Escalated
+INC00262,EVT00262,Malware,Alice,In Progress,60,Blocked
+INC00263,EVT00263,Brute Force,Analyst-1,In Progress,15,Resolved
+INC00264,EVT00264,Malware,Alice,In Progress,60,Blocked
+INC00265,EVT00265,Unauthorized Access,Eve,Closed,60,Escalated
+INC00266,EVT00266,Unauthorized Access,Eve,In Progress,5,Resolved
+INC00267,EVT00267,Unauthorized Access,David,In Progress,60,Blocked
+INC00268,EVT00268,Malware,Alice,Open,20,Investigating
+INC00269,EVT00269,Unauthorized Access,Eve,Closed,10,Blocked
+INC00270,EVT00270,SQL Injection,Analyst-2,Open,20,Investigating
+INC00271,EVT00271,Brute Force,Analyst-1,Closed,5,Escalated
+INC00272,EVT00272,SQL Injection,Analyst-1,In Progress,45,Blocked
+INC00273,EVT00273,SQL Injection,Alice,Open,30,Escalated
+INC00274,EVT00274,Ransomware,SOC Team,In Progress,20,Investigating
+INC00275,EVT00275,DDoS,Bob,Open,45,Escalated
+INC00276,EVT00276,Ransomware,David,Closed,30,Mitigated
+INC00277,EVT00277,Brute Force,David,Closed,5,Resolved
+INC00278,EVT00278,Brute Force,Eve,Open,60,Resolved
+INC00279,EVT00279,Malware,SOC Team,In Progress,5,Investigating
+INC00280,EVT00280,Ransomware,Charlie,In Progress,15,Escalated
+INC00281,EVT00281,DDoS,Alice,In Progress,10,Resolved
+INC00282,EVT00282,Brute Force,SOC Team,Open,10,Resolved
+INC00283,EVT00283,Unauthorized Access,SOC Team,Closed,30,Blocked
+INC00284,EVT00284,DDoS,SOC Team,In Progress,15,Resolved
+INC00285,EVT00285,Malware,Eve,Open,15,Investigating
+INC00286,EVT00286,DDoS,Alice,Open,20,Mitigated
+INC00287,EVT00287,Ransomware,Alice,In Progress,20,Mitigated
+INC00288,EVT00288,Ransomware,Eve,In Progress,5,Mitigated
+INC00289,EVT00289,Brute Force,Eve,In Progress,5,Escalated
+INC00290,EVT00290,Brute Force,Eve,Closed,10,Mitigated
+INC00291,EVT00291,SQL Injection,Analyst-2,Closed,10,Blocked
+INC00292,EVT00292,DDoS,David,Open,45,Investigating
+INC00293,EVT00293,Malware,Eve,Open,10,Escalated
+INC00294,EVT00294,Unauthorized Access,Bob,In Progress,15,Escalated
+INC00295,EVT00295,Malware,Alice,In Progress,60,Escalated
+INC00296,EVT00296,Unauthorized Access,Analyst-1,Closed,20,Blocked
+INC00297,EVT00297,SQL Injection,Analyst-1,In Progress,45,Escalated
+INC00298,EVT00298,Port Scan,David,In Progress,10,Escalated
+INC00299,EVT00299,Brute Force,Charlie,Closed,20,Escalated
+INC00300,EVT00300,Malware,SOC Team,In Progress,20,Escalated
+INC00301,EVT00301,SQL Injection,Analyst-1,Closed,5,Blocked
+INC00302,EVT00302,Unauthorized Access,Analyst-1,Closed,60,Escalated
+INC00303,EVT00303,Malware,Charlie,Open,45,Investigating
+INC00304,EVT00304,Ransomware,Alice,Open,20,Escalated
+INC00305,EVT00305,Phishing,SOC Team,In Progress,15,Mitigated
+INC00306,EVT00306,Malware,David,Closed,20,Investigating
+INC00307,EVT00307,SQL Injection,Bob,In Progress,15,Mitigated
+INC00308,EVT00308,Ransomware,Alice,Closed,20,Escalated
+INC00309,EVT00309,Port Scan,SOC Team,Closed,60,Blocked
+INC00310,EVT00310,Ransomware,Charlie,Closed,60,Escalated
+INC00311,EVT00311,Ransomware,SOC Team,Closed,60,Escalated
+INC00312,EVT00312,Ransomware,SOC Team,In Progress,10,Mitigated
+INC00313,EVT00313,Phishing,Charlie,Closed,45,Mitigated
+INC00314,EVT00314,Malware,SOC Team,In Progress,15,Mitigated
+INC00315,EVT00315,Port Scan,David,In Progress,60,Blocked
+INC00316,EVT00316,Malware,Analyst-2,In Progress,60,Investigating
+INC00317,EVT00317,Ransomware,Alice,Closed,5,Investigating
+INC00318,EVT00318,Phishing,Analyst-1,In Progress,5,Resolved
+INC00319,EVT00319,Brute Force,Bob,In Progress,5,Escalated
+INC00320,EVT00320,Phishing,David,Open,45,Investigating
+INC00321,EVT00321,SQL Injection,David,Open,60,Escalated
+INC00322,EVT00322,Port Scan,Analyst-2,Open,20,Mitigated
+INC00323,EVT00323,DDoS,Alice,In Progress,20,Resolved
+INC00324,EVT00324,Unauthorized Access,Analyst-1,Open,60,Mitigated
+INC00325,EVT00325,DDoS,Charlie,Open,45,Blocked
+INC00326,EVT00326,DDoS,Eve,Open,20,Mitigated
+INC00327,EVT00327,Port Scan,Eve,Closed,10,Resolved
+INC00328,EVT00328,Brute Force,Bob,Open,45,Investigating
+INC00329,EVT00329,Malware,Bob,Open,15,Resolved
+INC00330,EVT00330,Malware,Analyst-2,Closed,10,Blocked
+INC00331,EVT00331,Phishing,SOC Team,Closed,10,Mitigated
+INC00332,EVT00332,DDoS,SOC Team,In Progress,15,Escalated
+INC00333,EVT00333,Port Scan,Bob,In Progress,15,Resolved
+INC00334,EVT00334,Ransomware,Analyst-2,Open,10,Investigating
+INC00335,EVT00335,Malware,Eve,Open,20,Resolved
+INC00336,EVT00336,DDoS,Eve,In Progress,60,Resolved
+INC00337,EVT00337,Malware,Analyst-1,Open,10,Mitigated
+INC00338,EVT00338,Phishing,Charlie,In Progress,10,Blocked
+INC00339,EVT00339,Brute Force,Bob,Open,10,Mitigated
+INC00340,EVT00340,Malware,Bob,In Progress,20,Blocked
+INC00341,EVT00341,Phishing,Charlie,In Progress,60,Escalated
+INC00342,EVT00342,DDoS,Analyst-1,Closed,30,Escalated
+INC00343,EVT00343,Brute Force,Eve,Closed,15,Resolved
+INC00344,EVT00344,Phishing,Bob,Closed,5,Blocked
+INC00345,EVT00345,Malware,David,Open,30,Resolved
+INC00346,EVT00346,Ransomware,Eve,In Progress,30,Blocked
+INC00347,EVT00347,Ransomware,Analyst-2,In Progress,45,Resolved
+INC00348,EVT00348,Unauthorized Access,Charlie,In Progress,15,Mitigated
+INC00349,EVT00349,SQL Injection,Analyst-1,Closed,30,Investigating
+INC00350,EVT00350,Brute Force,Alice,Closed,60,Investigating
+INC00351,EVT00351,DDoS,Alice,Closed,60,Blocked
+INC00352,EVT00352,Malware,Analyst-2,Open,45,Mitigated
+INC00353,EVT00353,Phishing,Charlie,In Progress,20,Blocked
+INC00354,EVT00354,Malware,Alice,Open,30,Blocked
+INC00355,EVT00355,Malware,Alice,Closed,20,Blocked
+INC00356,EVT00356,SQL Injection,SOC Team,Closed,60,Blocked
+INC00357,EVT00357,SQL Injection,Bob,Closed,45,Resolved
+INC00358,EVT00358,Unauthorized Access,Alice,Open,60,Blocked
+INC00359,EVT00359,SQL Injection,Bob,In Progress,30,Escalated
+INC00360,EVT00360,Ransomware,Charlie,Open,15,Blocked
+INC00361,EVT00361,SQL Injection,Eve,Open,20,Investigating
+INC00362,EVT00362,DDoS,Analyst-2,Closed,45,Escalated
+INC00363,EVT00363,DDoS,Eve,Closed,20,Mitigated
+INC00364,EVT00364,Port Scan,Alice,In Progress,5,Investigating
+INC00365,EVT00365,Phishing,Eve,Open,60,Investigating
+INC00366,EVT00366,Ransomware,Eve,Closed,30,Investigating
+INC00367,EVT00367,DDoS,Alice,Open,10,Mitigated
+INC00368,EVT00368,DDoS,SOC Team,In Progress,20,Resolved
+INC00369,EVT00369,SQL Injection,Bob,Closed,5,Mitigated
+INC00370,EVT00370,Port Scan,Analyst-2,In Progress,60,Mitigated
+INC00371,EVT00371,DDoS,Eve,In Progress,10,Escalated
+INC00372,EVT00372,Phishing,Alice,Closed,5,Blocked
+INC00373,EVT00373,DDoS,Alice,Closed,45,Resolved
+INC00374,EVT00374,Port Scan,David,In Progress,15,Escalated
+INC00375,EVT00375,DDoS,Eve,In Progress,10,Resolved
+INC00376,EVT00376,Brute Force,Analyst-2,Open,30,Resolved
+INC00377,EVT00377,Port Scan,Analyst-1,In Progress,15,Resolved
+INC00378,EVT00378,SQL Injection,Analyst-1,Closed,15,Blocked
+INC00379,EVT00379,Malware,Bob,In Progress,20,Escalated
+INC00380,EVT00380,Port Scan,Charlie,In Progress,5,Escalated
+INC00381,EVT00381,Ransomware,Analyst-2,Open,45,Blocked
+INC00382,EVT00382,SQL Injection,Analyst-2,In Progress,30,Escalated
+INC00383,EVT00383,Port Scan,Bob,Open,20,Escalated
+INC00384,EVT00384,DDoS,David,In Progress,10,Escalated
+INC00385,EVT00385,Ransomware,Eve,Closed,60,Investigating
+INC00386,EVT00386,DDoS,Alice,Closed,30,Mitigated
+INC00387,EVT00387,Unauthorized Access,Alice,Closed,20,Escalated
+INC00388,EVT00388,Phishing,SOC Team,Open,45,Mitigated
+INC00389,EVT00389,Brute Force,Eve,Open,20,Escalated
+INC00390,EVT00390,Phishing,Eve,Open,30,Resolved
+INC00391,EVT00391,Unauthorized Access,SOC Team,Closed,60,Investigating
+INC00392,EVT00392,Ransomware,Alice,In Progress,10,Blocked
+INC00393,EVT00393,Phishing,Alice,Open,15,Resolved
+INC00394,EVT00394,Unauthorized Access,Analyst-2,Open,15,Mitigated
+INC00395,EVT00395,Brute Force,Eve,Open,30,Investigating
+INC00396,EVT00396,Ransomware,David,Open,30,Resolved
+INC00397,EVT00397,SQL Injection,Analyst-1,In Progress,15,Resolved
+INC00398,EVT00398,Malware,Eve,Open,60,Blocked
+INC00399,EVT00399,DDoS,Analyst-2,Open,30,Escalated
+INC00400,EVT00400,DDoS,Analyst-2,Closed,5,Mitigated
+INC00401,EVT00401,DDoS,SOC Team,Open,10,Investigating
+INC00402,EVT00402,SQL Injection,Alice,Open,45,Blocked
+INC00403,EVT00403,Phishing,Eve,Open,20,Resolved
+INC00404,EVT00404,Port Scan,Analyst-2,In Progress,15,Investigating
+INC00405,EVT00405,Phishing,Bob,In Progress,15,Resolved
+INC00406,EVT00406,Phishing,SOC Team,In Progress,20,Escalated
+INC00407,EVT00407,Ransomware,Analyst-2,Open,5,Escalated
+INC00408,EVT00408,Malware,Analyst-1,Closed,5,Blocked
+INC00409,EVT00409,Unauthorized Access,Analyst-2,Open,60,Escalated
+INC00410,EVT00410,Unauthorized Access,SOC Team,Open,30,Blocked
+INC00411,EVT00411,Brute Force,Analyst-2,Open,5,Investigating
+INC00412,EVT00412,Brute Force,Alice,Closed,15,Escalated
+INC00413,EVT00413,Brute Force,Alice,Closed,10,Investigating
+INC00414,EVT00414,Unauthorized Access,Bob,Open,45,Escalated
+INC00415,EVT00415,Malware,Analyst-1,Closed,45,Mitigated
+INC00416,EVT00416,Port Scan,Alice,Closed,30,Investigating
+INC00417,EVT00417,Brute Force,David,Open,45,Escalated
+INC00418,EVT00418,Port Scan,Bob,In Progress,60,Mitigated
+INC00419,EVT00419,Brute Force,SOC Team,Open,5,Escalated
+INC00420,EVT00420,Phishing,Bob,Open,10,Blocked
+INC00421,EVT00421,DDoS,Eve,Closed,15,Investigating
+INC00422,EVT00422,Ransomware,Eve,Open,30,Investigating
+INC00423,EVT00423,Port Scan,Alice,Closed,30,Mitigated
+INC00424,EVT00424,SQL Injection,Analyst-2,Open,10,Resolved
+INC00425,EVT00425,Malware,Charlie,In Progress,15,Mitigated
+INC00426,EVT00426,Unauthorized Access,Charlie,Closed,45,Mitigated
+INC00427,EVT00427,Unauthorized Access,Bob,In Progress,20,Blocked
+INC00428,EVT00428,Ransomware,Analyst-2,Closed,30,Investigating
+INC00429,EVT00429,SQL Injection,SOC Team,Closed,10,Investigating
+INC00430,EVT00430,SQL Injection,SOC Team,Open,60,Blocked
+INC00431,EVT00431,Ransomware,Eve,Open,15,Blocked
+INC00432,EVT00432,Unauthorized Access,David,Open,60,Investigating
+INC00433,EVT00433,Malware,Eve,In Progress,45,Resolved
+INC00434,EVT00434,Port Scan,Bob,In Progress,45,Investigating
+INC00435,EVT00435,SQL Injection,David,Open,20,Mitigated
+INC00436,EVT00436,DDoS,Alice,Open,10,Resolved
+INC00437,EVT00437,Malware,David,In Progress,45,Escalated
+INC00438,EVT00438,Ransomware,Alice,Open,15,Mitigated
+INC00439,EVT00439,Port Scan,Alice,Open,20,Mitigated
+INC00440,EVT00440,Malware,SOC Team,In Progress,10,Escalated
+INC00441,EVT00441,Ransomware,Charlie,In Progress,30,Investigating
+INC00442,EVT00442,Unauthorized Access,Bob,Open,5,Mitigated
+INC00443,EVT00443,Phishing,Eve,Closed,5,Mitigated
+INC00444,EVT00444,Malware,SOC Team,In Progress,10,Resolved
+INC00445,EVT00445,Phishing,SOC Team,Open,15,Mitigated
+INC00446,EVT00446,SQL Injection,Analyst-1,Closed,45,Blocked
+INC00447,EVT00447,SQL Injection,SOC Team,In Progress,10,Escalated
+INC00448,EVT00448,Ransomware,Eve,Closed,10,Blocked
+INC00449,EVT00449,Ransomware,SOC Team,Closed,15,Investigating
+INC00450,EVT00450,Brute Force,Bob,Open,45,Investigating
+INC00451,EVT00451,Brute Force,Alice,In Progress,20,Mitigated
+INC00452,EVT00452,Brute Force,David,Closed,45,Escalated
+INC00453,EVT00453,Unauthorized Access,SOC Team,Open,30,Escalated
+INC00454,EVT00454,SQL Injection,SOC Team,Open,60,Mitigated
+INC00455,EVT00455,Unauthorized Access,Bob,In Progress,60,Escalated
+INC00456,EVT00456,Phishing,Charlie,Open,5,Resolved
+INC00457,EVT00457,Unauthorized Access,SOC Team,Closed,60,Escalated
+INC00458,EVT00458,Malware,Analyst-1,Open,20,Resolved
+INC00459,EVT00459,DDoS,Charlie,In Progress,45,Mitigated
+INC00460,EVT00460,Unauthorized Access,Eve,Closed,20,Blocked
+INC00461,EVT00461,Ransomware,David,Open,30,Investigating
+INC00462,EVT00462,Port Scan,Analyst-1,In Progress,45,Mitigated
+INC00463,EVT00463,Malware,Bob,In Progress,45,Blocked
+INC00464,EVT00464,Phishing,Charlie,Closed,30,Escalated
+INC00465,EVT00465,Malware,Alice,Open,45,Blocked
+INC00466,EVT00466,Port Scan,Charlie,Closed,15,Mitigated
+INC00467,EVT00467,Brute Force,SOC Team,Closed,10,Resolved
+INC00468,EVT00468,Phishing,Alice,Open,45,Resolved
+INC00469,EVT00469,Port Scan,Eve,Closed,10,Escalated
+INC00470,EVT00470,Brute Force,Analyst-1,Open,20,Blocked
+INC00471,EVT00471,Brute Force,Alice,In Progress,30,Blocked
+INC00472,EVT00472,Phishing,Eve,Closed,20,Resolved
+INC00473,EVT00473,SQL Injection,Bob,In Progress,60,Investigating
+INC00474,EVT00474,Unauthorized Access,SOC Team,Open,60,Mitigated
+INC00475,EVT00475,Brute Force,Eve,In Progress,15,Mitigated
+INC00476,EVT00476,SQL Injection,Charlie,Open,20,Blocked
+INC00477,EVT00477,Port Scan,Eve,In Progress,45,Resolved
+INC00478,EVT00478,Ransomware,SOC Team,In Progress,15,Blocked
+INC00479,EVT00479,Port Scan,David,In Progress,15,Investigating
+INC00480,EVT00480,DDoS,Alice,In Progress,15,Mitigated
+INC00481,EVT00481,Brute Force,Eve,Closed,60,Investigating
+INC00482,EVT00482,DDoS,Eve,In Progress,10,Resolved
+INC00483,EVT00483,Ransomware,SOC Team,Closed,15,Mitigated
+INC00484,EVT00484,Port Scan,Analyst-2,Closed,5,Investigating
+INC00485,EVT00485,Malware,Alice,In Progress,5,Investigating
+INC00486,EVT00486,Malware,Charlie,Open,10,Mitigated
+INC00487,EVT00487,Malware,Charlie,Closed,10,Resolved
+INC00488,EVT00488,Port Scan,Analyst-2,Open,60,Resolved
+INC00489,EVT00489,Malware,Alice,Open,5,Investigating
+INC00490,EVT00490,Phishing,Alice,In Progress,5,Resolved
+INC00491,EVT00491,SQL Injection,Analyst-2,In Progress,45,Resolved
+INC00492,EVT00492,DDoS,Bob,Closed,15,Mitigated
+INC00493,EVT00493,Brute Force,Analyst-2,Closed,15,Resolved
+INC00494,EVT00494,SQL Injection,SOC Team,Open,30,Mitigated
+INC00495,EVT00495,Malware,Eve,Closed,20,Escalated
+INC00496,EVT00496,Phishing,SOC Team,Closed,15,Escalated
+INC00497,EVT00497,DDoS,Alice,Closed,20,Investigating
+INC00498,EVT00498,Unauthorized Access,SOC Team,Closed,5,Escalated
+INC00499,EVT00499,Phishing,Analyst-1,Closed,10,Investigating
+INC00500,EVT00500,SQL Injection,Eve,In Progress,45,Blocked
+INC00501,EVT00501,Brute Force,Analyst-1,Closed,30,Escalated
+INC00502,EVT00502,Ransomware,Eve,In Progress,15,Investigating
+INC00503,EVT00503,Malware,SOC Team,Open,20,Investigating
+INC00504,EVT00504,Malware,Alice,Closed,45,Mitigated
+INC00505,EVT00505,Brute Force,SOC Team,In Progress,10,Resolved
+INC00506,EVT00506,SQL Injection,Bob,Open,45,Blocked
+INC00507,EVT00507,Malware,David,Closed,60,Resolved
+INC00508,EVT00508,Phishing,Analyst-2,In Progress,15,Mitigated
+INC00509,EVT00509,DDoS,Eve,Closed,20,Blocked
+INC00510,EVT00510,Malware,SOC Team,Closed,5,Investigating
+INC00511,EVT00511,DDoS,SOC Team,Open,60,Escalated
+INC00512,EVT00512,Phishing,Analyst-1,Open,20,Resolved
+INC00513,EVT00513,Phishing,Charlie,Open,5,Blocked
+INC00514,EVT00514,Unauthorized Access,Analyst-1,Open,10,Blocked
+INC00515,EVT00515,Malware,Analyst-1,Closed,15,Blocked
+INC00516,EVT00516,Unauthorized Access,Eve,Closed,45,Escalated
+INC00517,EVT00517,Malware,Bob,In Progress,10,Mitigated
+INC00518,EVT00518,DDoS,Bob,In Progress,30,Escalated
+INC00519,EVT00519,DDoS,Alice,Open,20,Mitigated
+INC00520,EVT00520,Port Scan,Bob,Open,30,Mitigated
+INC00521,EVT00521,Port Scan,Analyst-1,Open,30,Investigating
+INC00522,EVT00522,Unauthorized Access,Eve,Open,5,Resolved
+INC00523,EVT00523,Malware,Bob,Open,60,Investigating
+INC00524,EVT00524,Unauthorized Access,Eve,Closed,45,Investigating
+INC00525,EVT00525,SQL Injection,Analyst-1,Closed,45,Escalated
+INC00526,EVT00526,Port Scan,David,Closed,45,Investigating
+INC00527,EVT00527,SQL Injection,Eve,In Progress,60,Mitigated
+INC00528,EVT00528,Port Scan,David,Closed,30,Mitigated
+INC00529,EVT00529,Ransomware,Analyst-2,In Progress,30,Mitigated
+INC00530,EVT00530,Port Scan,Bob,Open,15,Mitigated
+INC00531,EVT00531,Unauthorized Access,Alice,In Progress,10,Resolved
+INC00532,EVT00532,Port Scan,Alice,In Progress,20,Blocked
+INC00533,EVT00533,Port Scan,Analyst-1,Open,60,Mitigated
+INC00534,EVT00534,Ransomware,Charlie,In Progress,20,Mitigated
+INC00535,EVT00535,Unauthorized Access,SOC Team,In Progress,60,Mitigated
+INC00536,EVT00536,Malware,SOC Team,Closed,45,Investigating
+INC00537,EVT00537,Unauthorized Access,Bob,Closed,60,Investigating
+INC00538,EVT00538,Unauthorized Access,Alice,Open,5,Escalated
+INC00539,EVT00539,Brute Force,Bob,Closed,60,Escalated
+INC00540,EVT00540,SQL Injection,David,Closed,10,Resolved
+INC00541,EVT00541,SQL Injection,SOC Team,In Progress,30,Escalated
+INC00542,EVT00542,SQL Injection,SOC Team,In Progress,60,Investigating
+INC00543,EVT00543,Ransomware,Charlie,Open,30,Investigating
+INC00544,EVT00544,Unauthorized Access,Alice,Closed,5,Blocked
+INC00545,EVT00545,SQL Injection,David,Closed,10,Mitigated
+INC00546,EVT00546,DDoS,Bob,In Progress,60,Investigating
+INC00547,EVT00547,Ransomware,Analyst-1,Closed,10,Investigating
+INC00548,EVT00548,SQL Injection,SOC Team,Closed,45,Escalated
+INC00549,EVT00549,Malware,Eve,Open,10,Blocked
+INC00550,EVT00550,Port Scan,SOC Team,Open,5,Blocked
+INC00551,EVT00551,SQL Injection,Charlie,Closed,45,Mitigated
+INC00552,EVT00552,Port Scan,Analyst-2,In Progress,10,Escalated
+INC00553,EVT00553,DDoS,Alice,In Progress,20,Resolved
+INC00554,EVT00554,Unauthorized Access,SOC Team,In Progress,30,Mitigated
+INC00555,EVT00555,Phishing,SOC Team,Open,5,Blocked
+INC00556,EVT00556,SQL Injection,SOC Team,Open,5,Investigating
+INC00557,EVT00557,Port Scan,SOC Team,Closed,15,Mitigated
+INC00558,EVT00558,Phishing,David,In Progress,20,Investigating
+INC00559,EVT00559,DDoS,SOC Team,Open,45,Blocked
+INC00560,EVT00560,Brute Force,Eve,Closed,5,Investigating
+INC00561,EVT00561,Malware,Analyst-2,Open,20,Blocked
+INC00562,EVT00562,SQL Injection,Charlie,Open,45,Investigating
+INC00563,EVT00563,Brute Force,SOC Team,Closed,30,Investigating
+INC00564,EVT00564,Unauthorized Access,Bob,In Progress,60,Investigating
+INC00565,EVT00565,Unauthorized Access,SOC Team,In Progress,30,Mitigated
+INC00566,EVT00566,SQL Injection,Alice,In Progress,5,Mitigated
+INC00567,EVT00567,Malware,Analyst-2,Open,5,Mitigated
+INC00568,EVT00568,Phishing,Alice,Closed,10,Escalated
+INC00569,EVT00569,Unauthorized Access,Bob,Closed,20,Investigating
+INC00570,EVT00570,Phishing,Analyst-1,Closed,20,Resolved
+INC00571,EVT00571,Brute Force,Analyst-2,Open,10,Investigating
+INC00572,EVT00572,Port Scan,David,In Progress,45,Resolved
+INC00573,EVT00573,Ransomware,Bob,Closed,20,Escalated
+INC00574,EVT00574,DDoS,Analyst-2,Open,45,Mitigated
+INC00575,EVT00575,Unauthorized Access,SOC Team,Open,45,Escalated
+INC00576,EVT00576,Malware,David,In Progress,30,Resolved
+INC00577,EVT00577,SQL Injection,SOC Team,In Progress,30,Escalated
+INC00578,EVT00578,Phishing,David,Closed,20,Investigating
+INC00579,EVT00579,DDoS,Charlie,Closed,15,Escalated
+INC00580,EVT00580,Unauthorized Access,Analyst-2,Closed,20,Mitigated
+INC00581,EVT00581,Unauthorized Access,David,Closed,60,Mitigated
+INC00582,EVT00582,Malware,Eve,Closed,5,Mitigated
+INC00583,EVT00583,Ransomware,Charlie,Open,30,Mitigated
+INC00584,EVT00584,Brute Force,Analyst-1,Closed,5,Escalated
+INC00585,EVT00585,Brute Force,David,Closed,10,Investigating
+INC00586,EVT00586,Port Scan,Eve,Closed,45,Blocked
+INC00587,EVT00587,DDoS,Bob,In Progress,30,Resolved
+INC00588,EVT00588,Ransomware,Alice,In Progress,15,Investigating
+INC00589,EVT00589,DDoS,Analyst-2,In Progress,45,Escalated
+INC00590,EVT00590,Brute Force,David,In Progress,15,Resolved
+INC00591,EVT00591,Ransomware,Charlie,Closed,20,Blocked
+INC00592,EVT00592,Port Scan,Charlie,Open,10,Resolved
+INC00593,EVT00593,Malware,Analyst-1,Closed,60,Investigating
+INC00594,EVT00594,DDoS,Bob,Open,30,Blocked
+INC00595,EVT00595,Phishing,Charlie,In Progress,60,Resolved
+INC00596,EVT00596,Ransomware,Bob,Open,20,Blocked
+INC00597,EVT00597,Unauthorized Access,Charlie,In Progress,45,Blocked
+INC00598,EVT00598,DDoS,David,Open,5,Investigating
+INC00599,EVT00599,Malware,Charlie,Closed,10,Blocked
+INC00600,EVT00600,Port Scan,Bob,Open,5,Escalated
+INC00601,EVT00601,Unauthorized Access,Analyst-1,Open,10,Mitigated
+INC00602,EVT00602,Port Scan,David,Open,20,Investigating
+INC00603,EVT00603,Phishing,Alice,Closed,20,Mitigated
+INC00604,EVT00604,DDoS,Analyst-1,Open,45,Investigating
+INC00605,EVT00605,Ransomware,Charlie,Open,15,Resolved
+INC00606,EVT00606,Phishing,Analyst-1,Closed,20,Mitigated
+INC00607,EVT00607,Ransomware,David,In Progress,15,Resolved
+INC00608,EVT00608,Unauthorized Access,Analyst-1,Closed,10,Mitigated
+INC00609,EVT00609,DDoS,Bob,Closed,30,Resolved
+INC00610,EVT00610,Port Scan,Analyst-2,In Progress,5,Blocked
+INC00611,EVT00611,Phishing,Alice,Open,60,Resolved
+INC00612,EVT00612,Unauthorized Access,Charlie,In Progress,15,Escalated
+INC00613,EVT00613,Malware,SOC Team,Closed,10,Blocked
+INC00614,EVT00614,Malware,Analyst-1,Closed,45,Mitigated
+INC00615,EVT00615,DDoS,Analyst-1,Open,60,Investigating
+INC00616,EVT00616,Ransomware,Bob,In Progress,20,Mitigated
+INC00617,EVT00617,Ransomware,SOC Team,Closed,20,Investigating
+INC00618,EVT00618,Ransomware,Analyst-2,Open,20,Escalated
+INC00619,EVT00619,Ransomware,Analyst-2,In Progress,45,Resolved
+INC00620,EVT00620,Brute Force,David,Closed,60,Resolved
+INC00621,EVT00621,Brute Force,Eve,Open,30,Blocked
+INC00622,EVT00622,DDoS,Analyst-1,Closed,60,Mitigated
+INC00623,EVT00623,SQL Injection,Bob,Open,5,Blocked
+INC00624,EVT00624,Phishing,Analyst-1,Open,5,Escalated
+INC00625,EVT00625,Phishing,SOC Team,In Progress,20,Resolved
+INC00626,EVT00626,DDoS,Charlie,Closed,30,Escalated
+INC00627,EVT00627,Ransomware,Bob,In Progress,10,Investigating
+INC00628,EVT00628,Brute Force,Analyst-1,Open,15,Resolved
+INC00629,EVT00629,Malware,Eve,Closed,10,Blocked
+INC00630,EVT00630,Brute Force,Alice,Closed,20,Mitigated
+INC00631,EVT00631,Ransomware,SOC Team,In Progress,5,Mitigated
+INC00632,EVT00632,SQL Injection,Bob,Open,10,Resolved
+INC00633,EVT00633,Brute Force,Charlie,In Progress,60,Investigating
+INC00634,EVT00634,SQL Injection,Alice,In Progress,30,Mitigated
+INC00635,EVT00635,Malware,David,In Progress,20,Mitigated
+INC00636,EVT00636,Unauthorized Access,David,In Progress,15,Resolved
+INC00637,EVT00637,Malware,Analyst-2,In Progress,60,Investigating
+INC00638,EVT00638,Unauthorized Access,Charlie,In Progress,60,Resolved
+INC00639,EVT00639,SQL Injection,Analyst-1,Open,10,Investigating
+INC00640,EVT00640,Ransomware,SOC Team,Open,10,Escalated
+INC00641,EVT00641,Port Scan,Bob,In Progress,30,Mitigated
+INC00642,EVT00642,Brute Force,Bob,In Progress,20,Investigating
+INC00643,EVT00643,DDoS,Charlie,In Progress,60,Escalated
+INC00644,EVT00644,DDoS,Analyst-2,Closed,30,Blocked
+INC00645,EVT00645,Port Scan,Analyst-1,Open,15,Mitigated
+INC00646,EVT00646,Malware,Charlie,Open,30,Resolved
+INC00647,EVT00647,DDoS,Bob,Open,45,Blocked
+INC00648,EVT00648,Ransomware,Analyst-1,In Progress,20,Escalated
+INC00649,EVT00649,Unauthorized Access,Alice,Open,20,Escalated
+INC00650,EVT00650,Phishing,Eve,Open,45,Investigating
+INC00651,EVT00651,SQL Injection,Bob,In Progress,15,Investigating
+INC00652,EVT00652,Port Scan,Bob,Closed,30,Investigating
+INC00653,EVT00653,Brute Force,Analyst-1,Closed,45,Escalated
+INC00654,EVT00654,Phishing,Analyst-1,Closed,15,Resolved
+INC00655,EVT00655,Brute Force,SOC Team,Open,60,Investigating
+INC00656,EVT00656,SQL Injection,Analyst-1,In Progress,45,Escalated
+INC00657,EVT00657,Malware,Analyst-1,Open,45,Resolved
+INC00658,EVT00658,SQL Injection,Analyst-1,In Progress,45,Blocked
+INC00659,EVT00659,SQL Injection,Analyst-1,In Progress,20,Resolved
+INC00660,EVT00660,Ransomware,SOC Team,In Progress,10,Resolved
+INC00661,EVT00661,Phishing,Eve,In Progress,15,Investigating
+INC00662,EVT00662,Brute Force,Bob,In Progress,10,Investigating
+INC00663,EVT00663,Ransomware,Eve,In Progress,20,Escalated
+INC00664,EVT00664,Ransomware,Bob,Closed,10,Mitigated
+INC00665,EVT00665,Unauthorized Access,Eve,In Progress,60,Escalated
+INC00666,EVT00666,Brute Force,Analyst-2,Open,15,Escalated
+INC00667,EVT00667,SQL Injection,Eve,Open,45,Escalated
+INC00668,EVT00668,SQL Injection,David,In Progress,60,Escalated
+INC00669,EVT00669,Brute Force,Analyst-1,Open,45,Investigating
+INC00670,EVT00670,Malware,Charlie,Closed,20,Resolved
+INC00671,EVT00671,SQL Injection,Analyst-2,Closed,30,Resolved
+INC00672,EVT00672,Unauthorized Access,Analyst-1,Open,30,Investigating
+INC00673,EVT00673,Brute Force,Analyst-1,In Progress,10,Resolved
+INC00674,EVT00674,Malware,Analyst-1,Open,5,Escalated
+INC00675,EVT00675,DDoS,Charlie,Open,45,Blocked
+INC00676,EVT00676,Malware,Charlie,In Progress,45,Mitigated
+INC00677,EVT00677,Ransomware,Analyst-1,Open,20,Mitigated
+INC00678,EVT00678,SQL Injection,Bob,Closed,5,Mitigated
+INC00679,EVT00679,DDoS,Bob,Open,10,Escalated
+INC00680,EVT00680,Ransomware,Analyst-1,In Progress,60,Mitigated
+INC00681,EVT00681,Ransomware,Bob,Open,60,Mitigated
+INC00682,EVT00682,Port Scan,Eve,Open,15,Mitigated
+INC00683,EVT00683,Brute Force,Analyst-1,Closed,5,Blocked
+INC00684,EVT00684,Brute Force,Analyst-2,Closed,30,Investigating
+INC00685,EVT00685,DDoS,SOC Team,Open,30,Mitigated
+INC00686,EVT00686,Ransomware,Analyst-1,In Progress,30,Mitigated
+INC00687,EVT00687,SQL Injection,Charlie,In Progress,20,Mitigated
+INC00688,EVT00688,Phishing,David,Open,20,Resolved
+INC00689,EVT00689,Ransomware,Alice,In Progress,20,Blocked
+INC00690,EVT00690,DDoS,Charlie,Open,5,Investigating
+INC00691,EVT00691,DDoS,Charlie,Closed,30,Blocked
+INC00692,EVT00692,Phishing,Alice,Open,15,Resolved
+INC00693,EVT00693,Ransomware,Charlie,Closed,5,Investigating
+INC00694,EVT00694,Unauthorized Access,Alice,Open,45,Resolved
+INC00695,EVT00695,Phishing,Charlie,Closed,20,Resolved
+INC00696,EVT00696,Port Scan,Analyst-2,Open,30,Investigating
+INC00697,EVT00697,Ransomware,Bob,In Progress,30,Mitigated
+INC00698,EVT00698,Ransomware,Eve,Closed,45,Investigating
+INC00699,EVT00699,SQL Injection,SOC Team,Closed,15,Blocked
+INC00700,EVT00700,Port Scan,Alice,Open,20,Investigating
+INC00701,EVT00701,Unauthorized Access,Bob,Closed,45,Blocked
+INC00702,EVT00702,DDoS,Bob,In Progress,5,Resolved
+INC00703,EVT00703,Ransomware,Eve,In Progress,15,Mitigated
+INC00704,EVT00704,Brute Force,David,Closed,20,Investigating
+INC00705,EVT00705,Phishing,Bob,Open,5,Mitigated
+INC00706,EVT00706,DDoS,Analyst-1,In Progress,60,Resolved
+INC00707,EVT00707,Port Scan,Charlie,Open,30,Escalated
+INC00708,EVT00708,Ransomware,Analyst-2,Open,10,Resolved
+INC00709,EVT00709,Brute Force,Eve,Open,5,Blocked
+INC00710,EVT00710,Port Scan,David,In Progress,30,Blocked
+INC00711,EVT00711,Malware,Bob,In Progress,30,Escalated
+INC00712,EVT00712,SQL Injection,Alice,Closed,20,Escalated
+INC00713,EVT00713,Malware,David,Open,45,Mitigated
+INC00714,EVT00714,SQL Injection,Analyst-2,In Progress,20,Mitigated
+INC00715,EVT00715,Brute Force,Bob,Closed,5,Mitigated
+INC00716,EVT00716,DDoS,Bob,In Progress,60,Blocked
+INC00717,EVT00717,Ransomware,SOC Team,Open,15,Mitigated
+INC00718,EVT00718,Ransomware,Alice,Open,15,Escalated
+INC00719,EVT00719,Brute Force,SOC Team,Closed,10,Investigating
+INC00720,EVT00720,Brute Force,Alice,In Progress,45,Mitigated
+INC00721,EVT00721,Brute Force,Charlie,Open,5,Blocked
+INC00722,EVT00722,Phishing,Eve,Open,20,Investigating
+INC00723,EVT00723,SQL Injection,Alice,In Progress,20,Mitigated
+INC00724,EVT00724,Port Scan,Alice,Open,45,Blocked
+INC00725,EVT00725,Phishing,Alice,In Progress,60,Escalated
+INC00726,EVT00726,SQL Injection,David,In Progress,45,Resolved
+INC00727,EVT00727,Phishing,SOC Team,Open,45,Escalated
+INC00728,EVT00728,Unauthorized Access,Bob,Closed,45,Escalated
+INC00729,EVT00729,Unauthorized Access,Charlie,In Progress,60,Escalated
+INC00730,EVT00730,Unauthorized Access,Alice,In Progress,20,Blocked
+INC00731,EVT00731,Malware,Bob,In Progress,15,Blocked
+INC00732,EVT00732,DDoS,David,In Progress,10,Investigating
+INC00733,EVT00733,Phishing,Eve,Open,45,Resolved
+INC00734,EVT00734,Phishing,SOC Team,Open,60,Mitigated
+INC00735,EVT00735,Malware,Eve,Open,60,Mitigated
+INC00736,EVT00736,Brute Force,Alice,Open,45,Resolved
+INC00737,EVT00737,DDoS,Eve,In Progress,60,Investigating
+INC00738,EVT00738,Unauthorized Access,Charlie,In Progress,60,Investigating
+INC00739,EVT00739,Brute Force,Analyst-2,In Progress,15,Blocked
+INC00740,EVT00740,Brute Force,Analyst-1,Closed,60,Mitigated
+INC00741,EVT00741,Malware,Charlie,Closed,5,Resolved
+INC00742,EVT00742,Ransomware,Bob,Open,60,Resolved
+INC00743,EVT00743,Unauthorized Access,SOC Team,In Progress,20,Investigating
+INC00744,EVT00744,Ransomware,Alice,In Progress,60,Mitigated
+INC00745,EVT00745,Unauthorized Access,David,Closed,30,Resolved
+INC00746,EVT00746,Port Scan,Alice,In Progress,10,Investigating
+INC00747,EVT00747,Brute Force,SOC Team,Closed,5,Resolved
+INC00748,EVT00748,Brute Force,Analyst-1,In Progress,5,Blocked
+INC00749,EVT00749,Phishing,Alice,Open,15,Investigating
+INC00750,EVT00750,Phishing,Analyst-2,Open,5,Blocked
+INC00751,EVT00751,Malware,Analyst-1,In Progress,15,Resolved
+INC00752,EVT00752,Port Scan,Bob,Closed,15,Blocked
+INC00753,EVT00753,Malware,Eve,Open,60,Investigating
+INC00754,EVT00754,Brute Force,Bob,Open,20,Mitigated
+INC00755,EVT00755,DDoS,David,In Progress,15,Mitigated
+INC00756,EVT00756,Phishing,Analyst-2,Open,45,Investigating
+INC00757,EVT00757,Ransomware,Analyst-2,In Progress,5,Resolved
+INC00758,EVT00758,Brute Force,Analyst-1,Closed,60,Escalated
+INC00759,EVT00759,Phishing,Eve,In Progress,5,Mitigated
+INC00760,EVT00760,DDoS,Alice,Open,60,Investigating
+INC00761,EVT00761,DDoS,Charlie,In Progress,15,Escalated
+INC00762,EVT00762,SQL Injection,Analyst-1,Open,15,Escalated
+INC00763,EVT00763,Brute Force,Alice,Open,15,Mitigated
+INC00764,EVT00764,Brute Force,Analyst-1,Closed,10,Blocked
+INC00765,EVT00765,Malware,David,Closed,10,Mitigated
+INC00766,EVT00766,Unauthorized Access,David,Closed,5,Escalated
+INC00767,EVT00767,DDoS,Analyst-2,Open,30,Investigating
+INC00768,EVT00768,Port Scan,Bob,Closed,15,Investigating
+INC00769,EVT00769,Unauthorized Access,Alice,In Progress,45,Blocked
+INC00770,EVT00770,SQL Injection,Analyst-2,In Progress,20,Investigating
+INC00771,EVT00771,Unauthorized Access,Analyst-2,Open,10,Blocked
+INC00772,EVT00772,SQL Injection,Bob,Closed,30,Investigating
+INC00773,EVT00773,Ransomware,SOC Team,Closed,60,Mitigated
+INC00774,EVT00774,Malware,Bob,In Progress,5,Investigating
+INC00775,EVT00775,Ransomware,Charlie,In Progress,10,Mitigated
+INC00776,EVT00776,DDoS,Analyst-2,Open,10,Resolved
+INC00777,EVT00777,Brute Force,Analyst-2,Open,10,Escalated
+INC00778,EVT00778,SQL Injection,Charlie,In Progress,10,Blocked
+INC00779,EVT00779,Ransomware,Bob,In Progress,30,Escalated
+INC00780,EVT00780,DDoS,David,Closed,60,Investigating
+INC00781,EVT00781,DDoS,Bob,Closed,30,Resolved
+INC00782,EVT00782,SQL Injection,Analyst-1,In Progress,5,Mitigated
+INC00783,EVT00783,SQL Injection,SOC Team,Open,15,Resolved
+INC00784,EVT00784,SQL Injection,David,Open,5,Resolved
+INC00785,EVT00785,Malware,David,In Progress,20,Mitigated
+INC00786,EVT00786,Ransomware,Alice,In Progress,60,Mitigated
+INC00787,EVT00787,Phishing,SOC Team,In Progress,30,Resolved
+INC00788,EVT00788,Phishing,Alice,Open,20,Mitigated
+INC00789,EVT00789,Ransomware,Charlie,In Progress,60,Resolved
+INC00790,EVT00790,SQL Injection,Analyst-1,In Progress,20,Resolved
+INC00791,EVT00791,Ransomware,Analyst-1,Open,15,Investigating
+INC00792,EVT00792,SQL Injection,Eve,Open,5,Escalated
+INC00793,EVT00793,Ransomware,Bob,In Progress,20,Mitigated
+INC00794,EVT00794,Ransomware,SOC Team,In Progress,60,Investigating
+INC00795,EVT00795,Phishing,David,Open,10,Mitigated
+INC00796,EVT00796,Brute Force,SOC Team,Open,10,Blocked
+INC00797,EVT00797,Brute Force,SOC Team,Open,45,Blocked
+INC00798,EVT00798,Brute Force,SOC Team,In Progress,15,Mitigated
+INC00799,EVT00799,SQL Injection,Eve,In Progress,45,Mitigated
+INC00800,EVT00800,Port Scan,Charlie,Open,10,Mitigated
+INC00801,EVT00801,Port Scan,David,In Progress,45,Mitigated
+INC00802,EVT00802,Port Scan,Analyst-2,Open,10,Mitigated
+INC00803,EVT00803,SQL Injection,SOC Team,In Progress,5,Blocked
+INC00804,EVT00804,Malware,David,In Progress,5,Blocked
+INC00805,EVT00805,Malware,SOC Team,In Progress,5,Escalated
+INC00806,EVT00806,SQL Injection,David,Open,45,Mitigated
+INC00807,EVT00807,Ransomware,David,Open,5,Resolved
+INC00808,EVT00808,Port Scan,Analyst-2,Closed,30,Escalated
+INC00809,EVT00809,Malware,Analyst-2,Closed,45,Resolved
+INC00810,EVT00810,SQL Injection,Alice,Open,30,Investigating
+INC00811,EVT00811,Port Scan,David,In Progress,5,Investigating
+INC00812,EVT00812,Unauthorized Access,Analyst-1,In Progress,30,Investigating
+INC00813,EVT00813,Malware,Analyst-1,Open,30,Resolved
+INC00814,EVT00814,Brute Force,Charlie,Open,15,Blocked
+INC00815,EVT00815,SQL Injection,Eve,In Progress,5,Escalated
+INC00816,EVT00816,Phishing,Charlie,Closed,20,Investigating
+INC00817,EVT00817,Port Scan,Charlie,Closed,20,Investigating
+INC00818,EVT00818,Unauthorized Access,Bob,Closed,15,Investigating
+INC00819,EVT00819,Unauthorized Access,Alice,Open,10,Resolved
+INC00820,EVT00820,Malware,Analyst-1,In Progress,15,Blocked
+INC00821,EVT00821,DDoS,Charlie,Closed,45,Mitigated
+INC00822,EVT00822,Unauthorized Access,Eve,In Progress,45,Investigating
+INC00823,EVT00823,DDoS,Eve,Open,10,Investigating
+INC00824,EVT00824,Phishing,David,Open,15,Escalated
+INC00825,EVT00825,Ransomware,Eve,Closed,30,Escalated
+INC00826,EVT00826,Phishing,Charlie,In Progress,60,Mitigated
+INC00827,EVT00827,Ransomware,David,Closed,5,Investigating
+INC00828,EVT00828,Unauthorized Access,Bob,Closed,15,Investigating
+INC00829,EVT00829,Malware,Eve,Open,30,Mitigated
+INC00830,EVT00830,Malware,SOC Team,In Progress,20,Mitigated
+INC00831,EVT00831,Port Scan,Eve,Closed,20,Mitigated
+INC00832,EVT00832,Unauthorized Access,Charlie,Open,60,Mitigated
+INC00833,EVT00833,Malware,David,Closed,15,Resolved
+INC00834,EVT00834,Port Scan,SOC Team,In Progress,20,Mitigated
+INC00835,EVT00835,Brute Force,Eve,In Progress,5,Mitigated
+INC00836,EVT00836,Unauthorized Access,Analyst-2,Open,60,Mitigated
+INC00837,EVT00837,DDoS,Analyst-1,Closed,45,Mitigated
+INC00838,EVT00838,Phishing,Alice,Closed,45,Resolved
+INC00839,EVT00839,Phishing,Eve,Open,45,Blocked
+INC00840,EVT00840,Port Scan,Analyst-1,In Progress,45,Escalated
+INC00841,EVT00841,Unauthorized Access,David,In Progress,10,Escalated
+INC00842,EVT00842,Unauthorized Access,Charlie,Open,45,Blocked
+INC00843,EVT00843,Phishing,SOC Team,Closed,15,Escalated
+INC00844,EVT00844,Brute Force,Analyst-2,Closed,5,Blocked
+INC00845,EVT00845,Unauthorized Access,Alice,In Progress,5,Resolved
+INC00846,EVT00846,Unauthorized Access,SOC Team,Open,60,Mitigated
+INC00847,EVT00847,SQL Injection,Alice,Closed,5,Blocked
+INC00848,EVT00848,Ransomware,David,Closed,15,Resolved
+INC00849,EVT00849,Port Scan,Analyst-1,Open,30,Resolved
+INC00850,EVT00850,Malware,Eve,Closed,60,Investigating
+INC00851,EVT00851,Unauthorized Access,Analyst-2,In Progress,30,Escalated
+INC00852,EVT00852,DDoS,Eve,Closed,45,Resolved
+INC00853,EVT00853,Ransomware,Analyst-2,Open,15,Mitigated
+INC00854,EVT00854,Port Scan,Alice,Closed,10,Investigating
+INC00855,EVT00855,Brute Force,Analyst-1,In Progress,45,Investigating
+INC00856,EVT00856,SQL Injection,Alice,Open,5,Escalated
+INC00857,EVT00857,DDoS,Bob,In Progress,30,Blocked
+INC00858,EVT00858,Phishing,Eve,Closed,30,Investigating
+INC00859,EVT00859,SQL Injection,SOC Team,Open,10,Blocked
+INC00860,EVT00860,Port Scan,SOC Team,Open,60,Investigating
+INC00861,EVT00861,SQL Injection,David,Open,15,Mitigated
+INC00862,EVT00862,Port Scan,SOC Team,In Progress,45,Mitigated
+INC00863,EVT00863,SQL Injection,Bob,Closed,5,Mitigated
+INC00864,EVT00864,Malware,David,In Progress,15,Investigating
+INC00865,EVT00865,Phishing,David,Open,5,Mitigated
+INC00866,EVT00866,Phishing,SOC Team,In Progress,30,Blocked
+INC00867,EVT00867,SQL Injection,Bob,Open,20,Escalated
+INC00868,EVT00868,SQL Injection,Charlie,Closed,5,Resolved
+INC00869,EVT00869,Phishing,Eve,Open,30,Investigating
+INC00870,EVT00870,Phishing,David,Closed,60,Blocked
+INC00871,EVT00871,Phishing,SOC Team,Open,15,Escalated
+INC00872,EVT00872,DDoS,Bob,Closed,20,Mitigated
+INC00873,EVT00873,Port Scan,Analyst-2,Closed,5,Investigating
+INC00874,EVT00874,Port Scan,Alice,Open,45,Investigating
+INC00875,EVT00875,SQL Injection,David,Open,15,Mitigated
+INC00876,EVT00876,Port Scan,David,In Progress,5,Resolved
+INC00877,EVT00877,DDoS,Bob,Open,20,Mitigated
+INC00878,EVT00878,Unauthorized Access,Analyst-1,In Progress,30,Blocked
+INC00879,EVT00879,Ransomware,Alice,Open,30,Escalated
+INC00880,EVT00880,Port Scan,Bob,Closed,45,Blocked
+INC00881,EVT00881,Phishing,Bob,In Progress,60,Resolved
+INC00882,EVT00882,Malware,Bob,Open,45,Resolved
+INC00883,EVT00883,DDoS,David,Open,15,Investigating
+INC00884,EVT00884,DDoS,David,Closed,10,Escalated
+INC00885,EVT00885,Brute Force,SOC Team,Open,60,Resolved
+INC00886,EVT00886,Malware,SOC Team,Closed,15,Escalated
+INC00887,EVT00887,DDoS,Bob,Closed,10,Blocked
+INC00888,EVT00888,Unauthorized Access,Charlie,In Progress,45,Mitigated
+INC00889,EVT00889,Malware,Charlie,Closed,15,Blocked
+INC00890,EVT00890,DDoS,Analyst-1,Open,5,Escalated
+INC00891,EVT00891,Ransomware,SOC Team,Open,20,Resolved
+INC00892,EVT00892,Ransomware,Bob,Closed,5,Mitigated
+INC00893,EVT00893,Port Scan,Eve,Open,15,Escalated
+INC00894,EVT00894,SQL Injection,Bob,Open,60,Blocked
+INC00895,EVT00895,Malware,Analyst-1,Closed,5,Blocked
+INC00896,EVT00896,Port Scan,SOC Team,Open,30,Blocked
+INC00897,EVT00897,Ransomware,David,Open,60,Resolved
+INC00898,EVT00898,Brute Force,Alice,Closed,10,Blocked
+INC00899,EVT00899,Brute Force,Analyst-2,Closed,5,Resolved
+INC00900,EVT00900,Malware,Eve,Closed,30,Escalated
+INC00901,EVT00901,Malware,Bob,Open,20,Mitigated
+INC00902,EVT00902,DDoS,David,Closed,5,Investigating
+INC00903,EVT00903,Unauthorized Access,David,In Progress,45,Blocked
+INC00904,EVT00904,Phishing,Analyst-2,Closed,60,Escalated
+INC00905,EVT00905,Brute Force,Analyst-2,In Progress,30,Mitigated
+INC00906,EVT00906,Ransomware,SOC Team,In Progress,15,Blocked
+INC00907,EVT00907,Unauthorized Access,Analyst-1,In Progress,45,Mitigated
+INC00908,EVT00908,DDoS,Bob,Open,5,Investigating
+INC00909,EVT00909,Ransomware,Analyst-2,In Progress,5,Blocked
+INC00910,EVT00910,DDoS,Eve,In Progress,60,Escalated
+INC00911,EVT00911,Ransomware,Analyst-2,Closed,45,Investigating
+INC00912,EVT00912,Port Scan,David,In Progress,15,Escalated
+INC00913,EVT00913,Phishing,Analyst-2,Closed,10,Blocked
+INC00914,EVT00914,SQL Injection,Alice,Closed,45,Investigating
+INC00915,EVT00915,Phishing,Charlie,Open,20,Resolved
+INC00916,EVT00916,DDoS,Charlie,In Progress,20,Investigating
+INC00917,EVT00917,Phishing,Bob,Closed,20,Mitigated
+INC00918,EVT00918,Port Scan,David,Closed,10,Escalated
+INC00919,EVT00919,SQL Injection,SOC Team,Closed,30,Investigating
+INC00920,EVT00920,Malware,SOC Team,In Progress,60,Resolved
+INC00921,EVT00921,DDoS,Alice,In Progress,5,Resolved
+INC00922,EVT00922,SQL Injection,Eve,Closed,20,Investigating
+INC00923,EVT00923,Malware,David,Closed,60,Investigating
+INC00924,EVT00924,Ransomware,David,In Progress,10,Investigating
+INC00925,EVT00925,DDoS,SOC Team,In Progress,30,Resolved
+INC00926,EVT00926,Phishing,Eve,Open,5,Resolved
+INC00927,EVT00927,DDoS,Analyst-2,Open,45,Investigating
+INC00928,EVT00928,SQL Injection,Bob,Open,45,Blocked
+INC00929,EVT00929,Malware,Analyst-2,Open,45,Resolved
+INC00930,EVT00930,DDoS,Analyst-2,In Progress,15,Mitigated
+INC00931,EVT00931,Phishing,David,In Progress,60,Escalated
+INC00932,EVT00932,Malware,SOC Team,Open,10,Escalated
+INC00933,EVT00933,Port Scan,Eve,In Progress,5,Mitigated
+INC00934,EVT00934,Malware,Alice,Closed,60,Resolved
+INC00935,EVT00935,SQL Injection,David,Closed,45,Mitigated
+INC00936,EVT00936,SQL Injection,Alice,Open,15,Escalated
+INC00937,EVT00937,Malware,Analyst-1,Closed,15,Escalated
+INC00938,EVT00938,Malware,David,In Progress,60,Mitigated
+INC00939,EVT00939,Unauthorized Access,Bob,Closed,10,Mitigated
+INC00940,EVT00940,Phishing,Analyst-1,Closed,5,Investigating
+INC00941,EVT00941,DDoS,David,In Progress,20,Mitigated
+INC00942,EVT00942,Brute Force,David,Closed,10,Escalated
+INC00943,EVT00943,Port Scan,Alice,Open,15,Blocked
+INC00944,EVT00944,Port Scan,Analyst-1,In Progress,5,Investigating
+INC00945,EVT00945,Phishing,Eve,Open,20,Resolved
+INC00946,EVT00946,DDoS,Charlie,Closed,45,Mitigated
+INC00947,EVT00947,SQL Injection,Eve,Open,60,Mitigated
+INC00948,EVT00948,Phishing,Eve,In Progress,15,Resolved
+INC00949,EVT00949,Malware,Analyst-1,Open,10,Resolved
+INC00950,EVT00950,DDoS,Charlie,Closed,30,Investigating
+INC00951,EVT00951,Ransomware,Analyst-2,Closed,45,Escalated
+INC00952,EVT00952,Unauthorized Access,Analyst-2,Open,45,Investigating
+INC00953,EVT00953,DDoS,Charlie,Closed,30,Escalated
+INC00954,EVT00954,Malware,Charlie,In Progress,10,Resolved
+INC00955,EVT00955,SQL Injection,Analyst-1,Open,10,Mitigated
+INC00956,EVT00956,Unauthorized Access,Bob,Closed,60,Escalated
+INC00957,EVT00957,SQL Injection,David,Closed,45,Escalated
+INC00958,EVT00958,Port Scan,Bob,In Progress,10,Blocked
+INC00959,EVT00959,Unauthorized Access,Analyst-2,Closed,30,Investigating
+INC00960,EVT00960,Malware,Eve,Open,15,Mitigated
+INC00961,EVT00961,SQL Injection,Eve,Open,20,Mitigated
+INC00962,EVT00962,Malware,David,Open,15,Escalated
+INC00963,EVT00963,Brute Force,Alice,Closed,45,Mitigated
+INC00964,EVT00964,Ransomware,Charlie,Closed,15,Blocked
+INC00965,EVT00965,SQL Injection,SOC Team,In Progress,60,Mitigated
+INC00966,EVT00966,Port Scan,Analyst-1,In Progress,20,Resolved
+INC00967,EVT00967,Malware,Analyst-1,In Progress,15,Mitigated
+INC00968,EVT00968,Phishing,Eve,Closed,30,Investigating
+INC00969,EVT00969,SQL Injection,Charlie,Open,45,Escalated
+INC00970,EVT00970,SQL Injection,David,Open,60,Blocked
+INC00971,EVT00971,Unauthorized Access,Alice,Open,60,Mitigated
+INC00972,EVT00972,Malware,Charlie,In Progress,30,Escalated
+INC00973,EVT00973,Brute Force,Alice,In Progress,20,Blocked
+INC00974,EVT00974,Malware,Charlie,Closed,60,Resolved
+INC00975,EVT00975,Unauthorized Access,Eve,Open,15,Investigating
+INC00976,EVT00976,SQL Injection,Alice,Closed,10,Mitigated
+INC00977,EVT00977,Unauthorized Access,SOC Team,Open,45,Mitigated
+INC00978,EVT00978,Ransomware,Charlie,Closed,5,Resolved
+INC00979,EVT00979,Port Scan,David,Open,45,Escalated
+INC00980,EVT00980,Port Scan,Analyst-2,Closed,60,Mitigated
+INC00981,EVT00981,Malware,David,Open,60,Investigating
+INC00982,EVT00982,DDoS,Eve,In Progress,5,Mitigated
+INC00983,EVT00983,Port Scan,Eve,Open,30,Escalated
+INC00984,EVT00984,Malware,Bob,Open,60,Escalated
+INC00985,EVT00985,Malware,Analyst-1,In Progress,30,Escalated
+INC00986,EVT00986,Phishing,Eve,Closed,10,Escalated
+INC00987,EVT00987,Phishing,Analyst-2,Open,45,Blocked
+INC00988,EVT00988,Malware,SOC Team,Open,5,Investigating
+INC00989,EVT00989,SQL Injection,Alice,In Progress,30,Escalated
+INC00990,EVT00990,Phishing,Eve,In Progress,5,Mitigated
+INC00991,EVT00991,Phishing,Bob,Closed,30,Mitigated
+INC00992,EVT00992,DDoS,Analyst-1,Open,20,Blocked
+INC00993,EVT00993,DDoS,Charlie,Open,5,Escalated
+INC00994,EVT00994,Port Scan,Analyst-2,In Progress,10,Investigating
+INC00995,EVT00995,Ransomware,Analyst-1,Open,5,Escalated
+INC00996,EVT00996,Phishing,Analyst-1,Closed,45,Escalated
+INC00997,EVT00997,Malware,Charlie,Closed,45,Resolved
+INC00998,EVT00998,DDoS,Bob,Closed,30,Resolved
+INC00999,EVT00999,Malware,Bob,Open,45,Resolved
+INC01000,EVT01000,DDoS,Charlie,Open,30,Resolved
+INC01001,EVT01001,SQL Injection,David,Closed,15,Escalated
+INC01002,EVT01002,SQL Injection,Alice,Open,30,Resolved
+INC01003,EVT01003,Phishing,Eve,Closed,30,Investigating
+INC01004,EVT01004,Phishing,Charlie,Open,30,Mitigated
+INC01005,EVT01005,Brute Force,Analyst-2,Closed,15,Blocked
+INC01006,EVT01006,SQL Injection,SOC Team,In Progress,20,Mitigated
+INC01007,EVT01007,Unauthorized Access,Eve,In Progress,15,Mitigated
+INC01008,EVT01008,Port Scan,Alice,In Progress,20,Escalated
+INC01009,EVT01009,Brute Force,SOC Team,Open,20,Escalated
+INC01010,EVT01010,Ransomware,Bob,In Progress,10,Investigating
+INC01011,EVT01011,Unauthorized Access,Bob,Open,60,Mitigated
+INC01012,EVT01012,Ransomware,Analyst-1,Closed,10,Resolved
+INC01013,EVT01013,Brute Force,Eve,In Progress,20,Resolved
+INC01014,EVT01014,DDoS,Bob,In Progress,5,Mitigated
+INC01015,EVT01015,Malware,Charlie,In Progress,15,Escalated
+INC01016,EVT01016,Phishing,Analyst-1,Closed,20,Resolved
+INC01017,EVT01017,Phishing,Eve,Open,60,Blocked
+INC01018,EVT01018,DDoS,Alice,Open,20,Investigating
+INC01019,EVT01019,Port Scan,Bob,In Progress,10,Resolved
+INC01020,EVT01020,Phishing,Eve,Closed,20,Escalated
+INC01021,EVT01021,DDoS,Bob,In Progress,5,Resolved
+INC01022,EVT01022,Brute Force,Alice,Closed,15,Escalated
+INC01023,EVT01023,Brute Force,Analyst-2,Open,60,Escalated
+INC01024,EVT01024,DDoS,Analyst-1,Closed,60,Investigating
+INC01025,EVT01025,DDoS,Charlie,Closed,15,Mitigated
+INC01026,EVT01026,Malware,Charlie,Closed,5,Escalated
+INC01027,EVT01027,Malware,Eve,In Progress,5,Escalated
+INC01028,EVT01028,Brute Force,Analyst-2,Open,15,Escalated
+INC01029,EVT01029,DDoS,Eve,Closed,20,Blocked
+INC01030,EVT01030,Brute Force,SOC Team,In Progress,10,Escalated
+INC01031,EVT01031,Unauthorized Access,David,Open,5,Escalated
+INC01032,EVT01032,Port Scan,David,Open,15,Blocked
+INC01033,EVT01033,Malware,Alice,Closed,45,Resolved
+INC01034,EVT01034,SQL Injection,Alice,Closed,45,Escalated
+INC01035,EVT01035,Port Scan,Analyst-1,In Progress,30,Blocked
+INC01036,EVT01036,Malware,Analyst-2,Open,60,Investigating
+INC01037,EVT01037,Port Scan,Analyst-2,Closed,30,Escalated
+INC01038,EVT01038,Malware,Alice,Closed,30,Mitigated
+INC01039,EVT01039,Unauthorized Access,Bob,Open,45,Resolved
+INC01040,EVT01040,Phishing,Analyst-2,Closed,15,Mitigated
+INC01041,EVT01041,Brute Force,Eve,Open,60,Blocked
+INC01042,EVT01042,Brute Force,SOC Team,Closed,45,Escalated
+INC01043,EVT01043,Unauthorized Access,Bob,Closed,10,Escalated
+INC01044,EVT01044,SQL Injection,SOC Team,Closed,20,Blocked
+INC01045,EVT01045,Phishing,Eve,Closed,60,Resolved
+INC01046,EVT01046,DDoS,Bob,Open,5,Escalated
+INC01047,EVT01047,Unauthorized Access,Bob,Closed,15,Blocked
+INC01048,EVT01048,Malware,David,In Progress,45,Mitigated
+INC01049,EVT01049,Malware,Analyst-1,Open,30,Resolved
+INC01050,EVT01050,Malware,SOC Team,Open,45,Escalated
+INC01051,EVT01051,Ransomware,Eve,In Progress,60,Escalated
+INC01052,EVT01052,Malware,Charlie,Closed,30,Blocked
+INC01053,EVT01053,SQL Injection,Bob,In Progress,30,Blocked
+INC01054,EVT01054,Malware,Analyst-2,Closed,5,Resolved
+INC01055,EVT01055,Malware,Eve,Open,10,Mitigated
+INC01056,EVT01056,Phishing,Analyst-2,In Progress,15,Resolved
+INC01057,EVT01057,Malware,Alice,Closed,60,Blocked
+INC01058,EVT01058,SQL Injection,Analyst-2,Closed,30,Mitigated
+INC01059,EVT01059,Phishing,David,Closed,5,Resolved
+INC01060,EVT01060,Phishing,David,In Progress,10,Blocked
+INC01061,EVT01061,Unauthorized Access,Charlie,Open,5,Resolved
+INC01062,EVT01062,Port Scan,David,Closed,45,Resolved
+INC01063,EVT01063,SQL Injection,Eve,Closed,20,Mitigated
+INC01064,EVT01064,SQL Injection,Eve,In Progress,45,Investigating
+INC01065,EVT01065,Port Scan,Alice,Open,5,Resolved
+INC01066,EVT01066,Brute Force,Charlie,Open,45,Mitigated
+INC01067,EVT01067,Brute Force,Charlie,In Progress,30,Investigating
+INC01068,EVT01068,Ransomware,Alice,Closed,20,Mitigated
+INC01069,EVT01069,Phishing,Bob,Open,30,Blocked
+INC01070,EVT01070,Ransomware,Analyst-2,In Progress,60,Resolved
+INC01071,EVT01071,DDoS,Analyst-2,Open,60,Blocked
+INC01072,EVT01072,Ransomware,Analyst-1,Open,45,Resolved
+INC01073,EVT01073,Brute Force,Eve,In Progress,20,Mitigated
+INC01074,EVT01074,Brute Force,Bob,In Progress,30,Investigating
+INC01075,EVT01075,Malware,Charlie,Closed,15,Escalated
+INC01076,EVT01076,Unauthorized Access,Eve,Closed,20,Escalated
+INC01077,EVT01077,DDoS,SOC Team,Closed,45,Resolved
+INC01078,EVT01078,Ransomware,Alice,Closed,30,Resolved
+INC01079,EVT01079,Malware,Bob,Closed,45,Blocked
+INC01080,EVT01080,Brute Force,SOC Team,Closed,20,Blocked
+INC01081,EVT01081,DDoS,Alice,In Progress,10,Resolved
+INC01082,EVT01082,SQL Injection,Analyst-2,Open,20,Resolved
+INC01083,EVT01083,Malware,Bob,In Progress,45,Resolved
+INC01084,EVT01084,DDoS,David,Closed,10,Mitigated
+INC01085,EVT01085,Phishing,Bob,Open,60,Investigating
+INC01086,EVT01086,Brute Force,Bob,Closed,45,Investigating
+INC01087,EVT01087,Phishing,Bob,In Progress,30,Blocked
+INC01088,EVT01088,Port Scan,Eve,In Progress,5,Mitigated
+INC01089,EVT01089,Port Scan,David,Closed,45,Resolved
+INC01090,EVT01090,SQL Injection,Bob,Open,20,Mitigated
+INC01091,EVT01091,SQL Injection,SOC Team,In Progress,20,Investigating
+INC01092,EVT01092,SQL Injection,Analyst-1,In Progress,20,Blocked
+INC01093,EVT01093,Brute Force,SOC Team,Open,10,Mitigated
+INC01094,EVT01094,Brute Force,David,Open,15,Resolved
+INC01095,EVT01095,Phishing,Alice,In Progress,15,Resolved
+INC01096,EVT01096,DDoS,Eve,Open,45,Resolved
+INC01097,EVT01097,Brute Force,David,Open,5,Mitigated
+INC01098,EVT01098,Brute Force,Analyst-1,In Progress,10,Mitigated
+INC01099,EVT01099,Brute Force,Charlie,Closed,15,Mitigated
+INC01100,EVT01100,SQL Injection,David,In Progress,5,Blocked
+INC01101,EVT01101,Brute Force,Analyst-1,Open,15,Blocked
+INC01102,EVT01102,Phishing,David,In Progress,45,Investigating
+INC01103,EVT01103,Malware,Alice,Open,45,Blocked
+INC01104,EVT01104,Phishing,SOC Team,Closed,15,Escalated
+INC01105,EVT01105,Unauthorized Access,Bob,In Progress,45,Escalated
+INC01106,EVT01106,Unauthorized Access,Analyst-2,Open,30,Resolved
+INC01107,EVT01107,Brute Force,Charlie,Closed,60,Investigating
+INC01108,EVT01108,Unauthorized Access,Charlie,In Progress,20,Mitigated
+INC01109,EVT01109,Port Scan,Alice,In Progress,30,Resolved
+INC01110,EVT01110,Brute Force,Analyst-1,Closed,20,Mitigated
+INC01111,EVT01111,Phishing,Bob,In Progress,60,Resolved
+INC01112,EVT01112,SQL Injection,SOC Team,Open,20,Resolved
+INC01113,EVT01113,DDoS,David,Open,20,Mitigated
+INC01114,EVT01114,DDoS,David,Open,10,Resolved
+INC01115,EVT01115,DDoS,Analyst-2,Closed,10,Investigating
+INC01116,EVT01116,Brute Force,Bob,Closed,45,Investigating
+INC01117,EVT01117,Phishing,Analyst-1,In Progress,10,Resolved
+INC01118,EVT01118,SQL Injection,David,Open,60,Investigating
+INC01119,EVT01119,Ransomware,Eve,Open,30,Investigating
+INC01120,EVT01120,Brute Force,Analyst-1,Closed,5,Mitigated
+INC01121,EVT01121,Port Scan,Bob,Open,20,Blocked
+INC01122,EVT01122,Port Scan,Alice,In Progress,5,Blocked
+INC01123,EVT01123,DDoS,Eve,In Progress,20,Mitigated
+INC01124,EVT01124,Phishing,Charlie,Closed,30,Resolved
+INC01125,EVT01125,Unauthorized Access,Eve,In Progress,20,Escalated
+INC01126,EVT01126,Malware,Bob,In Progress,5,Blocked
+INC01127,EVT01127,Port Scan,Alice,Closed,5,Blocked
+INC01128,EVT01128,Port Scan,David,Open,5,Blocked
+INC01129,EVT01129,Phishing,Bob,Open,5,Resolved
+INC01130,EVT01130,Unauthorized Access,David,Open,15,Investigating
+INC01131,EVT01131,Phishing,Analyst-2,Open,45,Blocked
+INC01132,EVT01132,Malware,SOC Team,Open,45,Mitigated
+INC01133,EVT01133,Unauthorized Access,Eve,In Progress,15,Mitigated
+INC01134,EVT01134,Phishing,David,In Progress,10,Blocked
+INC01135,EVT01135,Unauthorized Access,SOC Team,Closed,45,Investigating
+INC01136,EVT01136,Ransomware,Charlie,Open,20,Investigating
+INC01137,EVT01137,Phishing,Analyst-1,Closed,30,Investigating
+INC01138,EVT01138,Malware,Analyst-1,In Progress,15,Blocked
+INC01139,EVT01139,Ransomware,David,Closed,30,Blocked
+INC01140,EVT01140,SQL Injection,David,Closed,15,Escalated
+INC01141,EVT01141,DDoS,Charlie,Open,20,Escalated
+INC01142,EVT01142,DDoS,David,In Progress,30,Resolved
+INC01143,EVT01143,Ransomware,Alice,Closed,60,Escalated
+INC01144,EVT01144,Port Scan,David,In Progress,5,Blocked
+INC01145,EVT01145,Port Scan,Bob,Open,20,Mitigated
+INC01146,EVT01146,Unauthorized Access,Eve,Open,5,Escalated
+INC01147,EVT01147,Brute Force,Bob,In Progress,45,Blocked
+INC01148,EVT01148,Unauthorized Access,Analyst-1,In Progress,10,Blocked
+INC01149,EVT01149,Phishing,Analyst-2,Closed,45,Escalated
+INC01150,EVT01150,Ransomware,Analyst-2,Open,30,Escalated
+INC01151,EVT01151,SQL Injection,SOC Team,Open,30,Investigating
+INC01152,EVT01152,SQL Injection,David,Closed,60,Escalated
+INC01153,EVT01153,Brute Force,Bob,In Progress,30,Blocked
+INC01154,EVT01154,SQL Injection,Analyst-1,Closed,30,Escalated
+INC01155,EVT01155,Malware,Charlie,Closed,60,Blocked
+INC01156,EVT01156,SQL Injection,Analyst-2,In Progress,45,Resolved
+INC01157,EVT01157,Ransomware,Charlie,Closed,10,Mitigated
+INC01158,EVT01158,Port Scan,Charlie,In Progress,20,Resolved
+INC01159,EVT01159,Malware,Analyst-1,Closed,20,Mitigated
+INC01160,EVT01160,SQL Injection,Analyst-2,Open,45,Escalated
+INC01161,EVT01161,DDoS,Alice,In Progress,20,Mitigated
+INC01162,EVT01162,Ransomware,SOC Team,In Progress,5,Mitigated
+INC01163,EVT01163,Phishing,David,Closed,10,Escalated
+INC01164,EVT01164,Port Scan,Analyst-2,Open,60,Blocked
+INC01165,EVT01165,Malware,Charlie,In Progress,5,Escalated
+INC01166,EVT01166,Malware,Analyst-1,Closed,60,Investigating
+INC01167,EVT01167,Unauthorized Access,Analyst-2,Closed,30,Mitigated
+INC01168,EVT01168,Brute Force,Eve,Open,15,Resolved
+INC01169,EVT01169,Ransomware,Analyst-1,Closed,15,Resolved
+INC01170,EVT01170,DDoS,Analyst-1,Open,20,Escalated
+INC01171,EVT01171,Malware,Alice,In Progress,60,Investigating
+INC01172,EVT01172,SQL Injection,Charlie,Open,20,Blocked
+INC01173,EVT01173,Ransomware,Charlie,Closed,45,Escalated
+INC01174,EVT01174,DDoS,Charlie,In Progress,20,Mitigated
+INC01175,EVT01175,Port Scan,Analyst-2,In Progress,20,Mitigated
+INC01176,EVT01176,Unauthorized Access,Eve,Closed,5,Resolved
+INC01177,EVT01177,SQL Injection,Analyst-2,In Progress,30,Blocked
+INC01178,EVT01178,Port Scan,SOC Team,Open,20,Blocked
+INC01179,EVT01179,Malware,SOC Team,Closed,15,Escalated
+INC01180,EVT01180,Unauthorized Access,Alice,Closed,15,Resolved
+INC01181,EVT01181,DDoS,Eve,Closed,45,Mitigated
+INC01182,EVT01182,Ransomware,David,Closed,10,Mitigated
+INC01183,EVT01183,Malware,Analyst-2,In Progress,20,Escalated
+INC01184,EVT01184,DDoS,Eve,Open,45,Mitigated
+INC01185,EVT01185,Unauthorized Access,Eve,Open,60,Escalated
+INC01186,EVT01186,Phishing,Eve,In Progress,30,Resolved
+INC01187,EVT01187,Unauthorized Access,Bob,Open,5,Investigating
+INC01188,EVT01188,Port Scan,Charlie,Closed,5,Blocked
+INC01189,EVT01189,Unauthorized Access,David,In Progress,15,Resolved
+INC01190,EVT01190,Unauthorized Access,SOC Team,Closed,10,Resolved
+INC01191,EVT01191,Port Scan,Charlie,Closed,30,Blocked
+INC01192,EVT01192,Port Scan,Analyst-1,Open,30,Resolved
+INC01193,EVT01193,Port Scan,Bob,Open,5,Investigating
+INC01194,EVT01194,SQL Injection,SOC Team,Closed,45,Resolved
+INC01195,EVT01195,Phishing,Analyst-2,Closed,20,Investigating
+INC01196,EVT01196,Malware,Analyst-1,In Progress,30,Resolved
+INC01197,EVT01197,Malware,Bob,Closed,20,Mitigated
+INC01198,EVT01198,DDoS,Analyst-1,Closed,60,Investigating
+INC01199,EVT01199,Malware,Alice,Closed,5,Escalated
+INC01200,EVT01200,SQL Injection,Analyst-1,In Progress,60,Investigating
+INC01201,EVT01201,Ransomware,Charlie,In Progress,30,Investigating
+INC01202,EVT01202,Malware,David,Open,60,Investigating
+INC01203,EVT01203,Unauthorized Access,Eve,Closed,5,Resolved
+INC01204,EVT01204,Malware,Analyst-1,In Progress,5,Escalated
+INC01205,EVT01205,DDoS,David,Open,45,Mitigated
+INC01206,EVT01206,Phishing,David,In Progress,5,Investigating
+INC01207,EVT01207,Port Scan,Charlie,Open,30,Resolved
+INC01208,EVT01208,Unauthorized Access,Bob,Open,45,Resolved
+INC01209,EVT01209,Port Scan,Bob,In Progress,15,Escalated
+INC01210,EVT01210,Ransomware,Charlie,Open,30,Blocked
+INC01211,EVT01211,Malware,Analyst-1,Closed,20,Mitigated
+INC01212,EVT01212,Unauthorized Access,Charlie,Open,20,Mitigated
+INC01213,EVT01213,SQL Injection,Alice,Closed,45,Mitigated
+INC01214,EVT01214,Ransomware,Bob,Open,60,Resolved
+INC01215,EVT01215,Brute Force,Bob,In Progress,30,Escalated
+INC01216,EVT01216,Phishing,Charlie,Open,30,Resolved
+INC01217,EVT01217,Unauthorized Access,SOC Team,In Progress,20,Blocked
+INC01218,EVT01218,Ransomware,Bob,Closed,30,Blocked
+INC01219,EVT01219,SQL Injection,Analyst-2,In Progress,30,Investigating
+INC01220,EVT01220,Phishing,Alice,Closed,60,Mitigated
+INC01221,EVT01221,SQL Injection,Analyst-2,Closed,20,Blocked
+INC01222,EVT01222,Unauthorized Access,David,Closed,5,Blocked
+INC01223,EVT01223,Unauthorized Access,Analyst-2,Open,45,Escalated
+INC01224,EVT01224,Port Scan,Eve,Open,10,Blocked
+INC01225,EVT01225,Malware,Bob,Open,10,Mitigated
+INC01226,EVT01226,Malware,Analyst-2,In Progress,10,Investigating
+INC01227,EVT01227,Unauthorized Access,David,Open,20,Investigating
+INC01228,EVT01228,Brute Force,SOC Team,In Progress,45,Investigating
+INC01229,EVT01229,Malware,SOC Team,Closed,5,Resolved
+INC01230,EVT01230,Phishing,Bob,In Progress,20,Mitigated
+INC01231,EVT01231,Malware,Eve,Open,30,Mitigated
+INC01232,EVT01232,Phishing,Analyst-2,In Progress,5,Blocked
+INC01233,EVT01233,Unauthorized Access,Analyst-2,In Progress,45,Investigating
+INC01234,EVT01234,Port Scan,Eve,Open,15,Blocked
+INC01235,EVT01235,Phishing,SOC Team,Open,60,Resolved
+INC01236,EVT01236,Malware,Analyst-2,Open,20,Blocked
+INC01237,EVT01237,Port Scan,Alice,In Progress,15,Escalated
+INC01238,EVT01238,Malware,Analyst-2,In Progress,5,Investigating
+INC01239,EVT01239,Ransomware,Analyst-1,Closed,30,Blocked
+INC01240,EVT01240,SQL Injection,Bob,In Progress,60,Escalated
+INC01241,EVT01241,SQL Injection,SOC Team,Open,20,Resolved
+INC01242,EVT01242,Brute Force,David,Open,5,Blocked
+INC01243,EVT01243,Phishing,Eve,Closed,10,Blocked
+INC01244,EVT01244,Port Scan,SOC Team,Open,20,Mitigated
+INC01245,EVT01245,Brute Force,SOC Team,Closed,15,Investigating
+INC01246,EVT01246,DDoS,Alice,In Progress,45,Escalated
+INC01247,EVT01247,Malware,Charlie,In Progress,5,Investigating
+INC01248,EVT01248,SQL Injection,Analyst-1,In Progress,15,Blocked
+INC01249,EVT01249,Ransomware,Eve,In Progress,15,Escalated
+INC01250,EVT01250,Brute Force,Eve,Open,20,Mitigated
+INC01251,EVT01251,Unauthorized Access,Analyst-1,Closed,45,Mitigated
+INC01252,EVT01252,Port Scan,Charlie,Open,30,Investigating
+INC01253,EVT01253,Brute Force,SOC Team,In Progress,30,Blocked
+INC01254,EVT01254,DDoS,Analyst-1,Open,20,Investigating
+INC01255,EVT01255,DDoS,David,Open,60,Resolved
+INC01256,EVT01256,Ransomware,David,In Progress,20,Escalated
+INC01257,EVT01257,Brute Force,Bob,Closed,5,Investigating
+INC01258,EVT01258,Unauthorized Access,Eve,Closed,10,Escalated
+INC01259,EVT01259,DDoS,Analyst-1,Open,20,Blocked
+INC01260,EVT01260,DDoS,Alice,Closed,10,Escalated
+INC01261,EVT01261,Phishing,Charlie,Closed,10,Blocked
+INC01262,EVT01262,SQL Injection,Analyst-1,Closed,10,Mitigated
+INC01263,EVT01263,Ransomware,Alice,Closed,45,Resolved
+INC01264,EVT01264,Brute Force,Charlie,In Progress,60,Blocked
+INC01265,EVT01265,Unauthorized Access,Analyst-1,Closed,20,Mitigated
+INC01266,EVT01266,Ransomware,Charlie,Closed,10,Resolved
+INC01267,EVT01267,Ransomware,Analyst-1,Open,10,Blocked
+INC01268,EVT01268,Ransomware,Bob,Closed,15,Blocked
+INC01269,EVT01269,Unauthorized Access,David,Closed,15,Investigating
+INC01270,EVT01270,Brute Force,Eve,Open,5,Escalated
+INC01271,EVT01271,Port Scan,Analyst-1,In Progress,45,Escalated
+INC01272,EVT01272,Malware,Analyst-1,In Progress,10,Resolved
+INC01273,EVT01273,Brute Force,Analyst-1,Closed,15,Mitigated
+INC01274,EVT01274,Ransomware,David,Closed,30,Investigating
+INC01275,EVT01275,Brute Force,Charlie,In Progress,45,Investigating
+INC01276,EVT01276,Ransomware,Analyst-1,Closed,5,Investigating
+INC01277,EVT01277,SQL Injection,Analyst-2,Open,5,Resolved
+INC01278,EVT01278,Unauthorized Access,Alice,In Progress,45,Blocked
+INC01279,EVT01279,Port Scan,SOC Team,Closed,20,Investigating
+INC01280,EVT01280,DDoS,David,Open,60,Mitigated
+INC01281,EVT01281,Malware,David,Closed,45,Investigating
+INC01282,EVT01282,DDoS,Analyst-2,In Progress,5,Mitigated
+INC01283,EVT01283,Malware,Charlie,In Progress,30,Blocked
+INC01284,EVT01284,Unauthorized Access,Charlie,Open,45,Escalated
+INC01285,EVT01285,SQL Injection,Charlie,Closed,5,Escalated
+INC01286,EVT01286,SQL Injection,SOC Team,Closed,45,Resolved
+INC01287,EVT01287,Unauthorized Access,Charlie,In Progress,30,Mitigated
+INC01288,EVT01288,SQL Injection,SOC Team,Open,30,Resolved
+INC01289,EVT01289,Unauthorized Access,SOC Team,Closed,60,Mitigated
+INC01290,EVT01290,Unauthorized Access,Charlie,Open,5,Escalated
+INC01291,EVT01291,Port Scan,SOC Team,In Progress,5,Blocked
+INC01292,EVT01292,Malware,Analyst-1,Closed,30,Resolved
+INC01293,EVT01293,Brute Force,Alice,Open,45,Resolved
+INC01294,EVT01294,SQL Injection,Analyst-1,Open,45,Investigating
+INC01295,EVT01295,Phishing,Charlie,Closed,60,Investigating
+INC01296,EVT01296,DDoS,Eve,Closed,45,Blocked
+INC01297,EVT01297,Malware,SOC Team,In Progress,30,Investigating
+INC01298,EVT01298,DDoS,Analyst-2,Closed,60,Resolved
+INC01299,EVT01299,SQL Injection,David,Closed,30,Mitigated
+INC01300,EVT01300,Phishing,SOC Team,In Progress,60,Investigating
+INC01301,EVT01301,Malware,David,In Progress,5,Investigating
+INC01302,EVT01302,Phishing,SOC Team,Open,5,Escalated
+INC01303,EVT01303,Brute Force,David,In Progress,30,Escalated
+INC01304,EVT01304,Port Scan,Eve,In Progress,10,Mitigated
+INC01305,EVT01305,Unauthorized Access,David,In Progress,5,Escalated
+INC01306,EVT01306,Phishing,David,In Progress,45,Blocked
+INC01307,EVT01307,Phishing,SOC Team,In Progress,30,Escalated
+INC01308,EVT01308,Brute Force,Alice,Closed,20,Escalated
+INC01309,EVT01309,SQL Injection,Analyst-2,In Progress,45,Mitigated
+INC01310,EVT01310,Brute Force,Analyst-2,Open,30,Escalated
+INC01311,EVT01311,Port Scan,Charlie,In Progress,5,Blocked
+INC01312,EVT01312,Unauthorized Access,Charlie,Open,10,Mitigated
+INC01313,EVT01313,Phishing,Eve,Closed,5,Mitigated
+INC01314,EVT01314,Phishing,Analyst-1,Closed,30,Investigating
+INC01315,EVT01315,Port Scan,Analyst-2,In Progress,45,Escalated
+INC01316,EVT01316,SQL Injection,Bob,Closed,15,Resolved
+INC01317,EVT01317,Ransomware,David,Closed,5,Investigating
+INC01318,EVT01318,Unauthorized Access,SOC Team,In Progress,5,Resolved
+INC01319,EVT01319,Port Scan,Analyst-2,In Progress,5,Escalated
+INC01320,EVT01320,Brute Force,Bob,Open,30,Resolved
+INC01321,EVT01321,SQL Injection,David,Closed,20,Blocked
+INC01322,EVT01322,Phishing,Analyst-1,Open,5,Escalated
+INC01323,EVT01323,Malware,Analyst-1,In Progress,45,Investigating
+INC01324,EVT01324,DDoS,Analyst-1,In Progress,15,Escalated
+INC01325,EVT01325,Unauthorized Access,David,In Progress,5,Blocked
+INC01326,EVT01326,SQL Injection,Analyst-1,Open,20,Escalated
+INC01327,EVT01327,Port Scan,Bob,Open,60,Escalated
+INC01328,EVT01328,Brute Force,SOC Team,Open,15,Blocked
+INC01329,EVT01329,Port Scan,David,In Progress,20,Escalated
+INC01330,EVT01330,Malware,Analyst-1,Closed,20,Investigating
+INC01331,EVT01331,Ransomware,Alice,Open,30,Escalated
+INC01332,EVT01332,Brute Force,SOC Team,In Progress,20,Blocked
+INC01333,EVT01333,Ransomware,SOC Team,Open,15,Blocked
+INC01334,EVT01334,Phishing,Analyst-2,Closed,60,Mitigated
+INC01335,EVT01335,SQL Injection,Eve,In Progress,10,Investigating
+INC01336,EVT01336,Unauthorized Access,Alice,In Progress,60,Escalated
+INC01337,EVT01337,Phishing,David,Closed,20,Resolved
+INC01338,EVT01338,DDoS,Eve,In Progress,20,Blocked
+INC01339,EVT01339,Malware,Eve,In Progress,15,Mitigated
+INC01340,EVT01340,Malware,Analyst-1,Closed,10,Resolved
+INC01341,EVT01341,Phishing,Charlie,In Progress,30,Investigating
+INC01342,EVT01342,DDoS,Alice,Closed,5,Blocked
+INC01343,EVT01343,SQL Injection,Charlie,Closed,5,Investigating
+INC01344,EVT01344,DDoS,Analyst-1,Closed,15,Resolved
+INC01345,EVT01345,DDoS,Charlie,Closed,15,Escalated
+INC01346,EVT01346,Phishing,Bob,In Progress,30,Mitigated
+INC01347,EVT01347,Malware,Analyst-2,Open,20,Mitigated
+INC01348,EVT01348,Brute Force,Eve,Open,45,Mitigated
+INC01349,EVT01349,DDoS,Eve,In Progress,60,Blocked
+INC01350,EVT01350,Ransomware,Alice,In Progress,20,Blocked
+INC01351,EVT01351,DDoS,Analyst-1,Open,60,Resolved
+INC01352,EVT01352,Malware,Eve,In Progress,60,Resolved
+INC01353,EVT01353,DDoS,Charlie,In Progress,10,Escalated
+INC01354,EVT01354,SQL Injection,Analyst-2,Open,10,Blocked
+INC01355,EVT01355,SQL Injection,Charlie,Closed,60,Investigating
+INC01356,EVT01356,Ransomware,Analyst-2,In Progress,10,Resolved
+INC01357,EVT01357,Malware,Charlie,Closed,10,Resolved
+INC01358,EVT01358,Brute Force,David,Open,30,Blocked
+INC01359,EVT01359,Phishing,Analyst-1,Closed,30,Mitigated
+INC01360,EVT01360,Unauthorized Access,Eve,In Progress,20,Blocked
+INC01361,EVT01361,SQL Injection,SOC Team,In Progress,60,Escalated
+INC01362,EVT01362,SQL Injection,David,In Progress,20,Investigating
+INC01363,EVT01363,Ransomware,Alice,Closed,60,Investigating
+INC01364,EVT01364,SQL Injection,Eve,In Progress,15,Blocked
+INC01365,EVT01365,Malware,Charlie,Open,15,Blocked
+INC01366,EVT01366,Unauthorized Access,Charlie,Closed,15,Investigating
+INC01367,EVT01367,Malware,Eve,Open,10,Mitigated
+INC01368,EVT01368,Ransomware,Charlie,In Progress,45,Escalated
+INC01369,EVT01369,Phishing,Eve,In Progress,45,Mitigated
+INC01370,EVT01370,Ransomware,Charlie,In Progress,30,Mitigated
+INC01371,EVT01371,DDoS,Alice,Open,15,Escalated
+INC01372,EVT01372,Port Scan,Analyst-2,In Progress,5,Mitigated
+INC01373,EVT01373,DDoS,Alice,Closed,10,Escalated
+INC01374,EVT01374,Malware,David,Open,20,Escalated
+INC01375,EVT01375,Unauthorized Access,Charlie,In Progress,5,Escalated
+INC01376,EVT01376,Phishing,SOC Team,Closed,60,Escalated
+INC01377,EVT01377,SQL Injection,Alice,Open,60,Escalated
+INC01378,EVT01378,DDoS,Eve,Open,15,Blocked
+INC01379,EVT01379,SQL Injection,Charlie,In Progress,5,Escalated
+INC01380,EVT01380,Port Scan,Charlie,Closed,30,Escalated
+INC01381,EVT01381,Phishing,Charlie,Closed,5,Resolved
+INC01382,EVT01382,SQL Injection,Alice,Closed,15,Resolved
+INC01383,EVT01383,Unauthorized Access,SOC Team,Closed,60,Investigating
+INC01384,EVT01384,Phishing,Charlie,Closed,5,Mitigated
+INC01385,EVT01385,Port Scan,Analyst-1,Open,5,Escalated
+INC01386,EVT01386,DDoS,Bob,Open,60,Resolved
+INC01387,EVT01387,DDoS,Eve,Open,30,Investigating
+INC01388,EVT01388,Brute Force,Analyst-2,Open,60,Blocked
+INC01389,EVT01389,Ransomware,Analyst-2,Closed,5,Investigating
+INC01390,EVT01390,Ransomware,Eve,In Progress,30,Blocked
+INC01391,EVT01391,Malware,Analyst-1,In Progress,45,Escalated
+INC01392,EVT01392,Port Scan,Eve,In Progress,30,Resolved
+INC01393,EVT01393,DDoS,SOC Team,Open,5,Resolved
+INC01394,EVT01394,Ransomware,Eve,Closed,5,Mitigated
+INC01395,EVT01395,SQL Injection,Charlie,Open,30,Investigating
+INC01396,EVT01396,Malware,Bob,Open,5,Mitigated
+INC01397,EVT01397,Phishing,Bob,Closed,15,Escalated
+INC01398,EVT01398,Port Scan,SOC Team,Closed,15,Mitigated
+INC01399,EVT01399,Port Scan,Bob,Closed,45,Escalated
+INC01400,EVT01400,Port Scan,SOC Team,In Progress,20,Resolved
+INC01401,EVT01401,Unauthorized Access,Eve,Open,45,Resolved
+INC01402,EVT01402,Brute Force,Bob,In Progress,30,Escalated
+INC01403,EVT01403,SQL Injection,Bob,Closed,20,Escalated
+INC01404,EVT01404,DDoS,Alice,Closed,45,Mitigated
+INC01405,EVT01405,Ransomware,Alice,In Progress,20,Investigating
+INC01406,EVT01406,DDoS,Analyst-2,Open,30,Escalated
+INC01407,EVT01407,Port Scan,Bob,Open,45,Investigating
+INC01408,EVT01408,Port Scan,Alice,In Progress,30,Resolved
+INC01409,EVT01409,Malware,David,In Progress,15,Blocked
+INC01410,EVT01410,Brute Force,David,In Progress,20,Mitigated
+INC01411,EVT01411,Malware,Eve,Open,5,Investigating
+INC01412,EVT01412,SQL Injection,Analyst-1,Open,5,Blocked
+INC01413,EVT01413,Port Scan,David,Open,30,Escalated
+INC01414,EVT01414,Phishing,Analyst-1,Closed,30,Investigating
+INC01415,EVT01415,Malware,SOC Team,Open,10,Resolved
+INC01416,EVT01416,Malware,Analyst-2,Open,45,Investigating
+INC01417,EVT01417,Phishing,SOC Team,In Progress,20,Mitigated
+INC01418,EVT01418,DDoS,Analyst-1,Open,20,Escalated
+INC01419,EVT01419,SQL Injection,Analyst-1,In Progress,30,Resolved
+INC01420,EVT01420,Port Scan,Analyst-2,Open,15,Blocked
+INC01421,EVT01421,Phishing,Bob,Closed,60,Escalated
+INC01422,EVT01422,DDoS,Analyst-2,In Progress,60,Mitigated
+INC01423,EVT01423,Malware,Analyst-2,Closed,5,Resolved
+INC01424,EVT01424,Ransomware,David,Open,5,Investigating
+INC01425,EVT01425,Unauthorized Access,Analyst-2,In Progress,45,Escalated
+INC01426,EVT01426,Ransomware,Bob,Closed,10,Mitigated
+INC01427,EVT01427,Phishing,Charlie,In Progress,30,Investigating
+INC01428,EVT01428,Port Scan,Charlie,Closed,45,Mitigated
+INC01429,EVT01429,SQL Injection,Analyst-2,Closed,60,Mitigated
+INC01430,EVT01430,Brute Force,Analyst-1,In Progress,60,Escalated
+INC01431,EVT01431,Phishing,SOC Team,Closed,15,Investigating
+INC01432,EVT01432,Brute Force,Eve,Open,30,Escalated
+INC01433,EVT01433,SQL Injection,Analyst-2,Open,5,Investigating
+INC01434,EVT01434,SQL Injection,Alice,Closed,15,Blocked
+INC01435,EVT01435,Port Scan,David,Closed,30,Resolved
+INC01436,EVT01436,Port Scan,Analyst-1,In Progress,30,Escalated
+INC01437,EVT01437,Ransomware,Alice,Open,10,Mitigated
+INC01438,EVT01438,Unauthorized Access,Alice,Closed,45,Resolved
+INC01439,EVT01439,Phishing,Alice,In Progress,45,Resolved
+INC01440,EVT01440,Phishing,Analyst-2,In Progress,60,Escalated
+INC01441,EVT01441,DDoS,Alice,In Progress,20,Investigating
+INC01442,EVT01442,Malware,David,Closed,60,Blocked
+INC01443,EVT01443,Port Scan,Alice,In Progress,45,Investigating
+INC01444,EVT01444,Brute Force,Eve,In Progress,30,Mitigated
+INC01445,EVT01445,DDoS,SOC Team,Closed,30,Resolved
+INC01446,EVT01446,SQL Injection,Charlie,Open,5,Mitigated
+INC01447,EVT01447,Malware,Alice,Closed,30,Investigating
+INC01448,EVT01448,Brute Force,Alice,In Progress,45,Mitigated
+INC01449,EVT01449,SQL Injection,Charlie,In Progress,30,Blocked
+INC01450,EVT01450,DDoS,SOC Team,Open,30,Blocked
+INC01451,EVT01451,Malware,Alice,Closed,15,Blocked
+INC01452,EVT01452,Malware,David,In Progress,60,Investigating
+INC01453,EVT01453,Phishing,Charlie,Open,45,Escalated
+INC01454,EVT01454,Malware,Eve,Closed,45,Blocked
+INC01455,EVT01455,DDoS,Eve,Closed,30,Resolved
+INC01456,EVT01456,Brute Force,Analyst-2,In Progress,60,Resolved
+INC01457,EVT01457,SQL Injection,Bob,Open,15,Blocked
+INC01458,EVT01458,Brute Force,David,Closed,5,Blocked
+INC01459,EVT01459,Unauthorized Access,Analyst-2,Closed,20,Mitigated
+INC01460,EVT01460,Ransomware,Analyst-2,In Progress,10,Investigating
+INC01461,EVT01461,Port Scan,SOC Team,Open,10,Resolved
+INC01462,EVT01462,Ransomware,Eve,Open,20,Investigating
+INC01463,EVT01463,DDoS,Bob,Open,10,Mitigated
+INC01464,EVT01464,Phishing,Alice,Open,10,Escalated
+INC01465,EVT01465,Malware,SOC Team,In Progress,5,Resolved
+INC01466,EVT01466,Port Scan,Alice,In Progress,20,Resolved
+INC01467,EVT01467,Brute Force,Alice,In Progress,45,Investigating
+INC01468,EVT01468,Malware,Analyst-2,In Progress,10,Mitigated
+INC01469,EVT01469,Port Scan,Alice,Closed,30,Blocked
+INC01470,EVT01470,Port Scan,Alice,Open,30,Investigating
+INC01471,EVT01471,Port Scan,David,Closed,5,Blocked
+INC01472,EVT01472,SQL Injection,SOC Team,Closed,5,Blocked
+INC01473,EVT01473,SQL Injection,Eve,Closed,5,Resolved
+INC01474,EVT01474,Ransomware,Analyst-2,In Progress,10,Escalated
+INC01475,EVT01475,Malware,SOC Team,In Progress,20,Mitigated
+INC01476,EVT01476,Malware,Charlie,Open,60,Escalated
+INC01477,EVT01477,Malware,David,In Progress,20,Investigating
+INC01478,EVT01478,Unauthorized Access,SOC Team,Open,20,Investigating
+INC01479,EVT01479,Phishing,Charlie,Closed,20,Escalated
+INC01480,EVT01480,Ransomware,SOC Team,Closed,45,Escalated
+INC01481,EVT01481,Brute Force,Alice,Closed,30,Investigating
+INC01482,EVT01482,Unauthorized Access,Analyst-2,In Progress,45,Blocked
+INC01483,EVT01483,Ransomware,Alice,Open,20,Mitigated
+INC01484,EVT01484,Phishing,SOC Team,Open,10,Escalated
+INC01485,EVT01485,Unauthorized Access,Bob,Open,30,Resolved
+INC01486,EVT01486,SQL Injection,David,Closed,5,Investigating
+INC01487,EVT01487,Malware,David,Open,30,Mitigated
+INC01488,EVT01488,DDoS,SOC Team,Closed,45,Mitigated
+INC01489,EVT01489,Port Scan,Eve,Closed,45,Mitigated
+INC01490,EVT01490,DDoS,Analyst-1,Open,60,Escalated
+INC01491,EVT01491,Ransomware,Analyst-1,Open,15,Resolved
+INC01492,EVT01492,Ransomware,Eve,Closed,30,Blocked
+INC01493,EVT01493,Malware,Eve,Closed,15,Blocked
+INC01494,EVT01494,Unauthorized Access,Eve,Closed,5,Blocked
+INC01495,EVT01495,SQL Injection,Bob,Closed,45,Blocked
+INC01496,EVT01496,Brute Force,Analyst-1,Closed,45,Mitigated
+INC01497,EVT01497,SQL Injection,Analyst-1,In Progress,60,Resolved
+INC01498,EVT01498,Phishing,Alice,Closed,15,Resolved
+INC01499,EVT01499,Unauthorized Access,Alice,Closed,30,Resolved
+INC01500,EVT01500,SQL Injection,SOC Team,Open,5,Escalated
+INC01501,EVT01501,SQL Injection,David,Open,20,Escalated
+INC01502,EVT01502,SQL Injection,Analyst-1,Closed,10,Resolved
+INC01503,EVT01503,Port Scan,Eve,Open,30,Investigating
+INC01504,EVT01504,DDoS,Analyst-1,In Progress,10,Mitigated
+INC01505,EVT01505,DDoS,David,In Progress,5,Escalated
+INC01506,EVT01506,SQL Injection,Eve,Closed,10,Resolved
+INC01507,EVT01507,DDoS,Alice,Closed,45,Blocked
+INC01508,EVT01508,Port Scan,Alice,Closed,10,Mitigated
+INC01509,EVT01509,Brute Force,Analyst-2,In Progress,15,Escalated
+INC01510,EVT01510,Phishing,Eve,Open,20,Blocked
+INC01511,EVT01511,DDoS,Eve,In Progress,30,Resolved
+INC01512,EVT01512,Port Scan,SOC Team,Open,15,Escalated
+INC01513,EVT01513,Port Scan,Alice,In Progress,45,Investigating
+INC01514,EVT01514,DDoS,David,Open,10,Mitigated
+INC01515,EVT01515,DDoS,Charlie,Closed,45,Mitigated
+INC01516,EVT01516,Brute Force,Eve,Open,15,Resolved
+INC01517,EVT01517,DDoS,Bob,Open,5,Blocked
+INC01518,EVT01518,Port Scan,Analyst-2,In Progress,45,Blocked
+INC01519,EVT01519,Unauthorized Access,Bob,Open,30,Investigating
+INC01520,EVT01520,Port Scan,SOC Team,Open,30,Resolved
+INC01521,EVT01521,Phishing,Analyst-2,Open,60,Escalated
+INC01522,EVT01522,Brute Force,Alice,In Progress,30,Escalated
+INC01523,EVT01523,DDoS,Eve,Closed,45,Escalated
+INC01524,EVT01524,SQL Injection,David,In Progress,20,Investigating
+INC01525,EVT01525,DDoS,Bob,In Progress,45,Investigating
+INC01526,EVT01526,Malware,Bob,Closed,10,Blocked
+INC01527,EVT01527,Port Scan,Analyst-1,In Progress,15,Resolved
+INC01528,EVT01528,Brute Force,Eve,Open,30,Investigating
+INC01529,EVT01529,Brute Force,SOC Team,Closed,30,Escalated
+INC01530,EVT01530,Unauthorized Access,SOC Team,Closed,10,Mitigated
+INC01531,EVT01531,DDoS,David,Closed,20,Resolved
+INC01532,EVT01532,Ransomware,Eve,Closed,30,Mitigated
+INC01533,EVT01533,Phishing,Analyst-1,In Progress,60,Mitigated
+INC01534,EVT01534,DDoS,Bob,Open,45,Investigating
+INC01535,EVT01535,DDoS,Bob,Closed,5,Escalated
+INC01536,EVT01536,DDoS,David,In Progress,30,Escalated
+INC01537,EVT01537,Brute Force,Bob,Closed,60,Resolved
+INC01538,EVT01538,Ransomware,Analyst-2,Closed,5,Investigating
+INC01539,EVT01539,SQL Injection,Analyst-1,Closed,5,Investigating
+INC01540,EVT01540,Phishing,Analyst-1,Closed,15,Mitigated
+INC01541,EVT01541,SQL Injection,Alice,In Progress,45,Resolved
+INC01542,EVT01542,SQL Injection,Analyst-1,Open,10,Resolved
+INC01543,EVT01543,DDoS,Eve,Closed,60,Investigating
+INC01544,EVT01544,Malware,David,In Progress,15,Resolved
+INC01545,EVT01545,Ransomware,Charlie,Closed,45,Escalated
+INC01546,EVT01546,SQL Injection,SOC Team,Closed,60,Mitigated
+INC01547,EVT01547,Port Scan,Analyst-2,In Progress,15,Investigating
+INC01548,EVT01548,Brute Force,Bob,In Progress,5,Investigating
+INC01549,EVT01549,SQL Injection,David,In Progress,45,Investigating
+INC01550,EVT01550,Port Scan,Alice,Open,30,Blocked
+INC01551,EVT01551,Malware,Alice,Closed,30,Resolved
+INC01552,EVT01552,Port Scan,Charlie,Closed,10,Resolved
+INC01553,EVT01553,Brute Force,Charlie,Open,15,Escalated
+INC01554,EVT01554,Port Scan,Charlie,Closed,20,Escalated
+INC01555,EVT01555,Brute Force,SOC Team,Open,60,Investigating
+INC01556,EVT01556,Ransomware,Charlie,Closed,5,Investigating
+INC01557,EVT01557,Phishing,Analyst-2,Closed,15,Investigating
+INC01558,EVT01558,DDoS,Analyst-2,In Progress,20,Escalated
+INC01559,EVT01559,DDoS,Bob,Closed,10,Escalated
+INC01560,EVT01560,Malware,SOC Team,Closed,30,Escalated
+INC01561,EVT01561,Malware,Eve,In Progress,30,Resolved
+INC01562,EVT01562,Ransomware,Bob,In Progress,30,Blocked
+INC01563,EVT01563,Malware,Alice,Closed,20,Investigating
+INC01564,EVT01564,Port Scan,Eve,Closed,60,Investigating
+INC01565,EVT01565,Malware,Analyst-1,Open,30,Resolved
+INC01566,EVT01566,Phishing,Alice,In Progress,20,Mitigated
+INC01567,EVT01567,Unauthorized Access,SOC Team,Open,10,Blocked
+INC01568,EVT01568,Phishing,Charlie,Open,45,Blocked
+INC01569,EVT01569,Ransomware,SOC Team,In Progress,60,Mitigated
+INC01570,EVT01570,Malware,SOC Team,Open,60,Escalated
+INC01571,EVT01571,Brute Force,Analyst-1,Closed,10,Investigating
+INC01572,EVT01572,DDoS,David,Open,10,Resolved
+INC01573,EVT01573,Phishing,Bob,In Progress,10,Investigating
+INC01574,EVT01574,Ransomware,Analyst-2,Open,60,Escalated
+INC01575,EVT01575,Phishing,Eve,Closed,10,Blocked
+INC01576,EVT01576,Phishing,Alice,In Progress,5,Resolved
+INC01577,EVT01577,Brute Force,Eve,Open,60,Escalated
+INC01578,EVT01578,Ransomware,David,In Progress,30,Blocked
+INC01579,EVT01579,Phishing,SOC Team,Closed,20,Resolved
+INC01580,EVT01580,Unauthorized Access,Charlie,Open,10,Resolved
+INC01581,EVT01581,SQL Injection,Charlie,In Progress,45,Mitigated
+INC01582,EVT01582,Malware,Charlie,Open,20,Escalated
+INC01583,EVT01583,Port Scan,Eve,Open,60,Resolved
+INC01584,EVT01584,Unauthorized Access,SOC Team,In Progress,10,Blocked
+INC01585,EVT01585,SQL Injection,Bob,In Progress,30,Escalated
+INC01586,EVT01586,Phishing,Eve,Open,60,Investigating
+INC01587,EVT01587,Phishing,David,Open,15,Resolved
+INC01588,EVT01588,Malware,Analyst-1,In Progress,60,Resolved
+INC01589,EVT01589,Phishing,Analyst-1,Open,10,Resolved
+INC01590,EVT01590,Ransomware,Analyst-2,Closed,15,Resolved
+INC01591,EVT01591,Unauthorized Access,Analyst-2,In Progress,10,Investigating
+INC01592,EVT01592,Brute Force,Eve,In Progress,5,Escalated
+INC01593,EVT01593,Brute Force,David,Closed,60,Blocked
+INC01594,EVT01594,Malware,Eve,In Progress,45,Investigating
+INC01595,EVT01595,Brute Force,Charlie,In Progress,20,Blocked
+INC01596,EVT01596,Ransomware,Alice,In Progress,15,Resolved
+INC01597,EVT01597,Phishing,Bob,Open,20,Mitigated
+INC01598,EVT01598,DDoS,David,Closed,30,Resolved
+INC01599,EVT01599,Ransomware,Bob,In Progress,20,Escalated
+INC01600,EVT01600,Brute Force,Eve,In Progress,30,Investigating
+INC01601,EVT01601,Phishing,Alice,Open,45,Resolved
+INC01602,EVT01602,SQL Injection,Eve,Open,15,Escalated
+INC01603,EVT01603,Phishing,SOC Team,Closed,5,Escalated
+INC01604,EVT01604,Malware,Analyst-2,Open,60,Mitigated
+INC01605,EVT01605,Unauthorized Access,SOC Team,In Progress,30,Investigating
+INC01606,EVT01606,Phishing,Analyst-1,In Progress,30,Escalated
+INC01607,EVT01607,Brute Force,David,Closed,20,Resolved
+INC01608,EVT01608,Brute Force,Alice,Closed,60,Mitigated
+INC01609,EVT01609,Malware,SOC Team,Closed,5,Investigating
+INC01610,EVT01610,Phishing,David,Open,5,Escalated
+INC01611,EVT01611,Malware,Analyst-1,In Progress,45,Escalated
+INC01612,EVT01612,Brute Force,SOC Team,Closed,30,Blocked
+INC01613,EVT01613,Ransomware,Charlie,Open,10,Blocked
+INC01614,EVT01614,DDoS,David,Closed,30,Mitigated
+INC01615,EVT01615,Ransomware,SOC Team,Open,60,Mitigated
+INC01616,EVT01616,Unauthorized Access,Analyst-1,Open,45,Escalated
+INC01617,EVT01617,Port Scan,Charlie,In Progress,30,Blocked
+INC01618,EVT01618,Brute Force,Bob,Closed,30,Blocked
+INC01619,EVT01619,Malware,Bob,Closed,60,Mitigated
+INC01620,EVT01620,Malware,David,In Progress,60,Investigating
+INC01621,EVT01621,Phishing,David,In Progress,60,Mitigated
+INC01622,EVT01622,Malware,Alice,Open,45,Mitigated
+INC01623,EVT01623,Ransomware,David,Open,60,Investigating
+INC01624,EVT01624,Unauthorized Access,Bob,In Progress,60,Escalated
+INC01625,EVT01625,Unauthorized Access,SOC Team,Closed,10,Investigating
+INC01626,EVT01626,Unauthorized Access,Analyst-2,Closed,60,Escalated
+INC01627,EVT01627,Port Scan,Analyst-2,In Progress,15,Resolved
+INC01628,EVT01628,DDoS,Bob,Open,30,Mitigated
+INC01629,EVT01629,SQL Injection,Analyst-1,Open,5,Investigating
+INC01630,EVT01630,Ransomware,Analyst-1,Open,30,Mitigated
+INC01631,EVT01631,SQL Injection,Bob,Open,60,Escalated
+INC01632,EVT01632,Ransomware,Alice,Closed,30,Blocked
+INC01633,EVT01633,Phishing,Analyst-2,In Progress,45,Mitigated
+INC01634,EVT01634,DDoS,David,Closed,30,Mitigated
+INC01635,EVT01635,Malware,SOC Team,Open,5,Investigating
+INC01636,EVT01636,Malware,Charlie,Closed,20,Blocked
+INC01637,EVT01637,Ransomware,Analyst-1,In Progress,20,Mitigated
+INC01638,EVT01638,Phishing,David,Open,45,Investigating
+INC01639,EVT01639,SQL Injection,Eve,Open,30,Resolved
+INC01640,EVT01640,Ransomware,Analyst-1,In Progress,10,Mitigated
+INC01641,EVT01641,Brute Force,Analyst-1,Open,20,Investigating
+INC01642,EVT01642,Malware,Analyst-1,Open,10,Mitigated
+INC01643,EVT01643,Port Scan,Bob,Closed,5,Blocked
+INC01644,EVT01644,SQL Injection,Analyst-1,In Progress,20,Investigating
+INC01645,EVT01645,Ransomware,SOC Team,In Progress,45,Mitigated
+INC01646,EVT01646,Port Scan,Charlie,Open,5,Mitigated
+INC01647,EVT01647,Port Scan,Charlie,In Progress,30,Resolved
+INC01648,EVT01648,DDoS,Eve,Open,5,Escalated
+INC01649,EVT01649,Brute Force,Analyst-1,Open,60,Resolved
+INC01650,EVT01650,Ransomware,Analyst-1,In Progress,5,Investigating
+INC01651,EVT01651,Phishing,Alice,Closed,30,Escalated
+INC01652,EVT01652,Unauthorized Access,Alice,Open,45,Mitigated
+INC01653,EVT01653,DDoS,David,Closed,20,Escalated
+INC01654,EVT01654,Phishing,Analyst-1,In Progress,45,Mitigated
+INC01655,EVT01655,Unauthorized Access,David,Closed,45,Mitigated
+INC01656,EVT01656,SQL Injection,SOC Team,Closed,20,Investigating
+INC01657,EVT01657,SQL Injection,Bob,Open,20,Mitigated
+INC01658,EVT01658,Ransomware,Analyst-1,In Progress,15,Mitigated
+INC01659,EVT01659,Port Scan,Analyst-1,Open,15,Mitigated
+INC01660,EVT01660,Ransomware,Charlie,Open,30,Investigating
+INC01661,EVT01661,DDoS,David,Closed,15,Blocked
+INC01662,EVT01662,Ransomware,SOC Team,In Progress,30,Escalated
+INC01663,EVT01663,Malware,SOC Team,Open,15,Resolved
+INC01664,EVT01664,Unauthorized Access,Bob,Open,15,Mitigated
+INC01665,EVT01665,Phishing,Bob,Open,10,Resolved
+INC01666,EVT01666,Brute Force,Analyst-2,In Progress,60,Escalated
+INC01667,EVT01667,Phishing,Analyst-2,Closed,20,Resolved
+INC01668,EVT01668,Brute Force,Analyst-2,Open,30,Resolved
+INC01669,EVT01669,Ransomware,Analyst-2,Open,15,Escalated
+INC01670,EVT01670,SQL Injection,Alice,In Progress,20,Investigating
+INC01671,EVT01671,Phishing,Alice,Closed,20,Mitigated
+INC01672,EVT01672,Phishing,David,Closed,5,Blocked
+INC01673,EVT01673,DDoS,Alice,Closed,5,Mitigated
+INC01674,EVT01674,SQL Injection,SOC Team,Closed,10,Investigating
+INC01675,EVT01675,Phishing,David,Open,10,Escalated
+INC01676,EVT01676,SQL Injection,Alice,Closed,30,Escalated
+INC01677,EVT01677,SQL Injection,Bob,Open,30,Resolved
+INC01678,EVT01678,Phishing,Alice,Open,45,Resolved
+INC01679,EVT01679,Phishing,Alice,Open,30,Mitigated
+INC01680,EVT01680,Unauthorized Access,Analyst-2,Open,45,Mitigated
+INC01681,EVT01681,Malware,David,Closed,60,Escalated
+INC01682,EVT01682,Brute Force,Charlie,In Progress,10,Investigating
+INC01683,EVT01683,Ransomware,SOC Team,In Progress,30,Escalated
+INC01684,EVT01684,Port Scan,Analyst-1,Closed,20,Resolved
+INC01685,EVT01685,Ransomware,Bob,In Progress,30,Resolved
+INC01686,EVT01686,Phishing,Bob,Open,10,Blocked
+INC01687,EVT01687,Malware,Eve,In Progress,15,Blocked
+INC01688,EVT01688,Ransomware,Analyst-1,Closed,15,Mitigated
+INC01689,EVT01689,Unauthorized Access,David,In Progress,15,Investigating
+INC01690,EVT01690,Port Scan,David,Closed,5,Escalated
+INC01691,EVT01691,DDoS,SOC Team,Closed,60,Resolved
+INC01692,EVT01692,Brute Force,SOC Team,In Progress,60,Resolved
+INC01693,EVT01693,SQL Injection,Charlie,Closed,30,Mitigated
+INC01694,EVT01694,Port Scan,Alice,Closed,10,Investigating
+INC01695,EVT01695,Unauthorized Access,SOC Team,Closed,20,Blocked
+INC01696,EVT01696,Port Scan,Bob,Open,5,Investigating
+INC01697,EVT01697,SQL Injection,Alice,Open,10,Investigating
+INC01698,EVT01698,SQL Injection,Alice,Open,10,Blocked
+INC01699,EVT01699,DDoS,Analyst-1,Closed,20,Mitigated
+INC01700,EVT01700,SQL Injection,David,In Progress,20,Escalated
+INC01701,EVT01701,Phishing,Bob,In Progress,45,Investigating
+INC01702,EVT01702,Phishing,David,Open,15,Resolved
+INC01703,EVT01703,Malware,Analyst-1,Closed,45,Blocked
+INC01704,EVT01704,Malware,David,Open,10,Blocked
+INC01705,EVT01705,Port Scan,Analyst-1,Closed,15,Investigating
+INC01706,EVT01706,DDoS,SOC Team,In Progress,20,Investigating
+INC01707,EVT01707,Unauthorized Access,Eve,Open,10,Investigating
+INC01708,EVT01708,SQL Injection,SOC Team,Closed,20,Resolved
+INC01709,EVT01709,Unauthorized Access,David,In Progress,5,Investigating
+INC01710,EVT01710,Phishing,Charlie,In Progress,10,Blocked
+INC01711,EVT01711,Malware,SOC Team,Open,45,Investigating
+INC01712,EVT01712,Ransomware,Alice,Closed,15,Investigating
+INC01713,EVT01713,Brute Force,Charlie,Open,15,Escalated
+INC01714,EVT01714,Brute Force,Charlie,In Progress,45,Blocked
+INC01715,EVT01715,Phishing,David,Closed,60,Escalated
+INC01716,EVT01716,Malware,Charlie,In Progress,60,Blocked
+INC01717,EVT01717,Unauthorized Access,Charlie,Open,10,Blocked
+INC01718,EVT01718,Unauthorized Access,Charlie,In Progress,45,Blocked
+INC01719,EVT01719,Malware,Alice,In Progress,15,Mitigated
+INC01720,EVT01720,SQL Injection,Analyst-1,Open,20,Resolved
+INC01721,EVT01721,SQL Injection,David,Open,30,Blocked
+INC01722,EVT01722,Ransomware,Analyst-2,Open,60,Escalated
+INC01723,EVT01723,SQL Injection,Eve,Open,10,Blocked
+INC01724,EVT01724,Brute Force,Alice,In Progress,45,Investigating
+INC01725,EVT01725,SQL Injection,Analyst-2,Closed,15,Resolved
+INC01726,EVT01726,Ransomware,SOC Team,In Progress,30,Mitigated
+INC01727,EVT01727,Port Scan,David,Closed,30,Resolved
+INC01728,EVT01728,Malware,SOC Team,In Progress,45,Escalated
+INC01729,EVT01729,Unauthorized Access,Analyst-2,Open,15,Blocked
+INC01730,EVT01730,SQL Injection,Analyst-2,Closed,45,Blocked
+INC01731,EVT01731,Ransomware,SOC Team,Closed,30,Investigating
+INC01732,EVT01732,Brute Force,Alice,Open,15,Resolved
+INC01733,EVT01733,DDoS,David,In Progress,60,Mitigated
+INC01734,EVT01734,DDoS,Charlie,In Progress,60,Investigating
+INC01735,EVT01735,Malware,David,In Progress,60,Mitigated
+INC01736,EVT01736,Malware,Alice,Open,45,Blocked
+INC01737,EVT01737,DDoS,Bob,Open,10,Investigating
+INC01738,EVT01738,Malware,Analyst-1,Open,10,Investigating
+INC01739,EVT01739,Malware,Analyst-2,Open,5,Mitigated
+INC01740,EVT01740,Port Scan,SOC Team,Open,15,Escalated
+INC01741,EVT01741,Brute Force,Alice,Closed,5,Blocked
+INC01742,EVT01742,SQL Injection,Analyst-2,In Progress,45,Blocked
+INC01743,EVT01743,Brute Force,Alice,Closed,15,Mitigated
+INC01744,EVT01744,Ransomware,Charlie,Open,15,Escalated
+INC01745,EVT01745,Phishing,SOC Team,Closed,10,Blocked
+INC01746,EVT01746,Port Scan,Bob,Closed,20,Escalated
+INC01747,EVT01747,Brute Force,Charlie,Closed,20,Escalated
+INC01748,EVT01748,Brute Force,Analyst-1,Closed,45,Resolved
+INC01749,EVT01749,Malware,Eve,Open,60,Mitigated
+INC01750,EVT01750,Port Scan,Analyst-1,Closed,5,Escalated
+INC01751,EVT01751,Malware,Bob,In Progress,20,Blocked
+INC01752,EVT01752,Port Scan,SOC Team,Closed,60,Investigating
+INC01753,EVT01753,Brute Force,Analyst-2,In Progress,15,Blocked
+INC01754,EVT01754,Port Scan,Analyst-1,In Progress,20,Blocked
+INC01755,EVT01755,Malware,SOC Team,Closed,15,Escalated
+INC01756,EVT01756,Port Scan,Analyst-1,Closed,15,Resolved
+INC01757,EVT01757,Phishing,Analyst-1,In Progress,15,Blocked
+INC01758,EVT01758,Malware,Eve,In Progress,30,Blocked
+INC01759,EVT01759,DDoS,Analyst-2,Closed,45,Mitigated
+INC01760,EVT01760,Brute Force,Eve,Closed,20,Investigating
+INC01761,EVT01761,Brute Force,SOC Team,Open,45,Blocked
+INC01762,EVT01762,Port Scan,Eve,In Progress,60,Resolved
+INC01763,EVT01763,SQL Injection,Analyst-2,In Progress,5,Mitigated
+INC01764,EVT01764,SQL Injection,Charlie,In Progress,30,Escalated
+INC01765,EVT01765,Unauthorized Access,David,Open,5,Investigating
+INC01766,EVT01766,Port Scan,David,In Progress,5,Mitigated
+INC01767,EVT01767,Unauthorized Access,Bob,Open,20,Mitigated
+INC01768,EVT01768,DDoS,Bob,In Progress,10,Investigating
+INC01769,EVT01769,Port Scan,Eve,In Progress,45,Blocked
+INC01770,EVT01770,Malware,SOC Team,In Progress,20,Escalated
+INC01771,EVT01771,Phishing,David,Open,30,Investigating
+INC01772,EVT01772,DDoS,Bob,Open,20,Mitigated
+INC01773,EVT01773,Ransomware,Eve,Closed,45,Blocked
+INC01774,EVT01774,Brute Force,Bob,Closed,30,Resolved
+INC01775,EVT01775,Port Scan,Bob,Open,45,Mitigated
+INC01776,EVT01776,Phishing,David,In Progress,60,Investigating
+INC01777,EVT01777,Port Scan,Alice,Open,45,Escalated
+INC01778,EVT01778,SQL Injection,Eve,Open,60,Resolved
+INC01779,EVT01779,Phishing,David,In Progress,30,Mitigated
+INC01780,EVT01780,Brute Force,SOC Team,Closed,5,Blocked
+INC01781,EVT01781,Unauthorized Access,Eve,Open,30,Blocked
+INC01782,EVT01782,Ransomware,SOC Team,In Progress,5,Blocked
+INC01783,EVT01783,SQL Injection,Eve,Closed,30,Resolved
+INC01784,EVT01784,Unauthorized Access,Alice,Closed,15,Resolved
+INC01785,EVT01785,SQL Injection,David,Open,5,Investigating
+INC01786,EVT01786,Unauthorized Access,Alice,Open,10,Blocked
+INC01787,EVT01787,Brute Force,SOC Team,In Progress,45,Resolved
+INC01788,EVT01788,Malware,SOC Team,Closed,60,Blocked
+INC01789,EVT01789,Port Scan,David,Open,10,Resolved
+INC01790,EVT01790,Brute Force,Charlie,Open,20,Blocked
+INC01791,EVT01791,SQL Injection,Analyst-1,In Progress,30,Mitigated
+INC01792,EVT01792,DDoS,SOC Team,In Progress,10,Escalated
+INC01793,EVT01793,Port Scan,Charlie,Open,10,Blocked
+INC01794,EVT01794,DDoS,Analyst-1,In Progress,30,Escalated
+INC01795,EVT01795,Phishing,Bob,Open,5,Investigating
+INC01796,EVT01796,Brute Force,Eve,In Progress,20,Blocked
+INC01797,EVT01797,DDoS,Bob,Open,5,Blocked
+INC01798,EVT01798,Malware,Bob,In Progress,45,Blocked
+INC01799,EVT01799,Phishing,Analyst-1,Closed,45,Escalated
+INC01800,EVT01800,Unauthorized Access,SOC Team,In Progress,60,Blocked
+INC01801,EVT01801,Brute Force,Eve,Open,15,Escalated
+INC01802,EVT01802,Unauthorized Access,Bob,In Progress,45,Blocked
+INC01803,EVT01803,Brute Force,Analyst-1,Closed,10,Investigating
+INC01804,EVT01804,DDoS,Charlie,Open,15,Mitigated
+INC01805,EVT01805,Port Scan,David,Open,10,Investigating
+INC01806,EVT01806,Malware,David,Open,5,Escalated
+INC01807,EVT01807,Malware,Eve,In Progress,20,Mitigated
+INC01808,EVT01808,DDoS,SOC Team,Open,30,Escalated
+INC01809,EVT01809,Ransomware,Analyst-1,In Progress,10,Investigating
+INC01810,EVT01810,Phishing,Alice,Open,60,Escalated
+INC01811,EVT01811,Brute Force,SOC Team,In Progress,5,Mitigated
+INC01812,EVT01812,DDoS,Charlie,Closed,5,Mitigated
+INC01813,EVT01813,Port Scan,Analyst-1,Open,30,Resolved
+INC01814,EVT01814,SQL Injection,Charlie,In Progress,60,Blocked
+INC01815,EVT01815,Unauthorized Access,Analyst-1,Open,20,Investigating
+INC01816,EVT01816,Unauthorized Access,Analyst-2,Closed,10,Blocked
+INC01817,EVT01817,Ransomware,Charlie,Open,15,Mitigated
+INC01818,EVT01818,Unauthorized Access,SOC Team,Open,30,Mitigated
+INC01819,EVT01819,Brute Force,Analyst-2,In Progress,45,Escalated
+INC01820,EVT01820,DDoS,Alice,Closed,20,Investigating
+INC01821,EVT01821,Brute Force,Alice,Open,20,Blocked
+INC01822,EVT01822,Port Scan,SOC Team,Open,5,Mitigated
+INC01823,EVT01823,DDoS,SOC Team,In Progress,45,Investigating
+INC01824,EVT01824,Malware,Alice,Closed,10,Escalated
+INC01825,EVT01825,Brute Force,David,In Progress,15,Resolved
+INC01826,EVT01826,Unauthorized Access,Charlie,In Progress,5,Mitigated
+INC01827,EVT01827,Phishing,Bob,Closed,20,Mitigated
+INC01828,EVT01828,Ransomware,Analyst-2,Closed,20,Investigating
+INC01829,EVT01829,Phishing,Analyst-1,Closed,30,Investigating
+INC01830,EVT01830,Malware,Analyst-2,Open,30,Blocked
+INC01831,EVT01831,Port Scan,David,Open,10,Blocked
+INC01832,EVT01832,Phishing,Eve,Open,45,Investigating
+INC01833,EVT01833,Malware,David,In Progress,20,Escalated
+INC01834,EVT01834,Phishing,Analyst-2,Closed,15,Mitigated
+INC01835,EVT01835,Ransomware,David,In Progress,10,Blocked
+INC01836,EVT01836,SQL Injection,Eve,Open,15,Mitigated
+INC01837,EVT01837,Unauthorized Access,Charlie,In Progress,10,Investigating
+INC01838,EVT01838,DDoS,David,Closed,10,Resolved
+INC01839,EVT01839,Unauthorized Access,David,Closed,30,Resolved
+INC01840,EVT01840,Phishing,Eve,In Progress,45,Blocked
+INC01841,EVT01841,Port Scan,Bob,Open,30,Mitigated
+INC01842,EVT01842,DDoS,Analyst-1,Open,20,Escalated
+INC01843,EVT01843,Ransomware,Bob,In Progress,60,Investigating
+INC01844,EVT01844,Port Scan,Alice,In Progress,15,Resolved
+INC01845,EVT01845,Ransomware,Analyst-1,Open,20,Mitigated
+INC01846,EVT01846,Phishing,Bob,Open,30,Mitigated
+INC01847,EVT01847,SQL Injection,David,In Progress,10,Mitigated
+INC01848,EVT01848,SQL Injection,Eve,Open,10,Investigating
+INC01849,EVT01849,Malware,Analyst-1,In Progress,30,Investigating
+INC01850,EVT01850,Phishing,Eve,Open,20,Mitigated
+INC01851,EVT01851,Ransomware,Charlie,Open,5,Investigating
+INC01852,EVT01852,Brute Force,Analyst-1,In Progress,20,Blocked
+INC01853,EVT01853,SQL Injection,Analyst-2,Open,10,Mitigated
+INC01854,EVT01854,Phishing,Charlie,Open,15,Blocked
+INC01855,EVT01855,SQL Injection,SOC Team,Closed,30,Escalated
+INC01856,EVT01856,Port Scan,Bob,Open,15,Resolved
+INC01857,EVT01857,Phishing,Analyst-1,Open,30,Blocked
+INC01858,EVT01858,Ransomware,Analyst-1,Closed,30,Resolved
+INC01859,EVT01859,Malware,SOC Team,Open,20,Resolved
+INC01860,EVT01860,Unauthorized Access,SOC Team,Open,5,Blocked
+INC01861,EVT01861,Brute Force,Bob,Open,20,Resolved
+INC01862,EVT01862,Unauthorized Access,SOC Team,In Progress,30,Resolved
+INC01863,EVT01863,Brute Force,Analyst-1,Open,30,Blocked
+INC01864,EVT01864,Port Scan,Charlie,Closed,5,Investigating
+INC01865,EVT01865,Port Scan,SOC Team,Closed,60,Escalated
+INC01866,EVT01866,Phishing,SOC Team,Open,15,Mitigated
+INC01867,EVT01867,Phishing,David,Open,30,Escalated
+INC01868,EVT01868,Brute Force,Bob,Closed,5,Resolved
+INC01869,EVT01869,Phishing,Bob,Closed,60,Resolved
+INC01870,EVT01870,Phishing,Bob,Open,20,Escalated
+INC01871,EVT01871,Ransomware,Alice,Closed,45,Blocked
+INC01872,EVT01872,Brute Force,Analyst-1,Closed,15,Resolved
+INC01873,EVT01873,Port Scan,Charlie,Closed,15,Resolved
+INC01874,EVT01874,Ransomware,SOC Team,Open,5,Mitigated
+INC01875,EVT01875,Brute Force,SOC Team,Open,30,Investigating
+INC01876,EVT01876,Malware,David,Open,15,Escalated
+INC01877,EVT01877,Unauthorized Access,Bob,In Progress,45,Mitigated
+INC01878,EVT01878,DDoS,Analyst-1,Open,10,Resolved
+INC01879,EVT01879,Malware,Bob,Open,30,Mitigated
+INC01880,EVT01880,Phishing,David,Closed,20,Escalated
+INC01881,EVT01881,Port Scan,Eve,In Progress,30,Escalated
+INC01882,EVT01882,Unauthorized Access,Charlie,In Progress,5,Investigating
+INC01883,EVT01883,Brute Force,Charlie,Open,20,Blocked
+INC01884,EVT01884,Port Scan,Analyst-1,In Progress,10,Investigating
+INC01885,EVT01885,Brute Force,David,Closed,15,Investigating
+INC01886,EVT01886,Ransomware,SOC Team,In Progress,60,Resolved
+INC01887,EVT01887,Phishing,SOC Team,Open,15,Blocked
+INC01888,EVT01888,SQL Injection,Bob,Closed,20,Resolved
+INC01889,EVT01889,Port Scan,Bob,Open,30,Resolved
+INC01890,EVT01890,Port Scan,Bob,Open,15,Investigating
+INC01891,EVT01891,DDoS,Alice,In Progress,20,Investigating
+INC01892,EVT01892,Port Scan,Analyst-2,Open,60,Investigating
+INC01893,EVT01893,Ransomware,David,In Progress,15,Resolved
+INC01894,EVT01894,SQL Injection,David,In Progress,5,Resolved
+INC01895,EVT01895,Port Scan,Analyst-2,Open,10,Investigating
+INC01896,EVT01896,Malware,Eve,Closed,5,Investigating
+INC01897,EVT01897,Phishing,Charlie,In Progress,15,Resolved
+INC01898,EVT01898,Port Scan,Eve,In Progress,15,Resolved
+INC01899,EVT01899,Malware,Charlie,In Progress,45,Escalated
+INC01900,EVT01900,Malware,Analyst-1,Open,30,Investigating
+INC01901,EVT01901,Ransomware,Analyst-1,Open,20,Mitigated
+INC01902,EVT01902,DDoS,David,Closed,60,Resolved
+INC01903,EVT01903,Brute Force,Eve,In Progress,45,Mitigated
+INC01904,EVT01904,SQL Injection,Analyst-1,Closed,30,Blocked
+INC01905,EVT01905,DDoS,SOC Team,Closed,5,Blocked
+INC01906,EVT01906,Malware,David,In Progress,20,Mitigated
+INC01907,EVT01907,Unauthorized Access,Bob,Closed,30,Mitigated
+INC01908,EVT01908,Malware,SOC Team,Open,10,Blocked
+INC01909,EVT01909,Phishing,SOC Team,In Progress,5,Investigating
+INC01910,EVT01910,Port Scan,Charlie,In Progress,5,Investigating
+INC01911,EVT01911,SQL Injection,Eve,Closed,10,Investigating
+INC01912,EVT01912,Port Scan,Alice,Closed,30,Resolved
+INC01913,EVT01913,Malware,Alice,Open,30,Resolved
+INC01914,EVT01914,Malware,Analyst-2,Open,45,Escalated
+INC01915,EVT01915,Brute Force,Bob,In Progress,15,Mitigated
+INC01916,EVT01916,Malware,Alice,Closed,15,Blocked
+INC01917,EVT01917,Malware,Alice,In Progress,45,Mitigated
+INC01918,EVT01918,DDoS,Alice,Open,45,Blocked
+INC01919,EVT01919,Malware,David,Open,20,Resolved
+INC01920,EVT01920,Port Scan,SOC Team,Open,5,Resolved
+INC01921,EVT01921,Malware,SOC Team,Open,20,Blocked
+INC01922,EVT01922,Unauthorized Access,Alice,Open,60,Resolved
+INC01923,EVT01923,Port Scan,SOC Team,Closed,5,Investigating
+INC01924,EVT01924,Port Scan,Alice,Open,45,Mitigated
+INC01925,EVT01925,SQL Injection,SOC Team,Closed,5,Mitigated
+INC01926,EVT01926,Brute Force,SOC Team,In Progress,30,Mitigated
+INC01927,EVT01927,Malware,Bob,Open,45,Mitigated
+INC01928,EVT01928,Port Scan,Analyst-1,Closed,20,Resolved
+INC01929,EVT01929,Phishing,Eve,Closed,20,Blocked
+INC01930,EVT01930,SQL Injection,Eve,In Progress,30,Escalated
+INC01931,EVT01931,DDoS,Charlie,Closed,10,Mitigated
+INC01932,EVT01932,Unauthorized Access,Bob,In Progress,30,Blocked
+INC01933,EVT01933,DDoS,Eve,Open,15,Mitigated
+INC01934,EVT01934,SQL Injection,Analyst-2,In Progress,10,Blocked
+INC01935,EVT01935,Phishing,Eve,Closed,15,Resolved
+INC01936,EVT01936,Unauthorized Access,David,In Progress,10,Escalated
+INC01937,EVT01937,SQL Injection,SOC Team,Closed,60,Escalated
+INC01938,EVT01938,Brute Force,Alice,Closed,5,Mitigated
+INC01939,EVT01939,Port Scan,David,Closed,45,Investigating
+INC01940,EVT01940,Phishing,Analyst-1,Closed,10,Mitigated
+INC01941,EVT01941,Ransomware,Bob,Open,45,Blocked
+INC01942,EVT01942,DDoS,Analyst-1,Closed,20,Escalated
+INC01943,EVT01943,Unauthorized Access,Bob,Open,30,Investigating
+INC01944,EVT01944,DDoS,David,In Progress,60,Mitigated
+INC01945,EVT01945,Unauthorized Access,Eve,Closed,60,Resolved
+INC01946,EVT01946,Malware,Charlie,Open,60,Resolved
+INC01947,EVT01947,Unauthorized Access,Charlie,In Progress,5,Blocked
+INC01948,EVT01948,Port Scan,Eve,In Progress,60,Resolved
+INC01949,EVT01949,Brute Force,Alice,Open,10,Blocked
+INC01950,EVT01950,Ransomware,SOC Team,Closed,5,Mitigated
+INC01951,EVT01951,Brute Force,Analyst-2,Closed,10,Escalated
+INC01952,EVT01952,SQL Injection,Alice,Closed,60,Blocked
+INC01953,EVT01953,DDoS,Bob,Open,30,Blocked
+INC01954,EVT01954,Phishing,Alice,In Progress,10,Investigating
+INC01955,EVT01955,Ransomware,Analyst-2,Closed,30,Blocked
+INC01956,EVT01956,Malware,SOC Team,Open,5,Investigating
+INC01957,EVT01957,SQL Injection,David,Closed,30,Resolved
+INC01958,EVT01958,Phishing,Bob,Closed,5,Escalated
+INC01959,EVT01959,Malware,Analyst-1,Closed,60,Escalated
+INC01960,EVT01960,Brute Force,Charlie,Open,15,Resolved
+INC01961,EVT01961,Malware,David,In Progress,30,Blocked
+INC01962,EVT01962,Brute Force,Analyst-1,Closed,15,Escalated
+INC01963,EVT01963,Malware,Alice,In Progress,30,Escalated
+INC01964,EVT01964,SQL Injection,Alice,Open,15,Blocked
+INC01965,EVT01965,Port Scan,Eve,Open,20,Resolved
+INC01966,EVT01966,Port Scan,Analyst-2,Open,60,Blocked
+INC01967,EVT01967,Brute Force,SOC Team,In Progress,5,Mitigated
+INC01968,EVT01968,Port Scan,Eve,Closed,10,Escalated
+INC01969,EVT01969,SQL Injection,David,Closed,20,Escalated
+INC01970,EVT01970,Brute Force,Bob,In Progress,60,Blocked
+INC01971,EVT01971,Unauthorized Access,Charlie,Open,15,Mitigated
+INC01972,EVT01972,SQL Injection,Charlie,Closed,5,Mitigated
+INC01973,EVT01973,Unauthorized Access,Analyst-2,In Progress,30,Resolved
+INC01974,EVT01974,DDoS,Alice,Open,15,Blocked
+INC01975,EVT01975,SQL Injection,Analyst-1,Open,60,Resolved
+INC01976,EVT01976,Ransomware,Bob,Open,30,Blocked
+INC01977,EVT01977,Ransomware,David,Closed,10,Resolved
+INC01978,EVT01978,Brute Force,SOC Team,Closed,45,Escalated
+INC01979,EVT01979,Phishing,Analyst-2,In Progress,45,Blocked
+INC01980,EVT01980,Ransomware,SOC Team,Closed,20,Investigating
+INC01981,EVT01981,DDoS,Charlie,In Progress,10,Blocked
+INC01982,EVT01982,Malware,Alice,In Progress,15,Resolved
+INC01983,EVT01983,Brute Force,SOC Team,Open,45,Mitigated
+INC01984,EVT01984,DDoS,Analyst-2,Open,30,Mitigated
+INC01985,EVT01985,DDoS,Alice,Closed,45,Mitigated
+INC01986,EVT01986,Unauthorized Access,Alice,In Progress,10,Investigating
+INC01987,EVT01987,Unauthorized Access,Analyst-1,In Progress,60,Blocked
+INC01988,EVT01988,Brute Force,Alice,Open,15,Mitigated
+INC01989,EVT01989,Phishing,Analyst-1,In Progress,45,Blocked
+INC01990,EVT01990,Unauthorized Access,Analyst-2,In Progress,20,Escalated
+INC01991,EVT01991,DDoS,SOC Team,Open,15,Mitigated
+INC01992,EVT01992,DDoS,Eve,Open,20,Blocked
+INC01993,EVT01993,Phishing,SOC Team,Open,60,Investigating
+INC01994,EVT01994,Ransomware,Alice,Closed,30,Resolved
+INC01995,EVT01995,Ransomware,Eve,In Progress,60,Escalated
+INC01996,EVT01996,SQL Injection,Alice,Open,30,Blocked
+INC01997,EVT01997,Unauthorized Access,Analyst-1,Open,20,Escalated
+INC01998,EVT01998,Ransomware,SOC Team,Open,10,Blocked
+INC01999,EVT01999,Malware,Charlie,In Progress,5,Mitigated
+INC02000,EVT02000,Brute Force,Analyst-1,Closed,45,Escalated

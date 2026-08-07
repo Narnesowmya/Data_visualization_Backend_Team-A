@@ -1,0 +1,2001 @@
+indicator,threat_type,confidence,mitre_id,technique_name,tactic
+192.168.1.7,Brute Force,65,T1110,Brute Force,Credential Access
+192.168.2.14,Ransomware,52,T1595,Active Scanning,Reconnaissance
+192.168.3.21,Ransomware,95,T1595,Active Scanning,Reconnaissance
+192.168.4.28,Malware,50,T1204,User Execution,Execution
+192.168.5.35,Phishing,98,T1566,Phishing,Initial Access
+192.168.6.42,Brute Force,88,T1110,Brute Force,Credential Access
+192.168.7.49,Ransomware,55,T1595,Active Scanning,Reconnaissance
+192.168.8.56,Ransomware,52,T1595,Active Scanning,Reconnaissance
+192.168.9.63,Brute Force,74,T1110,Brute Force,Credential Access
+192.168.10.70,Malware,63,T1204,User Execution,Execution
+192.168.11.77,Ransomware,60,T1595,Active Scanning,Reconnaissance
+192.168.12.84,Phishing,52,T1566,Phishing,Initial Access
+192.168.13.91,Malware,91,T1204,User Execution,Execution
+192.168.14.98,Malware,65,T1204,User Execution,Execution
+192.168.15.105,Ransomware,73,T1595,Active Scanning,Reconnaissance
+192.168.16.112,Ransomware,98,T1595,Active Scanning,Reconnaissance
+192.168.17.119,Malware,74,T1204,User Execution,Execution
+192.168.18.126,Ransomware,93,T1595,Active Scanning,Reconnaissance
+192.168.19.133,Phishing,77,T1566,Phishing,Initial Access
+192.168.20.140,Ransomware,90,T1595,Active Scanning,Reconnaissance
+192.168.21.147,Malware,84,T1204,User Execution,Execution
+192.168.22.154,Credential Dumping,73,T1595,Active Scanning,Reconnaissance
+192.168.23.161,Ransomware,96,T1595,Active Scanning,Reconnaissance
+192.168.24.168,Malware,66,T1204,User Execution,Execution
+192.168.25.175,Malware,75,T1204,User Execution,Execution
+192.168.26.182,Ransomware,65,T1595,Active Scanning,Reconnaissance
+192.168.27.189,Ransomware,50,T1595,Active Scanning,Reconnaissance
+192.168.28.196,Malware,71,T1204,User Execution,Execution
+192.168.29.203,Credential Dumping,96,T1595,Active Scanning,Reconnaissance
+192.168.30.210,Credential Dumping,56,T1595,Active Scanning,Reconnaissance
+192.168.31.217,Credential Dumping,96,T1595,Active Scanning,Reconnaissance
+192.168.32.224,Brute Force,56,T1110,Brute Force,Credential Access
+192.168.33.231,Malware,67,T1204,User Execution,Execution
+192.168.34.238,Credential Dumping,91,T1595,Active Scanning,Reconnaissance
+192.168.35.245,Malware,81,T1204,User Execution,Execution
+192.168.36.252,Brute Force,50,T1110,Brute Force,Credential Access
+192.168.37.4,Phishing,59,T1566,Phishing,Initial Access
+192.168.38.11,Ransomware,53,T1595,Active Scanning,Reconnaissance
+192.168.39.18,Brute Force,54,T1110,Brute Force,Credential Access
+192.168.40.25,Credential Dumping,87,T1595,Active Scanning,Reconnaissance
+192.168.41.32,Credential Dumping,63,T1595,Active Scanning,Reconnaissance
+192.168.42.39,Phishing,92,T1566,Phishing,Initial Access
+192.168.43.46,Brute Force,89,T1110,Brute Force,Credential Access
+192.168.44.53,Ransomware,58,T1595,Active Scanning,Reconnaissance
+192.168.45.60,Phishing,78,T1566,Phishing,Initial Access
+192.168.46.67,Ransomware,58,T1595,Active Scanning,Reconnaissance
+192.168.47.74,Ransomware,68,T1595,Active Scanning,Reconnaissance
+192.168.48.81,Malware,66,T1204,User Execution,Execution
+192.168.49.88,Phishing,71,T1566,Phishing,Initial Access
+192.168.50.95,Malware,85,T1204,User Execution,Execution
+192.168.51.102,Ransomware,87,T1595,Active Scanning,Reconnaissance
+192.168.52.109,Brute Force,100,T1110,Brute Force,Credential Access
+192.168.53.116,Malware,99,T1204,User Execution,Execution
+192.168.54.123,Ransomware,60,T1595,Active Scanning,Reconnaissance
+192.168.55.130,Malware,92,T1204,User Execution,Execution
+192.168.56.137,Malware,52,T1204,User Execution,Execution
+192.168.57.144,Phishing,64,T1566,Phishing,Initial Access
+192.168.58.151,Phishing,99,T1566,Phishing,Initial Access
+192.168.59.158,Ransomware,57,T1595,Active Scanning,Reconnaissance
+192.168.60.165,Brute Force,72,T1110,Brute Force,Credential Access
+192.168.61.172,Ransomware,86,T1595,Active Scanning,Reconnaissance
+192.168.62.179,Brute Force,77,T1110,Brute Force,Credential Access
+192.168.63.186,Ransomware,96,T1595,Active Scanning,Reconnaissance
+192.168.64.193,Phishing,85,T1566,Phishing,Initial Access
+192.168.65.200,Malware,85,T1204,User Execution,Execution
+192.168.66.207,Credential Dumping,78,T1595,Active Scanning,Reconnaissance
+192.168.67.214,Malware,82,T1204,User Execution,Execution
+192.168.68.221,Brute Force,64,T1110,Brute Force,Credential Access
+192.168.69.228,Malware,79,T1204,User Execution,Execution
+192.168.70.235,Credential Dumping,65,T1595,Active Scanning,Reconnaissance
+192.168.71.242,Brute Force,61,T1110,Brute Force,Credential Access
+192.168.72.249,Ransomware,79,T1595,Active Scanning,Reconnaissance
+192.168.73.1,Credential Dumping,60,T1595,Active Scanning,Reconnaissance
+192.168.74.8,Phishing,99,T1566,Phishing,Initial Access
+192.168.75.15,Phishing,95,T1566,Phishing,Initial Access
+192.168.76.22,Phishing,59,T1566,Phishing,Initial Access
+192.168.77.29,Malware,76,T1204,User Execution,Execution
+192.168.78.36,Brute Force,74,T1110,Brute Force,Credential Access
+192.168.79.43,Ransomware,50,T1595,Active Scanning,Reconnaissance
+192.168.80.50,Credential Dumping,64,T1595,Active Scanning,Reconnaissance
+192.168.81.57,Credential Dumping,96,T1595,Active Scanning,Reconnaissance
+192.168.82.64,Ransomware,87,T1595,Active Scanning,Reconnaissance
+192.168.83.71,Credential Dumping,61,T1595,Active Scanning,Reconnaissance
+192.168.84.78,Malware,71,T1204,User Execution,Execution
+192.168.85.85,Phishing,51,T1566,Phishing,Initial Access
+192.168.86.92,Malware,98,T1204,User Execution,Execution
+192.168.87.99,Brute Force,58,T1110,Brute Force,Credential Access
+192.168.88.106,Credential Dumping,60,T1595,Active Scanning,Reconnaissance
+192.168.89.113,Malware,87,T1204,User Execution,Execution
+192.168.90.120,Credential Dumping,87,T1595,Active Scanning,Reconnaissance
+192.168.91.127,Brute Force,100,T1110,Brute Force,Credential Access
+192.168.92.134,Ransomware,54,T1595,Active Scanning,Reconnaissance
+192.168.93.141,Credential Dumping,77,T1595,Active Scanning,Reconnaissance
+192.168.94.148,Malware,96,T1204,User Execution,Execution
+192.168.95.155,Ransomware,77,T1595,Active Scanning,Reconnaissance
+192.168.96.162,Malware,78,T1204,User Execution,Execution
+192.168.97.169,Phishing,70,T1566,Phishing,Initial Access
+192.168.98.176,Phishing,88,T1566,Phishing,Initial Access
+192.168.99.183,Ransomware,65,T1595,Active Scanning,Reconnaissance
+192.168.100.190,Credential Dumping,100,T1595,Active Scanning,Reconnaissance
+192.168.101.197,Credential Dumping,92,T1595,Active Scanning,Reconnaissance
+192.168.102.204,Credential Dumping,94,T1595,Active Scanning,Reconnaissance
+192.168.103.211,Malware,70,T1204,User Execution,Execution
+192.168.104.218,Malware,67,T1204,User Execution,Execution
+192.168.105.225,Brute Force,64,T1110,Brute Force,Credential Access
+192.168.106.232,Ransomware,52,T1595,Active Scanning,Reconnaissance
+192.168.107.239,Credential Dumping,86,T1595,Active Scanning,Reconnaissance
+192.168.108.246,Phishing,66,T1566,Phishing,Initial Access
+192.168.109.253,Credential Dumping,86,T1595,Active Scanning,Reconnaissance
+192.168.110.5,Malware,65,T1204,User Execution,Execution
+192.168.111.12,Ransomware,78,T1595,Active Scanning,Reconnaissance
+192.168.112.19,Phishing,98,T1566,Phishing,Initial Access
+192.168.113.26,Brute Force,61,T1110,Brute Force,Credential Access
+192.168.114.33,Credential Dumping,68,T1595,Active Scanning,Reconnaissance
+192.168.115.40,Credential Dumping,66,T1595,Active Scanning,Reconnaissance
+192.168.116.47,Credential Dumping,91,T1595,Active Scanning,Reconnaissance
+192.168.117.54,Brute Force,100,T1110,Brute Force,Credential Access
+192.168.118.61,Credential Dumping,94,T1595,Active Scanning,Reconnaissance
+192.168.119.68,Ransomware,55,T1595,Active Scanning,Reconnaissance
+192.168.120.75,Phishing,55,T1566,Phishing,Initial Access
+192.168.121.82,Phishing,80,T1566,Phishing,Initial Access
+192.168.122.89,Malware,55,T1204,User Execution,Execution
+192.168.123.96,Phishing,71,T1566,Phishing,Initial Access
+192.168.124.103,Credential Dumping,55,T1595,Active Scanning,Reconnaissance
+192.168.125.110,Credential Dumping,76,T1595,Active Scanning,Reconnaissance
+192.168.126.117,Ransomware,98,T1595,Active Scanning,Reconnaissance
+192.168.127.124,Phishing,57,T1566,Phishing,Initial Access
+192.168.128.131,Malware,85,T1204,User Execution,Execution
+192.168.129.138,Credential Dumping,81,T1595,Active Scanning,Reconnaissance
+192.168.130.145,Credential Dumping,65,T1595,Active Scanning,Reconnaissance
+192.168.131.152,Malware,67,T1204,User Execution,Execution
+192.168.132.159,Brute Force,87,T1110,Brute Force,Credential Access
+192.168.133.166,Malware,72,T1204,User Execution,Execution
+192.168.134.173,Credential Dumping,94,T1595,Active Scanning,Reconnaissance
+192.168.135.180,Credential Dumping,97,T1595,Active Scanning,Reconnaissance
+192.168.136.187,Credential Dumping,52,T1595,Active Scanning,Reconnaissance
+192.168.137.194,Brute Force,83,T1110,Brute Force,Credential Access
+192.168.138.201,Credential Dumping,80,T1595,Active Scanning,Reconnaissance
+192.168.139.208,Brute Force,70,T1110,Brute Force,Credential Access
+192.168.140.215,Ransomware,65,T1595,Active Scanning,Reconnaissance
+192.168.141.222,Malware,56,T1204,User Execution,Execution
+192.168.142.229,Credential Dumping,51,T1595,Active Scanning,Reconnaissance
+192.168.143.236,Phishing,77,T1566,Phishing,Initial Access
+192.168.144.243,Ransomware,61,T1595,Active Scanning,Reconnaissance
+192.168.145.250,Ransomware,87,T1595,Active Scanning,Reconnaissance
+192.168.146.2,Credential Dumping,79,T1595,Active Scanning,Reconnaissance
+192.168.147.9,Brute Force,87,T1110,Brute Force,Credential Access
+192.168.148.16,Phishing,62,T1566,Phishing,Initial Access
+192.168.149.23,Malware,86,T1204,User Execution,Execution
+192.168.150.30,Brute Force,50,T1110,Brute Force,Credential Access
+192.168.151.37,Ransomware,99,T1595,Active Scanning,Reconnaissance
+192.168.152.44,Malware,93,T1204,User Execution,Execution
+192.168.153.51,Brute Force,100,T1110,Brute Force,Credential Access
+192.168.154.58,Malware,70,T1204,User Execution,Execution
+192.168.155.65,Malware,60,T1204,User Execution,Execution
+192.168.156.72,Phishing,79,T1566,Phishing,Initial Access
+192.168.157.79,Credential Dumping,100,T1595,Active Scanning,Reconnaissance
+192.168.158.86,Credential Dumping,87,T1595,Active Scanning,Reconnaissance
+192.168.159.93,Brute Force,51,T1110,Brute Force,Credential Access
+192.168.160.100,Ransomware,90,T1595,Active Scanning,Reconnaissance
+192.168.161.107,Credential Dumping,52,T1595,Active Scanning,Reconnaissance
+192.168.162.114,Brute Force,84,T1110,Brute Force,Credential Access
+192.168.163.121,Ransomware,76,T1595,Active Scanning,Reconnaissance
+192.168.164.128,Ransomware,52,T1595,Active Scanning,Reconnaissance
+192.168.165.135,Credential Dumping,56,T1595,Active Scanning,Reconnaissance
+192.168.166.142,Brute Force,62,T1110,Brute Force,Credential Access
+192.168.167.149,Brute Force,53,T1110,Brute Force,Credential Access
+192.168.168.156,Ransomware,98,T1595,Active Scanning,Reconnaissance
+192.168.169.163,Malware,100,T1204,User Execution,Execution
+192.168.170.170,Malware,57,T1204,User Execution,Execution
+192.168.171.177,Brute Force,87,T1110,Brute Force,Credential Access
+192.168.172.184,Brute Force,83,T1110,Brute Force,Credential Access
+192.168.173.191,Credential Dumping,78,T1595,Active Scanning,Reconnaissance
+192.168.174.198,Ransomware,91,T1595,Active Scanning,Reconnaissance
+192.168.175.205,Credential Dumping,81,T1595,Active Scanning,Reconnaissance
+192.168.176.212,Brute Force,54,T1110,Brute Force,Credential Access
+192.168.177.219,Credential Dumping,82,T1595,Active Scanning,Reconnaissance
+192.168.178.226,Ransomware,78,T1595,Active Scanning,Reconnaissance
+192.168.179.233,Credential Dumping,70,T1595,Active Scanning,Reconnaissance
+192.168.180.240,Phishing,54,T1566,Phishing,Initial Access
+192.168.181.247,Credential Dumping,58,T1595,Active Scanning,Reconnaissance
+192.168.182.254,Brute Force,92,T1110,Brute Force,Credential Access
+192.168.183.6,Phishing,56,T1566,Phishing,Initial Access
+192.168.184.13,Credential Dumping,72,T1595,Active Scanning,Reconnaissance
+192.168.185.20,Ransomware,85,T1595,Active Scanning,Reconnaissance
+192.168.186.27,Ransomware,61,T1595,Active Scanning,Reconnaissance
+192.168.187.34,Phishing,61,T1566,Phishing,Initial Access
+192.168.188.41,Brute Force,55,T1110,Brute Force,Credential Access
+192.168.189.48,Credential Dumping,60,T1595,Active Scanning,Reconnaissance
+192.168.190.55,Ransomware,59,T1595,Active Scanning,Reconnaissance
+192.168.191.62,Brute Force,92,T1110,Brute Force,Credential Access
+192.168.192.69,Credential Dumping,98,T1595,Active Scanning,Reconnaissance
+192.168.193.76,Brute Force,83,T1110,Brute Force,Credential Access
+192.168.194.83,Credential Dumping,63,T1595,Active Scanning,Reconnaissance
+192.168.195.90,Phishing,57,T1566,Phishing,Initial Access
+192.168.196.97,Malware,84,T1204,User Execution,Execution
+192.168.197.104,Brute Force,77,T1110,Brute Force,Credential Access
+192.168.198.111,Phishing,95,T1566,Phishing,Initial Access
+192.168.199.118,Credential Dumping,60,T1595,Active Scanning,Reconnaissance
+192.168.200.125,Brute Force,65,T1110,Brute Force,Credential Access
+192.168.201.132,Credential Dumping,64,T1595,Active Scanning,Reconnaissance
+192.168.202.139,Ransomware,99,T1595,Active Scanning,Reconnaissance
+192.168.203.146,Malware,66,T1204,User Execution,Execution
+192.168.204.153,Brute Force,79,T1110,Brute Force,Credential Access
+192.168.205.160,Ransomware,59,T1595,Active Scanning,Reconnaissance
+192.168.206.167,Phishing,72,T1566,Phishing,Initial Access
+192.168.207.174,Credential Dumping,73,T1595,Active Scanning,Reconnaissance
+192.168.208.181,Ransomware,87,T1595,Active Scanning,Reconnaissance
+192.168.209.188,Credential Dumping,88,T1595,Active Scanning,Reconnaissance
+192.168.210.195,Credential Dumping,95,T1595,Active Scanning,Reconnaissance
+192.168.211.202,Brute Force,78,T1110,Brute Force,Credential Access
+192.168.212.209,Phishing,74,T1566,Phishing,Initial Access
+192.168.213.216,Phishing,56,T1566,Phishing,Initial Access
+192.168.214.223,Phishing,55,T1566,Phishing,Initial Access
+192.168.215.230,Phishing,88,T1566,Phishing,Initial Access
+192.168.216.237,Ransomware,58,T1595,Active Scanning,Reconnaissance
+192.168.217.244,Credential Dumping,73,T1595,Active Scanning,Reconnaissance
+192.168.218.251,Phishing,64,T1566,Phishing,Initial Access
+192.168.219.3,Brute Force,99,T1110,Brute Force,Credential Access
+192.168.220.10,Malware,94,T1204,User Execution,Execution
+192.168.221.17,Credential Dumping,73,T1595,Active Scanning,Reconnaissance
+192.168.222.24,Ransomware,64,T1595,Active Scanning,Reconnaissance
+192.168.223.31,Malware,79,T1204,User Execution,Execution
+192.168.224.38,Malware,66,T1204,User Execution,Execution
+192.168.225.45,Ransomware,68,T1595,Active Scanning,Reconnaissance
+192.168.226.52,Credential Dumping,55,T1595,Active Scanning,Reconnaissance
+192.168.227.59,Brute Force,75,T1110,Brute Force,Credential Access
+192.168.228.66,Brute Force,51,T1110,Brute Force,Credential Access
+192.168.229.73,Malware,68,T1204,User Execution,Execution
+192.168.230.80,Credential Dumping,55,T1595,Active Scanning,Reconnaissance
+192.168.231.87,Ransomware,99,T1595,Active Scanning,Reconnaissance
+192.168.232.94,Brute Force,90,T1110,Brute Force,Credential Access
+192.168.233.101,Credential Dumping,95,T1595,Active Scanning,Reconnaissance
+192.168.234.108,Ransomware,86,T1595,Active Scanning,Reconnaissance
+192.168.235.115,Ransomware,83,T1595,Active Scanning,Reconnaissance
+192.168.236.122,Credential Dumping,90,T1595,Active Scanning,Reconnaissance
+192.168.237.129,Brute Force,72,T1110,Brute Force,Credential Access
+192.168.238.136,Ransomware,52,T1595,Active Scanning,Reconnaissance
+192.168.239.143,Credential Dumping,58,T1595,Active Scanning,Reconnaissance
+192.168.240.150,Brute Force,52,T1110,Brute Force,Credential Access
+192.168.241.157,Phishing,66,T1566,Phishing,Initial Access
+192.168.242.164,Phishing,91,T1566,Phishing,Initial Access
+192.168.243.171,Credential Dumping,74,T1595,Active Scanning,Reconnaissance
+192.168.244.178,Credential Dumping,55,T1595,Active Scanning,Reconnaissance
+192.168.245.185,Ransomware,70,T1595,Active Scanning,Reconnaissance
+192.168.246.192,Phishing,60,T1566,Phishing,Initial Access
+192.168.247.199,Brute Force,67,T1110,Brute Force,Credential Access
+192.168.248.206,Brute Force,82,T1110,Brute Force,Credential Access
+192.168.249.213,Malware,58,T1204,User Execution,Execution
+192.168.250.220,Phishing,88,T1566,Phishing,Initial Access
+192.168.251.227,Phishing,86,T1566,Phishing,Initial Access
+192.168.252.234,Phishing,57,T1566,Phishing,Initial Access
+192.168.253.241,Ransomware,66,T1595,Active Scanning,Reconnaissance
+192.168.254.248,Ransomware,62,T1595,Active Scanning,Reconnaissance
+192.168.0.0,Credential Dumping,55,T1595,Active Scanning,Reconnaissance
+192.168.1.7,Phishing,69,T1566,Phishing,Initial Access
+192.168.2.14,Phishing,62,T1566,Phishing,Initial Access
+192.168.3.21,Brute Force,79,T1110,Brute Force,Credential Access
+192.168.4.28,Brute Force,95,T1110,Brute Force,Credential Access
+192.168.5.35,Credential Dumping,70,T1595,Active Scanning,Reconnaissance
+192.168.6.42,Ransomware,99,T1595,Active Scanning,Reconnaissance
+192.168.7.49,Malware,57,T1204,User Execution,Execution
+192.168.8.56,Malware,72,T1204,User Execution,Execution
+192.168.9.63,Phishing,58,T1566,Phishing,Initial Access
+192.168.10.70,Ransomware,60,T1595,Active Scanning,Reconnaissance
+192.168.11.77,Ransomware,55,T1595,Active Scanning,Reconnaissance
+192.168.12.84,Malware,81,T1204,User Execution,Execution
+192.168.13.91,Credential Dumping,69,T1595,Active Scanning,Reconnaissance
+192.168.14.98,Malware,80,T1204,User Execution,Execution
+192.168.15.105,Phishing,75,T1566,Phishing,Initial Access
+192.168.16.112,Phishing,57,T1566,Phishing,Initial Access
+192.168.17.119,Brute Force,74,T1110,Brute Force,Credential Access
+192.168.18.126,Phishing,98,T1566,Phishing,Initial Access
+192.168.19.133,Credential Dumping,51,T1595,Active Scanning,Reconnaissance
+192.168.20.140,Malware,53,T1204,User Execution,Execution
+192.168.21.147,Phishing,77,T1566,Phishing,Initial Access
+192.168.22.154,Credential Dumping,75,T1595,Active Scanning,Reconnaissance
+192.168.23.161,Phishing,74,T1566,Phishing,Initial Access
+192.168.24.168,Ransomware,56,T1595,Active Scanning,Reconnaissance
+192.168.25.175,Ransomware,62,T1595,Active Scanning,Reconnaissance
+192.168.26.182,Brute Force,95,T1110,Brute Force,Credential Access
+192.168.27.189,Malware,89,T1204,User Execution,Execution
+192.168.28.196,Ransomware,95,T1595,Active Scanning,Reconnaissance
+192.168.29.203,Phishing,76,T1566,Phishing,Initial Access
+192.168.30.210,Ransomware,91,T1595,Active Scanning,Reconnaissance
+192.168.31.217,Ransomware,83,T1595,Active Scanning,Reconnaissance
+192.168.32.224,Malware,86,T1204,User Execution,Execution
+192.168.33.231,Credential Dumping,59,T1595,Active Scanning,Reconnaissance
+192.168.34.238,Ransomware,95,T1595,Active Scanning,Reconnaissance
+192.168.35.245,Credential Dumping,61,T1595,Active Scanning,Reconnaissance
+192.168.36.252,Ransomware,89,T1595,Active Scanning,Reconnaissance
+192.168.37.4,Phishing,69,T1566,Phishing,Initial Access
+192.168.38.11,Phishing,85,T1566,Phishing,Initial Access
+192.168.39.18,Ransomware,72,T1595,Active Scanning,Reconnaissance
+192.168.40.25,Brute Force,91,T1110,Brute Force,Credential Access
+192.168.41.32,Malware,58,T1204,User Execution,Execution
+192.168.42.39,Malware,90,T1204,User Execution,Execution
+192.168.43.46,Phishing,93,T1566,Phishing,Initial Access
+192.168.44.53,Credential Dumping,91,T1595,Active Scanning,Reconnaissance
+192.168.45.60,Phishing,99,T1566,Phishing,Initial Access
+192.168.46.67,Ransomware,76,T1595,Active Scanning,Reconnaissance
+192.168.47.74,Credential Dumping,97,T1595,Active Scanning,Reconnaissance
+192.168.48.81,Phishing,68,T1566,Phishing,Initial Access
+192.168.49.88,Malware,62,T1204,User Execution,Execution
+192.168.50.95,Phishing,97,T1566,Phishing,Initial Access
+192.168.51.102,Malware,82,T1204,User Execution,Execution
+192.168.52.109,Malware,70,T1204,User Execution,Execution
+192.168.53.116,Malware,71,T1204,User Execution,Execution
+192.168.54.123,Phishing,53,T1566,Phishing,Initial Access
+192.168.55.130,Malware,94,T1204,User Execution,Execution
+192.168.56.137,Phishing,58,T1566,Phishing,Initial Access
+192.168.57.144,Credential Dumping,98,T1595,Active Scanning,Reconnaissance
+192.168.58.151,Ransomware,54,T1595,Active Scanning,Reconnaissance
+192.168.59.158,Ransomware,70,T1595,Active Scanning,Reconnaissance
+192.168.60.165,Ransomware,82,T1595,Active Scanning,Reconnaissance
+192.168.61.172,Malware,86,T1204,User Execution,Execution
+192.168.62.179,Brute Force,50,T1110,Brute Force,Credential Access
+192.168.63.186,Brute Force,94,T1110,Brute Force,Credential Access
+192.168.64.193,Brute Force,68,T1110,Brute Force,Credential Access
+192.168.65.200,Credential Dumping,78,T1595,Active Scanning,Reconnaissance
+192.168.66.207,Phishing,84,T1566,Phishing,Initial Access
+192.168.67.214,Brute Force,79,T1110,Brute Force,Credential Access
+192.168.68.221,Ransomware,65,T1595,Active Scanning,Reconnaissance
+192.168.69.228,Malware,92,T1204,User Execution,Execution
+192.168.70.235,Malware,56,T1204,User Execution,Execution
+192.168.71.242,Malware,78,T1204,User Execution,Execution
+192.168.72.249,Malware,96,T1204,User Execution,Execution
+192.168.73.1,Malware,92,T1204,User Execution,Execution
+192.168.74.8,Phishing,90,T1566,Phishing,Initial Access
+192.168.75.15,Brute Force,100,T1110,Brute Force,Credential Access
+192.168.76.22,Credential Dumping,74,T1595,Active Scanning,Reconnaissance
+192.168.77.29,Malware,95,T1204,User Execution,Execution
+192.168.78.36,Ransomware,85,T1595,Active Scanning,Reconnaissance
+192.168.79.43,Phishing,91,T1566,Phishing,Initial Access
+192.168.80.50,Brute Force,67,T1110,Brute Force,Credential Access
+192.168.81.57,Brute Force,80,T1110,Brute Force,Credential Access
+192.168.82.64,Phishing,62,T1566,Phishing,Initial Access
+192.168.83.71,Malware,65,T1204,User Execution,Execution
+192.168.84.78,Credential Dumping,69,T1595,Active Scanning,Reconnaissance
+192.168.85.85,Credential Dumping,98,T1595,Active Scanning,Reconnaissance
+192.168.86.92,Phishing,86,T1566,Phishing,Initial Access
+192.168.87.99,Phishing,59,T1566,Phishing,Initial Access
+192.168.88.106,Ransomware,85,T1595,Active Scanning,Reconnaissance
+192.168.89.113,Phishing,79,T1566,Phishing,Initial Access
+192.168.90.120,Malware,61,T1204,User Execution,Execution
+192.168.91.127,Ransomware,92,T1595,Active Scanning,Reconnaissance
+192.168.92.134,Malware,95,T1204,User Execution,Execution
+192.168.93.141,Phishing,92,T1566,Phishing,Initial Access
+192.168.94.148,Brute Force,84,T1110,Brute Force,Credential Access
+192.168.95.155,Malware,83,T1204,User Execution,Execution
+192.168.96.162,Phishing,55,T1566,Phishing,Initial Access
+192.168.97.169,Ransomware,69,T1595,Active Scanning,Reconnaissance
+192.168.98.176,Brute Force,74,T1110,Brute Force,Credential Access
+192.168.99.183,Brute Force,81,T1110,Brute Force,Credential Access
+192.168.100.190,Ransomware,64,T1595,Active Scanning,Reconnaissance
+192.168.101.197,Phishing,93,T1566,Phishing,Initial Access
+192.168.102.204,Malware,63,T1204,User Execution,Execution
+192.168.103.211,Brute Force,86,T1110,Brute Force,Credential Access
+192.168.104.218,Ransomware,98,T1595,Active Scanning,Reconnaissance
+192.168.105.225,Ransomware,56,T1595,Active Scanning,Reconnaissance
+192.168.106.232,Phishing,51,T1566,Phishing,Initial Access
+192.168.107.239,Credential Dumping,85,T1595,Active Scanning,Reconnaissance
+192.168.108.246,Brute Force,95,T1110,Brute Force,Credential Access
+192.168.109.253,Credential Dumping,70,T1595,Active Scanning,Reconnaissance
+192.168.110.5,Phishing,98,T1566,Phishing,Initial Access
+192.168.111.12,Malware,85,T1204,User Execution,Execution
+192.168.112.19,Brute Force,85,T1110,Brute Force,Credential Access
+192.168.113.26,Credential Dumping,76,T1595,Active Scanning,Reconnaissance
+192.168.114.33,Ransomware,60,T1595,Active Scanning,Reconnaissance
+192.168.115.40,Credential Dumping,60,T1595,Active Scanning,Reconnaissance
+192.168.116.47,Credential Dumping,66,T1595,Active Scanning,Reconnaissance
+192.168.117.54,Ransomware,56,T1595,Active Scanning,Reconnaissance
+192.168.118.61,Phishing,78,T1566,Phishing,Initial Access
+192.168.119.68,Phishing,80,T1566,Phishing,Initial Access
+192.168.120.75,Phishing,86,T1566,Phishing,Initial Access
+192.168.121.82,Credential Dumping,86,T1595,Active Scanning,Reconnaissance
+192.168.122.89,Ransomware,95,T1595,Active Scanning,Reconnaissance
+192.168.123.96,Brute Force,58,T1110,Brute Force,Credential Access
+192.168.124.103,Malware,54,T1204,User Execution,Execution
+192.168.125.110,Ransomware,84,T1595,Active Scanning,Reconnaissance
+192.168.126.117,Ransomware,99,T1595,Active Scanning,Reconnaissance
+192.168.127.124,Malware,98,T1204,User Execution,Execution
+192.168.128.131,Brute Force,66,T1110,Brute Force,Credential Access
+192.168.129.138,Credential Dumping,79,T1595,Active Scanning,Reconnaissance
+192.168.130.145,Phishing,56,T1566,Phishing,Initial Access
+192.168.131.152,Brute Force,69,T1110,Brute Force,Credential Access
+192.168.132.159,Ransomware,80,T1595,Active Scanning,Reconnaissance
+192.168.133.166,Phishing,52,T1566,Phishing,Initial Access
+192.168.134.173,Brute Force,83,T1110,Brute Force,Credential Access
+192.168.135.180,Ransomware,64,T1595,Active Scanning,Reconnaissance
+192.168.136.187,Credential Dumping,97,T1595,Active Scanning,Reconnaissance
+192.168.137.194,Ransomware,50,T1595,Active Scanning,Reconnaissance
+192.168.138.201,Brute Force,73,T1110,Brute Force,Credential Access
+192.168.139.208,Phishing,88,T1566,Phishing,Initial Access
+192.168.140.215,Phishing,89,T1566,Phishing,Initial Access
+192.168.141.222,Ransomware,70,T1595,Active Scanning,Reconnaissance
+192.168.142.229,Malware,82,T1204,User Execution,Execution
+192.168.143.236,Ransomware,61,T1595,Active Scanning,Reconnaissance
+192.168.144.243,Ransomware,68,T1595,Active Scanning,Reconnaissance
+192.168.145.250,Ransomware,50,T1595,Active Scanning,Reconnaissance
+192.168.146.2,Ransomware,93,T1595,Active Scanning,Reconnaissance
+192.168.147.9,Credential Dumping,86,T1595,Active Scanning,Reconnaissance
+192.168.148.16,Phishing,64,T1566,Phishing,Initial Access
+192.168.149.23,Ransomware,86,T1595,Active Scanning,Reconnaissance
+192.168.150.30,Ransomware,84,T1595,Active Scanning,Reconnaissance
+192.168.151.37,Malware,78,T1204,User Execution,Execution
+192.168.152.44,Credential Dumping,63,T1595,Active Scanning,Reconnaissance
+192.168.153.51,Ransomware,89,T1595,Active Scanning,Reconnaissance
+192.168.154.58,Brute Force,88,T1110,Brute Force,Credential Access
+192.168.155.65,Phishing,58,T1566,Phishing,Initial Access
+192.168.156.72,Malware,59,T1204,User Execution,Execution
+192.168.157.79,Credential Dumping,86,T1595,Active Scanning,Reconnaissance
+192.168.158.86,Credential Dumping,90,T1595,Active Scanning,Reconnaissance
+192.168.159.93,Phishing,70,T1566,Phishing,Initial Access
+192.168.160.100,Credential Dumping,100,T1595,Active Scanning,Reconnaissance
+192.168.161.107,Malware,70,T1204,User Execution,Execution
+192.168.162.114,Ransomware,93,T1595,Active Scanning,Reconnaissance
+192.168.163.121,Brute Force,78,T1110,Brute Force,Credential Access
+192.168.164.128,Malware,60,T1204,User Execution,Execution
+192.168.165.135,Phishing,92,T1566,Phishing,Initial Access
+192.168.166.142,Phishing,91,T1566,Phishing,Initial Access
+192.168.167.149,Malware,58,T1204,User Execution,Execution
+192.168.168.156,Brute Force,57,T1110,Brute Force,Credential Access
+192.168.169.163,Brute Force,55,T1110,Brute Force,Credential Access
+192.168.170.170,Phishing,58,T1566,Phishing,Initial Access
+192.168.171.177,Malware,89,T1204,User Execution,Execution
+192.168.172.184,Malware,89,T1204,User Execution,Execution
+192.168.173.191,Brute Force,98,T1110,Brute Force,Credential Access
+192.168.174.198,Phishing,100,T1566,Phishing,Initial Access
+192.168.175.205,Malware,92,T1204,User Execution,Execution
+192.168.176.212,Credential Dumping,100,T1595,Active Scanning,Reconnaissance
+192.168.177.219,Malware,83,T1204,User Execution,Execution
+192.168.178.226,Malware,73,T1204,User Execution,Execution
+192.168.179.233,Brute Force,50,T1110,Brute Force,Credential Access
+192.168.180.240,Credential Dumping,77,T1595,Active Scanning,Reconnaissance
+192.168.181.247,Phishing,55,T1566,Phishing,Initial Access
+192.168.182.254,Ransomware,87,T1595,Active Scanning,Reconnaissance
+192.168.183.6,Phishing,53,T1566,Phishing,Initial Access
+192.168.184.13,Brute Force,69,T1110,Brute Force,Credential Access
+192.168.185.20,Brute Force,94,T1110,Brute Force,Credential Access
+192.168.186.27,Ransomware,73,T1595,Active Scanning,Reconnaissance
+192.168.187.34,Brute Force,77,T1110,Brute Force,Credential Access
+192.168.188.41,Ransomware,79,T1595,Active Scanning,Reconnaissance
+192.168.189.48,Ransomware,60,T1595,Active Scanning,Reconnaissance
+192.168.190.55,Malware,50,T1204,User Execution,Execution
+192.168.191.62,Credential Dumping,52,T1595,Active Scanning,Reconnaissance
+192.168.192.69,Malware,76,T1204,User Execution,Execution
+192.168.193.76,Ransomware,82,T1595,Active Scanning,Reconnaissance
+192.168.194.83,Malware,54,T1204,User Execution,Execution
+192.168.195.90,Phishing,50,T1566,Phishing,Initial Access
+192.168.196.97,Ransomware,73,T1595,Active Scanning,Reconnaissance
+192.168.197.104,Ransomware,50,T1595,Active Scanning,Reconnaissance
+192.168.198.111,Brute Force,98,T1110,Brute Force,Credential Access
+192.168.199.118,Brute Force,76,T1110,Brute Force,Credential Access
+192.168.200.125,Phishing,64,T1566,Phishing,Initial Access
+192.168.201.132,Credential Dumping,82,T1595,Active Scanning,Reconnaissance
+192.168.202.139,Brute Force,92,T1110,Brute Force,Credential Access
+192.168.203.146,Phishing,70,T1566,Phishing,Initial Access
+192.168.204.153,Malware,59,T1204,User Execution,Execution
+192.168.205.160,Phishing,84,T1566,Phishing,Initial Access
+192.168.206.167,Credential Dumping,66,T1595,Active Scanning,Reconnaissance
+192.168.207.174,Ransomware,70,T1595,Active Scanning,Reconnaissance
+192.168.208.181,Phishing,93,T1566,Phishing,Initial Access
+192.168.209.188,Brute Force,85,T1110,Brute Force,Credential Access
+192.168.210.195,Credential Dumping,57,T1595,Active Scanning,Reconnaissance
+192.168.211.202,Malware,73,T1204,User Execution,Execution
+192.168.212.209,Ransomware,51,T1595,Active Scanning,Reconnaissance
+192.168.213.216,Malware,57,T1204,User Execution,Execution
+192.168.214.223,Malware,81,T1204,User Execution,Execution
+192.168.215.230,Malware,61,T1204,User Execution,Execution
+192.168.216.237,Brute Force,81,T1110,Brute Force,Credential Access
+192.168.217.244,Brute Force,74,T1110,Brute Force,Credential Access
+192.168.218.251,Ransomware,100,T1595,Active Scanning,Reconnaissance
+192.168.219.3,Phishing,67,T1566,Phishing,Initial Access
+192.168.220.10,Brute Force,80,T1110,Brute Force,Credential Access
+192.168.221.17,Malware,92,T1204,User Execution,Execution
+192.168.222.24,Malware,61,T1204,User Execution,Execution
+192.168.223.31,Phishing,86,T1566,Phishing,Initial Access
+192.168.224.38,Credential Dumping,81,T1595,Active Scanning,Reconnaissance
+192.168.225.45,Ransomware,83,T1595,Active Scanning,Reconnaissance
+192.168.226.52,Malware,70,T1204,User Execution,Execution
+192.168.227.59,Brute Force,73,T1110,Brute Force,Credential Access
+192.168.228.66,Ransomware,69,T1595,Active Scanning,Reconnaissance
+192.168.229.73,Credential Dumping,61,T1595,Active Scanning,Reconnaissance
+192.168.230.80,Malware,69,T1204,User Execution,Execution
+192.168.231.87,Malware,99,T1204,User Execution,Execution
+192.168.232.94,Ransomware,81,T1595,Active Scanning,Reconnaissance
+192.168.233.101,Malware,60,T1204,User Execution,Execution
+192.168.234.108,Phishing,66,T1566,Phishing,Initial Access
+192.168.235.115,Phishing,96,T1566,Phishing,Initial Access
+192.168.236.122,Credential Dumping,81,T1595,Active Scanning,Reconnaissance
+192.168.237.129,Brute Force,60,T1110,Brute Force,Credential Access
+192.168.238.136,Phishing,66,T1566,Phishing,Initial Access
+192.168.239.143,Credential Dumping,85,T1595,Active Scanning,Reconnaissance
+192.168.240.150,Brute Force,88,T1110,Brute Force,Credential Access
+192.168.241.157,Phishing,76,T1566,Phishing,Initial Access
+192.168.242.164,Phishing,56,T1566,Phishing,Initial Access
+192.168.243.171,Malware,50,T1204,User Execution,Execution
+192.168.244.178,Malware,63,T1204,User Execution,Execution
+192.168.245.185,Credential Dumping,100,T1595,Active Scanning,Reconnaissance
+192.168.246.192,Brute Force,73,T1110,Brute Force,Credential Access
+192.168.247.199,Brute Force,79,T1110,Brute Force,Credential Access
+192.168.248.206,Ransomware,98,T1595,Active Scanning,Reconnaissance
+192.168.249.213,Phishing,85,T1566,Phishing,Initial Access
+192.168.250.220,Ransomware,80,T1595,Active Scanning,Reconnaissance
+192.168.251.227,Ransomware,98,T1595,Active Scanning,Reconnaissance
+192.168.252.234,Malware,52,T1204,User Execution,Execution
+192.168.253.241,Malware,70,T1204,User Execution,Execution
+192.168.254.248,Brute Force,85,T1110,Brute Force,Credential Access
+192.168.0.0,Brute Force,76,T1110,Brute Force,Credential Access
+192.168.1.7,Brute Force,84,T1110,Brute Force,Credential Access
+192.168.2.14,Credential Dumping,52,T1595,Active Scanning,Reconnaissance
+192.168.3.21,Ransomware,75,T1595,Active Scanning,Reconnaissance
+192.168.4.28,Credential Dumping,51,T1595,Active Scanning,Reconnaissance
+192.168.5.35,Phishing,94,T1566,Phishing,Initial Access
+192.168.6.42,Malware,99,T1204,User Execution,Execution
+192.168.7.49,Ransomware,78,T1595,Active Scanning,Reconnaissance
+192.168.8.56,Credential Dumping,82,T1595,Active Scanning,Reconnaissance
+192.168.9.63,Malware,62,T1204,User Execution,Execution
+192.168.10.70,Brute Force,73,T1110,Brute Force,Credential Access
+192.168.11.77,Credential Dumping,93,T1595,Active Scanning,Reconnaissance
+192.168.12.84,Ransomware,80,T1595,Active Scanning,Reconnaissance
+192.168.13.91,Malware,68,T1204,User Execution,Execution
+192.168.14.98,Ransomware,91,T1595,Active Scanning,Reconnaissance
+192.168.15.105,Credential Dumping,80,T1595,Active Scanning,Reconnaissance
+192.168.16.112,Malware,95,T1204,User Execution,Execution
+192.168.17.119,Credential Dumping,66,T1595,Active Scanning,Reconnaissance
+192.168.18.126,Ransomware,82,T1595,Active Scanning,Reconnaissance
+192.168.19.133,Ransomware,93,T1595,Active Scanning,Reconnaissance
+192.168.20.140,Phishing,66,T1566,Phishing,Initial Access
+192.168.21.147,Malware,53,T1204,User Execution,Execution
+192.168.22.154,Malware,68,T1204,User Execution,Execution
+192.168.23.161,Credential Dumping,71,T1595,Active Scanning,Reconnaissance
+192.168.24.168,Phishing,92,T1566,Phishing,Initial Access
+192.168.25.175,Credential Dumping,96,T1595,Active Scanning,Reconnaissance
+192.168.26.182,Phishing,72,T1566,Phishing,Initial Access
+192.168.27.189,Credential Dumping,66,T1595,Active Scanning,Reconnaissance
+192.168.28.196,Credential Dumping,80,T1595,Active Scanning,Reconnaissance
+192.168.29.203,Ransomware,53,T1595,Active Scanning,Reconnaissance
+192.168.30.210,Phishing,59,T1566,Phishing,Initial Access
+192.168.31.217,Brute Force,90,T1110,Brute Force,Credential Access
+192.168.32.224,Brute Force,63,T1110,Brute Force,Credential Access
+192.168.33.231,Credential Dumping,89,T1595,Active Scanning,Reconnaissance
+192.168.34.238,Credential Dumping,50,T1595,Active Scanning,Reconnaissance
+192.168.35.245,Brute Force,51,T1110,Brute Force,Credential Access
+192.168.36.252,Malware,58,T1204,User Execution,Execution
+192.168.37.4,Malware,69,T1204,User Execution,Execution
+192.168.38.11,Credential Dumping,81,T1595,Active Scanning,Reconnaissance
+192.168.39.18,Credential Dumping,64,T1595,Active Scanning,Reconnaissance
+192.168.40.25,Brute Force,73,T1110,Brute Force,Credential Access
+192.168.41.32,Credential Dumping,88,T1595,Active Scanning,Reconnaissance
+192.168.42.39,Brute Force,78,T1110,Brute Force,Credential Access
+192.168.43.46,Credential Dumping,94,T1595,Active Scanning,Reconnaissance
+192.168.44.53,Credential Dumping,89,T1595,Active Scanning,Reconnaissance
+192.168.45.60,Brute Force,57,T1110,Brute Force,Credential Access
+192.168.46.67,Phishing,95,T1566,Phishing,Initial Access
+192.168.47.74,Ransomware,94,T1595,Active Scanning,Reconnaissance
+192.168.48.81,Brute Force,86,T1110,Brute Force,Credential Access
+192.168.49.88,Ransomware,66,T1595,Active Scanning,Reconnaissance
+192.168.50.95,Phishing,56,T1566,Phishing,Initial Access
+192.168.51.102,Phishing,97,T1566,Phishing,Initial Access
+192.168.52.109,Brute Force,71,T1110,Brute Force,Credential Access
+192.168.53.116,Brute Force,61,T1110,Brute Force,Credential Access
+192.168.54.123,Phishing,76,T1566,Phishing,Initial Access
+192.168.55.130,Brute Force,60,T1110,Brute Force,Credential Access
+192.168.56.137,Ransomware,89,T1595,Active Scanning,Reconnaissance
+192.168.57.144,Malware,57,T1204,User Execution,Execution
+192.168.58.151,Phishing,95,T1566,Phishing,Initial Access
+192.168.59.158,Phishing,92,T1566,Phishing,Initial Access
+192.168.60.165,Credential Dumping,50,T1595,Active Scanning,Reconnaissance
+192.168.61.172,Credential Dumping,98,T1595,Active Scanning,Reconnaissance
+192.168.62.179,Phishing,85,T1566,Phishing,Initial Access
+192.168.63.186,Brute Force,86,T1110,Brute Force,Credential Access
+192.168.64.193,Credential Dumping,81,T1595,Active Scanning,Reconnaissance
+192.168.65.200,Credential Dumping,85,T1595,Active Scanning,Reconnaissance
+192.168.66.207,Ransomware,91,T1595,Active Scanning,Reconnaissance
+192.168.67.214,Phishing,79,T1566,Phishing,Initial Access
+192.168.68.221,Phishing,56,T1566,Phishing,Initial Access
+192.168.69.228,Phishing,94,T1566,Phishing,Initial Access
+192.168.70.235,Credential Dumping,56,T1595,Active Scanning,Reconnaissance
+192.168.71.242,Brute Force,79,T1110,Brute Force,Credential Access
+192.168.72.249,Credential Dumping,99,T1595,Active Scanning,Reconnaissance
+192.168.73.1,Credential Dumping,85,T1595,Active Scanning,Reconnaissance
+192.168.74.8,Ransomware,96,T1595,Active Scanning,Reconnaissance
+192.168.75.15,Ransomware,88,T1595,Active Scanning,Reconnaissance
+192.168.76.22,Credential Dumping,78,T1595,Active Scanning,Reconnaissance
+192.168.77.29,Ransomware,62,T1595,Active Scanning,Reconnaissance
+192.168.78.36,Phishing,82,T1566,Phishing,Initial Access
+192.168.79.43,Brute Force,87,T1110,Brute Force,Credential Access
+192.168.80.50,Ransomware,50,T1595,Active Scanning,Reconnaissance
+192.168.81.57,Malware,62,T1204,User Execution,Execution
+192.168.82.64,Phishing,53,T1566,Phishing,Initial Access
+192.168.83.71,Ransomware,78,T1595,Active Scanning,Reconnaissance
+192.168.84.78,Ransomware,82,T1595,Active Scanning,Reconnaissance
+192.168.85.85,Credential Dumping,100,T1595,Active Scanning,Reconnaissance
+192.168.86.92,Brute Force,89,T1110,Brute Force,Credential Access
+192.168.87.99,Ransomware,68,T1595,Active Scanning,Reconnaissance
+192.168.88.106,Malware,74,T1204,User Execution,Execution
+192.168.89.113,Malware,50,T1204,User Execution,Execution
+192.168.90.120,Brute Force,88,T1110,Brute Force,Credential Access
+192.168.91.127,Credential Dumping,100,T1595,Active Scanning,Reconnaissance
+192.168.92.134,Malware,76,T1204,User Execution,Execution
+192.168.93.141,Phishing,92,T1566,Phishing,Initial Access
+192.168.94.148,Malware,57,T1204,User Execution,Execution
+192.168.95.155,Ransomware,93,T1595,Active Scanning,Reconnaissance
+192.168.96.162,Credential Dumping,51,T1595,Active Scanning,Reconnaissance
+192.168.97.169,Ransomware,52,T1595,Active Scanning,Reconnaissance
+192.168.98.176,Phishing,60,T1566,Phishing,Initial Access
+192.168.99.183,Malware,56,T1204,User Execution,Execution
+192.168.100.190,Brute Force,79,T1110,Brute Force,Credential Access
+192.168.101.197,Brute Force,100,T1110,Brute Force,Credential Access
+192.168.102.204,Phishing,78,T1566,Phishing,Initial Access
+192.168.103.211,Brute Force,84,T1110,Brute Force,Credential Access
+192.168.104.218,Ransomware,72,T1595,Active Scanning,Reconnaissance
+192.168.105.225,Ransomware,98,T1595,Active Scanning,Reconnaissance
+192.168.106.232,Credential Dumping,58,T1595,Active Scanning,Reconnaissance
+192.168.107.239,Malware,50,T1204,User Execution,Execution
+192.168.108.246,Brute Force,86,T1110,Brute Force,Credential Access
+192.168.109.253,Phishing,63,T1566,Phishing,Initial Access
+192.168.110.5,Malware,89,T1204,User Execution,Execution
+192.168.111.12,Ransomware,91,T1595,Active Scanning,Reconnaissance
+192.168.112.19,Phishing,96,T1566,Phishing,Initial Access
+192.168.113.26,Phishing,56,T1566,Phishing,Initial Access
+192.168.114.33,Phishing,71,T1566,Phishing,Initial Access
+192.168.115.40,Ransomware,77,T1595,Active Scanning,Reconnaissance
+192.168.116.47,Malware,73,T1204,User Execution,Execution
+192.168.117.54,Credential Dumping,72,T1595,Active Scanning,Reconnaissance
+192.168.118.61,Malware,58,T1204,User Execution,Execution
+192.168.119.68,Brute Force,87,T1110,Brute Force,Credential Access
+192.168.120.75,Brute Force,91,T1110,Brute Force,Credential Access
+192.168.121.82,Ransomware,79,T1595,Active Scanning,Reconnaissance
+192.168.122.89,Phishing,89,T1566,Phishing,Initial Access
+192.168.123.96,Credential Dumping,86,T1595,Active Scanning,Reconnaissance
+192.168.124.103,Credential Dumping,64,T1595,Active Scanning,Reconnaissance
+192.168.125.110,Phishing,92,T1566,Phishing,Initial Access
+192.168.126.117,Credential Dumping,52,T1595,Active Scanning,Reconnaissance
+192.168.127.124,Brute Force,87,T1110,Brute Force,Credential Access
+192.168.128.131,Credential Dumping,83,T1595,Active Scanning,Reconnaissance
+192.168.129.138,Ransomware,72,T1595,Active Scanning,Reconnaissance
+192.168.130.145,Ransomware,60,T1595,Active Scanning,Reconnaissance
+192.168.131.152,Malware,60,T1204,User Execution,Execution
+192.168.132.159,Malware,96,T1204,User Execution,Execution
+192.168.133.166,Credential Dumping,91,T1595,Active Scanning,Reconnaissance
+192.168.134.173,Malware,90,T1204,User Execution,Execution
+192.168.135.180,Brute Force,61,T1110,Brute Force,Credential Access
+192.168.136.187,Phishing,78,T1566,Phishing,Initial Access
+192.168.137.194,Malware,88,T1204,User Execution,Execution
+192.168.138.201,Ransomware,96,T1595,Active Scanning,Reconnaissance
+192.168.139.208,Ransomware,74,T1595,Active Scanning,Reconnaissance
+192.168.140.215,Malware,88,T1204,User Execution,Execution
+192.168.141.222,Ransomware,80,T1595,Active Scanning,Reconnaissance
+192.168.142.229,Credential Dumping,52,T1595,Active Scanning,Reconnaissance
+192.168.143.236,Credential Dumping,87,T1595,Active Scanning,Reconnaissance
+192.168.144.243,Credential Dumping,80,T1595,Active Scanning,Reconnaissance
+192.168.145.250,Phishing,62,T1566,Phishing,Initial Access
+192.168.146.2,Ransomware,74,T1595,Active Scanning,Reconnaissance
+192.168.147.9,Credential Dumping,59,T1595,Active Scanning,Reconnaissance
+192.168.148.16,Phishing,89,T1566,Phishing,Initial Access
+192.168.149.23,Malware,61,T1204,User Execution,Execution
+192.168.150.30,Phishing,99,T1566,Phishing,Initial Access
+192.168.151.37,Brute Force,100,T1110,Brute Force,Credential Access
+192.168.152.44,Malware,85,T1204,User Execution,Execution
+192.168.153.51,Malware,55,T1204,User Execution,Execution
+192.168.154.58,Brute Force,64,T1110,Brute Force,Credential Access
+192.168.155.65,Credential Dumping,95,T1595,Active Scanning,Reconnaissance
+192.168.156.72,Credential Dumping,62,T1595,Active Scanning,Reconnaissance
+192.168.157.79,Malware,89,T1204,User Execution,Execution
+192.168.158.86,Malware,55,T1204,User Execution,Execution
+192.168.159.93,Credential Dumping,83,T1595,Active Scanning,Reconnaissance
+192.168.160.100,Brute Force,72,T1110,Brute Force,Credential Access
+192.168.161.107,Credential Dumping,66,T1595,Active Scanning,Reconnaissance
+192.168.162.114,Ransomware,71,T1595,Active Scanning,Reconnaissance
+192.168.163.121,Ransomware,74,T1595,Active Scanning,Reconnaissance
+192.168.164.128,Phishing,87,T1566,Phishing,Initial Access
+192.168.165.135,Brute Force,93,T1110,Brute Force,Credential Access
+192.168.166.142,Credential Dumping,94,T1595,Active Scanning,Reconnaissance
+192.168.167.149,Credential Dumping,85,T1595,Active Scanning,Reconnaissance
+192.168.168.156,Malware,97,T1204,User Execution,Execution
+192.168.169.163,Credential Dumping,97,T1595,Active Scanning,Reconnaissance
+192.168.170.170,Malware,89,T1204,User Execution,Execution
+192.168.171.177,Brute Force,89,T1110,Brute Force,Credential Access
+192.168.172.184,Credential Dumping,81,T1595,Active Scanning,Reconnaissance
+192.168.173.191,Malware,64,T1204,User Execution,Execution
+192.168.174.198,Credential Dumping,75,T1595,Active Scanning,Reconnaissance
+192.168.175.205,Brute Force,94,T1110,Brute Force,Credential Access
+192.168.176.212,Credential Dumping,73,T1595,Active Scanning,Reconnaissance
+192.168.177.219,Ransomware,67,T1595,Active Scanning,Reconnaissance
+192.168.178.226,Phishing,77,T1566,Phishing,Initial Access
+192.168.179.233,Phishing,78,T1566,Phishing,Initial Access
+192.168.180.240,Brute Force,85,T1110,Brute Force,Credential Access
+192.168.181.247,Malware,50,T1204,User Execution,Execution
+192.168.182.254,Ransomware,69,T1595,Active Scanning,Reconnaissance
+192.168.183.6,Credential Dumping,53,T1595,Active Scanning,Reconnaissance
+192.168.184.13,Brute Force,66,T1110,Brute Force,Credential Access
+192.168.185.20,Phishing,57,T1566,Phishing,Initial Access
+192.168.186.27,Ransomware,72,T1595,Active Scanning,Reconnaissance
+192.168.187.34,Credential Dumping,89,T1595,Active Scanning,Reconnaissance
+192.168.188.41,Malware,90,T1204,User Execution,Execution
+192.168.189.48,Brute Force,64,T1110,Brute Force,Credential Access
+192.168.190.55,Phishing,78,T1566,Phishing,Initial Access
+192.168.191.62,Credential Dumping,51,T1595,Active Scanning,Reconnaissance
+192.168.192.69,Brute Force,75,T1110,Brute Force,Credential Access
+192.168.193.76,Ransomware,99,T1595,Active Scanning,Reconnaissance
+192.168.194.83,Brute Force,55,T1110,Brute Force,Credential Access
+192.168.195.90,Phishing,97,T1566,Phishing,Initial Access
+192.168.196.97,Malware,52,T1204,User Execution,Execution
+192.168.197.104,Credential Dumping,85,T1595,Active Scanning,Reconnaissance
+192.168.198.111,Ransomware,83,T1595,Active Scanning,Reconnaissance
+192.168.199.118,Phishing,55,T1566,Phishing,Initial Access
+192.168.200.125,Phishing,50,T1566,Phishing,Initial Access
+192.168.201.132,Phishing,84,T1566,Phishing,Initial Access
+192.168.202.139,Credential Dumping,99,T1595,Active Scanning,Reconnaissance
+192.168.203.146,Brute Force,76,T1110,Brute Force,Credential Access
+192.168.204.153,Malware,64,T1204,User Execution,Execution
+192.168.205.160,Ransomware,91,T1595,Active Scanning,Reconnaissance
+192.168.206.167,Credential Dumping,61,T1595,Active Scanning,Reconnaissance
+192.168.207.174,Ransomware,94,T1595,Active Scanning,Reconnaissance
+192.168.208.181,Brute Force,84,T1110,Brute Force,Credential Access
+192.168.209.188,Phishing,95,T1566,Phishing,Initial Access
+192.168.210.195,Brute Force,81,T1110,Brute Force,Credential Access
+192.168.211.202,Credential Dumping,94,T1595,Active Scanning,Reconnaissance
+192.168.212.209,Brute Force,54,T1110,Brute Force,Credential Access
+192.168.213.216,Phishing,57,T1566,Phishing,Initial Access
+192.168.214.223,Malware,79,T1204,User Execution,Execution
+192.168.215.230,Credential Dumping,70,T1595,Active Scanning,Reconnaissance
+192.168.216.237,Ransomware,80,T1595,Active Scanning,Reconnaissance
+192.168.217.244,Brute Force,65,T1110,Brute Force,Credential Access
+192.168.218.251,Malware,75,T1204,User Execution,Execution
+192.168.219.3,Ransomware,73,T1595,Active Scanning,Reconnaissance
+192.168.220.10,Brute Force,53,T1110,Brute Force,Credential Access
+192.168.221.17,Malware,70,T1204,User Execution,Execution
+192.168.222.24,Credential Dumping,94,T1595,Active Scanning,Reconnaissance
+192.168.223.31,Phishing,95,T1566,Phishing,Initial Access
+192.168.224.38,Malware,70,T1204,User Execution,Execution
+192.168.225.45,Brute Force,68,T1110,Brute Force,Credential Access
+192.168.226.52,Brute Force,51,T1110,Brute Force,Credential Access
+192.168.227.59,Phishing,62,T1566,Phishing,Initial Access
+192.168.228.66,Ransomware,76,T1595,Active Scanning,Reconnaissance
+192.168.229.73,Ransomware,58,T1595,Active Scanning,Reconnaissance
+192.168.230.80,Brute Force,56,T1110,Brute Force,Credential Access
+192.168.231.87,Credential Dumping,73,T1595,Active Scanning,Reconnaissance
+192.168.232.94,Brute Force,55,T1110,Brute Force,Credential Access
+192.168.233.101,Phishing,100,T1566,Phishing,Initial Access
+192.168.234.108,Ransomware,69,T1595,Active Scanning,Reconnaissance
+192.168.235.115,Brute Force,62,T1110,Brute Force,Credential Access
+192.168.236.122,Ransomware,97,T1595,Active Scanning,Reconnaissance
+192.168.237.129,Credential Dumping,60,T1595,Active Scanning,Reconnaissance
+192.168.238.136,Malware,70,T1204,User Execution,Execution
+192.168.239.143,Phishing,96,T1566,Phishing,Initial Access
+192.168.240.150,Credential Dumping,78,T1595,Active Scanning,Reconnaissance
+192.168.241.157,Brute Force,83,T1110,Brute Force,Credential Access
+192.168.242.164,Brute Force,63,T1110,Brute Force,Credential Access
+192.168.243.171,Ransomware,52,T1595,Active Scanning,Reconnaissance
+192.168.244.178,Phishing,64,T1566,Phishing,Initial Access
+192.168.245.185,Ransomware,96,T1595,Active Scanning,Reconnaissance
+192.168.246.192,Malware,88,T1204,User Execution,Execution
+192.168.247.199,Brute Force,72,T1110,Brute Force,Credential Access
+192.168.248.206,Malware,53,T1204,User Execution,Execution
+192.168.249.213,Ransomware,82,T1595,Active Scanning,Reconnaissance
+192.168.250.220,Credential Dumping,64,T1595,Active Scanning,Reconnaissance
+192.168.251.227,Malware,55,T1204,User Execution,Execution
+192.168.252.234,Ransomware,55,T1595,Active Scanning,Reconnaissance
+192.168.253.241,Malware,81,T1204,User Execution,Execution
+192.168.254.248,Ransomware,54,T1595,Active Scanning,Reconnaissance
+192.168.0.0,Ransomware,92,T1595,Active Scanning,Reconnaissance
+192.168.1.7,Malware,88,T1204,User Execution,Execution
+192.168.2.14,Malware,89,T1204,User Execution,Execution
+192.168.3.21,Malware,98,T1204,User Execution,Execution
+192.168.4.28,Brute Force,68,T1110,Brute Force,Credential Access
+192.168.5.35,Phishing,51,T1566,Phishing,Initial Access
+192.168.6.42,Malware,89,T1204,User Execution,Execution
+192.168.7.49,Credential Dumping,60,T1595,Active Scanning,Reconnaissance
+192.168.8.56,Brute Force,54,T1110,Brute Force,Credential Access
+192.168.9.63,Brute Force,91,T1110,Brute Force,Credential Access
+192.168.10.70,Ransomware,81,T1595,Active Scanning,Reconnaissance
+192.168.11.77,Malware,52,T1204,User Execution,Execution
+192.168.12.84,Phishing,97,T1566,Phishing,Initial Access
+192.168.13.91,Phishing,82,T1566,Phishing,Initial Access
+192.168.14.98,Credential Dumping,64,T1595,Active Scanning,Reconnaissance
+192.168.15.105,Malware,83,T1204,User Execution,Execution
+192.168.16.112,Credential Dumping,77,T1595,Active Scanning,Reconnaissance
+192.168.17.119,Credential Dumping,91,T1595,Active Scanning,Reconnaissance
+192.168.18.126,Malware,77,T1204,User Execution,Execution
+192.168.19.133,Phishing,61,T1566,Phishing,Initial Access
+192.168.20.140,Brute Force,76,T1110,Brute Force,Credential Access
+192.168.21.147,Malware,58,T1204,User Execution,Execution
+192.168.22.154,Ransomware,64,T1595,Active Scanning,Reconnaissance
+192.168.23.161,Credential Dumping,95,T1595,Active Scanning,Reconnaissance
+192.168.24.168,Credential Dumping,60,T1595,Active Scanning,Reconnaissance
+192.168.25.175,Brute Force,64,T1110,Brute Force,Credential Access
+192.168.26.182,Malware,78,T1204,User Execution,Execution
+192.168.27.189,Credential Dumping,75,T1595,Active Scanning,Reconnaissance
+192.168.28.196,Phishing,83,T1566,Phishing,Initial Access
+192.168.29.203,Malware,85,T1204,User Execution,Execution
+192.168.30.210,Malware,75,T1204,User Execution,Execution
+192.168.31.217,Credential Dumping,68,T1595,Active Scanning,Reconnaissance
+192.168.32.224,Credential Dumping,96,T1595,Active Scanning,Reconnaissance
+192.168.33.231,Credential Dumping,78,T1595,Active Scanning,Reconnaissance
+192.168.34.238,Credential Dumping,70,T1595,Active Scanning,Reconnaissance
+192.168.35.245,Brute Force,95,T1110,Brute Force,Credential Access
+192.168.36.252,Ransomware,74,T1595,Active Scanning,Reconnaissance
+192.168.37.4,Phishing,59,T1566,Phishing,Initial Access
+192.168.38.11,Credential Dumping,96,T1595,Active Scanning,Reconnaissance
+192.168.39.18,Brute Force,50,T1110,Brute Force,Credential Access
+192.168.40.25,Credential Dumping,84,T1595,Active Scanning,Reconnaissance
+192.168.41.32,Malware,79,T1204,User Execution,Execution
+192.168.42.39,Malware,53,T1204,User Execution,Execution
+192.168.43.46,Brute Force,92,T1110,Brute Force,Credential Access
+192.168.44.53,Phishing,56,T1566,Phishing,Initial Access
+192.168.45.60,Phishing,97,T1566,Phishing,Initial Access
+192.168.46.67,Brute Force,73,T1110,Brute Force,Credential Access
+192.168.47.74,Ransomware,80,T1595,Active Scanning,Reconnaissance
+192.168.48.81,Phishing,94,T1566,Phishing,Initial Access
+192.168.49.88,Ransomware,96,T1595,Active Scanning,Reconnaissance
+192.168.50.95,Credential Dumping,83,T1595,Active Scanning,Reconnaissance
+192.168.51.102,Malware,81,T1204,User Execution,Execution
+192.168.52.109,Phishing,57,T1566,Phishing,Initial Access
+192.168.53.116,Malware,52,T1204,User Execution,Execution
+192.168.54.123,Brute Force,66,T1110,Brute Force,Credential Access
+192.168.55.130,Brute Force,71,T1110,Brute Force,Credential Access
+192.168.56.137,Malware,71,T1204,User Execution,Execution
+192.168.57.144,Brute Force,59,T1110,Brute Force,Credential Access
+192.168.58.151,Credential Dumping,83,T1595,Active Scanning,Reconnaissance
+192.168.59.158,Ransomware,86,T1595,Active Scanning,Reconnaissance
+192.168.60.165,Brute Force,51,T1110,Brute Force,Credential Access
+192.168.61.172,Ransomware,88,T1595,Active Scanning,Reconnaissance
+192.168.62.179,Phishing,76,T1566,Phishing,Initial Access
+192.168.63.186,Phishing,63,T1566,Phishing,Initial Access
+192.168.64.193,Phishing,55,T1566,Phishing,Initial Access
+192.168.65.200,Ransomware,71,T1595,Active Scanning,Reconnaissance
+192.168.66.207,Phishing,83,T1566,Phishing,Initial Access
+192.168.67.214,Brute Force,95,T1110,Brute Force,Credential Access
+192.168.68.221,Brute Force,79,T1110,Brute Force,Credential Access
+192.168.69.228,Brute Force,70,T1110,Brute Force,Credential Access
+192.168.70.235,Ransomware,92,T1595,Active Scanning,Reconnaissance
+192.168.71.242,Phishing,89,T1566,Phishing,Initial Access
+192.168.72.249,Ransomware,67,T1595,Active Scanning,Reconnaissance
+192.168.73.1,Ransomware,54,T1595,Active Scanning,Reconnaissance
+192.168.74.8,Ransomware,58,T1595,Active Scanning,Reconnaissance
+192.168.75.15,Brute Force,55,T1110,Brute Force,Credential Access
+192.168.76.22,Ransomware,71,T1595,Active Scanning,Reconnaissance
+192.168.77.29,Credential Dumping,94,T1595,Active Scanning,Reconnaissance
+192.168.78.36,Credential Dumping,64,T1595,Active Scanning,Reconnaissance
+192.168.79.43,Phishing,94,T1566,Phishing,Initial Access
+192.168.80.50,Credential Dumping,54,T1595,Active Scanning,Reconnaissance
+192.168.81.57,Credential Dumping,99,T1595,Active Scanning,Reconnaissance
+192.168.82.64,Ransomware,95,T1595,Active Scanning,Reconnaissance
+192.168.83.71,Phishing,87,T1566,Phishing,Initial Access
+192.168.84.78,Ransomware,74,T1595,Active Scanning,Reconnaissance
+192.168.85.85,Credential Dumping,61,T1595,Active Scanning,Reconnaissance
+192.168.86.92,Brute Force,85,T1110,Brute Force,Credential Access
+192.168.87.99,Phishing,88,T1566,Phishing,Initial Access
+192.168.88.106,Phishing,55,T1566,Phishing,Initial Access
+192.168.89.113,Malware,84,T1204,User Execution,Execution
+192.168.90.120,Malware,69,T1204,User Execution,Execution
+192.168.91.127,Credential Dumping,87,T1595,Active Scanning,Reconnaissance
+192.168.92.134,Malware,73,T1204,User Execution,Execution
+192.168.93.141,Ransomware,68,T1595,Active Scanning,Reconnaissance
+192.168.94.148,Phishing,74,T1566,Phishing,Initial Access
+192.168.95.155,Credential Dumping,85,T1595,Active Scanning,Reconnaissance
+192.168.96.162,Credential Dumping,92,T1595,Active Scanning,Reconnaissance
+192.168.97.169,Brute Force,92,T1110,Brute Force,Credential Access
+192.168.98.176,Brute Force,79,T1110,Brute Force,Credential Access
+192.168.99.183,Ransomware,82,T1595,Active Scanning,Reconnaissance
+192.168.100.190,Credential Dumping,61,T1595,Active Scanning,Reconnaissance
+192.168.101.197,Malware,84,T1204,User Execution,Execution
+192.168.102.204,Ransomware,57,T1595,Active Scanning,Reconnaissance
+192.168.103.211,Malware,83,T1204,User Execution,Execution
+192.168.104.218,Malware,93,T1204,User Execution,Execution
+192.168.105.225,Ransomware,84,T1595,Active Scanning,Reconnaissance
+192.168.106.232,Ransomware,72,T1595,Active Scanning,Reconnaissance
+192.168.107.239,Ransomware,53,T1595,Active Scanning,Reconnaissance
+192.168.108.246,Ransomware,97,T1595,Active Scanning,Reconnaissance
+192.168.109.253,Brute Force,100,T1110,Brute Force,Credential Access
+192.168.110.5,Phishing,97,T1566,Phishing,Initial Access
+192.168.111.12,Credential Dumping,66,T1595,Active Scanning,Reconnaissance
+192.168.112.19,Ransomware,55,T1595,Active Scanning,Reconnaissance
+192.168.113.26,Credential Dumping,65,T1595,Active Scanning,Reconnaissance
+192.168.114.33,Malware,91,T1204,User Execution,Execution
+192.168.115.40,Brute Force,75,T1110,Brute Force,Credential Access
+192.168.116.47,Credential Dumping,66,T1595,Active Scanning,Reconnaissance
+192.168.117.54,Brute Force,74,T1110,Brute Force,Credential Access
+192.168.118.61,Brute Force,89,T1110,Brute Force,Credential Access
+192.168.119.68,Phishing,66,T1566,Phishing,Initial Access
+192.168.120.75,Malware,93,T1204,User Execution,Execution
+192.168.121.82,Ransomware,54,T1595,Active Scanning,Reconnaissance
+192.168.122.89,Credential Dumping,96,T1595,Active Scanning,Reconnaissance
+192.168.123.96,Brute Force,88,T1110,Brute Force,Credential Access
+192.168.124.103,Ransomware,55,T1595,Active Scanning,Reconnaissance
+192.168.125.110,Brute Force,68,T1110,Brute Force,Credential Access
+192.168.126.117,Credential Dumping,94,T1595,Active Scanning,Reconnaissance
+192.168.127.124,Phishing,67,T1566,Phishing,Initial Access
+192.168.128.131,Brute Force,61,T1110,Brute Force,Credential Access
+192.168.129.138,Ransomware,91,T1595,Active Scanning,Reconnaissance
+192.168.130.145,Malware,95,T1204,User Execution,Execution
+192.168.131.152,Brute Force,51,T1110,Brute Force,Credential Access
+192.168.132.159,Brute Force,59,T1110,Brute Force,Credential Access
+192.168.133.166,Ransomware,80,T1595,Active Scanning,Reconnaissance
+192.168.134.173,Ransomware,74,T1595,Active Scanning,Reconnaissance
+192.168.135.180,Brute Force,93,T1110,Brute Force,Credential Access
+192.168.136.187,Phishing,79,T1566,Phishing,Initial Access
+192.168.137.194,Ransomware,92,T1595,Active Scanning,Reconnaissance
+192.168.138.201,Brute Force,55,T1110,Brute Force,Credential Access
+192.168.139.208,Malware,51,T1204,User Execution,Execution
+192.168.140.215,Credential Dumping,100,T1595,Active Scanning,Reconnaissance
+192.168.141.222,Ransomware,52,T1595,Active Scanning,Reconnaissance
+192.168.142.229,Credential Dumping,91,T1595,Active Scanning,Reconnaissance
+192.168.143.236,Ransomware,52,T1595,Active Scanning,Reconnaissance
+192.168.144.243,Credential Dumping,94,T1595,Active Scanning,Reconnaissance
+192.168.145.250,Brute Force,79,T1110,Brute Force,Credential Access
+192.168.146.2,Brute Force,88,T1110,Brute Force,Credential Access
+192.168.147.9,Credential Dumping,70,T1595,Active Scanning,Reconnaissance
+192.168.148.16,Phishing,87,T1566,Phishing,Initial Access
+192.168.149.23,Phishing,60,T1566,Phishing,Initial Access
+192.168.150.30,Credential Dumping,58,T1595,Active Scanning,Reconnaissance
+192.168.151.37,Malware,55,T1204,User Execution,Execution
+192.168.152.44,Ransomware,94,T1595,Active Scanning,Reconnaissance
+192.168.153.51,Malware,76,T1204,User Execution,Execution
+192.168.154.58,Ransomware,89,T1595,Active Scanning,Reconnaissance
+192.168.155.65,Phishing,85,T1566,Phishing,Initial Access
+192.168.156.72,Ransomware,79,T1595,Active Scanning,Reconnaissance
+192.168.157.79,Brute Force,100,T1110,Brute Force,Credential Access
+192.168.158.86,Credential Dumping,92,T1595,Active Scanning,Reconnaissance
+192.168.159.93,Phishing,66,T1566,Phishing,Initial Access
+192.168.160.100,Brute Force,84,T1110,Brute Force,Credential Access
+192.168.161.107,Credential Dumping,65,T1595,Active Scanning,Reconnaissance
+192.168.162.114,Credential Dumping,64,T1595,Active Scanning,Reconnaissance
+192.168.163.121,Malware,74,T1204,User Execution,Execution
+192.168.164.128,Brute Force,63,T1110,Brute Force,Credential Access
+192.168.165.135,Phishing,96,T1566,Phishing,Initial Access
+192.168.166.142,Malware,52,T1204,User Execution,Execution
+192.168.167.149,Malware,79,T1204,User Execution,Execution
+192.168.168.156,Malware,100,T1204,User Execution,Execution
+192.168.169.163,Ransomware,76,T1595,Active Scanning,Reconnaissance
+192.168.170.170,Ransomware,67,T1595,Active Scanning,Reconnaissance
+192.168.171.177,Malware,87,T1204,User Execution,Execution
+192.168.172.184,Ransomware,52,T1595,Active Scanning,Reconnaissance
+192.168.173.191,Credential Dumping,94,T1595,Active Scanning,Reconnaissance
+192.168.174.198,Brute Force,63,T1110,Brute Force,Credential Access
+192.168.175.205,Brute Force,92,T1110,Brute Force,Credential Access
+192.168.176.212,Ransomware,79,T1595,Active Scanning,Reconnaissance
+192.168.177.219,Malware,95,T1204,User Execution,Execution
+192.168.178.226,Credential Dumping,68,T1595,Active Scanning,Reconnaissance
+192.168.179.233,Brute Force,82,T1110,Brute Force,Credential Access
+192.168.180.240,Brute Force,79,T1110,Brute Force,Credential Access
+192.168.181.247,Malware,58,T1204,User Execution,Execution
+192.168.182.254,Credential Dumping,70,T1595,Active Scanning,Reconnaissance
+192.168.183.6,Phishing,73,T1566,Phishing,Initial Access
+192.168.184.13,Credential Dumping,89,T1595,Active Scanning,Reconnaissance
+192.168.185.20,Malware,55,T1204,User Execution,Execution
+192.168.186.27,Brute Force,67,T1110,Brute Force,Credential Access
+192.168.187.34,Malware,68,T1204,User Execution,Execution
+192.168.188.41,Credential Dumping,78,T1595,Active Scanning,Reconnaissance
+192.168.189.48,Malware,64,T1204,User Execution,Execution
+192.168.190.55,Ransomware,81,T1595,Active Scanning,Reconnaissance
+192.168.191.62,Credential Dumping,100,T1595,Active Scanning,Reconnaissance
+192.168.192.69,Malware,68,T1204,User Execution,Execution
+192.168.193.76,Credential Dumping,95,T1595,Active Scanning,Reconnaissance
+192.168.194.83,Malware,57,T1204,User Execution,Execution
+192.168.195.90,Credential Dumping,61,T1595,Active Scanning,Reconnaissance
+192.168.196.97,Phishing,73,T1566,Phishing,Initial Access
+192.168.197.104,Ransomware,51,T1595,Active Scanning,Reconnaissance
+192.168.198.111,Credential Dumping,50,T1595,Active Scanning,Reconnaissance
+192.168.199.118,Phishing,98,T1566,Phishing,Initial Access
+192.168.200.125,Phishing,52,T1566,Phishing,Initial Access
+192.168.201.132,Phishing,89,T1566,Phishing,Initial Access
+192.168.202.139,Phishing,87,T1566,Phishing,Initial Access
+192.168.203.146,Malware,84,T1204,User Execution,Execution
+192.168.204.153,Ransomware,81,T1595,Active Scanning,Reconnaissance
+192.168.205.160,Phishing,95,T1566,Phishing,Initial Access
+192.168.206.167,Brute Force,72,T1110,Brute Force,Credential Access
+192.168.207.174,Malware,78,T1204,User Execution,Execution
+192.168.208.181,Credential Dumping,59,T1595,Active Scanning,Reconnaissance
+192.168.209.188,Brute Force,50,T1110,Brute Force,Credential Access
+192.168.210.195,Credential Dumping,95,T1595,Active Scanning,Reconnaissance
+192.168.211.202,Malware,68,T1204,User Execution,Execution
+192.168.212.209,Ransomware,85,T1595,Active Scanning,Reconnaissance
+192.168.213.216,Brute Force,69,T1110,Brute Force,Credential Access
+192.168.214.223,Brute Force,61,T1110,Brute Force,Credential Access
+192.168.215.230,Brute Force,81,T1110,Brute Force,Credential Access
+192.168.216.237,Ransomware,66,T1595,Active Scanning,Reconnaissance
+192.168.217.244,Phishing,60,T1566,Phishing,Initial Access
+192.168.218.251,Credential Dumping,60,T1595,Active Scanning,Reconnaissance
+192.168.219.3,Phishing,68,T1566,Phishing,Initial Access
+192.168.220.10,Ransomware,98,T1595,Active Scanning,Reconnaissance
+192.168.221.17,Ransomware,93,T1595,Active Scanning,Reconnaissance
+192.168.222.24,Brute Force,50,T1110,Brute Force,Credential Access
+192.168.223.31,Credential Dumping,60,T1595,Active Scanning,Reconnaissance
+192.168.224.38,Malware,79,T1204,User Execution,Execution
+192.168.225.45,Brute Force,69,T1110,Brute Force,Credential Access
+192.168.226.52,Ransomware,95,T1595,Active Scanning,Reconnaissance
+192.168.227.59,Malware,94,T1204,User Execution,Execution
+192.168.228.66,Malware,94,T1204,User Execution,Execution
+192.168.229.73,Credential Dumping,56,T1595,Active Scanning,Reconnaissance
+192.168.230.80,Credential Dumping,52,T1595,Active Scanning,Reconnaissance
+192.168.231.87,Brute Force,87,T1110,Brute Force,Credential Access
+192.168.232.94,Brute Force,97,T1110,Brute Force,Credential Access
+192.168.233.101,Phishing,82,T1566,Phishing,Initial Access
+192.168.234.108,Ransomware,68,T1595,Active Scanning,Reconnaissance
+192.168.235.115,Brute Force,73,T1110,Brute Force,Credential Access
+192.168.236.122,Brute Force,74,T1110,Brute Force,Credential Access
+192.168.237.129,Credential Dumping,57,T1595,Active Scanning,Reconnaissance
+192.168.238.136,Credential Dumping,85,T1595,Active Scanning,Reconnaissance
+192.168.239.143,Credential Dumping,68,T1595,Active Scanning,Reconnaissance
+192.168.240.150,Credential Dumping,68,T1595,Active Scanning,Reconnaissance
+192.168.241.157,Credential Dumping,50,T1595,Active Scanning,Reconnaissance
+192.168.242.164,Credential Dumping,57,T1595,Active Scanning,Reconnaissance
+192.168.243.171,Malware,62,T1204,User Execution,Execution
+192.168.244.178,Brute Force,96,T1110,Brute Force,Credential Access
+192.168.245.185,Credential Dumping,92,T1595,Active Scanning,Reconnaissance
+192.168.246.192,Ransomware,99,T1595,Active Scanning,Reconnaissance
+192.168.247.199,Credential Dumping,90,T1595,Active Scanning,Reconnaissance
+192.168.248.206,Brute Force,61,T1110,Brute Force,Credential Access
+192.168.249.213,Malware,98,T1204,User Execution,Execution
+192.168.250.220,Credential Dumping,92,T1595,Active Scanning,Reconnaissance
+192.168.251.227,Ransomware,98,T1595,Active Scanning,Reconnaissance
+192.168.252.234,Credential Dumping,74,T1595,Active Scanning,Reconnaissance
+192.168.253.241,Malware,81,T1204,User Execution,Execution
+192.168.254.248,Credential Dumping,92,T1595,Active Scanning,Reconnaissance
+192.168.0.0,Credential Dumping,75,T1595,Active Scanning,Reconnaissance
+192.168.1.7,Ransomware,70,T1595,Active Scanning,Reconnaissance
+192.168.2.14,Malware,97,T1204,User Execution,Execution
+192.168.3.21,Credential Dumping,72,T1595,Active Scanning,Reconnaissance
+192.168.4.28,Malware,91,T1204,User Execution,Execution
+192.168.5.35,Phishing,60,T1566,Phishing,Initial Access
+192.168.6.42,Credential Dumping,67,T1595,Active Scanning,Reconnaissance
+192.168.7.49,Phishing,70,T1566,Phishing,Initial Access
+192.168.8.56,Brute Force,81,T1110,Brute Force,Credential Access
+192.168.9.63,Malware,77,T1204,User Execution,Execution
+192.168.10.70,Ransomware,66,T1595,Active Scanning,Reconnaissance
+192.168.11.77,Malware,87,T1204,User Execution,Execution
+192.168.12.84,Credential Dumping,100,T1595,Active Scanning,Reconnaissance
+192.168.13.91,Ransomware,92,T1595,Active Scanning,Reconnaissance
+192.168.14.98,Credential Dumping,92,T1595,Active Scanning,Reconnaissance
+192.168.15.105,Ransomware,63,T1595,Active Scanning,Reconnaissance
+192.168.16.112,Phishing,83,T1566,Phishing,Initial Access
+192.168.17.119,Malware,77,T1204,User Execution,Execution
+192.168.18.126,Malware,68,T1204,User Execution,Execution
+192.168.19.133,Credential Dumping,59,T1595,Active Scanning,Reconnaissance
+192.168.20.140,Credential Dumping,77,T1595,Active Scanning,Reconnaissance
+192.168.21.147,Malware,51,T1204,User Execution,Execution
+192.168.22.154,Ransomware,96,T1595,Active Scanning,Reconnaissance
+192.168.23.161,Brute Force,54,T1110,Brute Force,Credential Access
+192.168.24.168,Credential Dumping,57,T1595,Active Scanning,Reconnaissance
+192.168.25.175,Ransomware,55,T1595,Active Scanning,Reconnaissance
+192.168.26.182,Phishing,77,T1566,Phishing,Initial Access
+192.168.27.189,Malware,76,T1204,User Execution,Execution
+192.168.28.196,Credential Dumping,70,T1595,Active Scanning,Reconnaissance
+192.168.29.203,Phishing,80,T1566,Phishing,Initial Access
+192.168.30.210,Brute Force,94,T1110,Brute Force,Credential Access
+192.168.31.217,Phishing,84,T1566,Phishing,Initial Access
+192.168.32.224,Brute Force,69,T1110,Brute Force,Credential Access
+192.168.33.231,Phishing,78,T1566,Phishing,Initial Access
+192.168.34.238,Brute Force,99,T1110,Brute Force,Credential Access
+192.168.35.245,Phishing,60,T1566,Phishing,Initial Access
+192.168.36.252,Phishing,79,T1566,Phishing,Initial Access
+192.168.37.4,Malware,50,T1204,User Execution,Execution
+192.168.38.11,Phishing,60,T1566,Phishing,Initial Access
+192.168.39.18,Ransomware,78,T1595,Active Scanning,Reconnaissance
+192.168.40.25,Phishing,68,T1566,Phishing,Initial Access
+192.168.41.32,Malware,86,T1204,User Execution,Execution
+192.168.42.39,Ransomware,79,T1595,Active Scanning,Reconnaissance
+192.168.43.46,Brute Force,88,T1110,Brute Force,Credential Access
+192.168.44.53,Malware,95,T1204,User Execution,Execution
+192.168.45.60,Credential Dumping,95,T1595,Active Scanning,Reconnaissance
+192.168.46.67,Phishing,58,T1566,Phishing,Initial Access
+192.168.47.74,Phishing,61,T1566,Phishing,Initial Access
+192.168.48.81,Phishing,89,T1566,Phishing,Initial Access
+192.168.49.88,Ransomware,50,T1595,Active Scanning,Reconnaissance
+192.168.50.95,Credential Dumping,95,T1595,Active Scanning,Reconnaissance
+192.168.51.102,Brute Force,53,T1110,Brute Force,Credential Access
+192.168.52.109,Phishing,66,T1566,Phishing,Initial Access
+192.168.53.116,Credential Dumping,85,T1595,Active Scanning,Reconnaissance
+192.168.54.123,Malware,79,T1204,User Execution,Execution
+192.168.55.130,Malware,70,T1204,User Execution,Execution
+192.168.56.137,Phishing,68,T1566,Phishing,Initial Access
+192.168.57.144,Ransomware,60,T1595,Active Scanning,Reconnaissance
+192.168.58.151,Malware,62,T1204,User Execution,Execution
+192.168.59.158,Brute Force,60,T1110,Brute Force,Credential Access
+192.168.60.165,Credential Dumping,72,T1595,Active Scanning,Reconnaissance
+192.168.61.172,Credential Dumping,57,T1595,Active Scanning,Reconnaissance
+192.168.62.179,Malware,86,T1204,User Execution,Execution
+192.168.63.186,Ransomware,54,T1595,Active Scanning,Reconnaissance
+192.168.64.193,Phishing,93,T1566,Phishing,Initial Access
+192.168.65.200,Ransomware,59,T1595,Active Scanning,Reconnaissance
+192.168.66.207,Credential Dumping,71,T1595,Active Scanning,Reconnaissance
+192.168.67.214,Phishing,53,T1566,Phishing,Initial Access
+192.168.68.221,Brute Force,75,T1110,Brute Force,Credential Access
+192.168.69.228,Brute Force,60,T1110,Brute Force,Credential Access
+192.168.70.235,Malware,81,T1204,User Execution,Execution
+192.168.71.242,Ransomware,92,T1595,Active Scanning,Reconnaissance
+192.168.72.249,Credential Dumping,80,T1595,Active Scanning,Reconnaissance
+192.168.73.1,Brute Force,89,T1110,Brute Force,Credential Access
+192.168.74.8,Brute Force,79,T1110,Brute Force,Credential Access
+192.168.75.15,Credential Dumping,79,T1595,Active Scanning,Reconnaissance
+192.168.76.22,Phishing,93,T1566,Phishing,Initial Access
+192.168.77.29,Phishing,52,T1566,Phishing,Initial Access
+192.168.78.36,Credential Dumping,92,T1595,Active Scanning,Reconnaissance
+192.168.79.43,Phishing,99,T1566,Phishing,Initial Access
+192.168.80.50,Malware,52,T1204,User Execution,Execution
+192.168.81.57,Phishing,89,T1566,Phishing,Initial Access
+192.168.82.64,Malware,97,T1204,User Execution,Execution
+192.168.83.71,Credential Dumping,75,T1595,Active Scanning,Reconnaissance
+192.168.84.78,Credential Dumping,69,T1595,Active Scanning,Reconnaissance
+192.168.85.85,Credential Dumping,58,T1595,Active Scanning,Reconnaissance
+192.168.86.92,Brute Force,63,T1110,Brute Force,Credential Access
+192.168.87.99,Credential Dumping,69,T1595,Active Scanning,Reconnaissance
+192.168.88.106,Brute Force,59,T1110,Brute Force,Credential Access
+192.168.89.113,Credential Dumping,87,T1595,Active Scanning,Reconnaissance
+192.168.90.120,Brute Force,56,T1110,Brute Force,Credential Access
+192.168.91.127,Credential Dumping,52,T1595,Active Scanning,Reconnaissance
+192.168.92.134,Malware,77,T1204,User Execution,Execution
+192.168.93.141,Phishing,57,T1566,Phishing,Initial Access
+192.168.94.148,Credential Dumping,60,T1595,Active Scanning,Reconnaissance
+192.168.95.155,Phishing,82,T1566,Phishing,Initial Access
+192.168.96.162,Ransomware,68,T1595,Active Scanning,Reconnaissance
+192.168.97.169,Phishing,89,T1566,Phishing,Initial Access
+192.168.98.176,Credential Dumping,62,T1595,Active Scanning,Reconnaissance
+192.168.99.183,Credential Dumping,65,T1595,Active Scanning,Reconnaissance
+192.168.100.190,Phishing,93,T1566,Phishing,Initial Access
+192.168.101.197,Brute Force,57,T1110,Brute Force,Credential Access
+192.168.102.204,Credential Dumping,100,T1595,Active Scanning,Reconnaissance
+192.168.103.211,Malware,78,T1204,User Execution,Execution
+192.168.104.218,Brute Force,82,T1110,Brute Force,Credential Access
+192.168.105.225,Malware,96,T1204,User Execution,Execution
+192.168.106.232,Brute Force,71,T1110,Brute Force,Credential Access
+192.168.107.239,Credential Dumping,65,T1595,Active Scanning,Reconnaissance
+192.168.108.246,Brute Force,95,T1110,Brute Force,Credential Access
+192.168.109.253,Malware,58,T1204,User Execution,Execution
+192.168.110.5,Credential Dumping,78,T1595,Active Scanning,Reconnaissance
+192.168.111.12,Brute Force,75,T1110,Brute Force,Credential Access
+192.168.112.19,Brute Force,90,T1110,Brute Force,Credential Access
+192.168.113.26,Credential Dumping,96,T1595,Active Scanning,Reconnaissance
+192.168.114.33,Brute Force,94,T1110,Brute Force,Credential Access
+192.168.115.40,Ransomware,100,T1595,Active Scanning,Reconnaissance
+192.168.116.47,Phishing,84,T1566,Phishing,Initial Access
+192.168.117.54,Ransomware,55,T1595,Active Scanning,Reconnaissance
+192.168.118.61,Malware,100,T1204,User Execution,Execution
+192.168.119.68,Phishing,96,T1566,Phishing,Initial Access
+192.168.120.75,Ransomware,53,T1595,Active Scanning,Reconnaissance
+192.168.121.82,Phishing,71,T1566,Phishing,Initial Access
+192.168.122.89,Phishing,92,T1566,Phishing,Initial Access
+192.168.123.96,Credential Dumping,70,T1595,Active Scanning,Reconnaissance
+192.168.124.103,Credential Dumping,95,T1595,Active Scanning,Reconnaissance
+192.168.125.110,Brute Force,58,T1110,Brute Force,Credential Access
+192.168.126.117,Phishing,66,T1566,Phishing,Initial Access
+192.168.127.124,Credential Dumping,60,T1595,Active Scanning,Reconnaissance
+192.168.128.131,Credential Dumping,94,T1595,Active Scanning,Reconnaissance
+192.168.129.138,Malware,88,T1204,User Execution,Execution
+192.168.130.145,Ransomware,83,T1595,Active Scanning,Reconnaissance
+192.168.131.152,Phishing,81,T1566,Phishing,Initial Access
+192.168.132.159,Ransomware,69,T1595,Active Scanning,Reconnaissance
+192.168.133.166,Brute Force,54,T1110,Brute Force,Credential Access
+192.168.134.173,Ransomware,100,T1595,Active Scanning,Reconnaissance
+192.168.135.180,Malware,92,T1204,User Execution,Execution
+192.168.136.187,Brute Force,64,T1110,Brute Force,Credential Access
+192.168.137.194,Credential Dumping,60,T1595,Active Scanning,Reconnaissance
+192.168.138.201,Ransomware,62,T1595,Active Scanning,Reconnaissance
+192.168.139.208,Ransomware,82,T1595,Active Scanning,Reconnaissance
+192.168.140.215,Brute Force,65,T1110,Brute Force,Credential Access
+192.168.141.222,Brute Force,87,T1110,Brute Force,Credential Access
+192.168.142.229,Phishing,76,T1566,Phishing,Initial Access
+192.168.143.236,Credential Dumping,57,T1595,Active Scanning,Reconnaissance
+192.168.144.243,Malware,99,T1204,User Execution,Execution
+192.168.145.250,Malware,61,T1204,User Execution,Execution
+192.168.146.2,Credential Dumping,59,T1595,Active Scanning,Reconnaissance
+192.168.147.9,Credential Dumping,62,T1595,Active Scanning,Reconnaissance
+192.168.148.16,Credential Dumping,67,T1595,Active Scanning,Reconnaissance
+192.168.149.23,Brute Force,76,T1110,Brute Force,Credential Access
+192.168.150.30,Phishing,98,T1566,Phishing,Initial Access
+192.168.151.37,Phishing,55,T1566,Phishing,Initial Access
+192.168.152.44,Phishing,84,T1566,Phishing,Initial Access
+192.168.153.51,Brute Force,89,T1110,Brute Force,Credential Access
+192.168.154.58,Brute Force,67,T1110,Brute Force,Credential Access
+192.168.155.65,Phishing,52,T1566,Phishing,Initial Access
+192.168.156.72,Phishing,94,T1566,Phishing,Initial Access
+192.168.157.79,Credential Dumping,93,T1595,Active Scanning,Reconnaissance
+192.168.158.86,Phishing,71,T1566,Phishing,Initial Access
+192.168.159.93,Brute Force,88,T1110,Brute Force,Credential Access
+192.168.160.100,Malware,98,T1204,User Execution,Execution
+192.168.161.107,Ransomware,93,T1595,Active Scanning,Reconnaissance
+192.168.162.114,Ransomware,61,T1595,Active Scanning,Reconnaissance
+192.168.163.121,Credential Dumping,78,T1595,Active Scanning,Reconnaissance
+192.168.164.128,Phishing,55,T1566,Phishing,Initial Access
+192.168.165.135,Malware,52,T1204,User Execution,Execution
+192.168.166.142,Brute Force,57,T1110,Brute Force,Credential Access
+192.168.167.149,Malware,54,T1204,User Execution,Execution
+192.168.168.156,Malware,83,T1204,User Execution,Execution
+192.168.169.163,Brute Force,50,T1110,Brute Force,Credential Access
+192.168.170.170,Phishing,67,T1566,Phishing,Initial Access
+192.168.171.177,Credential Dumping,96,T1595,Active Scanning,Reconnaissance
+192.168.172.184,Ransomware,50,T1595,Active Scanning,Reconnaissance
+192.168.173.191,Ransomware,94,T1595,Active Scanning,Reconnaissance
+192.168.174.198,Malware,69,T1204,User Execution,Execution
+192.168.175.205,Brute Force,51,T1110,Brute Force,Credential Access
+192.168.176.212,Phishing,80,T1566,Phishing,Initial Access
+192.168.177.219,Phishing,99,T1566,Phishing,Initial Access
+192.168.178.226,Credential Dumping,53,T1595,Active Scanning,Reconnaissance
+192.168.179.233,Malware,53,T1204,User Execution,Execution
+192.168.180.240,Brute Force,85,T1110,Brute Force,Credential Access
+192.168.181.247,Credential Dumping,64,T1595,Active Scanning,Reconnaissance
+192.168.182.254,Credential Dumping,100,T1595,Active Scanning,Reconnaissance
+192.168.183.6,Phishing,83,T1566,Phishing,Initial Access
+192.168.184.13,Brute Force,87,T1110,Brute Force,Credential Access
+192.168.185.20,Ransomware,76,T1595,Active Scanning,Reconnaissance
+192.168.186.27,Malware,52,T1204,User Execution,Execution
+192.168.187.34,Ransomware,87,T1595,Active Scanning,Reconnaissance
+192.168.188.41,Credential Dumping,68,T1595,Active Scanning,Reconnaissance
+192.168.189.48,Brute Force,77,T1110,Brute Force,Credential Access
+192.168.190.55,Malware,62,T1204,User Execution,Execution
+192.168.191.62,Ransomware,89,T1595,Active Scanning,Reconnaissance
+192.168.192.69,Brute Force,81,T1110,Brute Force,Credential Access
+192.168.193.76,Malware,65,T1204,User Execution,Execution
+192.168.194.83,Credential Dumping,61,T1595,Active Scanning,Reconnaissance
+192.168.195.90,Phishing,59,T1566,Phishing,Initial Access
+192.168.196.97,Brute Force,62,T1110,Brute Force,Credential Access
+192.168.197.104,Malware,61,T1204,User Execution,Execution
+192.168.198.111,Brute Force,74,T1110,Brute Force,Credential Access
+192.168.199.118,Phishing,79,T1566,Phishing,Initial Access
+192.168.200.125,Malware,57,T1204,User Execution,Execution
+192.168.201.132,Malware,94,T1204,User Execution,Execution
+192.168.202.139,Malware,84,T1204,User Execution,Execution
+192.168.203.146,Malware,58,T1204,User Execution,Execution
+192.168.204.153,Malware,100,T1204,User Execution,Execution
+192.168.205.160,Ransomware,81,T1595,Active Scanning,Reconnaissance
+192.168.206.167,Phishing,80,T1566,Phishing,Initial Access
+192.168.207.174,Malware,78,T1204,User Execution,Execution
+192.168.208.181,Credential Dumping,73,T1595,Active Scanning,Reconnaissance
+192.168.209.188,Brute Force,83,T1110,Brute Force,Credential Access
+192.168.210.195,Credential Dumping,78,T1595,Active Scanning,Reconnaissance
+192.168.211.202,Credential Dumping,74,T1595,Active Scanning,Reconnaissance
+192.168.212.209,Phishing,55,T1566,Phishing,Initial Access
+192.168.213.216,Phishing,57,T1566,Phishing,Initial Access
+192.168.214.223,Phishing,66,T1566,Phishing,Initial Access
+192.168.215.230,Malware,50,T1204,User Execution,Execution
+192.168.216.237,Credential Dumping,80,T1595,Active Scanning,Reconnaissance
+192.168.217.244,Credential Dumping,96,T1595,Active Scanning,Reconnaissance
+192.168.218.251,Ransomware,71,T1595,Active Scanning,Reconnaissance
+192.168.219.3,Credential Dumping,78,T1595,Active Scanning,Reconnaissance
+192.168.220.10,Phishing,69,T1566,Phishing,Initial Access
+192.168.221.17,Phishing,77,T1566,Phishing,Initial Access
+192.168.222.24,Phishing,58,T1566,Phishing,Initial Access
+192.168.223.31,Ransomware,63,T1595,Active Scanning,Reconnaissance
+192.168.224.38,Malware,71,T1204,User Execution,Execution
+192.168.225.45,Brute Force,93,T1110,Brute Force,Credential Access
+192.168.226.52,Brute Force,54,T1110,Brute Force,Credential Access
+192.168.227.59,Phishing,53,T1566,Phishing,Initial Access
+192.168.228.66,Phishing,60,T1566,Phishing,Initial Access
+192.168.229.73,Credential Dumping,63,T1595,Active Scanning,Reconnaissance
+192.168.230.80,Credential Dumping,88,T1595,Active Scanning,Reconnaissance
+192.168.231.87,Ransomware,62,T1595,Active Scanning,Reconnaissance
+192.168.232.94,Brute Force,83,T1110,Brute Force,Credential Access
+192.168.233.101,Credential Dumping,97,T1595,Active Scanning,Reconnaissance
+192.168.234.108,Phishing,89,T1566,Phishing,Initial Access
+192.168.235.115,Ransomware,74,T1595,Active Scanning,Reconnaissance
+192.168.236.122,Credential Dumping,60,T1595,Active Scanning,Reconnaissance
+192.168.237.129,Brute Force,76,T1110,Brute Force,Credential Access
+192.168.238.136,Brute Force,76,T1110,Brute Force,Credential Access
+192.168.239.143,Ransomware,51,T1595,Active Scanning,Reconnaissance
+192.168.240.150,Credential Dumping,62,T1595,Active Scanning,Reconnaissance
+192.168.241.157,Brute Force,92,T1110,Brute Force,Credential Access
+192.168.242.164,Brute Force,95,T1110,Brute Force,Credential Access
+192.168.243.171,Malware,88,T1204,User Execution,Execution
+192.168.244.178,Ransomware,54,T1595,Active Scanning,Reconnaissance
+192.168.245.185,Malware,61,T1204,User Execution,Execution
+192.168.246.192,Credential Dumping,74,T1595,Active Scanning,Reconnaissance
+192.168.247.199,Ransomware,99,T1595,Active Scanning,Reconnaissance
+192.168.248.206,Phishing,55,T1566,Phishing,Initial Access
+192.168.249.213,Phishing,64,T1566,Phishing,Initial Access
+192.168.250.220,Malware,82,T1204,User Execution,Execution
+192.168.251.227,Ransomware,84,T1595,Active Scanning,Reconnaissance
+192.168.252.234,Malware,72,T1204,User Execution,Execution
+192.168.253.241,Phishing,63,T1566,Phishing,Initial Access
+192.168.254.248,Ransomware,54,T1595,Active Scanning,Reconnaissance
+192.168.0.0,Brute Force,56,T1110,Brute Force,Credential Access
+192.168.1.7,Malware,90,T1204,User Execution,Execution
+192.168.2.14,Brute Force,88,T1110,Brute Force,Credential Access
+192.168.3.21,Ransomware,51,T1595,Active Scanning,Reconnaissance
+192.168.4.28,Phishing,98,T1566,Phishing,Initial Access
+192.168.5.35,Malware,68,T1204,User Execution,Execution
+192.168.6.42,Brute Force,97,T1110,Brute Force,Credential Access
+192.168.7.49,Brute Force,98,T1110,Brute Force,Credential Access
+192.168.8.56,Phishing,84,T1566,Phishing,Initial Access
+192.168.9.63,Malware,61,T1204,User Execution,Execution
+192.168.10.70,Credential Dumping,53,T1595,Active Scanning,Reconnaissance
+192.168.11.77,Malware,87,T1204,User Execution,Execution
+192.168.12.84,Malware,96,T1204,User Execution,Execution
+192.168.13.91,Malware,88,T1204,User Execution,Execution
+192.168.14.98,Malware,55,T1204,User Execution,Execution
+192.168.15.105,Credential Dumping,82,T1595,Active Scanning,Reconnaissance
+192.168.16.112,Credential Dumping,77,T1595,Active Scanning,Reconnaissance
+192.168.17.119,Ransomware,66,T1595,Active Scanning,Reconnaissance
+192.168.18.126,Phishing,54,T1566,Phishing,Initial Access
+192.168.19.133,Malware,50,T1204,User Execution,Execution
+192.168.20.140,Credential Dumping,75,T1595,Active Scanning,Reconnaissance
+192.168.21.147,Phishing,52,T1566,Phishing,Initial Access
+192.168.22.154,Malware,99,T1204,User Execution,Execution
+192.168.23.161,Phishing,77,T1566,Phishing,Initial Access
+192.168.24.168,Brute Force,94,T1110,Brute Force,Credential Access
+192.168.25.175,Ransomware,66,T1595,Active Scanning,Reconnaissance
+192.168.26.182,Brute Force,91,T1110,Brute Force,Credential Access
+192.168.27.189,Ransomware,77,T1595,Active Scanning,Reconnaissance
+192.168.28.196,Phishing,96,T1566,Phishing,Initial Access
+192.168.29.203,Brute Force,67,T1110,Brute Force,Credential Access
+192.168.30.210,Phishing,81,T1566,Phishing,Initial Access
+192.168.31.217,Ransomware,96,T1595,Active Scanning,Reconnaissance
+192.168.32.224,Malware,81,T1204,User Execution,Execution
+192.168.33.231,Credential Dumping,62,T1595,Active Scanning,Reconnaissance
+192.168.34.238,Phishing,90,T1566,Phishing,Initial Access
+192.168.35.245,Brute Force,74,T1110,Brute Force,Credential Access
+192.168.36.252,Brute Force,81,T1110,Brute Force,Credential Access
+192.168.37.4,Brute Force,92,T1110,Brute Force,Credential Access
+192.168.38.11,Brute Force,74,T1110,Brute Force,Credential Access
+192.168.39.18,Credential Dumping,88,T1595,Active Scanning,Reconnaissance
+192.168.40.25,Phishing,92,T1566,Phishing,Initial Access
+192.168.41.32,Phishing,50,T1566,Phishing,Initial Access
+192.168.42.39,Malware,83,T1204,User Execution,Execution
+192.168.43.46,Phishing,82,T1566,Phishing,Initial Access
+192.168.44.53,Phishing,52,T1566,Phishing,Initial Access
+192.168.45.60,Malware,97,T1204,User Execution,Execution
+192.168.46.67,Credential Dumping,96,T1595,Active Scanning,Reconnaissance
+192.168.47.74,Malware,81,T1204,User Execution,Execution
+192.168.48.81,Malware,80,T1204,User Execution,Execution
+192.168.49.88,Malware,56,T1204,User Execution,Execution
+192.168.50.95,Malware,99,T1204,User Execution,Execution
+192.168.51.102,Credential Dumping,84,T1595,Active Scanning,Reconnaissance
+192.168.52.109,Phishing,91,T1566,Phishing,Initial Access
+192.168.53.116,Ransomware,64,T1595,Active Scanning,Reconnaissance
+192.168.54.123,Brute Force,97,T1110,Brute Force,Credential Access
+192.168.55.130,Ransomware,70,T1595,Active Scanning,Reconnaissance
+192.168.56.137,Phishing,74,T1566,Phishing,Initial Access
+192.168.57.144,Malware,75,T1204,User Execution,Execution
+192.168.58.151,Phishing,64,T1566,Phishing,Initial Access
+192.168.59.158,Ransomware,97,T1595,Active Scanning,Reconnaissance
+192.168.60.165,Ransomware,82,T1595,Active Scanning,Reconnaissance
+192.168.61.172,Malware,95,T1204,User Execution,Execution
+192.168.62.179,Malware,94,T1204,User Execution,Execution
+192.168.63.186,Credential Dumping,92,T1595,Active Scanning,Reconnaissance
+192.168.64.193,Phishing,72,T1566,Phishing,Initial Access
+192.168.65.200,Phishing,56,T1566,Phishing,Initial Access
+192.168.66.207,Phishing,86,T1566,Phishing,Initial Access
+192.168.67.214,Phishing,63,T1566,Phishing,Initial Access
+192.168.68.221,Phishing,74,T1566,Phishing,Initial Access
+192.168.69.228,Brute Force,80,T1110,Brute Force,Credential Access
+192.168.70.235,Ransomware,59,T1595,Active Scanning,Reconnaissance
+192.168.71.242,Brute Force,75,T1110,Brute Force,Credential Access
+192.168.72.249,Credential Dumping,91,T1595,Active Scanning,Reconnaissance
+192.168.73.1,Phishing,57,T1566,Phishing,Initial Access
+192.168.74.8,Brute Force,94,T1110,Brute Force,Credential Access
+192.168.75.15,Credential Dumping,69,T1595,Active Scanning,Reconnaissance
+192.168.76.22,Brute Force,94,T1110,Brute Force,Credential Access
+192.168.77.29,Brute Force,92,T1110,Brute Force,Credential Access
+192.168.78.36,Brute Force,57,T1110,Brute Force,Credential Access
+192.168.79.43,Malware,98,T1204,User Execution,Execution
+192.168.80.50,Ransomware,84,T1595,Active Scanning,Reconnaissance
+192.168.81.57,Malware,83,T1204,User Execution,Execution
+192.168.82.64,Malware,83,T1204,User Execution,Execution
+192.168.83.71,Brute Force,52,T1110,Brute Force,Credential Access
+192.168.84.78,Malware,67,T1204,User Execution,Execution
+192.168.85.85,Brute Force,74,T1110,Brute Force,Credential Access
+192.168.86.92,Credential Dumping,93,T1595,Active Scanning,Reconnaissance
+192.168.87.99,Ransomware,90,T1595,Active Scanning,Reconnaissance
+192.168.88.106,Phishing,59,T1566,Phishing,Initial Access
+192.168.89.113,Credential Dumping,54,T1595,Active Scanning,Reconnaissance
+192.168.90.120,Ransomware,71,T1595,Active Scanning,Reconnaissance
+192.168.91.127,Phishing,67,T1566,Phishing,Initial Access
+192.168.92.134,Credential Dumping,61,T1595,Active Scanning,Reconnaissance
+192.168.93.141,Ransomware,83,T1595,Active Scanning,Reconnaissance
+192.168.94.148,Ransomware,53,T1595,Active Scanning,Reconnaissance
+192.168.95.155,Malware,80,T1204,User Execution,Execution
+192.168.96.162,Ransomware,59,T1595,Active Scanning,Reconnaissance
+192.168.97.169,Brute Force,93,T1110,Brute Force,Credential Access
+192.168.98.176,Malware,79,T1204,User Execution,Execution
+192.168.99.183,Ransomware,90,T1595,Active Scanning,Reconnaissance
+192.168.100.190,Phishing,54,T1566,Phishing,Initial Access
+192.168.101.197,Malware,97,T1204,User Execution,Execution
+192.168.102.204,Brute Force,80,T1110,Brute Force,Credential Access
+192.168.103.211,Credential Dumping,97,T1595,Active Scanning,Reconnaissance
+192.168.104.218,Malware,60,T1204,User Execution,Execution
+192.168.105.225,Malware,58,T1204,User Execution,Execution
+192.168.106.232,Credential Dumping,60,T1595,Active Scanning,Reconnaissance
+192.168.107.239,Malware,69,T1204,User Execution,Execution
+192.168.108.246,Brute Force,69,T1110,Brute Force,Credential Access
+192.168.109.253,Credential Dumping,72,T1595,Active Scanning,Reconnaissance
+192.168.110.5,Phishing,50,T1566,Phishing,Initial Access
+192.168.111.12,Credential Dumping,56,T1595,Active Scanning,Reconnaissance
+192.168.112.19,Ransomware,57,T1595,Active Scanning,Reconnaissance
+192.168.113.26,Malware,73,T1204,User Execution,Execution
+192.168.114.33,Ransomware,78,T1595,Active Scanning,Reconnaissance
+192.168.115.40,Malware,50,T1204,User Execution,Execution
+192.168.116.47,Brute Force,52,T1110,Brute Force,Credential Access
+192.168.117.54,Brute Force,80,T1110,Brute Force,Credential Access
+192.168.118.61,Credential Dumping,93,T1595,Active Scanning,Reconnaissance
+192.168.119.68,Ransomware,57,T1595,Active Scanning,Reconnaissance
+192.168.120.75,Malware,99,T1204,User Execution,Execution
+192.168.121.82,Credential Dumping,80,T1595,Active Scanning,Reconnaissance
+192.168.122.89,Credential Dumping,96,T1595,Active Scanning,Reconnaissance
+192.168.123.96,Brute Force,92,T1110,Brute Force,Credential Access
+192.168.124.103,Ransomware,87,T1595,Active Scanning,Reconnaissance
+192.168.125.110,Brute Force,52,T1110,Brute Force,Credential Access
+192.168.126.117,Credential Dumping,55,T1595,Active Scanning,Reconnaissance
+192.168.127.124,Malware,77,T1204,User Execution,Execution
+192.168.128.131,Brute Force,67,T1110,Brute Force,Credential Access
+192.168.129.138,Credential Dumping,53,T1595,Active Scanning,Reconnaissance
+192.168.130.145,Phishing,80,T1566,Phishing,Initial Access
+192.168.131.152,Credential Dumping,81,T1595,Active Scanning,Reconnaissance
+192.168.132.159,Brute Force,71,T1110,Brute Force,Credential Access
+192.168.133.166,Ransomware,91,T1595,Active Scanning,Reconnaissance
+192.168.134.173,Brute Force,90,T1110,Brute Force,Credential Access
+192.168.135.180,Ransomware,95,T1595,Active Scanning,Reconnaissance
+192.168.136.187,Ransomware,96,T1595,Active Scanning,Reconnaissance
+192.168.137.194,Ransomware,58,T1595,Active Scanning,Reconnaissance
+192.168.138.201,Ransomware,78,T1595,Active Scanning,Reconnaissance
+192.168.139.208,Brute Force,83,T1110,Brute Force,Credential Access
+192.168.140.215,Ransomware,68,T1595,Active Scanning,Reconnaissance
+192.168.141.222,Malware,93,T1204,User Execution,Execution
+192.168.142.229,Malware,85,T1204,User Execution,Execution
+192.168.143.236,Malware,60,T1204,User Execution,Execution
+192.168.144.243,Ransomware,69,T1595,Active Scanning,Reconnaissance
+192.168.145.250,Ransomware,64,T1595,Active Scanning,Reconnaissance
+192.168.146.2,Brute Force,58,T1110,Brute Force,Credential Access
+192.168.147.9,Malware,50,T1204,User Execution,Execution
+192.168.148.16,Phishing,96,T1566,Phishing,Initial Access
+192.168.149.23,Phishing,72,T1566,Phishing,Initial Access
+192.168.150.30,Malware,84,T1204,User Execution,Execution
+192.168.151.37,Credential Dumping,78,T1595,Active Scanning,Reconnaissance
+192.168.152.44,Ransomware,78,T1595,Active Scanning,Reconnaissance
+192.168.153.51,Phishing,55,T1566,Phishing,Initial Access
+192.168.154.58,Malware,96,T1204,User Execution,Execution
+192.168.155.65,Phishing,75,T1566,Phishing,Initial Access
+192.168.156.72,Malware,65,T1204,User Execution,Execution
+192.168.157.79,Brute Force,88,T1110,Brute Force,Credential Access
+192.168.158.86,Brute Force,58,T1110,Brute Force,Credential Access
+192.168.159.93,Malware,100,T1204,User Execution,Execution
+192.168.160.100,Brute Force,80,T1110,Brute Force,Credential Access
+192.168.161.107,Phishing,59,T1566,Phishing,Initial Access
+192.168.162.114,Ransomware,52,T1595,Active Scanning,Reconnaissance
+192.168.163.121,Ransomware,50,T1595,Active Scanning,Reconnaissance
+192.168.164.128,Credential Dumping,91,T1595,Active Scanning,Reconnaissance
+192.168.165.135,Brute Force,57,T1110,Brute Force,Credential Access
+192.168.166.142,Phishing,57,T1566,Phishing,Initial Access
+192.168.167.149,Brute Force,77,T1110,Brute Force,Credential Access
+192.168.168.156,Credential Dumping,89,T1595,Active Scanning,Reconnaissance
+192.168.169.163,Phishing,66,T1566,Phishing,Initial Access
+192.168.170.170,Malware,59,T1204,User Execution,Execution
+192.168.171.177,Brute Force,96,T1110,Brute Force,Credential Access
+192.168.172.184,Malware,72,T1204,User Execution,Execution
+192.168.173.191,Credential Dumping,91,T1595,Active Scanning,Reconnaissance
+192.168.174.198,Ransomware,74,T1595,Active Scanning,Reconnaissance
+192.168.175.205,Ransomware,65,T1595,Active Scanning,Reconnaissance
+192.168.176.212,Phishing,57,T1566,Phishing,Initial Access
+192.168.177.219,Malware,59,T1204,User Execution,Execution
+192.168.178.226,Malware,53,T1204,User Execution,Execution
+192.168.179.233,Credential Dumping,73,T1595,Active Scanning,Reconnaissance
+192.168.180.240,Credential Dumping,59,T1595,Active Scanning,Reconnaissance
+192.168.181.247,Brute Force,59,T1110,Brute Force,Credential Access
+192.168.182.254,Ransomware,76,T1595,Active Scanning,Reconnaissance
+192.168.183.6,Phishing,53,T1566,Phishing,Initial Access
+192.168.184.13,Ransomware,75,T1595,Active Scanning,Reconnaissance
+192.168.185.20,Ransomware,95,T1595,Active Scanning,Reconnaissance
+192.168.186.27,Phishing,58,T1566,Phishing,Initial Access
+192.168.187.34,Malware,97,T1204,User Execution,Execution
+192.168.188.41,Credential Dumping,91,T1595,Active Scanning,Reconnaissance
+192.168.189.48,Malware,91,T1204,User Execution,Execution
+192.168.190.55,Brute Force,88,T1110,Brute Force,Credential Access
+192.168.191.62,Malware,63,T1204,User Execution,Execution
+192.168.192.69,Malware,65,T1204,User Execution,Execution
+192.168.193.76,Ransomware,53,T1595,Active Scanning,Reconnaissance
+192.168.194.83,Brute Force,75,T1110,Brute Force,Credential Access
+192.168.195.90,Phishing,71,T1566,Phishing,Initial Access
+192.168.196.97,Ransomware,87,T1595,Active Scanning,Reconnaissance
+192.168.197.104,Phishing,93,T1566,Phishing,Initial Access
+192.168.198.111,Malware,99,T1204,User Execution,Execution
+192.168.199.118,Credential Dumping,68,T1595,Active Scanning,Reconnaissance
+192.168.200.125,Brute Force,63,T1110,Brute Force,Credential Access
+192.168.201.132,Ransomware,50,T1595,Active Scanning,Reconnaissance
+192.168.202.139,Ransomware,56,T1595,Active Scanning,Reconnaissance
+192.168.203.146,Malware,86,T1204,User Execution,Execution
+192.168.204.153,Malware,80,T1204,User Execution,Execution
+192.168.205.160,Malware,52,T1204,User Execution,Execution
+192.168.206.167,Credential Dumping,73,T1595,Active Scanning,Reconnaissance
+192.168.207.174,Phishing,82,T1566,Phishing,Initial Access
+192.168.208.181,Ransomware,94,T1595,Active Scanning,Reconnaissance
+192.168.209.188,Phishing,86,T1566,Phishing,Initial Access
+192.168.210.195,Credential Dumping,72,T1595,Active Scanning,Reconnaissance
+192.168.211.202,Brute Force,96,T1110,Brute Force,Credential Access
+192.168.212.209,Credential Dumping,71,T1595,Active Scanning,Reconnaissance
+192.168.213.216,Malware,67,T1204,User Execution,Execution
+192.168.214.223,Credential Dumping,70,T1595,Active Scanning,Reconnaissance
+192.168.215.230,Brute Force,80,T1110,Brute Force,Credential Access
+192.168.216.237,Credential Dumping,90,T1595,Active Scanning,Reconnaissance
+192.168.217.244,Phishing,69,T1566,Phishing,Initial Access
+192.168.218.251,Ransomware,61,T1595,Active Scanning,Reconnaissance
+192.168.219.3,Phishing,62,T1566,Phishing,Initial Access
+192.168.220.10,Credential Dumping,72,T1595,Active Scanning,Reconnaissance
+192.168.221.17,Ransomware,96,T1595,Active Scanning,Reconnaissance
+192.168.222.24,Phishing,59,T1566,Phishing,Initial Access
+192.168.223.31,Phishing,66,T1566,Phishing,Initial Access
+192.168.224.38,Malware,52,T1204,User Execution,Execution
+192.168.225.45,Credential Dumping,63,T1595,Active Scanning,Reconnaissance
+192.168.226.52,Ransomware,73,T1595,Active Scanning,Reconnaissance
+192.168.227.59,Ransomware,91,T1595,Active Scanning,Reconnaissance
+192.168.228.66,Phishing,57,T1566,Phishing,Initial Access
+192.168.229.73,Malware,74,T1204,User Execution,Execution
+192.168.230.80,Phishing,56,T1566,Phishing,Initial Access
+192.168.231.87,Brute Force,90,T1110,Brute Force,Credential Access
+192.168.232.94,Phishing,64,T1566,Phishing,Initial Access
+192.168.233.101,Malware,72,T1204,User Execution,Execution
+192.168.234.108,Brute Force,82,T1110,Brute Force,Credential Access
+192.168.235.115,Phishing,50,T1566,Phishing,Initial Access
+192.168.236.122,Malware,71,T1204,User Execution,Execution
+192.168.237.129,Malware,89,T1204,User Execution,Execution
+192.168.238.136,Ransomware,90,T1595,Active Scanning,Reconnaissance
+192.168.239.143,Credential Dumping,77,T1595,Active Scanning,Reconnaissance
+192.168.240.150,Ransomware,98,T1595,Active Scanning,Reconnaissance
+192.168.241.157,Phishing,55,T1566,Phishing,Initial Access
+192.168.242.164,Brute Force,51,T1110,Brute Force,Credential Access
+192.168.243.171,Phishing,91,T1566,Phishing,Initial Access
+192.168.244.178,Credential Dumping,67,T1595,Active Scanning,Reconnaissance
+192.168.245.185,Ransomware,79,T1595,Active Scanning,Reconnaissance
+192.168.246.192,Phishing,55,T1566,Phishing,Initial Access
+192.168.247.199,Malware,81,T1204,User Execution,Execution
+192.168.248.206,Brute Force,74,T1110,Brute Force,Credential Access
+192.168.249.213,Malware,50,T1204,User Execution,Execution
+192.168.250.220,Brute Force,80,T1110,Brute Force,Credential Access
+192.168.251.227,Malware,62,T1204,User Execution,Execution
+192.168.252.234,Ransomware,73,T1595,Active Scanning,Reconnaissance
+192.168.253.241,Phishing,55,T1566,Phishing,Initial Access
+192.168.254.248,Phishing,62,T1566,Phishing,Initial Access
+192.168.0.0,Credential Dumping,82,T1595,Active Scanning,Reconnaissance
+192.168.1.7,Malware,75,T1204,User Execution,Execution
+192.168.2.14,Malware,77,T1204,User Execution,Execution
+192.168.3.21,Phishing,77,T1566,Phishing,Initial Access
+192.168.4.28,Brute Force,52,T1110,Brute Force,Credential Access
+192.168.5.35,Phishing,51,T1566,Phishing,Initial Access
+192.168.6.42,Credential Dumping,65,T1595,Active Scanning,Reconnaissance
+192.168.7.49,Phishing,57,T1566,Phishing,Initial Access
+192.168.8.56,Phishing,86,T1566,Phishing,Initial Access
+192.168.9.63,Credential Dumping,83,T1595,Active Scanning,Reconnaissance
+192.168.10.70,Ransomware,93,T1595,Active Scanning,Reconnaissance
+192.168.11.77,Malware,81,T1204,User Execution,Execution
+192.168.12.84,Credential Dumping,78,T1595,Active Scanning,Reconnaissance
+192.168.13.91,Malware,51,T1204,User Execution,Execution
+192.168.14.98,Credential Dumping,75,T1595,Active Scanning,Reconnaissance
+192.168.15.105,Phishing,80,T1566,Phishing,Initial Access
+192.168.16.112,Phishing,98,T1566,Phishing,Initial Access
+192.168.17.119,Credential Dumping,69,T1595,Active Scanning,Reconnaissance
+192.168.18.126,Brute Force,51,T1110,Brute Force,Credential Access
+192.168.19.133,Malware,94,T1204,User Execution,Execution
+192.168.20.140,Brute Force,84,T1110,Brute Force,Credential Access
+192.168.21.147,Phishing,53,T1566,Phishing,Initial Access
+192.168.22.154,Ransomware,94,T1595,Active Scanning,Reconnaissance
+192.168.23.161,Brute Force,59,T1110,Brute Force,Credential Access
+192.168.24.168,Credential Dumping,86,T1595,Active Scanning,Reconnaissance
+192.168.25.175,Phishing,55,T1566,Phishing,Initial Access
+192.168.26.182,Phishing,94,T1566,Phishing,Initial Access
+192.168.27.189,Brute Force,92,T1110,Brute Force,Credential Access
+192.168.28.196,Malware,71,T1204,User Execution,Execution
+192.168.29.203,Phishing,82,T1566,Phishing,Initial Access
+192.168.30.210,Phishing,89,T1566,Phishing,Initial Access
+192.168.31.217,Malware,77,T1204,User Execution,Execution
+192.168.32.224,Malware,97,T1204,User Execution,Execution
+192.168.33.231,Malware,80,T1204,User Execution,Execution
+192.168.34.238,Phishing,72,T1566,Phishing,Initial Access
+192.168.35.245,Ransomware,53,T1595,Active Scanning,Reconnaissance
+192.168.36.252,Brute Force,62,T1110,Brute Force,Credential Access
+192.168.37.4,Ransomware,83,T1595,Active Scanning,Reconnaissance
+192.168.38.11,Malware,57,T1204,User Execution,Execution
+192.168.39.18,Malware,67,T1204,User Execution,Execution
+192.168.40.25,Credential Dumping,64,T1595,Active Scanning,Reconnaissance
+192.168.41.32,Credential Dumping,100,T1595,Active Scanning,Reconnaissance
+192.168.42.39,Ransomware,56,T1595,Active Scanning,Reconnaissance
+192.168.43.46,Phishing,70,T1566,Phishing,Initial Access
+192.168.44.53,Phishing,50,T1566,Phishing,Initial Access
+192.168.45.60,Brute Force,54,T1110,Brute Force,Credential Access
+192.168.46.67,Ransomware,87,T1595,Active Scanning,Reconnaissance
+192.168.47.74,Credential Dumping,51,T1595,Active Scanning,Reconnaissance
+192.168.48.81,Malware,99,T1204,User Execution,Execution
+192.168.49.88,Credential Dumping,84,T1595,Active Scanning,Reconnaissance
+192.168.50.95,Phishing,72,T1566,Phishing,Initial Access
+192.168.51.102,Brute Force,59,T1110,Brute Force,Credential Access
+192.168.52.109,Phishing,65,T1566,Phishing,Initial Access
+192.168.53.116,Phishing,62,T1566,Phishing,Initial Access
+192.168.54.123,Ransomware,66,T1595,Active Scanning,Reconnaissance
+192.168.55.130,Credential Dumping,69,T1595,Active Scanning,Reconnaissance
+192.168.56.137,Ransomware,100,T1595,Active Scanning,Reconnaissance
+192.168.57.144,Phishing,81,T1566,Phishing,Initial Access
+192.168.58.151,Ransomware,69,T1595,Active Scanning,Reconnaissance
+192.168.59.158,Brute Force,63,T1110,Brute Force,Credential Access
+192.168.60.165,Brute Force,50,T1110,Brute Force,Credential Access
+192.168.61.172,Brute Force,72,T1110,Brute Force,Credential Access
+192.168.62.179,Brute Force,96,T1110,Brute Force,Credential Access
+192.168.63.186,Phishing,80,T1566,Phishing,Initial Access
+192.168.64.193,Credential Dumping,66,T1595,Active Scanning,Reconnaissance
+192.168.65.200,Ransomware,87,T1595,Active Scanning,Reconnaissance
+192.168.66.207,Phishing,85,T1566,Phishing,Initial Access
+192.168.67.214,Phishing,74,T1566,Phishing,Initial Access
+192.168.68.221,Phishing,72,T1566,Phishing,Initial Access
+192.168.69.228,Credential Dumping,99,T1595,Active Scanning,Reconnaissance
+192.168.70.235,Ransomware,87,T1595,Active Scanning,Reconnaissance
+192.168.71.242,Brute Force,75,T1110,Brute Force,Credential Access
+192.168.72.249,Brute Force,67,T1110,Brute Force,Credential Access
+192.168.73.1,Phishing,53,T1566,Phishing,Initial Access
+192.168.74.8,Malware,58,T1204,User Execution,Execution
+192.168.75.15,Phishing,81,T1566,Phishing,Initial Access
+192.168.76.22,Brute Force,88,T1110,Brute Force,Credential Access
+192.168.77.29,Malware,51,T1204,User Execution,Execution
+192.168.78.36,Brute Force,80,T1110,Brute Force,Credential Access
+192.168.79.43,Ransomware,77,T1595,Active Scanning,Reconnaissance
+192.168.80.50,Malware,82,T1204,User Execution,Execution
+192.168.81.57,Credential Dumping,68,T1595,Active Scanning,Reconnaissance
+192.168.82.64,Phishing,74,T1566,Phishing,Initial Access
+192.168.83.71,Credential Dumping,51,T1595,Active Scanning,Reconnaissance
+192.168.84.78,Brute Force,91,T1110,Brute Force,Credential Access
+192.168.85.85,Brute Force,79,T1110,Brute Force,Credential Access
+192.168.86.92,Malware,72,T1204,User Execution,Execution
+192.168.87.99,Malware,91,T1204,User Execution,Execution
+192.168.88.106,Malware,75,T1204,User Execution,Execution
+192.168.89.113,Credential Dumping,86,T1595,Active Scanning,Reconnaissance
+192.168.90.120,Malware,87,T1204,User Execution,Execution
+192.168.91.127,Brute Force,64,T1110,Brute Force,Credential Access
+192.168.92.134,Credential Dumping,99,T1595,Active Scanning,Reconnaissance
+192.168.93.141,Malware,54,T1204,User Execution,Execution
+192.168.94.148,Brute Force,98,T1110,Brute Force,Credential Access
+192.168.95.155,Malware,94,T1204,User Execution,Execution
+192.168.96.162,Malware,78,T1204,User Execution,Execution
+192.168.97.169,Malware,55,T1204,User Execution,Execution
+192.168.98.176,Malware,50,T1204,User Execution,Execution
+192.168.99.183,Phishing,62,T1566,Phishing,Initial Access
+192.168.100.190,Ransomware,89,T1595,Active Scanning,Reconnaissance
+192.168.101.197,Credential Dumping,54,T1595,Active Scanning,Reconnaissance
+192.168.102.204,Brute Force,64,T1110,Brute Force,Credential Access
+192.168.103.211,Brute Force,66,T1110,Brute Force,Credential Access
+192.168.104.218,Malware,84,T1204,User Execution,Execution
+192.168.105.225,Credential Dumping,87,T1595,Active Scanning,Reconnaissance
+192.168.106.232,Brute Force,76,T1110,Brute Force,Credential Access
+192.168.107.239,Malware,98,T1204,User Execution,Execution
+192.168.108.246,Malware,86,T1204,User Execution,Execution
+192.168.109.253,Phishing,88,T1566,Phishing,Initial Access
+192.168.110.5,Ransomware,67,T1595,Active Scanning,Reconnaissance
+192.168.111.12,Credential Dumping,77,T1595,Active Scanning,Reconnaissance
+192.168.112.19,Brute Force,99,T1110,Brute Force,Credential Access
+192.168.113.26,Brute Force,74,T1110,Brute Force,Credential Access
+192.168.114.33,Credential Dumping,78,T1595,Active Scanning,Reconnaissance
+192.168.115.40,Phishing,77,T1566,Phishing,Initial Access
+192.168.116.47,Ransomware,76,T1595,Active Scanning,Reconnaissance
+192.168.117.54,Brute Force,54,T1110,Brute Force,Credential Access
+192.168.118.61,Phishing,72,T1566,Phishing,Initial Access
+192.168.119.68,Phishing,80,T1566,Phishing,Initial Access
+192.168.120.75,Brute Force,81,T1110,Brute Force,Credential Access
+192.168.121.82,Malware,73,T1204,User Execution,Execution
+192.168.122.89,Ransomware,94,T1595,Active Scanning,Reconnaissance
+192.168.123.96,Phishing,67,T1566,Phishing,Initial Access
+192.168.124.103,Ransomware,97,T1595,Active Scanning,Reconnaissance
+192.168.125.110,Malware,94,T1204,User Execution,Execution
+192.168.126.117,Brute Force,52,T1110,Brute Force,Credential Access
+192.168.127.124,Phishing,67,T1566,Phishing,Initial Access
+192.168.128.131,Credential Dumping,52,T1595,Active Scanning,Reconnaissance
+192.168.129.138,Credential Dumping,52,T1595,Active Scanning,Reconnaissance
+192.168.130.145,Ransomware,98,T1595,Active Scanning,Reconnaissance
+192.168.131.152,Phishing,100,T1566,Phishing,Initial Access
+192.168.132.159,Brute Force,84,T1110,Brute Force,Credential Access
+192.168.133.166,Malware,97,T1204,User Execution,Execution
+192.168.134.173,Phishing,65,T1566,Phishing,Initial Access
+192.168.135.180,Brute Force,67,T1110,Brute Force,Credential Access
+192.168.136.187,Brute Force,66,T1110,Brute Force,Credential Access
+192.168.137.194,Credential Dumping,52,T1595,Active Scanning,Reconnaissance
+192.168.138.201,Credential Dumping,67,T1595,Active Scanning,Reconnaissance
+192.168.139.208,Credential Dumping,99,T1595,Active Scanning,Reconnaissance
+192.168.140.215,Malware,59,T1204,User Execution,Execution
+192.168.141.222,Brute Force,93,T1110,Brute Force,Credential Access
+192.168.142.229,Brute Force,95,T1110,Brute Force,Credential Access
+192.168.143.236,Phishing,72,T1566,Phishing,Initial Access
+192.168.144.243,Brute Force,63,T1110,Brute Force,Credential Access
+192.168.145.250,Brute Force,59,T1110,Brute Force,Credential Access
+192.168.146.2,Phishing,80,T1566,Phishing,Initial Access
+192.168.147.9,Phishing,59,T1566,Phishing,Initial Access
+192.168.148.16,Phishing,74,T1566,Phishing,Initial Access
+192.168.149.23,Credential Dumping,64,T1595,Active Scanning,Reconnaissance
+192.168.150.30,Ransomware,88,T1595,Active Scanning,Reconnaissance
+192.168.151.37,Phishing,86,T1566,Phishing,Initial Access
+192.168.152.44,Malware,79,T1204,User Execution,Execution
+192.168.153.51,Malware,73,T1204,User Execution,Execution
+192.168.154.58,Phishing,78,T1566,Phishing,Initial Access
+192.168.155.65,Ransomware,93,T1595,Active Scanning,Reconnaissance
+192.168.156.72,Phishing,57,T1566,Phishing,Initial Access
+192.168.157.79,Ransomware,61,T1595,Active Scanning,Reconnaissance
+192.168.158.86,Credential Dumping,97,T1595,Active Scanning,Reconnaissance
+192.168.159.93,Credential Dumping,54,T1595,Active Scanning,Reconnaissance
+192.168.160.100,Credential Dumping,75,T1595,Active Scanning,Reconnaissance
+192.168.161.107,Brute Force,87,T1110,Brute Force,Credential Access
+192.168.162.114,Brute Force,76,T1110,Brute Force,Credential Access
+192.168.163.121,Phishing,96,T1566,Phishing,Initial Access
+192.168.164.128,Malware,93,T1204,User Execution,Execution
+192.168.165.135,Credential Dumping,99,T1595,Active Scanning,Reconnaissance
+192.168.166.142,Phishing,68,T1566,Phishing,Initial Access
+192.168.167.149,Malware,77,T1204,User Execution,Execution
+192.168.168.156,Brute Force,60,T1110,Brute Force,Credential Access
+192.168.169.163,Credential Dumping,68,T1595,Active Scanning,Reconnaissance
+192.168.170.170,Malware,56,T1204,User Execution,Execution
+192.168.171.177,Brute Force,50,T1110,Brute Force,Credential Access
+192.168.172.184,Phishing,86,T1566,Phishing,Initial Access
+192.168.173.191,Credential Dumping,95,T1595,Active Scanning,Reconnaissance
+192.168.174.198,Credential Dumping,66,T1595,Active Scanning,Reconnaissance
+192.168.175.205,Brute Force,97,T1110,Brute Force,Credential Access
+192.168.176.212,Malware,79,T1204,User Execution,Execution
+192.168.177.219,Phishing,56,T1566,Phishing,Initial Access
+192.168.178.226,Malware,65,T1204,User Execution,Execution
+192.168.179.233,Malware,59,T1204,User Execution,Execution
+192.168.180.240,Phishing,90,T1566,Phishing,Initial Access
+192.168.181.247,Brute Force,81,T1110,Brute Force,Credential Access
+192.168.182.254,Brute Force,89,T1110,Brute Force,Credential Access
+192.168.183.6,Phishing,69,T1566,Phishing,Initial Access
+192.168.184.13,Credential Dumping,84,T1595,Active Scanning,Reconnaissance
+192.168.185.20,Brute Force,78,T1110,Brute Force,Credential Access
+192.168.186.27,Brute Force,70,T1110,Brute Force,Credential Access
+192.168.187.34,Malware,88,T1204,User Execution,Execution
+192.168.188.41,Phishing,100,T1566,Phishing,Initial Access
+192.168.189.48,Phishing,75,T1566,Phishing,Initial Access
+192.168.190.55,Brute Force,96,T1110,Brute Force,Credential Access
+192.168.191.62,Phishing,64,T1566,Phishing,Initial Access
+192.168.192.69,Brute Force,88,T1110,Brute Force,Credential Access
+192.168.193.76,Credential Dumping,72,T1595,Active Scanning,Reconnaissance
+192.168.194.83,Ransomware,84,T1595,Active Scanning,Reconnaissance
+192.168.195.90,Malware,73,T1204,User Execution,Execution
+192.168.196.97,Brute Force,98,T1110,Brute Force,Credential Access
+192.168.197.104,Credential Dumping,68,T1595,Active Scanning,Reconnaissance
+192.168.198.111,Brute Force,100,T1110,Brute Force,Credential Access
+192.168.199.118,Phishing,54,T1566,Phishing,Initial Access
+192.168.200.125,Brute Force,56,T1110,Brute Force,Credential Access
+192.168.201.132,Malware,77,T1204,User Execution,Execution
+192.168.202.139,Phishing,56,T1566,Phishing,Initial Access
+192.168.203.146,Credential Dumping,55,T1595,Active Scanning,Reconnaissance
+192.168.204.153,Credential Dumping,74,T1595,Active Scanning,Reconnaissance
+192.168.205.160,Phishing,64,T1566,Phishing,Initial Access
+192.168.206.167,Malware,80,T1204,User Execution,Execution
+192.168.207.174,Phishing,56,T1566,Phishing,Initial Access
+192.168.208.181,Ransomware,59,T1595,Active Scanning,Reconnaissance
+192.168.209.188,Ransomware,99,T1595,Active Scanning,Reconnaissance
+192.168.210.195,Phishing,70,T1566,Phishing,Initial Access
+192.168.211.202,Brute Force,98,T1110,Brute Force,Credential Access
+192.168.212.209,Phishing,79,T1566,Phishing,Initial Access
+192.168.213.216,Brute Force,74,T1110,Brute Force,Credential Access
+192.168.214.223,Ransomware,62,T1595,Active Scanning,Reconnaissance
+192.168.215.230,Brute Force,60,T1110,Brute Force,Credential Access
+192.168.216.237,Malware,50,T1204,User Execution,Execution
+192.168.217.244,Phishing,86,T1566,Phishing,Initial Access
+192.168.218.251,Ransomware,83,T1595,Active Scanning,Reconnaissance
+192.168.219.3,Malware,60,T1204,User Execution,Execution
+192.168.220.10,Brute Force,61,T1110,Brute Force,Credential Access
+192.168.221.17,Phishing,94,T1566,Phishing,Initial Access
+192.168.222.24,Brute Force,88,T1110,Brute Force,Credential Access
+192.168.223.31,Phishing,67,T1566,Phishing,Initial Access
+192.168.224.38,Ransomware,89,T1595,Active Scanning,Reconnaissance
+192.168.225.45,Brute Force,96,T1110,Brute Force,Credential Access
+192.168.226.52,Ransomware,83,T1595,Active Scanning,Reconnaissance
+192.168.227.59,Phishing,63,T1566,Phishing,Initial Access
+192.168.228.66,Malware,59,T1204,User Execution,Execution
+192.168.229.73,Phishing,58,T1566,Phishing,Initial Access
+192.168.230.80,Credential Dumping,82,T1595,Active Scanning,Reconnaissance
+192.168.231.87,Credential Dumping,72,T1595,Active Scanning,Reconnaissance
+192.168.232.94,Ransomware,60,T1595,Active Scanning,Reconnaissance
+192.168.233.101,Credential Dumping,94,T1595,Active Scanning,Reconnaissance
+192.168.234.108,Phishing,73,T1566,Phishing,Initial Access
+192.168.235.115,Credential Dumping,74,T1595,Active Scanning,Reconnaissance
+192.168.236.122,Malware,83,T1204,User Execution,Execution
+192.168.237.129,Phishing,66,T1566,Phishing,Initial Access
+192.168.238.136,Brute Force,75,T1110,Brute Force,Credential Access
+192.168.239.143,Phishing,95,T1566,Phishing,Initial Access
+192.168.240.150,Credential Dumping,97,T1595,Active Scanning,Reconnaissance
+192.168.241.157,Brute Force,89,T1110,Brute Force,Credential Access
+192.168.242.164,Malware,57,T1204,User Execution,Execution
+192.168.243.171,Phishing,62,T1566,Phishing,Initial Access
+192.168.244.178,Phishing,87,T1566,Phishing,Initial Access
+192.168.245.185,Credential Dumping,54,T1595,Active Scanning,Reconnaissance
+192.168.246.192,Phishing,78,T1566,Phishing,Initial Access
+192.168.247.199,Ransomware,90,T1595,Active Scanning,Reconnaissance
+192.168.248.206,Phishing,57,T1566,Phishing,Initial Access
+192.168.249.213,Ransomware,57,T1595,Active Scanning,Reconnaissance
+192.168.250.220,Malware,99,T1204,User Execution,Execution
+192.168.251.227,Phishing,96,T1566,Phishing,Initial Access
+192.168.252.234,Malware,74,T1204,User Execution,Execution
+192.168.253.241,Malware,64,T1204,User Execution,Execution
+192.168.254.248,Malware,94,T1204,User Execution,Execution
+192.168.0.0,Phishing,99,T1566,Phishing,Initial Access
+192.168.1.7,Brute Force,84,T1110,Brute Force,Credential Access
+192.168.2.14,Phishing,71,T1566,Phishing,Initial Access
+192.168.3.21,Brute Force,63,T1110,Brute Force,Credential Access
+192.168.4.28,Ransomware,58,T1595,Active Scanning,Reconnaissance
+192.168.5.35,Ransomware,70,T1595,Active Scanning,Reconnaissance
+192.168.6.42,Brute Force,80,T1110,Brute Force,Credential Access
+192.168.7.49,Malware,60,T1204,User Execution,Execution
+192.168.8.56,Credential Dumping,96,T1595,Active Scanning,Reconnaissance
+192.168.9.63,Phishing,80,T1566,Phishing,Initial Access
+192.168.10.70,Malware,77,T1204,User Execution,Execution
+192.168.11.77,Ransomware,82,T1595,Active Scanning,Reconnaissance
+192.168.12.84,Ransomware,92,T1595,Active Scanning,Reconnaissance
+192.168.13.91,Brute Force,72,T1110,Brute Force,Credential Access
+192.168.14.98,Brute Force,61,T1110,Brute Force,Credential Access
+192.168.15.105,Malware,55,T1204,User Execution,Execution
+192.168.16.112,Brute Force,72,T1110,Brute Force,Credential Access
+192.168.17.119,Malware,79,T1204,User Execution,Execution
+192.168.18.126,Credential Dumping,98,T1595,Active Scanning,Reconnaissance
+192.168.19.133,Phishing,84,T1566,Phishing,Initial Access
+192.168.20.140,Malware,73,T1204,User Execution,Execution
+192.168.21.147,Ransomware,91,T1595,Active Scanning,Reconnaissance
+192.168.22.154,Brute Force,77,T1110,Brute Force,Credential Access
+192.168.23.161,Credential Dumping,69,T1595,Active Scanning,Reconnaissance
+192.168.24.168,Brute Force,61,T1110,Brute Force,Credential Access
+192.168.25.175,Credential Dumping,93,T1595,Active Scanning,Reconnaissance
+192.168.26.182,Brute Force,58,T1110,Brute Force,Credential Access
+192.168.27.189,Brute Force,77,T1110,Brute Force,Credential Access
+192.168.28.196,Brute Force,99,T1110,Brute Force,Credential Access
+192.168.29.203,Brute Force,84,T1110,Brute Force,Credential Access
+192.168.30.210,Malware,95,T1204,User Execution,Execution
+192.168.31.217,Credential Dumping,68,T1595,Active Scanning,Reconnaissance
+192.168.32.224,Credential Dumping,88,T1595,Active Scanning,Reconnaissance
+192.168.33.231,Phishing,84,T1566,Phishing,Initial Access
+192.168.34.238,Credential Dumping,70,T1595,Active Scanning,Reconnaissance
+192.168.35.245,Phishing,65,T1566,Phishing,Initial Access
+192.168.36.252,Malware,77,T1204,User Execution,Execution
+192.168.37.4,Ransomware,52,T1595,Active Scanning,Reconnaissance
+192.168.38.11,Malware,82,T1204,User Execution,Execution
+192.168.39.18,Credential Dumping,61,T1595,Active Scanning,Reconnaissance
+192.168.40.25,Credential Dumping,86,T1595,Active Scanning,Reconnaissance
+192.168.41.32,Brute Force,63,T1110,Brute Force,Credential Access
+192.168.42.39,Phishing,61,T1566,Phishing,Initial Access
+192.168.43.46,Credential Dumping,100,T1595,Active Scanning,Reconnaissance
+192.168.44.53,Phishing,56,T1566,Phishing,Initial Access
+192.168.45.60,Malware,96,T1204,User Execution,Execution
+192.168.46.67,Ransomware,84,T1595,Active Scanning,Reconnaissance
+192.168.47.74,Phishing,72,T1566,Phishing,Initial Access
+192.168.48.81,Malware,66,T1204,User Execution,Execution
+192.168.49.88,Credential Dumping,63,T1595,Active Scanning,Reconnaissance
+192.168.50.95,Phishing,78,T1566,Phishing,Initial Access
+192.168.51.102,Ransomware,86,T1595,Active Scanning,Reconnaissance
+192.168.52.109,Phishing,74,T1566,Phishing,Initial Access
+192.168.53.116,Brute Force,63,T1110,Brute Force,Credential Access
+192.168.54.123,Malware,72,T1204,User Execution,Execution
+192.168.55.130,Phishing,92,T1566,Phishing,Initial Access
+192.168.56.137,Ransomware,75,T1595,Active Scanning,Reconnaissance
+192.168.57.144,Credential Dumping,75,T1595,Active Scanning,Reconnaissance
+192.168.58.151,Credential Dumping,74,T1595,Active Scanning,Reconnaissance
+192.168.59.158,Credential Dumping,89,T1595,Active Scanning,Reconnaissance
+192.168.60.165,Ransomware,70,T1595,Active Scanning,Reconnaissance
+192.168.61.172,Brute Force,97,T1110,Brute Force,Credential Access
+192.168.62.179,Ransomware,79,T1595,Active Scanning,Reconnaissance
+192.168.63.186,Malware,70,T1204,User Execution,Execution
+192.168.64.193,Malware,65,T1204,User Execution,Execution
+192.168.65.200,Malware,88,T1204,User Execution,Execution
+192.168.66.207,Malware,50,T1204,User Execution,Execution
+192.168.67.214,Ransomware,54,T1595,Active Scanning,Reconnaissance
+192.168.68.221,Ransomware,80,T1595,Active Scanning,Reconnaissance
+192.168.69.228,Brute Force,95,T1110,Brute Force,Credential Access
+192.168.70.235,Credential Dumping,59,T1595,Active Scanning,Reconnaissance
+192.168.71.242,Malware,92,T1204,User Execution,Execution
+192.168.72.249,Credential Dumping,56,T1595,Active Scanning,Reconnaissance
+192.168.73.1,Credential Dumping,98,T1595,Active Scanning,Reconnaissance
+192.168.74.8,Phishing,86,T1566,Phishing,Initial Access
+192.168.75.15,Malware,64,T1204,User Execution,Execution
+192.168.76.22,Phishing,80,T1566,Phishing,Initial Access
+192.168.77.29,Malware,88,T1204,User Execution,Execution
+192.168.78.36,Malware,87,T1204,User Execution,Execution
+192.168.79.43,Phishing,80,T1566,Phishing,Initial Access
+192.168.80.50,Malware,74,T1204,User Execution,Execution
+192.168.81.57,Malware,50,T1204,User Execution,Execution
+192.168.82.64,Malware,64,T1204,User Execution,Execution
+192.168.83.71,Malware,79,T1204,User Execution,Execution
+192.168.84.78,Ransomware,73,T1595,Active Scanning,Reconnaissance
+192.168.85.85,Phishing,85,T1566,Phishing,Initial Access
+192.168.86.92,Brute Force,65,T1110,Brute Force,Credential Access
+192.168.87.99,Malware,61,T1204,User Execution,Execution
+192.168.88.106,Ransomware,97,T1595,Active Scanning,Reconnaissance
+192.168.89.113,Malware,63,T1204,User Execution,Execution
+192.168.90.120,Credential Dumping,70,T1595,Active Scanning,Reconnaissance
+192.168.91.127,Brute Force,80,T1110,Brute Force,Credential Access
+192.168.92.134,Ransomware,86,T1595,Active Scanning,Reconnaissance
+192.168.93.141,Credential Dumping,50,T1595,Active Scanning,Reconnaissance
+192.168.94.148,Credential Dumping,82,T1595,Active Scanning,Reconnaissance
+192.168.95.155,Phishing,67,T1566,Phishing,Initial Access
+192.168.96.162,Credential Dumping,81,T1595,Active Scanning,Reconnaissance
+192.168.97.169,Credential Dumping,54,T1595,Active Scanning,Reconnaissance
+192.168.98.176,Credential Dumping,62,T1595,Active Scanning,Reconnaissance
+192.168.99.183,Phishing,99,T1566,Phishing,Initial Access
+192.168.100.190,Ransomware,70,T1595,Active Scanning,Reconnaissance
+192.168.101.197,Malware,70,T1204,User Execution,Execution
+192.168.102.204,Phishing,80,T1566,Phishing,Initial Access
+192.168.103.211,Phishing,78,T1566,Phishing,Initial Access
+192.168.104.218,Credential Dumping,53,T1595,Active Scanning,Reconnaissance
+192.168.105.225,Credential Dumping,95,T1595,Active Scanning,Reconnaissance
+192.168.106.232,Phishing,70,T1566,Phishing,Initial Access
+192.168.107.239,Ransomware,89,T1595,Active Scanning,Reconnaissance
+192.168.108.246,Brute Force,60,T1110,Brute Force,Credential Access
+192.168.109.253,Brute Force,65,T1110,Brute Force,Credential Access
+192.168.110.5,Brute Force,90,T1110,Brute Force,Credential Access
+192.168.111.12,Credential Dumping,80,T1595,Active Scanning,Reconnaissance
+192.168.112.19,Phishing,59,T1566,Phishing,Initial Access
+192.168.113.26,Ransomware,65,T1595,Active Scanning,Reconnaissance
+192.168.114.33,Ransomware,58,T1595,Active Scanning,Reconnaissance
+192.168.115.40,Phishing,61,T1566,Phishing,Initial Access
+192.168.116.47,Phishing,93,T1566,Phishing,Initial Access
+192.168.117.54,Malware,77,T1204,User Execution,Execution
+192.168.118.61,Ransomware,51,T1595,Active Scanning,Reconnaissance
+192.168.119.68,Ransomware,68,T1595,Active Scanning,Reconnaissance
+192.168.120.75,Brute Force,84,T1110,Brute Force,Credential Access
+192.168.121.82,Ransomware,98,T1595,Active Scanning,Reconnaissance
+192.168.122.89,Phishing,97,T1566,Phishing,Initial Access
+192.168.123.96,Malware,83,T1204,User Execution,Execution
+192.168.124.103,Brute Force,50,T1110,Brute Force,Credential Access
+192.168.125.110,Brute Force,77,T1110,Brute Force,Credential Access
+192.168.126.117,Ransomware,91,T1595,Active Scanning,Reconnaissance
+192.168.127.124,Ransomware,99,T1595,Active Scanning,Reconnaissance
+192.168.128.131,Brute Force,99,T1110,Brute Force,Credential Access
+192.168.129.138,Phishing,92,T1566,Phishing,Initial Access
+192.168.130.145,Credential Dumping,63,T1595,Active Scanning,Reconnaissance
+192.168.131.152,Brute Force,78,T1110,Brute Force,Credential Access
+192.168.132.159,Credential Dumping,78,T1595,Active Scanning,Reconnaissance
+192.168.133.166,Ransomware,61,T1595,Active Scanning,Reconnaissance
+192.168.134.173,Malware,81,T1204,User Execution,Execution
+192.168.135.180,Credential Dumping,55,T1595,Active Scanning,Reconnaissance
+192.168.136.187,Ransomware,51,T1595,Active Scanning,Reconnaissance
+192.168.137.194,Credential Dumping,73,T1595,Active Scanning,Reconnaissance
+192.168.138.201,Phishing,91,T1566,Phishing,Initial Access
+192.168.139.208,Brute Force,52,T1110,Brute Force,Credential Access
+192.168.140.215,Ransomware,83,T1595,Active Scanning,Reconnaissance
+192.168.141.222,Brute Force,97,T1110,Brute Force,Credential Access
+192.168.142.229,Malware,61,T1204,User Execution,Execution
+192.168.143.236,Phishing,51,T1566,Phishing,Initial Access
+192.168.144.243,Phishing,51,T1566,Phishing,Initial Access
+192.168.145.250,Brute Force,52,T1110,Brute Force,Credential Access
+192.168.146.2,Malware,72,T1204,User Execution,Execution
+192.168.147.9,Brute Force,76,T1110,Brute Force,Credential Access
+192.168.148.16,Phishing,66,T1566,Phishing,Initial Access
+192.168.149.23,Ransomware,81,T1595,Active Scanning,Reconnaissance
+192.168.150.30,Malware,59,T1204,User Execution,Execution
+192.168.151.37,Credential Dumping,65,T1595,Active Scanning,Reconnaissance
+192.168.152.44,Phishing,98,T1566,Phishing,Initial Access
+192.168.153.51,Malware,90,T1204,User Execution,Execution
+192.168.154.58,Brute Force,100,T1110,Brute Force,Credential Access
+192.168.155.65,Brute Force,72,T1110,Brute Force,Credential Access
+192.168.156.72,Credential Dumping,89,T1595,Active Scanning,Reconnaissance
+192.168.157.79,Phishing,61,T1566,Phishing,Initial Access
+192.168.158.86,Ransomware,92,T1595,Active Scanning,Reconnaissance
+192.168.159.93,Brute Force,91,T1110,Brute Force,Credential Access
+192.168.160.100,Brute Force,57,T1110,Brute Force,Credential Access
+192.168.161.107,Malware,78,T1204,User Execution,Execution
+192.168.162.114,Ransomware,82,T1595,Active Scanning,Reconnaissance
+192.168.163.121,Brute Force,83,T1110,Brute Force,Credential Access
+192.168.164.128,Ransomware,94,T1595,Active Scanning,Reconnaissance
+192.168.165.135,Brute Force,98,T1110,Brute Force,Credential Access
+192.168.166.142,Malware,75,T1204,User Execution,Execution
+192.168.167.149,Credential Dumping,58,T1595,Active Scanning,Reconnaissance
+192.168.168.156,Brute Force,63,T1110,Brute Force,Credential Access
+192.168.169.163,Brute Force,59,T1110,Brute Force,Credential Access
+192.168.170.170,Credential Dumping,75,T1595,Active Scanning,Reconnaissance
+192.168.171.177,Brute Force,58,T1110,Brute Force,Credential Access
+192.168.172.184,Malware,93,T1204,User Execution,Execution
+192.168.173.191,Brute Force,99,T1110,Brute Force,Credential Access
+192.168.174.198,Credential Dumping,84,T1595,Active Scanning,Reconnaissance
+192.168.175.205,Brute Force,52,T1110,Brute Force,Credential Access
+192.168.176.212,Brute Force,87,T1110,Brute Force,Credential Access
+192.168.177.219,Phishing,55,T1566,Phishing,Initial Access
+192.168.178.226,Malware,76,T1204,User Execution,Execution
+192.168.179.233,Phishing,76,T1566,Phishing,Initial Access
+192.168.180.240,Brute Force,95,T1110,Brute Force,Credential Access
+192.168.181.247,Malware,56,T1204,User Execution,Execution
+192.168.182.254,Ransomware,88,T1595,Active Scanning,Reconnaissance
+192.168.183.6,Ransomware,98,T1595,Active Scanning,Reconnaissance
+192.168.184.13,Credential Dumping,91,T1595,Active Scanning,Reconnaissance
+192.168.185.20,Credential Dumping,63,T1595,Active Scanning,Reconnaissance
+192.168.186.27,Brute Force,51,T1110,Brute Force,Credential Access
+192.168.187.34,Phishing,65,T1566,Phishing,Initial Access
+192.168.188.41,Phishing,99,T1566,Phishing,Initial Access
+192.168.189.48,Credential Dumping,81,T1595,Active Scanning,Reconnaissance
+192.168.190.55,Phishing,96,T1566,Phishing,Initial Access
+192.168.191.62,Ransomware,98,T1595,Active Scanning,Reconnaissance
+192.168.192.69,Phishing,73,T1566,Phishing,Initial Access
+192.168.193.76,Brute Force,87,T1110,Brute Force,Credential Access
+192.168.194.83,Ransomware,89,T1595,Active Scanning,Reconnaissance
+192.168.195.90,Brute Force,59,T1110,Brute Force,Credential Access
+192.168.196.97,Credential Dumping,56,T1595,Active Scanning,Reconnaissance
+192.168.197.104,Ransomware,64,T1595,Active Scanning,Reconnaissance
+192.168.198.111,Ransomware,51,T1595,Active Scanning,Reconnaissance
+192.168.199.118,Malware,91,T1204,User Execution,Execution
+192.168.200.125,Malware,78,T1204,User Execution,Execution
+192.168.201.132,Credential Dumping,90,T1595,Active Scanning,Reconnaissance
+192.168.202.139,Phishing,77,T1566,Phishing,Initial Access
+192.168.203.146,Phishing,94,T1566,Phishing,Initial Access
+192.168.204.153,Ransomware,100,T1595,Active Scanning,Reconnaissance
+192.168.205.160,Brute Force,95,T1110,Brute Force,Credential Access
+192.168.206.167,Credential Dumping,79,T1595,Active Scanning,Reconnaissance
+192.168.207.174,Brute Force,85,T1110,Brute Force,Credential Access
+192.168.208.181,Phishing,54,T1566,Phishing,Initial Access
+192.168.209.188,Ransomware,95,T1595,Active Scanning,Reconnaissance
+192.168.210.195,Credential Dumping,69,T1595,Active Scanning,Reconnaissance
+192.168.211.202,Phishing,59,T1566,Phishing,Initial Access
+192.168.212.209,Brute Force,87,T1110,Brute Force,Credential Access
+192.168.213.216,Ransomware,96,T1595,Active Scanning,Reconnaissance
+192.168.214.223,Ransomware,51,T1595,Active Scanning,Reconnaissance
+192.168.215.230,Phishing,75,T1566,Phishing,Initial Access
