@@ -1,0 +1,250 @@
+{
+    "model": "Isolation Forest",
+    "evaluation_type": "Unsupervised Anomaly Detection",
+    "total_events": 10000,
+    "normal_events": 9500,
+    "suspicious_events": 500,
+    "anomaly_rate_percent": 5.0,
+    "ground_truth_available": false,
+    "accuracy": null,
+    "precision": null,
+    "recall": null,
+    "f1_score": null,
+    "confusion_matrix": null,
+    "anomaly_score_statistics": {
+        "minimum": -0.071318,
+        "maximum": 0.179586,
+        "mean": 0.083861,
+        "median": 0.090239,
+        "standard_deviation": 0.045751
+    },
+    "suspicious_score_statistics": {
+        "minimum": -0.0713178293473956,
+        "maximum": -0.0001139262086823,
+        "mean": -0.017855794958722845
+    },
+    "top_anomalies": [
+        {
+            "rank": 1,
+            "anomaly_score": -0.0713178293473956,
+            "prediction": "Suspicious"
+        },
+        {
+            "rank": 2,
+            "anomaly_score": -0.0685632778269882,
+            "prediction": "Suspicious"
+        },
+        {
+            "rank": 3,
+            "anomaly_score": -0.0685631778540901,
+            "prediction": "Suspicious"
+        },
+        {
+            "rank": 4,
+            "anomaly_score": -0.068361967996716,
+            "prediction": "Suspicious"
+        },
+        {
+            "rank": 5,
+            "anomaly_score": -0.0672913847262051,
+            "prediction": "Suspicious"
+        },
+        {
+            "rank": 6,
+            "anomaly_score": -0.0658635260600973,
+            "prediction": "Suspicious"
+        },
+        {
+            "rank": 7,
+            "anomaly_score": -0.0618255658087608,
+            "prediction": "Suspicious"
+        },
+        {
+            "rank": 8,
+            "anomaly_score": -0.0617919787996698,
+            "prediction": "Suspicious"
+        },
+        {
+            "rank": 9,
+            "anomaly_score": -0.0611762931688814,
+            "prediction": "Suspicious"
+        },
+        {
+            "rank": 10,
+            "anomaly_score": -0.0599380025921857,
+            "prediction": "Suspicious"
+        }
+    ],
+    "event_type_analysis": [
+        {
+            "event_type_enc": 0,
+            "total_events": 457,
+            "suspicious_events": 38,
+            "anomaly_rate_percent": 8.32
+        },
+        {
+            "event_type_enc": 1,
+            "total_events": 417,
+            "suspicious_events": 26,
+            "anomaly_rate_percent": 6.24
+        },
+        {
+            "event_type_enc": 2,
+            "total_events": 373,
+            "suspicious_events": 17,
+            "anomaly_rate_percent": 4.56
+        },
+        {
+            "event_type_enc": 3,
+            "total_events": 418,
+            "suspicious_events": 20,
+            "anomaly_rate_percent": 4.78
+        },
+        {
+            "event_type_enc": 4,
+            "total_events": 403,
+            "suspicious_events": 25,
+            "anomaly_rate_percent": 6.2
+        },
+        {
+            "event_type_enc": 5,
+            "total_events": 417,
+            "suspicious_events": 19,
+            "anomaly_rate_percent": 4.56
+        },
+        {
+            "event_type_enc": 6,
+            "total_events": 414,
+            "suspicious_events": 14,
+            "anomaly_rate_percent": 3.38
+        },
+        {
+            "event_type_enc": 7,
+            "total_events": 404,
+            "suspicious_events": 13,
+            "anomaly_rate_percent": 3.22
+        },
+        {
+            "event_type_enc": 8,
+            "total_events": 413,
+            "suspicious_events": 12,
+            "anomaly_rate_percent": 2.91
+        },
+        {
+            "event_type_enc": 9,
+            "total_events": 410,
+            "suspicious_events": 20,
+            "anomaly_rate_percent": 4.88
+        },
+        {
+            "event_type_enc": 10,
+            "total_events": 408,
+            "suspicious_events": 8,
+            "anomaly_rate_percent": 1.96
+        },
+        {
+            "event_type_enc": 11,
+            "total_events": 447,
+            "suspicious_events": 12,
+            "anomaly_rate_percent": 2.68
+        },
+        {
+            "event_type_enc": 12,
+            "total_events": 400,
+            "suspicious_events": 12,
+            "anomaly_rate_percent": 3.0
+        },
+        {
+            "event_type_enc": 13,
+            "total_events": 412,
+            "suspicious_events": 12,
+            "anomaly_rate_percent": 2.91
+        },
+        {
+            "event_type_enc": 14,
+            "total_events": 440,
+            "suspicious_events": 11,
+            "anomaly_rate_percent": 2.5
+        },
+        {
+            "event_type_enc": 15,
+            "total_events": 436,
+            "suspicious_events": 9,
+            "anomaly_rate_percent": 2.06
+        },
+        {
+            "event_type_enc": 16,
+            "total_events": 421,
+            "suspicious_events": 21,
+            "anomaly_rate_percent": 4.99
+        },
+        {
+            "event_type_enc": 17,
+            "total_events": 413,
+            "suspicious_events": 24,
+            "anomaly_rate_percent": 5.81
+        },
+        {
+            "event_type_enc": 18,
+            "total_events": 405,
+            "suspicious_events": 27,
+            "anomaly_rate_percent": 6.67
+        },
+        {
+            "event_type_enc": 19,
+            "total_events": 418,
+            "suspicious_events": 26,
+            "anomaly_rate_percent": 6.22
+        },
+        {
+            "event_type_enc": 20,
+            "total_events": 414,
+            "suspicious_events": 26,
+            "anomaly_rate_percent": 6.28
+        },
+        {
+            "event_type_enc": 21,
+            "total_events": 414,
+            "suspicious_events": 22,
+            "anomaly_rate_percent": 5.31
+        },
+        {
+            "event_type_enc": 22,
+            "total_events": 437,
+            "suspicious_events": 35,
+            "anomaly_rate_percent": 8.01
+        },
+        {
+            "event_type_enc": 23,
+            "total_events": 409,
+            "suspicious_events": 51,
+            "anomaly_rate_percent": 12.47
+        }
+    ],
+    "severity_analysis": [
+        {
+            "severity_band": "Lowest",
+            "total_events": 2003,
+            "suspicious_events": 129,
+            "anomaly_rate_percent": 6.44
+        },
+        {
+            "severity_band": "Lower-Middle",
+            "total_events": 3523,
+            "suspicious_events": 87,
+            "anomaly_rate_percent": 2.47
+        },
+        {
+            "severity_band": "Upper-Middle",
+            "total_events": 2986,
+            "suspicious_events": 133,
+            "anomaly_rate_percent": 4.45
+        },
+        {
+            "severity_band": "Highest",
+            "total_events": 1488,
+            "suspicious_events": 151,
+            "anomaly_rate_percent": 10.15
+        }
+    ]
+}
