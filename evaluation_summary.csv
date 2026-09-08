@@ -1,0 +1,2 @@
+model,total_events,normal_events,suspicious_events,anomaly_rate_percent,score_min,score_max,score_mean,score_median,score_std
+Isolation Forest,10000,9500,500,5.0,-0.071318,0.179586,0.083861,0.090239,0.045751
