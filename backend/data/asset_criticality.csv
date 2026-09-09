@@ -1,0 +1,451 @@
+asset_id,asset_name,asset_type,owner,department,criticality,criticality_score,operating_system
+AST00001,HR-LAP-0089,Laptop,Destiny,HR,Medium,0.5,Windows 11
+AST00002,OPS-MOB-0070,Mobile Device,Christopher,Operations,Low,0.25,iOS 17
+AST00003,FIN-RTR-0017,Router,Michael,Finance,Medium,0.5,Cisco IOS
+AST00004,MKT-SW-0056,Switch,Dustin,Marketing,Medium,0.5,Arista EOS
+AST00005,HR-DB-0048,Database,Michael,HR,High,0.75,Ubuntu Server 22.04
+AST00006,HR-MOB-0068,Mobile Device,Johnathan,HR,High,0.75,Android 14
+AST00007,FIN-DB-0008,Database,Crystal,Finance,High,0.75,Oracle Linux
+AST00008,ENG-SRV-0075,Server,Joshua,Engineering,Medium,0.5,Ubuntu Server 22.04
+AST00009,HR-SW-0081,Switch,Joseph,HR,High,0.75,Cisco IOS
+AST00010,ENG-LAP-0007,Laptop,Diane,Engineering,Low,0.25,macOS Ventura
+AST00011,MKT-PRT-0028,Printer,Samantha,Marketing,Low,0.25,Embedded Firmware
+AST00012,ENG-IOT-0082,IoT Device,Rodney,Engineering,Low,0.25,Embedded Firmware
+AST00013,IT-PC-0064,Workstation,Cynthia,IT,Medium,0.5,Windows 11
+AST00014,LEG-MOB-0069,Mobile Device,Thomas,Legal,High,0.75,Android 14
+AST00015,ENG-PRT-0056,Printer,Veronica,Engineering,High,0.75,Embedded Firmware
+AST00016,MKT-FW-0072,Firewall,Lauren,Marketing,Medium,0.5,PAN-OS
+AST00017,IT-LAP-0012,Laptop,Jessica,IT,High,0.75,macOS Sonoma
+AST00018,MKT-FW-0124,Firewall,Scott,Marketing,High,0.75,FortiOS
+AST00019,LEG-RTR-0087,Router,Courtney,Legal,High,0.75,Cisco IOS
+AST00020,IT-PC-0092,Workstation,Christina,IT,Critical,1.0,Windows 10
+AST00021,MKT-RTR-0120,Router,Justin,Marketing,High,0.75,JunOS
+AST00022,OPS-MOB-0024,Mobile Device,Jacob,Operations,Medium,0.5,Android 14
+AST00023,ENG-SRV-0065,Server,Michael,Engineering,Medium,0.5,Windows Server 2022
+AST00024,IT-SRV-0132,Server,Whitney,IT,Low,0.25,Windows Server 2022
+AST00025,SAL-SW-0065,Switch,Taylor,Sales,High,0.75,Arista EOS
+AST00026,IT-IOT-0127,IoT Device,Leslie,IT,Medium,0.5,Embedded Firmware
+AST00027,FIN-LAP-0026,Laptop,Robert,Finance,Low,0.25,macOS Sonoma
+AST00028,MKT-SRV-0106,Server,Chris,Marketing,High,0.75,CentOS 7
+AST00029,SAL-DB-0077,Database,Stephen,Sales,Medium,0.5,Oracle Linux
+AST00030,HR-SRV-0099,Server,Joshua,HR,High,0.75,Windows Server 2022
+AST00031,IT-PC-0008,Workstation,Scott,IT,Low,0.25,Ubuntu Linux
+AST00032,FIN-SRV-0030,Server,Javier,Finance,High,0.75,CentOS 7
+AST00033,IT-DB-0069,Database,Jessica,IT,Low,0.25,Windows Server 2022
+AST00034,LEG-PRT-0074,Printer,Jessica,Legal,Low,0.25,Embedded Firmware
+AST00035,MKT-PC-0110,Workstation,Samantha,Marketing,Medium,0.5,Windows 11
+AST00036,OPS-SW-0039,Switch,Taylor,Operations,Medium,0.5,Arista EOS
+AST00037,MKT-PRT-0058,Printer,Thomas,Marketing,Medium,0.5,Embedded Firmware
+AST00038,ENG-LAP-0004,Laptop,Amanda,Engineering,Medium,0.5,macOS Ventura
+AST00039,FIN-FW-0060,Firewall,Pamela,Finance,High,0.75,Cisco ASA OS
+AST00040,IT-PRT-0080,Printer,Kevin,IT,High,0.75,Embedded Firmware
+AST00041,HR-MOB-0059,Mobile Device,Kristin,HR,Low,0.25,Android 14
+AST00042,HR-FW-0001,Firewall,Jamie,HR,Low,0.25,Cisco ASA OS
+AST00043,SAL-PRT-0110,Printer,Karen,Sales,Medium,0.5,Embedded Firmware
+AST00044,LEG-FW-0018,Firewall,Austin,Legal,Low,0.25,PAN-OS
+AST00045,MKT-SRV-0117,Server,Rebecca,Marketing,Low,0.25,CentOS 7
+AST00046,IT-IOT-0001,IoT Device,Brenda,IT,Medium,0.5,Embedded Firmware
+AST00047,SAL-MOB-0079,Mobile Device,Tara,Sales,Medium,0.5,Android 14
+AST00048,IT-LAP-0056,Laptop,Robert,IT,Critical,1.0,macOS Ventura
+AST00049,ENG-FW-0027,Firewall,David,Engineering,Medium,0.5,Cisco ASA OS
+AST00050,IT-SRV-0036,Server,Ashley,IT,Low,0.25,Windows Server 2022
+AST00051,MKT-LAP-0050,Laptop,Ricardo,Marketing,Medium,0.5,Windows 11
+AST00052,IT-PC-0095,Workstation,Shannon,IT,Medium,0.5,Windows 11
+AST00053,SAL-SRV-0066,Server,Michael,Sales,Medium,0.5,Windows Server 2019
+AST00054,LEG-DB-0104,Database,Lawrence,Legal,Low,0.25,Oracle Linux
+AST00055,HR-MOB-0030,Mobile Device,Jeffrey,HR,Critical,1.0,iOS 17
+AST00056,OPS-FW-0102,Firewall,Angela,Operations,High,0.75,Cisco ASA OS
+AST00057,HR-SW-0039,Switch,Thomas,HR,Medium,0.5,Arista EOS
+AST00058,OPS-MOB-0140,Mobile Device,Jennifer,Operations,Low,0.25,iOS 17
+AST00059,FIN-SW-0042,Switch,Brian,Finance,High,0.75,Arista EOS
+AST00060,ENG-SW-0034,Switch,Katherine,Engineering,Critical,1.0,Cisco IOS
+AST00061,SAL-SW-0016,Switch,Heather,Sales,Medium,0.5,Arista EOS
+AST00062,LEG-DB-0098,Database,Jacob,Legal,Medium,0.5,Windows Server 2022
+AST00063,IT-RTR-0084,Router,Sheila,IT,Low,0.25,Cisco IOS
+AST00064,FIN-DB-0002,Database,Robert,Finance,High,0.75,Oracle Linux
+AST00065,IT-SW-0016,Switch,Patrick,IT,Low,0.25,Arista EOS
+AST00066,MKT-SRV-0103,Server,Jordan,Marketing,Low,0.25,Windows Server 2022
+AST00067,HR-LAP-0044,Laptop,Guy,HR,Medium,0.5,Windows 11
+AST00068,IT-PRT-0112,Printer,Victoria,IT,Low,0.25,Embedded Firmware
+AST00069,LEG-MOB-0074,Mobile Device,Jamie,Legal,Medium,0.5,iOS 17
+AST00070,OPS-DB-0041,Database,Richard,Operations,Medium,0.5,Windows Server 2022
+AST00071,ENG-FW-0077,Firewall,Kathleen,Engineering,Low,0.25,PAN-OS
+AST00072,ENG-FW-0014,Firewall,Joanna,Engineering,Medium,0.5,Cisco ASA OS
+AST00073,HR-RTR-0038,Router,Donald,HR,Medium,0.5,Cisco IOS
+AST00074,OPS-PRT-0040,Printer,Jay,Operations,Medium,0.5,Embedded Firmware
+AST00075,MKT-RTR-0041,Router,Jill,Marketing,High,0.75,JunOS
+AST00076,FIN-IOT-0105,IoT Device,Jennifer,Finance,Low,0.25,Embedded Firmware
+AST00077,HR-SW-0012,Switch,Brandi,HR,Medium,0.5,Cisco IOS
+AST00078,IT-PC-0083,Workstation,Kristina,IT,Medium,0.5,Windows 10
+AST00079,OPS-SRV-0095,Server,Matthew,Operations,Low,0.25,Ubuntu Server 22.04
+AST00080,IT-PRT-0024,Printer,Amanda,IT,Low,0.25,Embedded Firmware
+AST00081,FIN-FW-0116,Firewall,Ryan,Finance,Medium,0.5,Cisco ASA OS
+AST00082,HR-LAP-0014,Laptop,Jeffery,HR,High,0.75,macOS Ventura
+AST00083,HR-PC-0063,Workstation,Lisa,HR,High,0.75,Ubuntu Linux
+AST00084,IT-FW-0057,Firewall,Judith,IT,Low,0.25,Cisco ASA OS
+AST00085,LEG-DB-0074,Database,Curtis,Legal,Medium,0.5,Ubuntu Server 22.04
+AST00086,SAL-IOT-0036,IoT Device,Kayla,Sales,Low,0.25,Embedded Firmware
+AST00087,MKT-PRT-0037,Printer,Kristin,Marketing,Low,0.25,Embedded Firmware
+AST00088,IT-SRV-0043,Server,Rebekah,IT,High,0.75,Windows Server 2022
+AST00089,FIN-FW-0115,Firewall,Wendy,Finance,Low,0.25,PAN-OS
+AST00090,OPS-SW-0098,Switch,Melissa,Operations,Medium,0.5,Arista EOS
+AST00091,FIN-SW-0108,Switch,Taylor,Finance,Critical,1.0,Arista EOS
+AST00092,IT-SRV-0108,Server,Alexandra,IT,High,0.75,Ubuntu Server 22.04
+AST00093,HR-IOT-0108,IoT Device,Brett,HR,Medium,0.5,Embedded Firmware
+AST00094,OPS-LAP-0013,Laptop,Julia,Operations,Medium,0.5,macOS Ventura
+AST00095,LEG-SRV-0037,Server,Brian,Legal,Critical,1.0,Windows Server 2019
+AST00096,OPS-PRT-0050,Printer,Lynn,Operations,High,0.75,Embedded Firmware
+AST00097,SAL-PC-0101,Workstation,Michael,Sales,Medium,0.5,Windows 11
+AST00098,MKT-MOB-0096,Mobile Device,Scott,Marketing,Low,0.25,Android 14
+AST00099,SAL-IOT-0085,IoT Device,Adam,Sales,Low,0.25,Embedded Firmware
+AST00100,HR-MOB-0077,Mobile Device,Aaron,HR,Medium,0.5,Android 14
+AST00101,HR-LAP-0010,Laptop,Robert,HR,Low,0.25,macOS Sonoma
+AST00102,LEG-SRV-0060,Server,Amy,Legal,Medium,0.5,Windows Server 2022
+AST00103,LEG-PC-0061,Workstation,Scott,Legal,Critical,1.0,Windows 11
+AST00104,OPS-FW-0105,Firewall,Sean,Operations,Low,0.25,FortiOS
+AST00105,IT-SRV-0093,Server,Kaylee,IT,Medium,0.5,Windows Server 2022
+AST00106,FIN-SRV-0022,Server,Robert,Finance,Medium,0.5,Windows Server 2022
+AST00107,LEG-SW-0030,Switch,Donald,Legal,High,0.75,Arista EOS
+AST00108,FIN-IOT-0098,IoT Device,Juan,Finance,Critical,1.0,Embedded Firmware
+AST00109,LEG-MOB-0110,Mobile Device,John,Legal,Low,0.25,iOS 17
+AST00110,IT-FW-0031,Firewall,Courtney,IT,Medium,0.5,Cisco ASA OS
+AST00111,FIN-LAP-0070,Laptop,Jeff,Finance,High,0.75,Windows 10
+AST00112,MKT-SRV-0086,Server,Taylor,Marketing,Low,0.25,CentOS 7
+AST00113,FIN-PC-0053,Workstation,Hannah,Finance,Critical,1.0,Windows 10
+AST00114,OPS-FW-0025,Firewall,Kevin,Operations,Low,0.25,PAN-OS
+AST00115,HR-SW-0108,Switch,Ryan,HR,Medium,0.5,Cisco IOS
+AST00116,LEG-RTR-0052,Router,James,Legal,High,0.75,JunOS
+AST00117,HR-FW-0115,Firewall,Sandy,HR,High,0.75,FortiOS
+AST00118,SAL-PC-0008,Workstation,Lisa,Sales,Low,0.25,Ubuntu Linux
+AST00119,MKT-PC-0033,Workstation,Jessica,Marketing,Medium,0.5,Windows 11
+AST00120,IT-SRV-0061,Server,Kristin,IT,Low,0.25,CentOS 7
+AST00121,HR-LAP-0102,Laptop,Cynthia,HR,High,0.75,macOS Sonoma
+AST00122,LEG-FW-0048,Firewall,Robert,Legal,Low,0.25,FortiOS
+AST00123,IT-FW-0105,Firewall,Jeanette,IT,Medium,0.5,PAN-OS
+AST00124,MKT-MOB-0071,Mobile Device,Rodney,Marketing,High,0.75,iOS 17
+AST00125,ENG-PRT-0041,Printer,Alexis,Engineering,High,0.75,Embedded Firmware
+AST00126,OPS-RTR-0059,Router,James,Operations,Critical,1.0,Cisco IOS
+AST00127,MKT-SRV-0046,Server,Latasha,Marketing,Low,0.25,Ubuntu Server 22.04
+AST00128,FIN-RTR-0049,Router,Jeffrey,Finance,High,0.75,JunOS
+AST00129,ENG-SW-0114,Switch,Tanya,Engineering,Low,0.25,Arista EOS
+AST00130,LEG-PRT-0014,Printer,Tamara,Legal,Low,0.25,Embedded Firmware
+AST00131,SAL-FW-0076,Firewall,Michael,Sales,Medium,0.5,FortiOS
+AST00132,IT-DB-0046,Database,Alicia,IT,Medium,0.5,Windows Server 2022
+AST00133,IT-LAP-0011,Laptop,Zachary,IT,Medium,0.5,macOS Ventura
+AST00134,SAL-LAP-0063,Laptop,Patricia,Sales,Medium,0.5,macOS Ventura
+AST00135,MKT-PRT-0094,Printer,Thomas,Marketing,Medium,0.5,Embedded Firmware
+AST00136,IT-PC-0108,Workstation,Sara,IT,Medium,0.5,Ubuntu Linux
+AST00137,HR-LAP-0001,Laptop,Michael,HR,High,0.75,Windows 10
+AST00138,SAL-IOT-0071,IoT Device,Mark,Sales,Critical,1.0,Embedded Firmware
+AST00139,HR-IOT-0019,IoT Device,Priscilla,HR,High,0.75,Embedded Firmware
+AST00140,OPS-LAP-0109,Laptop,Brendan,Operations,Low,0.25,Windows 11
+AST00141,IT-MOB-0004,Mobile Device,Lauren,IT,High,0.75,iOS 17
+AST00142,LEG-RTR-0096,Router,James,Legal,Medium,0.5,Cisco IOS
+AST00143,ENG-RTR-0078,Router,Todd,Engineering,Medium,0.5,Cisco IOS
+AST00144,ENG-MOB-0001,Mobile Device,Bryan,Engineering,Medium,0.5,Android 14
+AST00145,OPS-PC-0105,Workstation,Evelyn,Operations,Low,0.25,Windows 11
+AST00146,MKT-RTR-0089,Router,Dakota,Marketing,Medium,0.5,JunOS
+AST00147,ENG-PRT-0074,Printer,Richard,Engineering,Medium,0.5,Embedded Firmware
+AST00148,FIN-IOT-0018,IoT Device,Christina,Finance,Low,0.25,Embedded Firmware
+AST00149,ENG-PRT-0018,Printer,Erin,Engineering,Low,0.25,Embedded Firmware
+AST00150,LEG-LAP-0062,Laptop,Erica,Legal,Low,0.25,Windows 10
+AST00151,MKT-MOB-0072,Mobile Device,Kenneth,Marketing,Medium,0.5,Android 14
+AST00152,ENG-SW-0079,Switch,Catherine,Engineering,Medium,0.5,Cisco IOS
+AST00153,OPS-DB-0054,Database,Marcus,Operations,Medium,0.5,Ubuntu Server 22.04
+AST00154,IT-LAP-0124,Laptop,Kelly,IT,Medium,0.5,Windows 11
+AST00155,LEG-PC-0068,Workstation,Kristen,Legal,Low,0.25,Windows 11
+AST00156,OPS-MOB-0099,Mobile Device,Charles,Operations,High,0.75,Android 14
+AST00157,ENG-IOT-0052,IoT Device,James,Engineering,Medium,0.5,Embedded Firmware
+AST00158,LEG-MOB-0001,Mobile Device,Nathan,Legal,Medium,0.5,Android 14
+AST00159,SAL-LAP-0060,Laptop,David,Sales,Low,0.25,Windows 10
+AST00160,IT-IOT-0046,IoT Device,Anthony,IT,Low,0.25,Embedded Firmware
+AST00161,IT-FW-0001,Firewall,Bonnie,IT,Low,0.25,FortiOS
+AST00162,HR-PRT-0041,Printer,Devin,HR,High,0.75,Embedded Firmware
+AST00163,IT-SW-0104,Switch,Heather,IT,Low,0.25,Cisco IOS
+AST00164,MKT-SRV-0012,Server,Mark,Marketing,Medium,0.5,Windows Server 2019
+AST00165,ENG-LAP-0027,Laptop,Joanna,Engineering,Low,0.25,macOS Sonoma
+AST00166,IT-MOB-0003,Mobile Device,Adam,IT,Medium,0.5,Android 14
+AST00167,IT-IOT-0121,IoT Device,Hayley,IT,Medium,0.5,Embedded Firmware
+AST00168,OPS-IOT-0104,IoT Device,Jill,Operations,High,0.75,Embedded Firmware
+AST00169,FIN-IOT-0100,IoT Device,Randall,Finance,Medium,0.5,Embedded Firmware
+AST00170,OPS-PC-0023,Workstation,Lisa,Operations,High,0.75,Windows 11
+AST00171,MKT-FW-0011,Firewall,Christopher,Marketing,High,0.75,FortiOS
+AST00172,SAL-PC-0102,Workstation,Mary,Sales,Medium,0.5,Ubuntu Linux
+AST00173,FIN-DB-0078,Database,David,Finance,High,0.75,Ubuntu Server 22.04
+AST00174,MKT-MOB-0084,Mobile Device,Laura,Marketing,Low,0.25,iOS 17
+AST00175,IT-SRV-0003,Server,Joseph,IT,Medium,0.5,Windows Server 2022
+AST00176,MKT-LAP-0002,Laptop,Nicole,Marketing,Medium,0.5,Windows 11
+AST00177,ENG-RTR-0030,Router,Nathan,Engineering,Medium,0.5,JunOS
+AST00178,HR-DB-0101,Database,Anthony,HR,Low,0.25,Ubuntu Server 22.04
+AST00179,ENG-MOB-0062,Mobile Device,Rachel,Engineering,Medium,0.5,Android 14
+AST00180,SAL-SW-0077,Switch,Sandra,Sales,Low,0.25,Cisco IOS
+AST00181,IT-FW-0108,Firewall,Emily,IT,Critical,1.0,PAN-OS
+AST00182,MKT-SRV-0041,Server,Nathan,Marketing,Medium,0.5,Ubuntu Server 22.04
+AST00183,FIN-SW-0085,Switch,Walter,Finance,Medium,0.5,Arista EOS
+AST00184,ENG-PRT-0054,Printer,Randy,Engineering,Low,0.25,Embedded Firmware
+AST00185,FIN-MOB-0077,Mobile Device,Deanna,Finance,Low,0.25,Android 14
+AST00186,IT-PRT-0097,Printer,Autumn,IT,High,0.75,Embedded Firmware
+AST00187,LEG-SW-0013,Switch,Alexandria,Legal,Medium,0.5,Cisco IOS
+AST00188,HR-SW-0091,Switch,Daniel,HR,High,0.75,Cisco IOS
+AST00189,FIN-SRV-0025,Server,Rebecca,Finance,High,0.75,Ubuntu Server 22.04
+AST00190,SAL-FW-0015,Firewall,Kathleen,Sales,Medium,0.5,Cisco ASA OS
+AST00191,MKT-SW-0106,Switch,Jonathon,Marketing,Medium,0.5,Cisco IOS
+AST00192,IT-SW-0041,Switch,Michael,IT,Low,0.25,Arista EOS
+AST00193,LEG-DB-0050,Database,Kristi,Legal,High,0.75,Oracle Linux
+AST00194,IT-PRT-0037,Printer,Carla,IT,High,0.75,Embedded Firmware
+AST00195,SAL-RTR-0101,Router,Susan,Sales,Low,0.25,Cisco IOS
+AST00196,LEG-LAP-0060,Laptop,Melinda,Legal,Low,0.25,macOS Ventura
+AST00197,SAL-PRT-0015,Printer,Kristin,Sales,Medium,0.5,Embedded Firmware
+AST00198,MKT-RTR-0044,Router,Robert,Marketing,High,0.75,JunOS
+AST00199,MKT-MOB-0010,Mobile Device,Robert,Marketing,High,0.75,Android 14
+AST00200,HR-DB-0042,Database,Michael,HR,Medium,0.5,Ubuntu Server 22.04
+AST00201,IT-PRT-0063,Printer,Michael,IT,Medium,0.5,Embedded Firmware
+AST00202,OPS-PC-0125,Workstation,Ryan,Operations,Low,0.25,Windows 11
+AST00203,ENG-SRV-0005,Server,Thomas,Engineering,Low,0.25,Windows Server 2019
+AST00204,MKT-LAP-0052,Laptop,Anna,Marketing,Medium,0.5,macOS Sonoma
+AST00205,HR-SRV-0103,Server,Erin,HR,Low,0.25,Ubuntu Server 22.04
+AST00206,SAL-PC-0003,Workstation,Jamie,Sales,Critical,1.0,Windows 11
+AST00207,FIN-DB-0089,Database,Johnny,Finance,Medium,0.5,Ubuntu Server 22.04
+AST00208,ENG-RTR-0007,Router,Andre,Engineering,Low,0.25,Cisco IOS
+AST00209,LEG-LAP-0101,Laptop,Erin,Legal,High,0.75,macOS Sonoma
+AST00210,ENG-FW-0005,Firewall,Marissa,Engineering,Low,0.25,Cisco ASA OS
+AST00211,IT-SW-0044,Switch,Jamie,IT,High,0.75,Arista EOS
+AST00212,HR-LAP-0111,Laptop,Kelly,HR,Medium,0.5,Windows 10
+AST00213,LEG-PC-0100,Workstation,Donald,Legal,High,0.75,Windows 10
+AST00214,SAL-DB-0124,Database,Anthony,Sales,High,0.75,Ubuntu Server 22.04
+AST00215,ENG-DB-0071,Database,Donald,Engineering,High,0.75,Windows Server 2022
+AST00216,ENG-MOB-0112,Mobile Device,Alexander,Engineering,Medium,0.5,Android 14
+AST00217,MKT-SW-0073,Switch,John,Marketing,Medium,0.5,Arista EOS
+AST00218,HR-DB-0076,Database,Laura,HR,Low,0.25,Windows Server 2022
+AST00219,MKT-PRT-0087,Printer,Stephanie,Marketing,Low,0.25,Embedded Firmware
+AST00220,OPS-PRT-0038,Printer,Monica,Operations,Medium,0.5,Embedded Firmware
+AST00221,ENG-PC-0099,Workstation,Debra,Engineering,Low,0.25,Windows 11
+AST00222,LEG-PRT-0087,Printer,Jesse,Legal,Low,0.25,Embedded Firmware
+AST00223,FIN-RTR-0088,Router,Cindy,Finance,Critical,1.0,JunOS
+AST00224,FIN-PRT-0015,Printer,Laura,Finance,High,0.75,Embedded Firmware
+AST00225,HR-LAP-0130,Laptop,Michael,HR,Low,0.25,Windows 10
+AST00226,SAL-SRV-0053,Server,Fernando,Sales,Medium,0.5,CentOS 7
+AST00227,LEG-PRT-0113,Printer,Christina,Legal,Medium,0.5,Embedded Firmware
+AST00228,SAL-IOT-0083,IoT Device,Michael,Sales,Critical,1.0,Embedded Firmware
+AST00229,IT-SRV-0053,Server,Tanya,IT,Medium,0.5,Windows Server 2022
+AST00230,FIN-PRT-0061,Printer,Aaron,Finance,Low,0.25,Embedded Firmware
+AST00231,FIN-FW-0016,Firewall,Jenny,Finance,High,0.75,Cisco ASA OS
+AST00232,FIN-MOB-0007,Mobile Device,Teresa,Finance,Medium,0.5,iOS 17
+AST00233,OPS-IOT-0065,IoT Device,Bryan,Operations,Medium,0.5,Embedded Firmware
+AST00234,HR-RTR-0079,Router,Sarah,HR,Medium,0.5,Cisco IOS
+AST00235,SAL-DB-0049,Database,John,Sales,Medium,0.5,Windows Server 2022
+AST00236,SAL-SRV-0068,Server,Brandy,Sales,Low,0.25,Ubuntu Server 22.04
+AST00237,LEG-SW-0021,Switch,Alexander,Legal,Low,0.25,Cisco IOS
+AST00238,ENG-FW-0041,Firewall,Adam,Engineering,Medium,0.5,FortiOS
+AST00239,HR-FW-0097,Firewall,Wanda,HR,Critical,1.0,Cisco ASA OS
+AST00240,HR-IOT-0104,IoT Device,Angelica,HR,High,0.75,Embedded Firmware
+AST00241,SAL-MOB-0122,Mobile Device,Elizabeth,Sales,Medium,0.5,Android 14
+AST00242,FIN-MOB-0049,Mobile Device,Christopher,Finance,High,0.75,iOS 17
+AST00243,LEG-PRT-0001,Printer,Gary,Legal,Medium,0.5,Embedded Firmware
+AST00244,OPS-FW-0066,Firewall,Julie,Operations,Medium,0.5,Cisco ASA OS
+AST00245,FIN-FW-0025,Firewall,Kimberly,Finance,High,0.75,FortiOS
+AST00246,IT-SRV-0019,Server,Tina,IT,High,0.75,CentOS 7
+AST00247,IT-LAP-0094,Laptop,Patrick,IT,High,0.75,macOS Sonoma
+AST00248,FIN-PC-0041,Workstation,Heather,Finance,Medium,0.5,Windows 10
+AST00249,OPS-MOB-0036,Mobile Device,Julie,Operations,High,0.75,iOS 17
+AST00250,OPS-IOT-0048,IoT Device,Ryan,Operations,Medium,0.5,Embedded Firmware
+AST00251,OPS-SRV-0086,Server,Paul,Operations,High,0.75,CentOS 7
+AST00252,SAL-RTR-0003,Router,Lori,Sales,High,0.75,JunOS
+AST00253,SAL-MOB-0150,Mobile Device,Rachel,Sales,Low,0.25,Android 14
+AST00254,FIN-FW-0085,Firewall,Sarah,Finance,High,0.75,FortiOS
+AST00255,FIN-SRV-0045,Server,Stephen,Finance,Low,0.25,Windows Server 2022
+AST00256,IT-PC-0087,Workstation,Dakota,IT,High,0.75,Ubuntu Linux
+AST00257,HR-SRV-0045,Server,Scott,HR,Low,0.25,Windows Server 2019
+AST00258,MKT-LAP-0114,Laptop,Paige,Marketing,Low,0.25,Windows 10
+AST00259,MKT-RTR-0052,Router,Amanda,Marketing,High,0.75,JunOS
+AST00260,LEG-FW-0037,Firewall,Donald,Legal,Critical,1.0,FortiOS
+AST00261,MKT-MOB-0056,Mobile Device,Richard,Marketing,Low,0.25,Android 14
+AST00262,LEG-SW-0093,Switch,Brenda,Legal,Low,0.25,Cisco IOS
+AST00263,HR-LAP-0124,Laptop,Natalie,HR,Low,0.25,macOS Ventura
+AST00264,ENG-SW-0029,Switch,Ryan,Engineering,Medium,0.5,Arista EOS
+AST00265,SAL-RTR-0022,Router,Alexandra,Sales,Low,0.25,Cisco IOS
+AST00266,MKT-PRT-0060,Printer,Christopher,Marketing,High,0.75,Embedded Firmware
+AST00267,SAL-SRV-0114,Server,Eileen,Sales,Low,0.25,CentOS 7
+AST00268,SAL-LAP-0050,Laptop,Christopher,Sales,High,0.75,macOS Sonoma
+AST00269,OPS-PC-0042,Workstation,Edward,Operations,Medium,0.5,Windows 10
+AST00270,ENG-DB-0017,Database,Elizabeth,Engineering,Medium,0.5,Oracle Linux
+AST00271,LEG-MOB-0049,Mobile Device,Julie,Legal,Medium,0.5,iOS 17
+AST00272,SAL-FW-0117,Firewall,Rachel,Sales,Critical,1.0,Cisco ASA OS
+AST00273,FIN-PRT-0114,Printer,Lisa,Finance,Low,0.25,Embedded Firmware
+AST00274,MKT-SW-0107,Switch,Michael,Marketing,High,0.75,Arista EOS
+AST00275,OPS-DB-0008,Database,Russell,Operations,Medium,0.5,Ubuntu Server 22.04
+AST00276,OPS-MOB-0086,Mobile Device,Megan,Operations,Medium,0.5,iOS 17
+AST00277,OPS-RTR-0099,Router,James,Operations,Low,0.25,Cisco IOS
+AST00278,LEG-DB-0019,Database,Sharon,Legal,Low,0.25,Oracle Linux
+AST00279,SAL-PRT-0097,Printer,Robert,Sales,High,0.75,Embedded Firmware
+AST00280,FIN-PRT-0059,Printer,Jessica,Finance,Low,0.25,Embedded Firmware
+AST00281,HR-PRT-0078,Printer,Adam,HR,Medium,0.5,Embedded Firmware
+AST00282,OPS-MOB-0001,Mobile Device,Christopher,Operations,Medium,0.5,iOS 17
+AST00283,FIN-RTR-0092,Router,James,Finance,Low,0.25,Cisco IOS
+AST00284,HR-FW-0149,Firewall,Gregory,HR,Medium,0.5,FortiOS
+AST00285,LEG-FW-0111,Firewall,Corey,Legal,Medium,0.5,Cisco ASA OS
+AST00286,HR-LAP-0097,Laptop,Melissa,HR,Low,0.25,Windows 11
+AST00287,MKT-LAP-0048,Laptop,Aaron,Marketing,High,0.75,Windows 10
+AST00288,MKT-MOB-0030,Mobile Device,Kevin,Marketing,High,0.75,iOS 17
+AST00289,FIN-LAP-0039,Laptop,Carla,Finance,Medium,0.5,Windows 11
+AST00290,LEG-RTR-0061,Router,Allison,Legal,Medium,0.5,Cisco IOS
+AST00291,HR-RTR-0061,Router,John,HR,Medium,0.5,JunOS
+AST00292,MKT-PRT-0078,Printer,Valerie,Marketing,Medium,0.5,Embedded Firmware
+AST00293,ENG-DB-0098,Database,Carl,Engineering,High,0.75,Oracle Linux
+AST00294,LEG-LAP-0031,Laptop,Tommy,Legal,Low,0.25,macOS Ventura
+AST00295,FIN-IOT-0099,IoT Device,Mary,Finance,Medium,0.5,Embedded Firmware
+AST00296,IT-MOB-0082,Mobile Device,Ronald,IT,Critical,1.0,iOS 17
+AST00297,MKT-FW-0093,Firewall,Deanna,Marketing,Medium,0.5,Cisco ASA OS
+AST00298,SAL-SW-0080,Switch,Timothy,Sales,Low,0.25,Arista EOS
+AST00299,SAL-SW-0025,Switch,Taylor,Sales,Medium,0.5,Cisco IOS
+AST00300,OPS-PC-0100,Workstation,Kelsey,Operations,Medium,0.5,Windows 11
+AST00301,MKT-FW-0085,Firewall,Elizabeth,Marketing,High,0.75,PAN-OS
+AST00302,IT-DB-0023,Database,Philip,IT,Low,0.25,Ubuntu Server 22.04
+AST00303,LEG-MOB-0078,Mobile Device,Desiree,Legal,High,0.75,iOS 17
+AST00304,MKT-DB-0042,Database,Timothy,Marketing,Low,0.25,Oracle Linux
+AST00305,LEG-MOB-0002,Mobile Device,Mike,Legal,Medium,0.5,iOS 17
+AST00306,FIN-PC-0082,Workstation,Daniel,Finance,Low,0.25,Windows 10
+AST00307,HR-PC-0106,Workstation,Amy,HR,Medium,0.5,Windows 10
+AST00308,FIN-DB-0069,Database,Robert,Finance,Low,0.25,Ubuntu Server 22.04
+AST00309,MKT-LAP-0011,Laptop,Cody,Marketing,Low,0.25,Windows 10
+AST00310,HR-MOB-0060,Mobile Device,Samuel,HR,Medium,0.5,Android 14
+AST00311,OPS-PRT-0116,Printer,Mackenzie,Operations,High,0.75,Embedded Firmware
+AST00312,SAL-MOB-0129,Mobile Device,Christopher,Sales,Low,0.25,iOS 17
+AST00313,MKT-PRT-0099,Printer,Scott,Marketing,Medium,0.5,Embedded Firmware
+AST00314,IT-DB-0094,Database,Lisa,IT,Medium,0.5,Oracle Linux
+AST00315,IT-DB-0012,Database,Matthew,IT,Low,0.25,Ubuntu Server 22.04
+AST00316,LEG-FW-0085,Firewall,Melissa,Legal,Medium,0.5,PAN-OS
+AST00317,MKT-SW-0058,Switch,Crystal,Marketing,Low,0.25,Cisco IOS
+AST00318,LEG-DB-0082,Database,Ryan,Legal,Low,0.25,Ubuntu Server 22.04
+AST00319,ENG-SRV-0110,Server,Alec,Engineering,Low,0.25,Windows Server 2019
+AST00320,HR-RTR-0065,Router,Joshua,HR,Medium,0.5,JunOS
+AST00321,ENG-DB-0091,Database,Edward,Engineering,Medium,0.5,Windows Server 2022
+AST00322,HR-LAP-0063,Laptop,Pamela,HR,Low,0.25,macOS Sonoma
+AST00323,LEG-DB-0075,Database,Sean,Legal,High,0.75,Ubuntu Server 22.04
+AST00324,IT-IOT-0104,IoT Device,Jennifer,IT,High,0.75,Embedded Firmware
+AST00325,ENG-DB-0079,Database,Kim,Engineering,High,0.75,Windows Server 2022
+AST00326,IT-MOB-0088,Mobile Device,Robert,IT,Medium,0.5,Android 14
+AST00327,SAL-SRV-0051,Server,Shawn,Sales,Critical,1.0,Windows Server 2022
+AST00328,LEG-SW-0099,Switch,Stacey,Legal,Medium,0.5,Cisco IOS
+AST00329,LEG-MOB-0090,Mobile Device,Matthew,Legal,High,0.75,Android 14
+AST00330,FIN-SW-0070,Switch,Michael,Finance,High,0.75,Arista EOS
+AST00331,IT-PC-0025,Workstation,Sierra,IT,Critical,1.0,Windows 10
+AST00332,ENG-PC-0059,Workstation,Denise,Engineering,High,0.75,Windows 10
+AST00333,OPS-PC-0016,Workstation,Melissa,Operations,Critical,1.0,Windows 11
+AST00334,FIN-DB-0023,Database,Amy,Finance,Low,0.25,Oracle Linux
+AST00335,ENG-MOB-0122,Mobile Device,Antonio,Engineering,High,0.75,iOS 17
+AST00336,LEG-SW-0062,Switch,Richard,Legal,Low,0.25,Cisco IOS
+AST00337,LEG-SW-0059,Switch,Christopher,Legal,Medium,0.5,Cisco IOS
+AST00338,SAL-SRV-0100,Server,Juan,Sales,High,0.75,Windows Server 2019
+AST00339,SAL-DB-0073,Database,Noah,Sales,Medium,0.5,Ubuntu Server 22.04
+AST00340,HR-RTR-0052,Router,Connor,HR,Low,0.25,JunOS
+AST00341,OPS-MOB-0077,Mobile Device,John,Operations,Medium,0.5,iOS 17
+AST00342,MKT-DB-0095,Database,Daniel,Marketing,Medium,0.5,Oracle Linux
+AST00343,ENG-RTR-0049,Router,Jessica,Engineering,High,0.75,JunOS
+AST00344,IT-SRV-0102,Server,Daniel,IT,High,0.75,CentOS 7
+AST00345,LEG-RTR-0098,Router,James,Legal,Low,0.25,JunOS
+AST00346,LEG-PRT-0018,Printer,Christopher,Legal,Low,0.25,Embedded Firmware
+AST00347,MKT-IOT-0046,IoT Device,Paul,Marketing,High,0.75,Embedded Firmware
+AST00348,FIN-SW-0118,Switch,Lisa,Finance,Medium,0.5,Arista EOS
+AST00349,LEG-SW-0089,Switch,Amy,Legal,High,0.75,Cisco IOS
+AST00350,HR-SW-0074,Switch,Nicholas,HR,High,0.75,Arista EOS
+AST00351,IT-DB-0108,Database,Debra,IT,Medium,0.5,Oracle Linux
+AST00352,ENG-FW-0051,Firewall,Derrick,Engineering,Critical,1.0,PAN-OS
+AST00353,IT-RTR-0004,Router,Phillip,IT,High,0.75,Cisco IOS
+AST00354,OPS-MOB-0019,Mobile Device,Jonathan,Operations,Medium,0.5,Android 14
+AST00355,HR-SRV-0096,Server,Victor,HR,High,0.75,CentOS 7
+AST00356,LEG-SW-0066,Switch,Ashley,Legal,Low,0.25,Arista EOS
+AST00357,ENG-IOT-0056,IoT Device,Jason,Engineering,High,0.75,Embedded Firmware
+AST00358,MKT-SW-0045,Switch,Eric,Marketing,Low,0.25,Arista EOS
+AST00359,FIN-SRV-0115,Server,Nina,Finance,Medium,0.5,CentOS 7
+AST00360,IT-SRV-0035,Server,Amanda,IT,High,0.75,CentOS 7
+AST00361,OPS-IOT-0035,IoT Device,Michael,Operations,Low,0.25,Embedded Firmware
+AST00362,LEG-FW-0066,Firewall,Maria,Legal,Critical,1.0,PAN-OS
+AST00363,LEG-DB-0062,Database,David,Legal,High,0.75,Windows Server 2022
+AST00364,ENG-MOB-0105,Mobile Device,Barry,Engineering,Medium,0.5,Android 14
+AST00365,HR-PC-0064,Workstation,Summer,HR,Medium,0.5,Windows 11
+AST00366,ENG-RTR-0089,Router,Brandi,Engineering,Medium,0.5,Cisco IOS
+AST00367,OPS-SRV-0079,Server,Jason,Operations,High,0.75,Ubuntu Server 22.04
+AST00368,SAL-RTR-0113,Router,Pamela,Sales,High,0.75,Cisco IOS
+AST00369,LEG-MOB-0059,Mobile Device,Gregory,Legal,Low,0.25,Android 14
+AST00370,FIN-PRT-0025,Printer,Richard,Finance,Medium,0.5,Embedded Firmware
+AST00371,IT-RTR-0027,Router,Christine,IT,Low,0.25,JunOS
+AST00372,IT-IOT-0091,IoT Device,Tammy,IT,Low,0.25,Embedded Firmware
+AST00373,IT-LAP-0047,Laptop,Edward,IT,High,0.75,macOS Sonoma
+AST00374,FIN-PC-0016,Workstation,Greg,Finance,Critical,1.0,Ubuntu Linux
+AST00375,OPS-FW-0039,Firewall,Beth,Operations,Medium,0.5,PAN-OS
+AST00376,LEG-PRT-0114,Printer,Trevor,Legal,Low,0.25,Embedded Firmware
+AST00377,OPS-MOB-0110,Mobile Device,David,Operations,High,0.75,iOS 17
+AST00378,ENG-FW-0050,Firewall,Bob,Engineering,Medium,0.5,Cisco ASA OS
+AST00379,ENG-FW-0012,Firewall,Trevor,Engineering,Critical,1.0,Cisco ASA OS
+AST00380,ENG-RTR-0016,Router,Jonathan,Engineering,Medium,0.5,JunOS
+AST00381,ENG-RTR-0071,Router,Sean,Engineering,Medium,0.5,JunOS
+AST00382,ENG-SRV-0095,Server,Jennifer,Engineering,Medium,0.5,Ubuntu Server 22.04
+AST00383,OPS-PC-0026,Workstation,Daniel,Operations,High,0.75,Ubuntu Linux
+AST00384,MKT-LAP-0045,Laptop,Caitlin,Marketing,Medium,0.5,Windows 11
+AST00385,IT-FW-0015,Firewall,Sherry,IT,Medium,0.5,PAN-OS
+AST00386,SAL-FW-0082,Firewall,Lindsay,Sales,Low,0.25,Cisco ASA OS
+AST00387,LEG-SW-0106,Switch,Julie,Legal,Medium,0.5,Cisco IOS
+AST00388,FIN-IOT-0048,IoT Device,Brian,Finance,Medium,0.5,Embedded Firmware
+AST00389,OPS-PRT-0058,Printer,Eric,Operations,Medium,0.5,Embedded Firmware
+AST00390,HR-FW-0060,Firewall,Regina,HR,Low,0.25,FortiOS
+AST00391,HR-PRT-0069,Printer,Daniel,HR,Medium,0.5,Embedded Firmware
+AST00392,MKT-SRV-0107,Server,Karla,Marketing,Low,0.25,Ubuntu Server 22.04
+AST00393,ENG-PC-0033,Workstation,Annette,Engineering,Low,0.25,Ubuntu Linux
+AST00394,HR-PRT-0029,Printer,Jonathan,HR,Critical,1.0,Embedded Firmware
+AST00395,IT-PRT-0067,Printer,Christopher,IT,Low,0.25,Embedded Firmware
+AST00396,MKT-DB-0070,Database,Joshua,Marketing,Critical,1.0,Oracle Linux
+AST00397,LEG-SRV-0073,Server,Stacy,Legal,Low,0.25,CentOS 7
+AST00398,OPS-LAP-0031,Laptop,Brenda,Operations,High,0.75,Windows 10
+AST00399,FIN-DB-0019,Database,Lucas,Finance,Low,0.25,Oracle Linux
+AST00400,IT-LAP-0001,Laptop,David,IT,Medium,0.5,macOS Ventura
+AST00401,FIN-PRT-0031,Printer,Phillip,Finance,Low,0.25,Embedded Firmware
+AST00402,ENG-PC-0091,Workstation,Aaron,Engineering,Medium,0.5,Windows 11
+AST00403,LEG-SRV-0100,Server,Robert,Legal,Critical,1.0,Ubuntu Server 22.04
+AST00404,IT-SW-0122,Switch,Allison,IT,Low,0.25,Arista EOS
+AST00405,OPS-MOB-0072,Mobile Device,Jeanette,Operations,High,0.75,iOS 17
+AST00406,FIN-FW-0018,Firewall,Claire,Finance,Low,0.25,Cisco ASA OS
+AST00407,HR-FW-0078,Firewall,Sandra,HR,High,0.75,PAN-OS
+AST00408,LEG-DB-0088,Database,Christopher,Legal,Medium,0.5,Oracle Linux
+AST00409,IT-LAP-0046,Laptop,Jeffrey,IT,Medium,0.5,macOS Ventura
+AST00410,SAL-PC-0002,Workstation,Kimberly,Sales,Low,0.25,Windows 10
+AST00411,HR-SW-0090,Switch,Jessica,HR,High,0.75,Arista EOS
+AST00412,SAL-FW-0053,Firewall,Brenda,Sales,Low,0.25,FortiOS
+AST00413,SAL-SW-0041,Switch,John,Sales,Medium,0.5,Arista EOS
+AST00414,ENG-RTR-0084,Router,Jennifer,Engineering,Medium,0.5,Cisco IOS
+AST00415,HR-SW-0124,Switch,Scott,HR,Medium,0.5,Cisco IOS
+AST00416,OPS-FW-0113,Firewall,Alicia,Operations,Medium,0.5,Cisco ASA OS
+AST00417,FIN-DB-0003,Database,April,Finance,Medium,0.5,Windows Server 2022
+AST00418,ENG-SW-0056,Switch,Edgar,Engineering,High,0.75,Cisco IOS
+AST00419,SAL-LAP-0102,Laptop,Patrick,Sales,Low,0.25,macOS Sonoma
+AST00420,SAL-FW-0111,Firewall,Joseph,Sales,Low,0.25,Cisco ASA OS
+AST00421,MKT-SRV-0079,Server,Raymond,Marketing,Low,0.25,Ubuntu Server 22.04
+AST00422,ENG-LAP-0019,Laptop,Nicholas,Engineering,High,0.75,macOS Ventura
+AST00423,HR-IOT-0046,IoT Device,Matthew,HR,Low,0.25,Embedded Firmware
+AST00424,HR-FW-0112,Firewall,Cody,HR,Medium,0.5,Cisco ASA OS
+AST00425,HR-DB-0109,Database,Matthew,HR,Low,0.25,Oracle Linux
+AST00426,HR-FW-0119,Firewall,Carly,HR,Medium,0.5,PAN-OS
+AST00427,OPS-FW-0098,Firewall,Angel,Operations,Low,0.25,FortiOS
+AST00428,OPS-FW-0014,Firewall,Julia,Operations,Medium,0.5,FortiOS
+AST00429,ENG-SW-0115,Switch,Alec,Engineering,Medium,0.5,Cisco IOS
+AST00430,OPS-SW-0117,Switch,Sean,Operations,Medium,0.5,Arista EOS
+AST00431,MKT-DB-0039,Database,Michele,Marketing,Medium,0.5,Ubuntu Server 22.04
+AST00432,ENG-SW-0064,Switch,Sue,Engineering,High,0.75,Arista EOS
+AST00433,FIN-LAP-0007,Laptop,James,Finance,Low,0.25,macOS Ventura
+AST00434,OPS-SW-0050,Switch,Toni,Operations,High,0.75,Cisco IOS
+AST00435,MKT-MOB-0101,Mobile Device,Karen,Marketing,Medium,0.5,iOS 17
+AST00436,LEG-IOT-0052,IoT Device,Douglas,Legal,Low,0.25,Embedded Firmware
+AST00437,HR-LAP-0085,Laptop,David,HR,Medium,0.5,Windows 11
+AST00438,FIN-MOB-0039,Mobile Device,Lauren,Finance,Low,0.25,Android 14
+AST00439,HR-IOT-0014,IoT Device,William,HR,High,0.75,Embedded Firmware
+AST00440,SAL-LAP-0064,Laptop,Courtney,Sales,Medium,0.5,Windows 11
+AST00441,IT-RTR-0066,Router,Bridget,IT,Critical,1.0,Cisco IOS
+AST00442,FIN-IOT-0073,IoT Device,Lance,Finance,Low,0.25,Embedded Firmware
+AST00443,SAL-PC-0108,Workstation,Joseph,Sales,Medium,0.5,Windows 11
+AST00444,MKT-IOT-0013,IoT Device,Laura,Marketing,Medium,0.5,Embedded Firmware
+AST00445,OPS-RTR-0006,Router,Chad,Operations,Low,0.25,Cisco IOS
+AST00446,IT-LAP-0084,Laptop,Erika,IT,High,0.75,macOS Ventura
+AST00447,OPS-LAP-0080,Laptop,Shirley,Operations,Critical,1.0,Windows 10
+AST00448,HR-DB-0060,Database,James,HR,High,0.75,Ubuntu Server 22.04
+AST00449,LEG-FW-0010,Firewall,Whitney,Legal,High,0.75,FortiOS
+AST00450,IT-FW-0052,Firewall,Rebecca,IT,Low,0.25,Cisco ASA OS
