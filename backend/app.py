@@ -5,6 +5,7 @@ from routes import events, stats, threats, assets, vulnerabilities
 from database.mongo import create_indexes
 
 from routes.debug import router as debug_router
+from routes.prediction_api import router as prediction_api_router
 
 app = FastAPI(
     title="Threat Dashboard API",
@@ -18,7 +19,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
     allow_credentials=True,
-    allow_methods=["GET"],
+    allow_methods=["*"],
     allow_headers=["*"],
 )
 
@@ -36,7 +37,7 @@ app.include_router(threats.router)
 app.include_router(assets.router)
 app.include_router(vulnerabilities.router)
 app.include_router(debug_router)
-
+app.include_router(prediction_api_router)
 
 @app.get("/health", tags=["Health"])
 def health_check():
