@@ -1,0 +1,10 @@
+[
+  "failed_login_attempts",
+  "cvss_score",
+  "malware_detected",
+  "severity_score",
+  "event_type_enc",
+  "protocol_enc",
+  "os_enc",
+  "department_enc"
+]
