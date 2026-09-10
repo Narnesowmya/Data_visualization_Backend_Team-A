@@ -8,6 +8,9 @@ from routes.debug import router as debug_router
 # Existing MongoDB/index setup
 from database.mongo import create_indexes
 
+# Existing team M3 prediction API
+from routes.prediction_api import router as prediction_api_router
+
 # M3 Task 10/11 routes
 from routes.risk_routes import router as risk_router
 from routes.incident_routes import router as incident_router
@@ -51,6 +54,8 @@ app.include_router(assets.router)
 app.include_router(vulnerabilities.router)
 app.include_router(debug_router)
 
+# Existing team M3 prediction API
+app.include_router(prediction_api_router)
 
 # M3 Task 10/11 routes
 app.include_router(risk_router, prefix="/api/v1")

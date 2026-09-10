@@ -1,0 +1,7 @@
+event_id,indicator_id,reason
+EVT00002,IOC00001,Ransomware Detected event associated with Ransomware IOC
+EVT00006,IOC00028,Brute Force event associated with Brute Force IOC
+EVT00012,IOC00022,SQL Injection Attempt associated with SQL Injection Campaign IOC
+EVT00024,IOC00023,Phishing Email event associated with Phishing IOC
+EVT00055,IOC00039,Malware Detection event associated with Malware IOC
+EVT00007,IOC00015,DDoS Attempt associated with DDoS IOC
